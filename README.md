@@ -2,7 +2,7 @@
 
 ## Setup
 
-Python project, create a virtual environment with `python -m venv venv`
+Python project, create a virtual environment with `python -m venv venv` in the terminal
 
 Next, install dependencies with 
 ```
