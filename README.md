@@ -9,4 +9,4 @@ Next, install dependencies with
 pip install -r requirements.txt
 ```
 
-Should be good!
+Should be good! In order to run the script, type `python main.py` in the terminal.
