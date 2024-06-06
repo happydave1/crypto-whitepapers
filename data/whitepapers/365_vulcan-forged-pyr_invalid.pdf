@@ -1,0 +1,530 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ4BQW8Y4C"></script>
+    <script>
+        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-RJ4BQW8Y4C');
+    </script>
+
+    <link rel="shortcut icon" type="image/png" size="16*16" href="https://cdn.vulcanforged.com/web/vulcanforged/images/favicon.svg" />
+    <link rel="stylesheet" href="https://cdn.vulcanforged.com/web/ErrorStyle/errorstyle.css" />
+    <link rel="stylesheet" href="https://cdn.vulcanforged.com/web/vulcanforged/css/style.css?v=0.02" />
+
+    <title>Vulcan Forged</title>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ4BQW8Y4C"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-RJ4BQW8Y4C');
+    </script>
+    <script>
+        var cookie3Options = { "siteId": 298, "additionalTracking": true, "cookielessEnabled": true }
+
+        window._paq = window._paq || [];
+        (function () {
+            var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+            g.async = true; g.src = 'https://cdn.cookie3.co/scripts/analytics/latest/cookie3.analytics.min.js'; s.parentNode.insertBefore(g, s);
+        })();
+    </script>
+    <!-- Twitter conversion tracking base code -->
+    <script>
+        !function (e, t, n, s, u, a) {
+            e.twq || (s = e.twq = function () {
+                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+            }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = 'https://static.ads-twitter.com/uwt.js',
+                a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+        }(window, document, 'script');
+        twq('config', 'og3xe');
+    </script>
+    <!-- End Twitter conversion tracking base code -->
+    <style>
+        #google_translate_element select {
+            background-color: #252527;
+            background-image: url("../images/arrow-down.svg");
+            background-repeat: no-repeat;
+            background-position: 95% center;
+            color: #fff;
+            border-radius: 4px;
+            padding: 6px 8px;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            -o-appearance: none;
+            appearance: none;
+            width:100%;
+        }
+        #google_translate_element select:focus {
+            outline: none;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- HEADER -->
+                <div class="TopBar text-center py-1 position-xl-fixed z-index-2 w-100 top-0">
+    <p class="mb-0">Stake your PYR tokens and be rewarded in LAVA. Available exclusively on Elysium  <strong>Cloudwallet.</strong> <a target="_blank" class="btn BtnTransparentBlack rounded-0 text-uppercase px-2 ms-md-3 mt-1 mt-md-0" href="https://wallet.elysiumchain.tech/">STAKE NOW</a> </p>
+
+</div>
+<style>
+    header .navbar .navbar-collapse > ul > .nav-item > a {
+    
+        letter-spacing: -0.5px !important;
+       
+    }
+</style>
+<header id="header" class="mt-5 header-nospace">
+    <nav class="navbar navbar-expand-xl py-2">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center py-0 order-1 order-sm-1 order-xl-1" href="https://vulcanforged.com/">
+                <img class="img-fluid" src="https://cdn.vulcanforged.com/web/vulcanforged/images/vf-logo.svg" alt="logo" />
+            </a>
+            <button class="navbar-toggler ms-sm-3 order-3 order-sm-3 order-xl-4" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse order-4 order-sm-4 order-xl-2" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="https://elysiumchain.tech/" target="_blank">Elysium</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://studios.vulcanforged.com/">Vulcan Studios</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://metascapes.io/?utm_source=website&utm_medium=web-VF&utm_content=top-menu&utm_campaign=na" target="_blank">MetaScapes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://tokens.vulcanforged.com/">PYR & Lava</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="MarketplacesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Marketplaces
+                        </a>
+                        <ul class="dropdown-menu border" aria-labelledby="MarketplacesDropdown">
+                            <li><a class="dropdown-item" href="https://agora.elysiumchain.tech/" target="_blank">Agora Marketplace</a></li>
+                            <!--<li><a class="dropdown-item" href="https://market.vulcanforged.com/Marketplace/Explore" target="_blank">Vulcan Marketplace</a></li>-->
+                            <li><a class="dropdown-item" href="https://myforge.vulcanforged.com/cedalionprogram/explore" target="_blank">Cedalion Marketplace</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                               <a class="nav-link" href="https://vulcanforged.com/vulcon4" target="_blank">VULCON4</a>
+                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="MarketplacesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            News
+                        </a>
+                        <ul class="dropdown-menu border" aria-labelledby="MarketplacesDropdown">
+                            <li><a class="dropdown-item" href="https://blog.vulcanforged.com/" target="_blank"> Latest News</a></li>
+                            <li><a class="dropdown-item" href="https://korea.vulcanforged.com/" target="_blank">한국어</a></li>
+                        </ul>
+                    </li>
+                  
+                    <!--<li class="nav-item">
+        <a class="nav-link" href="http://korea.vulcanforged.com/" target="_blank">한국어</a>
+    </li>-->
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://discord.gg/vulcan-forged" target="_blank">
+                            <svg class="me-1" width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M16.9309 1.24343C15.6562 0.667925 14.2892 0.243897 12.86 0.00101906C12.834 -0.00367015 12.8079 0.00805287 12.7945 0.0314605C12.6187 0.339142 12.424 0.740492 12.2876 1.05598C10.7504 0.82951 9.22102 0.82951 7.71531 1.05598C7.57891 0.733497 7.37711 0.339142 7.20051 0.0314605C7.18711 0.00882159 7.16109 -0.00290143 7.13508 0.00101906C5.70664 0.24309 4.33968 0.667118 3.06413 1.24343C3.05308 1.24812 3.04363 1.25592 3.03734 1.26607C0.444522 5.07759 -0.265791 8.79544 0.0826467 12.4672C0.0842092 12.4851 0.0944827 12.5023 0.108662 12.5133C1.81933 13.7494 3.47644 14.4998 5.10273 14.9973C5.12875 15.0051 5.15632 14.9957 5.17289 14.9746C5.55758 14.4577 5.90051 13.9126 6.19453 13.3394C6.21187 13.3059 6.19531 13.266 6.15984 13.2528C5.6159 13.0497 5.09797 12.8022 4.59972 12.5211C4.56031 12.4985 4.55714 12.443 4.59343 12.4164C4.69828 12.3391 4.80316 12.2587 4.90328 12.1775C4.9214 12.1626 4.94664 12.1595 4.96793 12.1689C8.24106 13.6393 11.7846 13.6393 15.0191 12.1689C15.0404 12.1587 15.0656 12.1619 15.0845 12.1767C15.1847 12.2579 15.2895 12.3391 15.3952 12.4164C15.4314 12.443 15.429 12.4984 15.3897 12.5211C14.8914 12.8076 14.3735 13.0497 13.8288 13.252C13.7933 13.2652 13.7775 13.3058 13.7949 13.3394C14.0952 13.9118 14.4382 14.4569 14.8158 14.9738C14.8315 14.9957 14.8599 15.0051 14.8859 14.9972C16.5201 14.4998 18.1772 13.7494 19.8879 12.5132C19.9029 12.5023 19.9123 12.4859 19.9139 12.4679C20.3309 8.22301 19.2154 4.53564 16.9568 1.26684C16.9514 1.25592 16.9419 1.24812 16.9309 1.24343ZM6.6834 10.2315C5.69797 10.2315 4.88597 9.34127 4.88597 8.248C4.88597 7.15476 5.68218 6.26454 6.6834 6.26454C7.69242 6.26454 8.49656 7.16256 8.48078 8.248C8.48078 9.34127 7.68453 10.2315 6.6834 10.2315ZM13.329 10.2315C12.3436 10.2315 11.5316 9.34127 11.5316 8.248C11.5316 7.15476 12.3278 6.26454 13.329 6.26454C14.3381 6.26454 15.1422 7.16256 15.1264 8.248C15.1264 9.34127 14.3381 10.2315 13.329 10.2315Z" fill="#FF7B00" />
+                            </svg>
+                            Join DISCORD
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <a class="NotLogged btn BtnOrange rounded-0 text-uppercase px-2 py-1 w-100 w-sm-auto ms-sm-auto mt-2 mb-1 my-sm-0 order-3 order-sm-2 order-xl-3" href="https://auth.vulcanforged.com/">Register / Log in</a>
+            <div class="logged ms-sm-auto d-none order-2 order-sm-2 order-xl-3">
+                <ul class="list-unstyled d-inline-flex align-items-center mb-0">
+                    <li>
+                        <div class="CustomDropDown dropdown Profile position-relative">
+                            <button class="bg-transparent shadow-none border-0 dropdown-toggle text-white p-0" type="button" id="ProfileDropdownMenu" data-bs-toggle="dropdown" aria-expanded="false">
+                                <img src="/images/profile.svg" onerror="this.src='/images/profile.svg'" alt="user" id="ProfileImage" class="ProfileImage rounded-circle" />
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-end py-0" aria-labelledby="ProfileDropdownMenu">
+                                <span class="dropdown-menu-arrow"></span>
+                                <div class="border-bottom py-1 px-2 d-flex">
+                                    <div class="flex-grow-1 w-100">
+                                        <h6 class="OrangeText mb-1 Elipsis WithoutSpace d-block Username"></h6>
+                                        <div class="position-relative d-flex mb-1">
+                                            <input id="HeaderCopyAddress" type="text" class="form-control bg-transparent Fsize_14 border-0 shadow-none text-white Elipsis WithoutSpace p-0 me-1 ReadOnly">
+                                            <button type="button" class="bg-transparent border-0 p-0" onclick="copyAddress('CopyAddress')">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="13.357" viewBox="0 0 448 512"><path d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z" fill="#9ea5b4" /></svg>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <button type="button" class="close d-xl-none bg-transparent border-0 ps-3 ms-3 cursor-pointer border-start">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="19.357" height="19.357" viewBox="0 0 19.357 19.357">
+                                            <path id="close" d="M24.973,84.781l8.5-8.5a.688.688,0,1,0-.972-.973L24,83.808l-8.5-8.5a.688.688,0,0,0-.973.973l8.505,8.5-8.505,8.5a.688.688,0,0,0,.973.973l8.5-8.5,8.505,8.5a.688.688,0,1,0,.972-.973Z" transform="translate(-14.322 -75.102)" fill="#fff" />
+                                        </svg>
+                                    </button>
+                                </div>
+                                <div class="border-bottom py-1 py-1 px-2 d-none d-xl-block">
+                                    <label class="GreyColor mb-1 Fsize_12 text-uppercase">Wallets</label>
+                                    <figure class="mb-2 bg-transparent rounded p-0">
+                                        <div class="d-flex">
+                                            <div class="ImgBox rounded-circle d-flex align-items-center justify-content-center me-1">
+                                                <img src="/images/icon-pyr.png" class="object-contain" alt="Icon">
+                                            </div>
+                                            <figcaption>
+                                                <h6 class="TruenoReg GreyColor Fsize_12">Market PYR Balance</h6>
+                                                <h6 class="Fsize_14 TruenoSemiBold text-white mb-0 Balance"></h6>
+                                            </figcaption>
+                                        </div>
+                                    </figure>
+                                    <a class="btn BtnBorderGradient px-3 w-100 py-2" href="https://myforge.vulcanforged.com/buyviafiat" target="_blank">
+                                        Add funds with
+                                    </a>
+                                </div>
+                                <div class="border-bottom py-1 px-2">
+                                    <label class="GreyColor mb-1 Fsize_12 text-uppercase">Menu</label>
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <a class="dropdown-link d-block" href="https://myforge.vulcanforged.com/Account/userprofile">
+                                                <svg class="me-1" xmlns="http://www.w3.org/2000/svg" width="17.268" height="14" viewBox="0 0 448 512"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z" fill="#9ea5b4" /></svg>
+                                                My Profile
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-link d-block" href="https://myforge.vulcanforged.com/MyAuctions">
+                                                <svg class="me-1" xmlns="http://www.w3.org/2000/svg" width="17.268" height="17" viewBox="0 0 512 512"><path d="M318.6 9.4c-12.5-12.5-32.8-12.5-45.3 0l-120 120c-12.5 12.5-12.5 32.8 0 45.3l16 16c12.5 12.5 32.8 12.5 45.3 0l4-4L325.4 293.4l-4 4c-12.5 12.5-12.5 32.8 0 45.3l16 16c12.5 12.5 32.8 12.5 45.3 0l120-120c12.5-12.5 12.5-32.8 0-45.3l-16-16c-12.5-12.5-32.8-12.5-45.3 0l-4 4L330.6 74.6l4-4c12.5-12.5 12.5-32.8 0-45.3l-16-16zm-152 288c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l48 48c12.5 12.5 32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-1.4-1.4L272 285.3 226.7 240 168 298.7l-1.4-1.4z" fill="#9ea5b4" /></svg>
+                                                My Auctions
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-link d-block" href="https://myforge.vulcanforged.com/MyAssets">
+                                                <svg class="me-1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+                                                    <path id="Icon_awesome-boxes" data-name="Icon awesome-boxes" d="M15.556,9H13.333v3l-.889-.666L11.556,12V9H9.333a.476.476,0,0,0-.444.5v6a.476.476,0,0,0,.444.5h6.222A.476.476,0,0,0,16,15.5v-6A.476.476,0,0,0,15.556,9ZM4.889,7h6.222a.476.476,0,0,0,.444-.5V.5a.476.476,0,0,0-.444-.5H8.889V3L8,2.334,7.111,3V0H4.889a.476.476,0,0,0-.444.5v6A.476.476,0,0,0,4.889,7ZM6.667,9H4.444v3l-.889-.666L2.667,12V9H.444A.476.476,0,0,0,0,9.5v6a.476.476,0,0,0,.444.5H6.667a.476.476,0,0,0,.444-.5v-6A.476.476,0,0,0,6.667,9Z" fill="#9ea5b4" />
+                                                </svg>
+                                                My Assets
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-link d-block" href="https://myforge.vulcanforged.com/MyWallet">
+                                                <svg class="me-1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+                                                    <path id="Icon_material-monetization-on" data-name="Icon material-monetization-on" d="M11,3a8,8,0,1,0,8,8A8,8,0,0,0,11,3Zm1.128,12.872V17.4H9.992V15.856a2.976,2.976,0,0,1-2.616-2.72H8.944c.08.84.656,1.5,2.12,1.5,1.568,0,1.92-.784,1.92-1.272,0-.664-.352-1.288-2.136-1.712-1.984-.48-3.344-1.3-3.344-2.936A2.773,2.773,0,0,1,9.992,6.144V4.6h2.136V6.16a2.828,2.828,0,0,1,2.28,2.712H12.84c-.04-.888-.512-1.5-1.776-1.5-1.2,0-1.92.544-1.92,1.312,0,.672.52,1.112,2.136,1.528s3.344,1.112,3.344,3.128c-.008,1.464-1.1,2.264-2.5,2.528Z" transform="translate(-3 -3)" fill="#9ea5b4" />
+                                                </svg>
+                                                My Funds
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-link d-block" href="https://myforge.vulcanforged.com/vulcanvault/index">
+                                                <svg class="me-1" xmlns="http://www.w3.org/2000/svg" width="16" height="15.385" viewBox="0 0 16 15.385">
+                                                    <path id="Icon_awesome-coins" data-name="Icon awesome-coins" d="M0,21.971v1.866c0,1.543,3.583,2.8,8,2.8s8-1.254,8-2.8V21.971c-1.721,1.272-4.867,1.866-8,1.866S1.721,23.243,0,21.971Zm0-4.585v2.255c0,1.543,3.583,2.8,8,2.8s8-1.254,8-2.8V17.386c-1.721,1.486-4.871,2.255-8,2.255S1.721,18.872,0,17.386ZM8,11.25c-4.417,0-8,1.565-8,3.5s3.583,3.5,8,3.5,8-1.565,8-3.5S12.417,11.25,8,11.25Z" transform="translate(0 -11.25)" fill="#9ea5b4" />
+                                                </svg>
+                                                Vulcan Vault
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="py-1 px-2">
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <a class="dropdown-link d-block" href="https://auth.vulcanforged.com/Account/Logout">
+                                                <svg class="me-1" xmlns="http://www.w3.org/2000/svg" width="17.268" height="17" viewBox="0 0 17.268 17"><path id="Icon_open-account-logout" data-name="Icon open-account-logout" d="M6,0V2.286h8V13.714H6V16H16V0ZM4,4.571,0,8l4,3.429V9.143h8V6.857H4Z" transform="translate(0.768 0.5)" fill="#9ea5b4" stroke="rgba(0,0,0,0)" stroke-width="1" /></svg>
+                                                Log Out
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+        <!-- HEADER -->
+        
+<div class="errorstyle">
+<div class="mainstyle pb-5 px-xxl-4" style="background-image: url('https://cdn.vulcanforged.com/app/myforge/images/Error-bannerimage.png');">
+    <section id="ErrorPage" class="position-relative">
+        <div class="container text-center">
+            <h1 class="text-center mb-0">
+                <span class="TextGradient">
+Page not found                </span>
+            </h1>
+            <object type="image/svg+xml" class="mb-5 pb-5 w-100 ErrorImage" data="https://cdn.vulcanforged.com/app/myforge/images/ERROR.svg"></object>
+            <h2 class="text-white mb-4">
+The page you are requesting is not found            </h2>
+            <p class="Fsize_20 mb-4">Please check the URL again or let us take you back to the homepage.</p>
+            <a class="bg-transparent BtnGradient border-0 d-inline-block py-2 px-3 fw-bold" href="/"> Back to Homepage</a>
+        </div>
+    </section>
+</div>
+</div>
+        <!-- FOOTER -->
+        <footer class="footer-new-outter">
+    <div class="container">
+        <div class="footer-border py-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <a class="navbar-brand logo" href="/">
+                        <img class="img-fluid" loading="lazy" src="https://cdn.vulcanforged.com/web/vulcanforged/images/vf-logo.svg" alt="logo">
+                    </a>
+                    <ul class="list-unstyled social-icons d-flex mt-2 mt-md-4 mb-1 mb-md-4">
+                        <li>
+                            <a target="_blank" href="https://discord.gg/vulcan-forged" class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                                    <path d="M28.3277 12.5234C26.7514 11.8015 25.0872 11.2893 23.3777 11C23.1437 11.4181 22.9319 11.8483 22.7433 12.2888C20.9228 12.0145 19.0714 12.0145 17.2509 12.2888C17.0626 11.8484 16.8513 11.4182 16.6178 11C14.9072 11.2914 13.2418 11.8044 11.6638 12.5261C8.86905 16.4819 7.60548 21.3179 8.10788 26.1352C9.94207 27.4902 11.995 28.5208 14.1774 29.182C14.6687 28.5209 15.1034 27.8196 15.4769 27.0855C14.7672 26.8206 14.0821 26.4937 13.4297 26.1086C13.6017 25.9846 13.7696 25.8553 13.9322 25.7314C15.8306 26.624 17.9026 27.0869 20.0004 27.0869C22.0982 27.0869 24.1702 26.624 26.0686 25.7314C26.2326 25.8647 26.4005 25.998 26.5711 26.1086C25.9174 26.4946 25.231 26.8223 24.5199 27.0882C24.893 27.8217 25.3277 28.5221 25.8194 29.182C28.0038 28.5233 30.0584 27.4931 31.893 26.1366C32.3936 21.3167 31.1267 16.4791 28.3277 12.5234ZM16.0154 23.395C15.4118 23.3606 14.8462 23.0892 14.4416 22.6399C14.037 22.1907 13.8262 21.5999 13.8549 20.996C13.8389 20.6968 13.882 20.3975 13.9817 20.115C14.0814 19.8325 14.2358 19.5725 14.4361 19.3497C14.6364 19.1269 14.8786 18.9457 15.1488 18.8166C15.4191 18.6874 15.7122 18.6128 16.0114 18.5969C16.3117 18.61 16.6065 18.6827 16.8785 18.8109C17.1504 18.939 17.3942 19.12 17.5955 19.3433C17.7968 19.5666 17.9517 19.8277 18.0511 20.1114C18.1505 20.3952 18.1925 20.6959 18.1745 20.996C18.2039 21.5998 17.9935 22.1908 17.5891 22.6402C17.1846 23.0896 16.619 23.3609 16.0154 23.395ZM23.9855 23.395C23.3819 23.3609 22.8162 23.0896 22.4118 22.6402C22.0073 22.1908 21.7969 21.5998 21.8263 20.996C21.8104 20.6966 21.8535 20.3971 21.9534 20.1144C22.0533 19.8318 22.208 19.5716 22.4085 19.3488C22.609 19.126 22.8515 18.9449 23.1221 18.8159C23.3927 18.6868 23.6861 18.6125 23.9855 18.5969C24.2853 18.6109 24.5793 18.6842 24.8505 18.8127C25.1217 18.9413 25.3647 19.1224 25.5653 19.3456C25.7659 19.5688 25.9202 19.8296 26.0192 20.1129C26.1182 20.3962 26.1599 20.6964 26.1419 20.996C26.1718 21.5995 25.9618 22.1903 25.5579 22.6397C25.1539 23.0891 24.5887 23.3606 23.9855 23.395Z" fill="white" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://twitter.com/VulcanForged" class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                                    <path d="M29.5333 14.984C29.548 15.2027 29.548 15.4213 29.548 15.64C29.548 22.3067 24.5987 30 15.548 30C12.864 30.0037 10.2384 29.2157 8 27.7347C8.39439 27.7793 8.7911 27.8002 9.188 27.7973C11.4105 27.8 13.5665 27.0388 15.2947 25.6413C14.258 25.6138 13.2561 25.261 12.4309 24.633C11.6056 24.0049 10.9987 23.1332 10.696 22.1413C11.0046 22.1916 11.3167 22.2179 11.6293 22.22C12.0665 22.2186 12.5016 22.1608 12.924 22.048C11.796 21.8023 10.7873 21.1752 10.0679 20.2724C9.34844 19.3696 8.96234 18.2463 8.97467 17.092V17.0307C9.65363 17.42 10.4166 17.6396 11.1987 17.6707C10.1503 16.937 9.41322 15.8389 9.13139 14.5907C8.84956 13.3426 9.04327 12.0342 9.67467 10.9213C10.8926 12.4722 12.4272 13.7455 14.1762 14.6562C15.9253 15.5669 17.8484 16.0941 19.8173 16.2027C19.7385 15.8223 19.6979 15.4351 19.696 15.0467C19.6874 14.3923 19.8078 13.7426 20.0503 13.1347C20.2929 12.5269 20.6528 11.9728 21.1096 11.5041C21.5664 11.0355 22.1111 10.6614 22.7125 10.4033C23.3139 10.1452 23.9603 10.0082 24.6147 10C25.2933 9.99996 25.9643 10.1423 26.5845 10.418C27.2046 10.6936 27.76 11.0963 28.2147 11.6C29.3184 11.3788 30.3742 10.964 31.3333 10.3747C30.9728 11.533 30.2044 12.5212 29.1707 13.156C30.1481 13.0411 31.1022 12.7777 32 12.3747C31.3302 13.3768 30.4963 14.259 29.5333 14.984Z" fill="white" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.youtube.com/@VulcanForged" class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                                    <path d="M31.5055 14.6294C31.229 13.6012 30.4183 12.7907 29.3903 12.5139C27.5122 12 19.9997 12 19.9997 12C19.9997 12 12.4876 12 10.6095 12.4944C9.60122 12.7709 8.7708 13.6014 8.49424 14.6294C8 16.5073 8 20.4019 8 20.4019C8 20.4019 8 24.3161 8.49424 26.1744C8.7711 27.2025 9.58145 28.013 10.6096 28.2898C12.5073 28.8038 20 28.8038 20 28.8038C20 28.8038 27.5122 28.8038 29.3903 28.3095C30.4185 28.0327 31.229 27.2222 31.5058 26.1942C31.9999 24.3161 31.9999 20.4217 31.9999 20.4217C31.9999 20.4217 32.0197 16.5073 31.5055 14.6294ZM17.6079 23.9999V16.804L23.8549 20.4019L17.6079 23.9999Z" fill="white" />
+                                </svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.linkedin.com/company/vulcan-forged/" class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                                    <path d="M32.2 32.2V23.41C32.2 19.09 31.27 15.79 26.23 15.79C23.8 15.79 22.18 17.11 21.52 18.37H21.46V16.18H16.69V32.2H21.67V24.25C21.67 22.15 22.06 20.14 24.64 20.14C27.19 20.14 27.22 22.51 27.22 24.37V32.17H32.2V32.2Z" fill="white"></path>
+                                    <path d="M8.59001 16.1802H13.57V32.2002H8.59001V16.1802Z" fill="white"></path>
+                                    <path d="M11.08 8.2002C9.49001 8.2002 8.20001 9.4902 8.20001 11.0802C8.20001 12.6702 9.49001 13.9902 11.08 13.9902C12.67 13.9902 13.96 12.6702 13.96 11.0802C13.96 9.4902 12.67 8.2002 11.08 8.2002Z" fill="white"></path>
+                                </svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.instagram.com/vulcan_forged/" class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                                    <path d="M31.939 15.0574C31.8828 13.782 31.6765 12.9051 31.381 12.1453C31.0762 11.3388 30.6073 10.6167 29.9929 10.0164C29.3927 9.4068 28.6658 8.9331 27.8686 8.63306C27.1044 8.33759 26.2321 8.13134 24.9567 8.0751C23.6717 8.0141 23.2638 8 20.0047 8C16.7456 8 16.3377 8.0141 15.0574 8.07034C13.782 8.12658 12.9051 8.33302 12.1455 8.6283C11.3388 8.9331 10.6167 9.40203 10.0164 10.0164C9.4068 10.6167 8.93329 11.3435 8.63306 12.1407C8.33759 12.9051 8.13134 13.7772 8.0751 15.0527C8.0141 16.3377 8 16.7456 8 20.0047C8 23.2638 8.0141 23.6717 8.07034 24.9519C8.12658 26.2274 8.33302 27.1042 8.62848 27.8641C8.93329 28.6706 9.4068 29.3927 10.0164 29.9929C10.6167 30.6025 11.3435 31.0762 12.1407 31.3763C12.9051 31.6717 13.7772 31.878 15.0529 31.9342C16.3329 31.9907 16.741 32.0046 20.0001 32.0046C23.2592 32.0046 23.6671 31.9907 24.9473 31.9342C26.2228 31.878 27.0997 31.6717 27.8593 31.3763C29.4725 30.7526 30.748 29.4771 31.3717 27.8641C31.667 27.0997 31.8734 26.2274 31.9297 24.9519C31.9859 23.6717 32 23.2638 32 20.0047C32 16.7456 31.9952 16.3377 31.939 15.0574ZM29.7773 24.8581C29.7257 26.0305 29.5288 26.6635 29.3646 27.0856C28.9613 28.1313 28.1313 28.9613 27.0856 29.3646C26.6635 29.5288 26.0259 29.7257 24.8581 29.7771C23.592 29.8336 23.2123 29.8475 20.0094 29.8475C16.8066 29.8475 16.4221 29.8336 15.1606 29.7771C13.9882 29.7257 13.3552 29.5288 12.9331 29.3646C12.4127 29.1723 11.939 28.8675 11.5545 28.4689C11.156 28.0796 10.8511 27.6107 10.6588 27.0903C10.4947 26.6683 10.2978 26.0305 10.2463 24.8629C10.1899 23.5968 10.176 23.2169 10.176 20.014C10.176 16.8112 10.1899 16.4267 10.2463 15.1653C10.2978 13.993 10.4947 13.3599 10.6588 12.9379C10.8511 12.4173 11.156 11.9438 11.5593 11.5591C11.9484 11.1605 12.4173 10.8557 12.9379 10.6636C13.3599 10.4994 13.9978 10.3025 15.1653 10.2509C16.4314 10.1946 16.8114 10.1805 20.014 10.1805C23.2216 10.1805 23.6013 10.1946 24.8629 10.2509C26.0352 10.3025 26.6683 10.4994 27.0903 10.6636C27.6107 10.8557 28.0844 11.1605 28.4689 11.5591C28.8675 11.9484 29.1723 12.4173 29.3646 12.9379C29.5288 13.3599 29.7257 13.9976 29.7773 15.1653C29.8336 16.4314 29.8477 16.8112 29.8477 20.014C29.8477 23.2169 29.8336 23.592 29.7773 24.8581Z" fill="white" />
+                                    <path d="M20.0047 13.8381C16.6004 13.8381 13.8383 16.6001 13.8383 20.0046C13.8383 23.4091 16.6004 26.1711 20.0047 26.1711C23.4092 26.1711 26.1712 23.4091 26.1712 20.0046C26.1712 16.6001 23.4092 13.8381 20.0047 13.8381ZM20.0047 24.0046C17.7962 24.0046 16.0047 22.2133 16.0047 20.0046C16.0047 17.7959 17.7962 16.0046 20.0047 16.0046C22.2135 16.0046 24.0047 17.7959 24.0047 20.0046C24.0047 22.2133 22.2135 24.0046 20.0047 24.0046Z" fill="white" />
+                                    <path d="M27.8547 13.5944C27.8547 14.3894 27.2101 15.034 26.4149 15.034C25.6199 15.034 24.9753 14.3894 24.9753 13.5944C24.9753 12.7992 25.6199 12.1548 26.4149 12.1548C27.2101 12.1548 27.8547 12.7992 27.8547 13.5944Z" fill="white" />
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="Fsize_16 mb-1 mb-md-4">© <script>document.write(new Date().getFullYear());</script> Vulcan Forged. All rights reserved.</p>
+                    <ul class="list-unstyled Fsize_14 d-flex">
+                        <li class="me-2">
+                            <a href="https://vulcanforged.com/PrivacyPolicy/Index" target="_blank">Privacy Policy</a>
+                        </li>
+                        <li class="me-2">
+                            <a href="https://vulcanforged.com/TermsAndConditions/Index" target="_blank">Terms</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-6 mb-1 mb-md-3">
+                            <h6 class="Fsize_16 mb-3 fw-bold">
+                                The Ecosystem
+                            </h6>
+                            <ul class="list-unstyled">
+                                <li>
+                                    <a href="https://elysiumchain.tech/" target="_blank">Elysium Blockchain</a>
+                                </li>
+                                <li>
+                                    <a href="https://studios.vulcanforged.com/" target="_blank">Vulcan Studios</a>
+                                </li>
+                                <li>
+                                    <a href="https://metascapes.com/" target="_blank">MetaScapes</a>
+                                </li>
+                                <li>
+                                    <a href="https://vulcan-forged.gitbook.io/whitepaper/" target="_blank">White Paper</a>
+                                </li>
+                                <li>
+                                    <a href="https://tokens.vulcanforged.com/" target="_blank">PYR & LAVA</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6 mb-1 mb-md-3">
+                            <h6 class="Fsize_16 mb-3 fw-bold">
+                                Vulcan Forged
+                            </h6>
+                            <ul class="list-unstyled">
+                                <li>
+                                    <a href="https://blog.vulcanforged.com/" target="_blank">Blog</a>
+                                </li>
+                                <li>
+                                    <a href="https://vulcanforged.com/AllGames/VerseHelp" target="_blank">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6 mb-1 mb-md-3">
+                            <h6 class="Fsize_16 mb-3 fw-bold">
+                                Useful Links
+                            </h6>
+                            <ul class="list-unstyled">
+                                <li>
+                                    <a href="https://myforge.vulcanforged.com/" target="_blank">My Forge</a>
+                                </li>
+                                <li>
+                                    <a href="https://vulcan-game-launcher.s3.us-east-2.amazonaws.com/Vulcan+Forged+DApps.exe" target="_blank">Vulcan Launcher</a>
+                                </li>
+                                <li>
+                                    <a href="https://agora.elysiumchain.tech/" target="_blank">Agora Marketplace</a>
+                                </li>
+                                <li>
+                                    <a href="https://swap.elysiumchain.tech/exchange/swap" target="_blank">Elysium Swap</a>
+                                </li>
+                                <li>
+                                    <a href="https://bridge.elysiumchain.tech/" target="_blank">Elysium Bridge</a>
+                                </li>
+                                <li>
+                                    <a href="https://explorer.elysiumchain.tech/" target="_blank">Elysium Scan</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+        <!-- FOOTER -->
+    </div>
+
+
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/js/jquery.min.js"></script>
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/js/select2.min.js"></script>
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/js/lightbox.min.js"></script>
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/js/slick.min.js"></script>
+    <script type="text/javascript" src="https://cdn.vulcanforged.com/web/vulcanforged/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/js/custom.js"></script>
+    <script src="/com_hdr_ftr/js/header.js"></script>
+    <script src="https://cdn.vulcanforged.com/web/vulcanforged/Plugins/jquery.toast.min.js"></script>
+
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    
+
+            <script>
+                $(document).ready(function () {
+                    $(".NotLogged").removeClass("d-none");
+                    $("#ProfileImage").attr("src", "/images/profile.svg");
+
+                    //Hide Myforge menu button when user is not logged in.
+                    $(".myforgeMenu").addClass("d-none");
+                });
+            </script>
+
+    <!-- Start of vulcanforged Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=0ae91290-cb44-48fd-9990-50c602409f04"></script>
+    <!-- End of vulcanforged Zendesk Widget script -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SXK4YVRWV"></script>
+    <script>
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-1SXK4YVRWV');
+
+        $(".chatsupport").click(function () {
+            $("#launcher").contents().find(".u-userLauncherColor").trigger("click");
+        });
+
+        $(document).ready(function () {
+            var year = new Date().getFullYear();
+            $('#year').text(year);
+                });
+
+        function GetAntiForgeyToken() {
+            var token = '<input name="__RequestVerificationToken" type="hidden" value="CfDJ8E2krV6sj6xDibyscFIgdmCCPARmBEhASbozyB397QEEkRACNKHcJ3bb_GCBAvewEICe2uSBFGBmqS1ssHPquah6dPHOTe7xO9bEaUjYLFqzxLclesWT1iyohPDFrhhubTUKzzebFKlz67Zrc9Cl9iQ" />';
+            token = $(token).val();
+            return token;
+        }
+
+         $(document).ready(function () {
+            $.ajax({
+                type: "POST",
+                url: "/Home/GetSocialMediaCounts",
+                cache: false,
+                data: { __RequestVerificationToken: GetAntiForgeyToken()},
+                success: function (Response) {
+                    $(".TelegramUsers").html(Response.data.telegram.toLocaleString());
+                    $(".DiscordUsers").html(Response.data.discord.toLocaleString());
+                    $(".MediumUsers").html(Response.data.medium.toLocaleString());
+                    $(".TwitterUsers").html(Response.data.twitter.toLocaleString());
+                }
+            });
+         });
+
+        function setCookie(cname, cvalue, exdays) {
+            const d = new Date();
+            d.setTime(d.getTime() + (exdays * 3600000));
+            let expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+        function getCookie(cname) {
+            let name = cname + "=";
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let ca = decodedCookie.split(';');
+            for (let i = 0; i < ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+        //$("#close-Vulcon").click(function () {
+        //    setCookie("PopUp", 1, 2);
+        //});
+        //var currentLocation = window.location.href;
+        //$(window).on('load', function () {
+        //    var PopUp = getCookie("PopUp");
+        //    if (!(currentLocation.includes("Vulcon"))) {
+        //        if (PopUp != 1) {
+        //            $('#EventModalOnload').modal('show');
+        //        }
+        //    }
+
+        //});
+
+
+        //Copy
+        function copyAddress() {
+            var address = $("#HeaderCopyAddress").val();
+            navigator.clipboard.writeText(address);
+            $.toast({
+                text: "Copied to Clipboard!",
+                position: 'bottom-right',
+                showHideTransition: 'fade',
+            })
+        }
+    </script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'en,ko,zh-CN,zh-TW,pt,es,tl,vi,id', }, 'google_translate_element');
+
+            var $googleDiv = $("#google_translate_element .skiptranslate");
+            var $googleDivChild = $("#google_translate_element .skiptranslate div");
+            $googleDivChild.next().remove();
+
+            $googleDiv.contents().filter(function () {
+                return this.nodeType === 3 && $.trim(this.nodeValue) !== '';
+            }).remove();
+        }
+    </script>
+</body>
+</html>
