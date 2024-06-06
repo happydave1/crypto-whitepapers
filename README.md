@@ -2,9 +2,10 @@
 
 ## Setup
 
-Python project, create a virtual environment with `python -m venv venv` in the terminal
+Python project, create a virtual environment with `python3.10 -m venv env` in the terminal
 
-Next, install dependencies with 
+Next, install dependencies with
+
 ```
 pip install -r requirements.txt
 ```
