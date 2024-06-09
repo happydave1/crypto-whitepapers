@@ -1,0 +1,207 @@
+Technical Paper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crescendo
+ is coming to Flow this July! Flow supercharges the Ethereum ecosystem with full 
+EVM
+-equivalency and the power of 
+Cadence 1.0
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn
+Crescendo Upgrade
+Cadence
+Account Abstraction
+Account Linking
+Core Protocol
+Flow Reference Wallet
+Defi
+Roadmap
+Use Cases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Build
+Quickstarts
+Dev Portal
+Developer Help Center
+Certified Flow Developers Program
+GitHub
+Hackathons
+Block explorer
+Status Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foundation
+Find Wallet
+Network Governance
+Decentralization
+Run a node
+Stake FLOW
+Bridge
+Flow tokenomics
+Flow Foundation Governance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Papers
+Technical Papers 1
+Technical Papers 2
+Technical Papers 3
+SPoCK Technical Note
+The architecture of Flow is specified in a series of Technical Papers which explain the many nuances of the system. Technical Papers 1 & 3 have been released first because they are the most critical to understand and assess the soundness of the system while also including the results most applicable to other projects.
+Technical Paper 1: 
+Separating Consensus & Compute
+The first paper describes the approach at the core of the Flow architecture: splitting consensus (selection and ordering of transactions) from compute (executing each transaction and recording its output) and proves this can dramatically increase throughput without compromising security. In this first paper we analyze how the Flow architecture increases performance, preserves ACID guarantees, and prove that it does not compromise security. The result is a throughput increase by a factor of 56 compared to conventional architectures without loss of safety or decentralization. The paper also notes that a working system based on these ideas must verify the computation (the subject of technical paper 3), but that its key result is applicable regardless of how that problem is addressed.
+Technical Paper 2: 
+â
+Block Formation
+The second in the series of technical papers formalizes the process of block formation and the Proof of Stake based consensus process in Flow. Flow adapts a variant of the HotStuff consensus algorithm for Consensus Nodes to come to consensus on the blocks they will honor at every block height. This paper also addresses the Consensus roleâs responsibility in mitigating challenges submitted to the network.
+Technical Paper 3: 
+â
+Execution Verification
+The third technical paper answers questions posed by the first whitepaper around the verification of computation results. The paper provides a formalization of our verifiable computation scheme with proofs of safety and liveness under reasonable Byzantine assumptions. Although the paper does not explore the possibility, we believe this result could be adapted to other scenarios where Bulletproofs, TrueBit, TEEs, and other verifiable computation schemes are applicable. 
+Technical Note: 
+SPoCK
+Specialized Proofs of Confidential Knowledge (SPoCK) is a novel cryptographic technique that was first outlined in our Technical Paper 3, as part of the mitigations addressing the Verifierâs Dilemma. While Technical Paper 3 sketched a first implementation of SPoCK, this paper formally defines the SPoCK scheme and its required security properties. It also introduces a novel implementation of SPoCK based on BLS signatures that is more concise and efficient. The security of SPoCK is formally proven under appropriate cryptographic assumptions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay up to date with the latest news on Flow.
+Stay up to date with the latest news on Flow.
+Thank you! You're all set.
+Oops! Something went wrong while submitting the form.
+
+
+Start Building
+Developer portal
+GitHub
+Flow
+Business Development
+Node Operation
+Token Distribution
+Media Kit
+Careers
+FAQ
+Get Connected
+Flow Port
+Flowverse
+Â© 2023 All Rights Reserved

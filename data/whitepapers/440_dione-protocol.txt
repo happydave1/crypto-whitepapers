@@ -1,0 +1,52 @@
+Disclaimer | Dione - Whitepaper V1.1
+Dione - Whitepaper V1.1
+Search
+Ctrl
+â+âK
+ðï¸
+Disclaimer
+ð¡
+Abstract
+Overview
+ð´
+Current Problems
+ð¥
+The Solution: Dione
+Ecosystem: Dione at a Glance
+ð¥¦
+Dione Protocol
+â¡
+Nebra: Energy Trading Marketplace
+Platform Operations: Power Supplier & Distributor
+Platform Operations: Power Consumer
+ð±
+Staking
+âªï¸
+How to Stake Dione
+Technology
+âï¸
+Consensus
+ð
+Subnets
+ð
+Governance
+ð§ª
+Testnet Faucet
+Conclusion
+Powered by GitBook
+ðï¸
+Disclaimer
+This document, the Whitepaper, is the only source of truth regarding Dione. The technologies and products introduced in this document are currently in development and this document will continue to evolve. Therefore, this document does not aim to provide definite and absolute answers.
+The purpose of this version of the document is to explain the goals, the products, and the technology that will be used in Dione.
+Dione is an open protocol and is not a business. However, there will be business models built around the product lines and the network to support the protocol.
+The information in this document is obtained from several reliable sources that we believe to be authentic, however, we hold no responsibility for the accuracy of the information or any future revision(s) introduced by the sources.
+The information contained in this document does not constitute an investment, financial, trading, or any monetary advice, whatsoever and Dione encourages the readers to do their due diligence before making a monetary decision.
+Therefore, Dione does not accept any responsibility and will not be held liable for investment decisions (whether foreseeable or not).
+Dione, its management, directors, employees, contractors, and consultants, whether part-time, remote, or full-time, do not hold any responsibility or liability regarding the contents and/or the interpretation of this document.
+
+
+Next
+Abstract
+Last updated 
+1 year ago
+On this page

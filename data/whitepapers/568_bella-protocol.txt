@@ -1,0 +1,34 @@
+What is Flex Savings v2 | Bella Protocol
+Bella Protocol
+Search
+Ctrl
+â+âK
+What is Flex Savings v2
+Contract Address
+Features
+Service Fee
+Instructions
+Frequently Asked Questions (FAQ)
+LP Farm
+About Bella LP Farm
+LP Farm Contract Addresses
+LP Farm Features
+Tutorial
+Connect Your Wallet
+Get Ready for Action: Setting Up Your Liquidity Position for Bella LP Farm
+Start to Farm
+Claim and Withdraw Rewards
+Powered by GitBook
+What is Flex Savings v2
+Flex Savings v2 is a smart pool that routes funds to DeFi protocols with the most competitive return. It strives to help our users achieve the most attractive, risk-adjusted, sustainable return in the market. Think of Flex Savings as a hedge fund, but more transparent, efficient, and decentralized.
+With Bella Flex Savings v2, users can deposit stablecoins and supported tokens to earn attractive yields automatically. The smart contract then automatically routes the fund to different mining pools under liquidity mining/yield farming strategies.
+Our Strategies 
+In Flex Savings v2, we have implemented our earnings strategy on Curve.fi and other secure and protocols with high return. Users will be able to see a return much higher than the market standard with the $BEL incentives program. As time progresses, we, along with our community, will reassess all the options out there and adjust our strategies accordingly.
+
+
+Next
+Contract Address
+Last updated 
+7 months ago
+On this page
+Was this helpful?

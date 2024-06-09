@@ -1,0 +1,70 @@
+Abstract | ZEEBU Whitepaper
+ZEEBU Whitepaper
+Ask or Search
+Ctrl
+â+âK
+â­
+Abstract
+ð¨âð«
+Introduction
+â
+Problem Statement
+ð
+Industry & Background
+Key Facts
+Current Views
+â¾ï¸
+Current Challenges
+ð
+ZEEBU
+ð±
+Zeebu Settlement
+Platform Overview
+Merchant and Customer Dashboard
+Non-Custodial Merchant and Customer Wallet
+Payment Processor and Settlement Layer
+Governance Layer and Rewards
+ð
+Security & Compliance
+ð¨
+Best in Class UX
+ð¥ï¸
+Technology
+ðª
+The ZBU Token
+Tokenomics
+Token Allocation
+Token Sale
+ðºï¸
+Roadmap
+ð
+Team
+ð£
+LEGAL DISCLAIMER
+Powered by GitBook
+â­
+Abstract
+Zeebu aims to revolutionize the telecom wholesale voice industry by introducing a decentralized and transparent ecosystem for voice traffic exchange. Traditional voice traffic exchange is often riddled with inefficiencies, opaqueness, and trust issues, which leads to higher costs, remittance delays, and revenue leakages.
+Zeebu addresses these pain points by leveraging blockchain technology to create a secure and trustless ecosystem for buyers and sellers to exchange voice traffic directly. The platform provides transparent and auditable records of all transactions, reducing the risk of fraud and disputes. Furthermore, the use of smart contracts and decentralized finance (DeFi) protocols enables fast and seamless payments without the need for intermediaries.
+With Zeebu, the telecom wholesale voice industry can become more efficient, cost-effective, and competitive, benefiting both buyers and sellers.
+
+
+Next
+Introduction
+Last updated 
+1 year ago
+On this page
+Was this helpful?
+Export as PDF
+ 
+Social Media
+Linkedin
+Twitter
+Instagram
+Community
+Telegram
+Reddit
+Discord
+Audit
+Certik
+Â© Zeebu 2023 All rights reserved.

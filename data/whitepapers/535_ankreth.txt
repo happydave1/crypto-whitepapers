@@ -1,0 +1,731 @@
+Ethereum Liquid Staking â Ankr
+To Ankr
+To Ankr
+GitHub
+GitHub
+ (opens in a new tab)
+Welcome to Ankr Docs
+Information Map
+Privacy Policy
+Building With Ankr
+Node API
+Getting Started
+Intro
+Basics: Public Plan
+Basics: Premium Plan
+Team Accounts
+Projects
+Overview
+Service Plans
+Pricing
+Supported Chains
+Chains Quickstart
+API Reference
+Aptos
+Arbitrum
+Arbitrum Nova
+Avail
+Avalanche
+B2 Network
+Bahamut
+Base
+Berachain
+Bitcoin
+Bitlayer
+BitTorrent Chain
+Blast
+BNB Smart Chain
+Celo
+Chiliz
+Core
+Ethereum
+Ethereum Beacon
+Fantom
+Filecoin
+Flare
+Gnosis
+Gnosis Beacon
+Harmony
+Huobi ECO Chain
+Horizen EON
+IoTeX
+Kava
+Kinto
+Klaytn
+Kusama
+Linea
+Mantle
+Metis
+Moonbeam
+NEAR
+Nervos
+Optimism
+Polkadot
+Polygon
+Polygon zkEVM
+Rollux
+Scroll
+Secret Network
+Sei
+Solana
+Stellar
+Sui
+Syscoin
+Taiko
+Telos
+Tenet
+TRON
+Xai
+XDC Network
+X Layer
+zkSync Era
+Advanced API
+Overview
+Pricing
+NFT API
+Query API
+Token API
+API Reference â
+ (opens in a new tab)
+Ankr.js SDK
+Ankr.py SDK
+Ankr React Hooks
+Quickstart Guide
+Overview
+Ankr.js SDK: Fetch NFTs
+Ankr.js SDK: Check Account Balance
+Ankr.js SDK: Advanced APIs on NodeJS Server
+Ankr.js SDK: Advanced APIs for React App
+DeFi-Dashboard dApp with Vite.js, Ankr.js, & Tailwind CSS
+Blockchain Node Snapshots
+Contract Automation
+Overview
+Time-based Automation
+Custom Logic Automation
+Create Compatible Contracts
+Manage Automation Tasks
+Ankr Verify
+Overview
+Getting Started
+Create and Manage a Digital ID
+Comply with a Policy
+Create a Policy as a Vendor
+Integrating with Ankr Verify
+Integrate with Ankr Verify
+Check User Compliance
+Development Details
+Ankr Tutorials
+Basic Tutorials
+Decentralized Application on Ethereum using No-Code
+DAO in 5 Minutes with Zero Lines of Code
+Ankr.js (Advanced APIs) React Quickstart Guide
+Permanent File Storage (IPFS) with Filebase
+Backend NodeJS IPFS File Uploader With Filebase
+Smart Contract Development
+ERC-721 NFT Smart Contract on Avalanche and Mint an NFT with Ankr, Hardhat, and Ethers.js
+ERC-20 Token with Ankr & Hardhat on Ethereum Goerli
+CryptoKitties-Like NFT with ERC-721 Smart Contract
+ERC-20 Token on Optimism L2
+Non-Transferable Soulbound NFT Smart Contract
+Rentable ERC-721 NFTs Smart Contract on Optimism L2
+Advanced Tutorials
+End-to-End Donation-Based Crowdfunding dApp on Polygon with Ankr
+Scaling with Ankr
+Scaling Services Overview
+Rollups
+What are Rollups
+Rollup Stacks
+Polygon CDK
+OP Stack
+ZK Stack
+Data Availability Layers
+Celestia
+EigenDA
+NEAR DA
+Sidechains
+What are Sidechains
+BNB Sidechain
+Overview
+Architecture
+Overview
+Circulation Model and Native Asset Bridge
+Native Asset Bridge
+Fast-Finality and BLS Cryptography
+
+System Smart Contracts
+Governance
+Runtime Upgrades
+Security
+Blockchain and EVM Security
+System Smart Contracts Security
+On-chain Security
+Off-chain Security
+How to
+Customize Genesis Config
+Launch BNB Sidechain
+Deploy an ERC-20 Token
+Deploy an ERC-721 Token
+Staking
+Demo
+FAQ
+Glossary
+Polygon Supernets
+Overview
+Staking With Ankr
+Overview
+For Developers
+Overview
+Development Details
+Avalanche Liquid Staking
+Binance Liquid Staking
+Ethereum Liquid Staking
+Ethereum Delegated Staking and Validator Hub
+Fantom Liquid Staking
+Polygon Liquid Staking
+Ankr Bridge
+Ankr Switch
+Smart Contract API
+Overview
+Avalanche Liquid Staking API
+Binance Liquid Staking API
+Ethereum Liquid Staking API
+Fantom Liquid Staking API
+Polygon Liquid Staking API
+RESTful API
+Staking Metrics API
+Trustless Ratio
+Validator API
+SDK
+Overview
+Liquid Staking SDK
+Liquid Crowdloan SDK
+Oracles
+Overview
+Redemption Price Oracle
+PancakeSwap Price Oracle
+APR Oracle
+Flash Loan
+Overview and Development Details
+Flash Unstake
+BNB Flash Unstake
+Referral Program
+Overview
+Delegated Staking
+Ankr
+Overview
+Stake
+Claim or Restake Rewards
+Unstake
+FAQ
+Ankr Validators
+Overview
+Stake
+Gnosis
+Overview
+Stake
+Unstake
+FAQ
+Liquid Staking
+Overview
+Avalanche
+Overview
+Stake
+Unstake
+FAQ
+Binance
+Overview
+Stake
+Unstake
+FAQ
+Ethereum
+Overview
+Security
+Stake
+Restake on EigenLayer
+Unstake
+Unstake on EigenLayer
+FAQ
+Fantom
+Overview
+Stake
+Unstake
+FAQ
+Polkadot
+Unstake
+FAQ
+Polygon
+Overview
+Stake
+Unstake
+FAQ
+Liquid Crowdloan
+Overview
+Unstake DOT from a Liquid Crowdloan
+DeFi
+Overview
+Liquidity Pools
+Yield Farming
+Vaults
+FAQ
+Bridge
+Overview
+Bridge Tokens
+Switch
+Overview
+Switch Tokens
+Extra
+ANKR Governance Mechanics
+ANKR Tokenomics
+Ankr Validators
+Audit Reports
+Brand Assets
+Compatible Wallets
+Fixing Network Switch in MetaMask
+Glossary
+Integrating with Ankr Staking
+Liquid Staking Tokens Addresses (Mainnet)
+Liquid Staking Tokens Addresses  (Testnet)
+Micropool Staking
+Parachain Liquid Crowdloan Market Makers
+Principles
+Staking Fees
+Staking Smart Contracts
+Switching ankrETH on BNB Chain
+Get goETH
+Making Games
+Mirage Gaming
+Support
+Request Support â
+ (opens in a new tab)
+Knowledge Base â
+ (opens in a new tab)
+Welcome to Ankr Docs
+Information Map
+Privacy Policy
+Building With Ankr
+Node API
+Getting Started
+Intro
+Basics: Public Plan
+Basics: Premium Plan
+Team Accounts
+Projects
+Overview
+Service Plans
+Pricing
+Supported Chains
+Chains Quickstart
+API Reference
+Aptos
+Arbitrum
+Arbitrum Nova
+Avail
+Avalanche
+B2 Network
+Bahamut
+Base
+Berachain
+Bitcoin
+Bitlayer
+BitTorrent Chain
+Blast
+BNB Smart Chain
+Celo
+Chiliz
+Core
+Ethereum
+Ethereum Beacon
+Fantom
+Filecoin
+Flare
+Gnosis
+Gnosis Beacon
+Harmony
+Huobi ECO Chain
+Horizen EON
+IoTeX
+Kava
+Kinto
+Klaytn
+Kusama
+Linea
+Mantle
+Metis
+Moonbeam
+NEAR
+Nervos
+Optimism
+Polkadot
+Polygon
+Polygon zkEVM
+Rollux
+Scroll
+Secret Network
+Sei
+Solana
+Stellar
+Sui
+Syscoin
+Taiko
+Telos
+Tenet
+TRON
+Xai
+XDC Network
+X Layer
+zkSync Era
+Advanced API
+Overview
+Pricing
+NFT API
+Query API
+Token API
+API Reference â
+ (opens in a new tab)
+Ankr.js SDK
+Ankr.py SDK
+Ankr React Hooks
+Quickstart Guide
+Overview
+Ankr.js SDK: Fetch NFTs
+Ankr.js SDK: Check Account Balance
+Ankr.js SDK: Advanced APIs on NodeJS Server
+Ankr.js SDK: Advanced APIs for React App
+DeFi-Dashboard dApp with Vite.js, Ankr.js, & Tailwind CSS
+Blockchain Node Snapshots
+Contract Automation
+Overview
+Time-based Automation
+Custom Logic Automation
+Create Compatible Contracts
+Manage Automation Tasks
+Ankr Verify
+Overview
+Getting Started
+Create and Manage a Digital ID
+Comply with a Policy
+Create a Policy as a Vendor
+Integrating with Ankr Verify
+Integrate with Ankr Verify
+Check User Compliance
+Development Details
+Ankr Tutorials
+Basic Tutorials
+Decentralized Application on Ethereum using No-Code
+DAO in 5 Minutes with Zero Lines of Code
+Ankr.js (Advanced APIs) React Quickstart Guide
+Permanent File Storage (IPFS) with Filebase
+Backend NodeJS IPFS File Uploader With Filebase
+Smart Contract Development
+ERC-721 NFT Smart Contract on Avalanche and Mint an NFT with Ankr, Hardhat, and Ethers.js
+ERC-20 Token with Ankr & Hardhat on Ethereum Goerli
+CryptoKitties-Like NFT with ERC-721 Smart Contract
+ERC-20 Token on Optimism L2
+Non-Transferable Soulbound NFT Smart Contract
+Rentable ERC-721 NFTs Smart Contract on Optimism L2
+Advanced Tutorials
+End-to-End Donation-Based Crowdfunding dApp on Polygon with Ankr
+Scaling with Ankr
+Scaling Services Overview
+Rollups
+What are Rollups
+Rollup Stacks
+Polygon CDK
+OP Stack
+ZK Stack
+Data Availability Layers
+Celestia
+EigenDA
+NEAR DA
+Sidechains
+What are Sidechains
+BNB Sidechain
+Overview
+Architecture
+Overview
+Circulation Model and Native Asset Bridge
+Native Asset Bridge
+Fast-Finality and BLS Cryptography
+
+System Smart Contracts
+Governance
+Runtime Upgrades
+Security
+Blockchain and EVM Security
+System Smart Contracts Security
+On-chain Security
+Off-chain Security
+How to
+Customize Genesis Config
+Launch BNB Sidechain
+Deploy an ERC-20 Token
+Deploy an ERC-721 Token
+Staking
+Demo
+FAQ
+Glossary
+Polygon Supernets
+Overview
+Staking With Ankr
+Overview
+For Developers
+Overview
+Development Details
+Avalanche Liquid Staking
+Binance Liquid Staking
+Ethereum Liquid Staking
+Ethereum Delegated Staking and Validator Hub
+Fantom Liquid Staking
+Polygon Liquid Staking
+Ankr Bridge
+Ankr Switch
+Smart Contract API
+Overview
+Avalanche Liquid Staking API
+Binance Liquid Staking API
+Ethereum Liquid Staking API
+Fantom Liquid Staking API
+Polygon Liquid Staking API
+RESTful API
+Staking Metrics API
+Trustless Ratio
+Validator API
+SDK
+Overview
+Liquid Staking SDK
+Liquid Crowdloan SDK
+Oracles
+Overview
+Redemption Price Oracle
+PancakeSwap Price Oracle
+APR Oracle
+Flash Loan
+Overview and Development Details
+Flash Unstake
+BNB Flash Unstake
+Referral Program
+Overview
+Delegated Staking
+Ankr
+Overview
+Stake
+Claim or Restake Rewards
+Unstake
+FAQ
+Ankr Validators
+Overview
+Stake
+Gnosis
+Overview
+Stake
+Unstake
+FAQ
+Liquid Staking
+Overview
+Avalanche
+Overview
+Stake
+Unstake
+FAQ
+Binance
+Overview
+Stake
+Unstake
+FAQ
+Ethereum
+Overview
+What and why is Ethereum Liquid Staking?
+Audit details
+Smart contracts
+Supported wallets
+Security
+Stake
+Restake on EigenLayer
+Unstake
+Unstake on EigenLayer
+FAQ
+Fantom
+Overview
+Stake
+Unstake
+FAQ
+Polkadot
+Unstake
+FAQ
+Polygon
+Overview
+Stake
+Unstake
+FAQ
+Liquid Crowdloan
+Overview
+Unstake DOT from a Liquid Crowdloan
+DeFi
+Overview
+Liquidity Pools
+Yield Farming
+Vaults
+FAQ
+Bridge
+Overview
+Bridge Tokens
+Switch
+Overview
+Switch Tokens
+Extra
+ANKR Governance Mechanics
+ANKR Tokenomics
+Ankr Validators
+Audit Reports
+Brand Assets
+Compatible Wallets
+Fixing Network Switch in MetaMask
+Glossary
+Integrating with Ankr Staking
+Liquid Staking Tokens Addresses (Mainnet)
+Liquid Staking Tokens Addresses  (Testnet)
+Micropool Staking
+Parachain Liquid Crowdloan Market Makers
+Principles
+Staking Fees
+Staking Smart Contracts
+Switching ankrETH on BNB Chain
+Get goETH
+Making Games
+Mirage Gaming
+Support
+Request Support â
+ (opens in a new tab)
+Knowledge Base â
+ (opens in a new tab)
+To Ankr
+Light
+On This Page
+What and why is Ethereum Liquid Staking?
+Audit details
+Smart contracts
+Supported wallets
+Give us feedback â
+ (opens in a new tab)
+Edit this page on GitHub â
+Liquid Staking
+Ethereum
+Overview
+Ethereum Liquid Staking
+
+
+What and why is Ethereum Liquid Staking?
+
+
+Ankr Staking offers Ethereum token holders the opportunity to stake ETH and in return claim Ethereum Liquid Staking tokens â ankrETH (ex-aETHc).
+
+
+We have made a separate 
+testnet version of Ethereum Liquid Staking on Goerli
+ (opens in a new tab)
+! 
+
+Anybody interested to test Liquid Staking without spending mainnet ETH, 
+get goETH
+ and come and try it!
+
+
+There are no more new stakes getting aETHb token. However, old stakes with aETHb keep generating you rewards. You can also 
+switch aETHb for ankrETH now
+ (opens in a new tab)
+ (supply is limited).
+
+
+Audit details
+
+
+ETH Liquid Staking smart contracts have undergone external audits by Beosin Blockchain Security:
+
+
+
+
+Nov 2020 detailed audit report
+
+
+Nov 2022 detailed audit report
+
+
+May 2023 detailed audit report by Salus
+
+
+
+
+Smart contracts
+
+
+For all technical details and mechanics of ETH Liquid Staking , visit 
+ETH development details
+.
+
+
+Supported wallets
+
+
+Ethereum Liquid Staking supports several options, including hot and cold wallets.
+View a complete list at 
+Compatible wallets
+.
+FAQ
+Security
+Light
+Products
+Web3 API
+Staking
+Scaling Services
+Automate
+Enterprise Solutions
+Block Explorer
+Ankr Network
+Ankr Token
+RPCs
+Polygon
+Ethereum
+Avalanche
+BSC
+Optimism
+Arbitrum
+See All
+Staking
+Ethereum
+Polygon
+Avalanche
+BSC
+Fantom
+See All
+Case Studies
+BNB Chain
+Chiliz
+Polygon
+SushiSwap
+Meta Apes
+Mantle Network
+See all case studies
+Resources
+Docs
+Tutorials
+Github
+Ankr Whitepaper 2.0
+Brand Assets
+Company
+About Us
+Blog
+Press
+Careers
+Socials
+Twitter
+Telegram
+Discord
+Medium
+Reddit
+Instagram
+YouTube
+LinkedIn
+Powered by
+Â© 
+2024
+ Ankr All rights reserved | info@ankr.com

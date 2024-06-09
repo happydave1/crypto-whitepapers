@@ -1,0 +1,506 @@
+
+
+
+
+
+
+
+
+
+
+Waves documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+    waves_logo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Docs
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+        English
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+        Ð ÑÑÑÐºÐ¸Ð¹
+    
+ 
+ 
+
+								Welcome to the documentation on everything about Waves blockchain
+							
+ 
+ 
+ 
+ 
+ 
+ 
+
+                All
+            
+
+                Beginner
+            
+
+                Advanced
+            
+
+                Supplementary
+            
+ 
+ 
+Ð ÐµÑÑÑÑ 1
+
+
+ 
+
+                Beginner
+            
+ 
+
+                                                    Waves Blockchain
+                                                
+ 
+
+											Overview of the Waves blockchain main features. Transaction types and fees. Protocol, consensus, cryptography.
+										
+ 
+
+														Account
+													
+
+														Tokens
+													
+
+														Transactions
+													
+
+														Node
+													
+
+														WAVES leasing
+													
+
+														Unit Zero (L2)
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+                Advanced
+            
+ 
+
+                                                    Building Apps
+                                                
+ 
+
+											Creating smart contracts and decentralized applications with Waves. Developer tools, APIs and SDKs.
+										
+ 
+
+														dApps
+													
+
+														Smart assets
+													
+
+														Signer
+													
+
+														How-to guides
+													
+
+														Data Service API
+													
+Ð ÐµÑÑÑÑ 5
+
+
+ 
+
+                Advanced
+            
+ 
+
+                                                    Ride Programming Language
+                                                
+ 
+
+											Syntax of Ride. Script types. Built-in functions, operators and structures.
+										
+ 
+
+														Getting started
+													
+
+														Script types
+													
+
+														Callable function
+													
+Ð ÐµÑÑÑÑ 2
+
+
+ 
+
+                Advanced
+            
+ 
+
+                                                    Node
+                                                
+ 
+
+											Waves full node. Configuring and running a node. Getting actual blockchain. Activating new features.
+										
+ 
+
+														Launch a node
+													
+
+														Generate blocks
+													
+
+														gRPC server
+													
+
+														Node REST API
+													
+Ð ÐµÑÑÑÑ 3
+
+
+ 
+
+                Beginner
+            
+ 
+
+                                                    Ecosystem Apps
+                                                
+ 
+
+											Useful applications and services built on the Waves blockchain.
+										
+ 
+
+														Explorer
+													
+
+														Free Waves on Testnet
+													
+
+
+
+
+Ð ÐµÑÑÑÑ 7
+
+
+ 
+
+                Supplementary
+            
+ 
+
+                                                    Keep in Touch
+                                                
+ 
+
+											Join the community, keep up with the latest news and articles, and find out all about events happening in the Waves ecosystem.
+										
+ 
+
+														Release notes
+													
+
+														Official blog
+													
+
+														Developer chat
+													
+ 
+
+    waves_logo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Docs
+
+
+
+
+
+
+
+
+ 
+Brought to you by Waves Team
+ 
+
+                Â© 2024, Waves
+            
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+        Ð ÑÑÑÐºÐ¸Ð¹
+    
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+        English
+    
+ 
+ 
+
+                    Resources
+                
+ 
+
+                            About Waves
+                        
+
+                            Developer Portal
+                        
+
+                            Waves Lessons
+                        
+
+                            GitHub
+                        
+
+
+
+                    Tools
+                
+ 
+
+                            Waves Explorer
+                        
+
+                            Waves IDE
+                        
+
+                            Waves Dapp Ui
+                        
+
+                            Keeper Wallet
+                        
+
+                            Signer
+                        
+
+                    Social
+                
+ 
+
+                            Discord
+                        
+
+                            Telegram
+                        
+
+                            Twitter
+                        
+
+                            Blog
+                        
+
+                            Forum
+                        
+
+
+
+
+
+
+

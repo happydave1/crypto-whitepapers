@@ -1,0 +1,2447 @@
+ 
+Moonbeam Docs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thanks to asynchronous backing, 6-second block times are coming to Moonriver and Moonbeam in the next runtime upgrade! Learn more about 
+async backing
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Builders
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get Started
+ 
+Everything you need to get started building
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Development Toolkit
+ 
+Libraries, tools, and contracts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JSON-RPC APIs
+ 
+Methods you can interact with over JSON-RPC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Development Interfaces
+ 
+Precompiled Solidity contracts and Substrate interfaces
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interoperability
+ 
+GMP protocols for cross-chain development
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate
+ 
+Tools and protocols to integrate with
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Node Operators
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Networks
+ 
+Run full, tracing, or collator nodes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oracle Nodes
+ 
+Run infrastructure for oracles services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indexer Nodes
+ 
+Run infrastructure for indexing and querying services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tokens
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect to Moonbeam
+ 
+Connect your wallet to Moonbeam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Account Management
+ 
+Advanced account and identity services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Staking
+ 
+Stake tokens by delegating to collators
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Governance
+ 
+Submit and vote on on-chain proposals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+Dive into underlying technology and design aspects
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Core Concepts
+ 
+Learn about the fundamentals of Moonbeam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+Explore core features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DApps List
+ 
+Discover DApps deployed on Moonbeam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interoperability
+ 
+Get hands-on building cross-chain DApps
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ethereum API
+ 
+Beginner to pro smart contract tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+Dive deeper with tutorials on seamless integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect Wallet 
+ 
+ Faucet 
+ 
+ 
+ 
+ 
+Eng
+ 
+ä¸­æ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Initializing search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ 
+ 
+Builders
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get Started
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quick Start 
+ 
+ 
+ 
+ Create an Account 
+ 
+ 
+ 
+ 
+ 
+Networks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Local Moonbeam Dev Node 
+ 
+ 
+ 
+ Moonbase Alpha 
+ 
+ 
+ 
+ Moonriver 
+ 
+ 
+ 
+ Moonbeam 
+ 
+ 
+ 
+ 
+ 
+ 
+ Network RPC Endpoints 
+ 
+ 
+ 
+ Block Explorers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Development Toolkit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Canonical Contracts 
+ 
+ 
+ 
+ 
+ 
+Ethereum Tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Libraries
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethers.js 
+ 
+ 
+ 
+ Ethers.rs 
+ 
+ 
+ 
+ viem 
+ 
+ 
+ 
+ Web3.js 
+ 
+ 
+ 
+ Web3.py 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dev Environments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OpenZeppelin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Contract Wizard 
+ 
+ 
+ 
+ Defender 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ape 
+ 
+ 
+ 
+ Brownie 
+ 
+ 
+ 
+ Foundry 
+ 
+ 
+ 
+ Hardhat 
+ 
+ 
+ 
+ Remix 
+ 
+ 
+ 
+ Scaffold-ETH 
+ 
+ 
+ 
+ Tenderly 
+ 
+ 
+ 
+ thirdweb 
+ 
+ 
+ 
+ Waffle & Mars 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verify Contracts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Block Explorers 
+ 
+ 
+ 
+ Etherscan Plugins 
+ 
+ 
+ 
+ API-based Verification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Substrate Tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Chopsticks 
+ 
+ 
+ 
+ Polkadot.js API 
+ 
+ 
+ 
+ Py Substrate Interface 
+ 
+ 
+ 
+ Sidecar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JSON-RPC APIs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Standard Ethereum 
+ 
+ 
+ 
+ Non-standard Ethereum: Tracing 
+ 
+ 
+ 
+ Non-standard Ethereum: Pubsub 
+ 
+ 
+ 
+ Custom Moonbeam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Development Interfaces
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Substrate Interfaces
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conviction Voting 
+ 
+ 
+ 
+ Identity 
+ 
+ 
+ 
+ Multisig 
+ 
+ 
+ 
+ Parachain Staking 
+ 
+ 
+ 
+ Preimage 
+ 
+ 
+ 
+ Proxy 
+ 
+ 
+ 
+ Randomness 
+ 
+ 
+ 
+ Referenda 
+ 
+ 
+ 
+ Utility 
+ 
+ 
+ 
+ X-Tokens 
+ 
+ 
+ 
+ XCM Transactor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Precompiled Contracts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Author Mapping 
+ 
+ 
+ 
+ Batch 
+ 
+ 
+ 
+ Call Permit 
+ 
+ 
+ 
+ Collective 
+ 
+ 
+ 
+ Conviction Voting 
+ 
+ 
+ 
+ Ethereum Native 
+ 
+ 
+ 
+ GMP 
+ 
+ 
+ 
+ Identity 
+ 
+ 
+ 
+ Native Token ERC-20 
+ 
+ 
+ 
+ Precompile Registry 
+ 
+ 
+ 
+ Preimage 
+ 
+ 
+ 
+ Proxy 
+ 
+ 
+ 
+ Randomness 
+ 
+ 
+ 
+ Referenda 
+ 
+ 
+ 
+ Relay Data Verifier 
+ 
+ 
+ 
+ Staking Functions 
+ 
+ 
+ 
+ X-Tokens 
+ 
+ 
+ 
+ XCM Transactor 
+ 
+ 
+ 
+ XCM Utilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interoperability
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XCM Interoperability
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ 
+ 
+Core Concepts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ XCM Instructions 
+ 
+ 
+ 
+ Multilocations 
+ 
+ 
+ 
+ Weights and Fees 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XC Registration
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forum Templates 
+ 
+ 
+ 
+ XC Channel Registration 
+ 
+ 
+ 
+ XC Asset Registration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XC-20s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Interact with XC-20s 
+ 
+ 
+ 
+ 
+ 
+Send XC-20s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Using the Substrate API 
+ 
+ 
+ 
+ Using the Ethereum API 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remote Execution
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Computed Origin Accounts 
+ 
+ 
+ 
+ 
+ 
+Remote Substrate Calls
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Using the Substrate API 
+ 
+ 
+ 
+ Using the Ethereum API 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remote EVM Calls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XCM SDK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference 
+ 
+ 
+ 
+ Using the SDK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference 
+ 
+ 
+ 
+ Using the SDK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send & Execute XCM Messages 
+ 
+ 
+ 
+ XCM Utilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cross-Chain Protocols
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Axelar 
+ 
+ 
+ 
+ Hyperlane 
+ 
+ 
+ 
+ LayerZero 
+ 
+ 
+ 
+ Wormhole 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moonbeam Routed Liquidity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dapplooker 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gaming
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MetaFab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indexers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Graph 
+ 
+ 
+ 
+ Covalent API 
+ 
+ 
+ 
+ SubQuery 
+ 
+ 
+ 
+ Subsquid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oracles
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ API3 
+ 
+ 
+ 
+ Band Protocol 
+ 
+ 
+ 
+ Chainlink 
+ 
+ 
+ 
+ DIA 
+ 
+ 
+ 
+ Razor Network 
+ 
+ 
+ 
+ Supra 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wallets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MetaMask 
+ 
+ 
+ 
+ WalletConnect 
+ 
+ 
+ 
+ Particle Network 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Node Operators
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Networks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Run a Node
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Using Docker 
+ 
+ 
+ 
+ Using Systemd 
+ 
+ 
+ 
+ Flags 
+ 
+ 
+ 
+ 
+ 
+ 
+ Run a Tracing Node 
+ 
+ 
+ 
+ 
+ 
+Collators
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ FAQ 
+ 
+ 
+ 
+ Requirements 
+ 
+ 
+ 
+ Account Management 
+ 
+ 
+ 
+ Collator Activities 
+ 
+ 
+ 
+ Orbiter Program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oracle Nodes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chainlink Node 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indexer Nodes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Graph Node 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tokens
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connect to Moonbeam
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ledger
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moonbeam App 
+ 
+ 
+ 
+ Moonriver App 
+ 
+ 
+ 
+ Ethereum App 
+ 
+ 
+ 
+ 
+ 
+ 
+ Coinbase Wallet 
+ 
+ 
+ 
+ MathWallet 
+ 
+ 
+ 
+ MetaMask 
+ 
+ 
+ 
+ Polkadot.js Apps 
+ 
+ 
+ 
+ SubWallet 
+ 
+ 
+ 
+ Talisman 
+ 
+ 
+ 
+ Trezor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Account Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proxy Accounts 
+ 
+ 
+ 
+ Moonbeam Safe 
+ 
+ 
+ 
+ Managing an Identity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Staking
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to Stake 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Governance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit a Democracy Proposal 
+ 
+ 
+ 
+ Vote on a Proposal 
+ 
+ 
+ 
+ Submit a Treasury Proposal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learn
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Networks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Moonbase Alpha 
+ 
+ 
+ 
+ Moonriver 
+ 
+ 
+ 
+ Moonbeam 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vision 
+ 
+ 
+ 
+ Why Polkadot 
+ 
+ 
+ 
+ Technology & Architecture 
+ 
+ 
+ 
+ Tokens 
+ 
+ 
+ 
+ Source Code 
+ 
+ 
+ 
+ Important Links 
+ 
+ 
+ 
+ Glossary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Core Concepts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Account Balances 
+ 
+ 
+ 
+ Balance Transfers 
+ 
+ 
+ 
+ Consensus & Finality 
+ 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ Unified Accounts 
+ 
+ 
+ 
+ Security Considerations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cross-Chain Communication 
+ 
+ 
+ 
+ Ethereum Compatibility 
+ 
+ 
+ 
+ Governance 
+ 
+ 
+ 
+ Parachain Consensus 
+ 
+ 
+ 
+ Randomness 
+ 
+ 
+ 
+ Staking 
+ 
+ 
+ 
+ Treasury 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DApps List
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moonbeam Foundation DApp Directory 
+ 
+ 
+ 
+ State of the DApps 
+ 
+ 
+ 
+ DappRadar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tutorials
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interoperability
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create Connected Contracts with Cross-Chain Protocols
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [LayerZero] Creating a Cross-Chain DAO 
+ 
+ 
+ 
+ [Axelar] Minting a Cross-Chain NFT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Build Cross-Chain Applications with XCM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [Polkadot's XCM Pallet] Remote Staking on Moonbeam from Polkadot 
+ 
+ 
+ 
+ [Polkadot's XCM Pallet] Uniswap V2 Swap on Moonbeam from Polkadot 
+ 
+ 
+ 
+ [Polkadot's XCM Pallet] Batched Remote EVM Calls on Moonbeam from Polkadot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ethereum API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Get Started with Smart Contracts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [ChatGPT] Use GPT-4 to Write and Debug Smart Contracts 
+ 
+ 
+ 
+ [Ethers.js] How to Build a DApp 
+ 
+ 
+ 
+ [Foundry] Development Life Cycle from Start to End 
+ 
+ 
+ 
+ [Hardhat] Development Life Cycle from Start to End 
+ 
+ 
+ 
+ [Tenderly] Using Tenderly to Debug and Simulate Transactions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interact with Precompiles
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [Batch] Approve & Swap Tokens in a Single Transaction 
+ 
+ 
+ 
+ [Randomness] Create a Lottery 
+ 
+ 
+ 
+ [Call Permit] Send Gasless Transactions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integrations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use Indexers to Query Chain Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [Subsquid] Index a Local Dev Node 
+ 
+ 
+ 
+ [Subsquid] Index NFT Transfers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use Oracles to Fetch Off-Chain Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [Supra] Fetch Price Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moonbeam Network Resources & Documentation
+ 
+Moonbeam combines the best of both worlds: the familiar and easy-to-use tooling of Ethereum and the scalable, interoperable architecture of Polkadot. 
+ Dive into the tools, integrations, and comprehensive tutorials to start using and building on Moonbeam. 
+ 
+ 
+ 
+Start Building 
+ 
+ 
+ 
+Bug Bounty 
+ 
+ 
+ 
+Grants Program 
+ 
+ 
+ 
+ 
+Quick References
+ 
+ 
+ 
+Moonbeam vs Ethereum
+ 
+ 
+ 
+Canonical Contracts
+ 
+ 
+ 
+Network Endpoints
+ 
+ 
+ 
+Security Considerations
+ 
+ 
+ 
+Historical Updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start Building 
+ 
+ 
+ 
+Bug Bounty 
+ 
+ 
+ 
+Grants Program 
+ 
+ 
+ 
+ 
+ 
+Quick References
+ 
+ 
+ 
+Moonbeam vs Ethereum
+ 
+ 
+ 
+Canonical Contracts
+ 
+ 
+ 
+Network Endpoints
+ 
+ 
+ 
+Security Considerations
+ 
+ 
+ 
+Historical Updates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Building on Moonbeam
+ 
+ 
+ 
+ 
+ 
+Learn how to build a new application or deploy existing Solidity/Vyper smart contracts to Moonbeam, Moonriver, or the Moonbase Alpha TestNet.
+ 
+ 
+ 
+Learn More 
+ 
+ 
+ 
+In this section
+ 
+ 
+ 
+ How to get your own API endpoint for Moonbeam-based networks 
+ 
+ 
+ 
+ 
+ How to use Ethereum tools to send transactions & deploy contracts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating a Node
+ 
+ 
+ 
+ 
+ 
+Everything you need to know about running a node on Moonbeam and Moonriver, how to become a collator, and more.
+ 
+ 
+ 
+Learn More 
+ 
+ 
+ 
+In this section
+ 
+ 
+ 
+ How to set up a Moonbeam-based node 
+ 
+ 
+ 
+ 
+ Learn about collator requirements and how to spin up a collator node 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using Your MOVR & GLMR Tokens
+ 
+ 
+ 
+ 
+ 
+A series of guides showing you how and where you can use your MOVR and GLMR tokens with wallets/DApps or earn rewards through staking.
+ 
+ 
+ 
+Learn More 
+ 
+ 
+ 
+In this section
+ 
+ 
+ 
+ How to connect MetaMask to Moonbeam-based networks 
+ 
+ 
+ 
+ 
+ How to stake (delegate) a collator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Learning About Moonbeam
+ 
+ 
+ 
+ 
+ 
+Dive into the Moonbeam ecosystem and learn what makes this approach to Ethereum compatability so compelling.
+ 
+ 
+ 
+Learn More 
+ 
+ 
+ 
+In this section
+ 
+ 
+ 
+ Moonbeam network overview 
+ 
+ 
+ 
+ 
+ Explore the DApp directory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join our newsletter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Â© 2024 Moonbeam Foundation. All Rights Reserved. 
+ 
+ 
+Terms of use
+ 
+Privacy policy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

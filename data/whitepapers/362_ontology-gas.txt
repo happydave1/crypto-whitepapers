@@ -1,0 +1,214 @@
+Introduction | English | Ontology Developer Center
+Ontology Developer Center
+v2.5
+v2.5
+ 
+DISCOVER
+ 
+APPLICATIONS
+ 
+COMMUNITY
+ 
+SUPPORT
+Search
+Ctrl
+â+âK
+Introduction
+Discover Ontology
+Getting Started
+Glossary
+Decentralized Identity and Data
+ONT ID
+Decentralized Identifiers
+Method Specification for Ontology
+Method Specification for Ethereum
+Method Specification for BSC
+Verifiable Credentials
+Anonymous Credentials
+ONT Login
+Scenarios
+Protocol Specification
+Front-end JavaScript SDK
+Integration and Usage
+API Reference
+Front-end UI SDK
+Integration and Usage
+API Reference
+Back-end Go SDK
+Integration and Usage
+API Reference
+Back-end Java SDK
+Integration and Usage
+API Reference
+ONT TAG
+Workflow
+API Reference
+Mercury
+OScore
+DDXF
+Components and Interfaces
+GREP
+Overall Scheme
+Solutions
+Marketplace
+Deployment
+Scenarios
+SaaS Tenant
+Java SDK
+Data Storage
+Deployment
+Java SDK
+Resource Auditor
+Offline Judge
+Use Cases
+E-Shops
+ONTOLOGY ELEMENTS
+Smart Contracts
+Types of smart contracts
+Token Protocols
+Consensus Mechanism
+Ontology Oracle
+Oracle Process Flow
+GUIDES & TUTORIALS
+Development Guides
+dApp Development
+Using the dAPI
+Data Synchronization
+Smart Contract Development
+EVM Contract
+Development Environment and Tools
+Wallet Setup
+Contract Development
+How to Deploy a Smart Contract with GetBlock
+NeoVM Contract
+Development tools and environment
+Launching the IDE
+Writing and editing program logic
+Deploying and testing on private net
+WASM Contract
+Development Environment
+Project Initiation - Hello World
+Creating your own project
+Development using SmartX
+Runtime API
+Contract Fundamentals
+Inter-contract Interaction
+Developing Contracts in C++
+Publish Contract Source Code
+Integration Guides
+dApp Integration
+dAPI Integration
+Chrome Plugin
+Mobile wallet dApp
+QR code mechanism
+Wake call mechanism
+Cocos 2D-x
+Unity 3D applications
+Mobile Wallet Integration
+SDK integration
+dAPI Integration
+In-wallet applications
+QR code mechanism
+Wake call mechanism
+Stake
+Using ONT ID
+Exchange Integration
+Exchange Docking Guide
+Exchange API
+Ontology for dApp Stores
+EVM & Token Decimals Upgrade
+ONTOLOGY NODE
+Abstract
+Node Deployment
+Standard Node
+Rosetta Node
+Interacting with a Public Node
+DEVELOPER TOOLS
+dApp Development Framework
+Punica CLI
+Punica boxes
+Solo Chain
+IDE
+APIs
+HTTP API
+Restful
+WebSocket
+Remote Procedure Call (RPC)
+Explorer v2 API
+Block
+Address
+Contract
+Token
+Transactions
+ONT ID
+Summary
+Node
+Native Token API
+ONT Contract API
+ONG Contract API
+ONT ID Contract API
+Web3 API
+OScore Open API
+Rosetta Node API
+Data API
+Construction API
+DToken Contract API
+DDXF
+Marketplace Contract API
+Storage API
+Digital Wallet
+Chrome Plugin provider
+Chrome Plugin dAPI
+Mobile version provider
+Mobile version dAPI
+SDKs
+Signing Server
+Installation
+API reference
+COMMUNITY
+Ecosystem Programs
+Community Libraries
+Community Events
+Community Channels
+Core Contributors
+SUPPORT
+FAQ
+Basic blockchain concepts
+Ontology Nodes
+Ontology token protocols
+Smart contracts
+SDKs and APIs
+Contact Us
+Powered by GitBook
+Introduction
+Introduction to Ontology
+An upgrade of Ontology MainNet at the block height of 
+13920000 
+will introduce EVM compatibility and the token decimal upgrade to better support dApps on Ontology.
+ 
+Learn about more details 
+here
+.
+Ontology
+ is a next-gen network of public blockchains, and a distributed, trust-based collaboration platform with integrated support for ledger accounts and smart contracts.
+Apart from providing support for the services and applications running on its public chains, Ontology also supports the public chains of the applications that have been developed on it's framework, and collaboration with various protocol groups.
+On a more fundamental level, Ontology continues to provide a wide range of universal modules, such as the 
+Distributed Identity Framework (DID)
+, the distributed 
+Distributed Data Exchange Framework (DDXF)
+, and other such distributed trust collaboration packages and modules.
+This 
+documentation center
+ serves as a guide for developers that are just getting started with 
+dApp
+ development with Ontology, apart from providing information on the different components of the Ontology framework.
+It also serves as a location to explore and understand all the different resources available that can assist developers with their application development process.
+Any issues or inaccuracies related to documentation can be shared with us by following 
+this
+ link.
+Next
+Discover Ontology
+Last updated 
+2 years ago
+On this page
+Was this helpful?

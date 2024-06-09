@@ -1,0 +1,193 @@
+Welcome | Bounce Docs
+Bounce Docs
+ 
+Home
+ 
+Application
+ 
+Governance
+Search
+Ctrl
+â+âK
+ð¥³
+Welcome to Bounce Docs
+Welcome
+Auction as a Service
+About Bounce Finance
+Our Vision
+Product Offering Overview
+ð¹ï¸
+Bounce Auction Mechanisms
+Fixed-Price Auction
+English Auction
+Mutant English Auction
+Dutch Auction
+Sealed-Bid Auction
+Random Selection Auction
+Orderbook Auction
+Playable Auction
+Real world collectibles Auction
+Advertisement Auction
+ð ï¸
+Auction User Guide
+About Bounce's Auction Guides
+Fixed-Price Auction Guides
+Create a Fixed-Price Auction
+Participate in a fixed-price auction
+Token claim post auction
+Playable Auction Guides
+Participate in a playable auction
+Dutch Auction Guides
+Create a Dutch auction
+Participate in a Dutch auction
+Token claim post auction
+Sealed-Bid Auction Guides
+Create a sealed-bid auction
+Participate in a sealed-bid auction
+Random Selection Auction Guides
+Create a random selection auction
+Participate in a random selection auction
+After the auction
+NFT Sealed-Bid Auction Guides
+Create an NFT sealed-bid auction
+Participate in an NFT sealed-bid auction
+NFT English Auction Guides
+Create an NFT English auction
+Participate in an NFT English auction
+After the NFT English auction
+NFT Dutch Auction Guides
+Create an NFT Dutch auction
+Participate in an NFT Dutch auction
+After the NFT Dutch auction
+NFT Random Selection Auction Guides
+Create an NFT lottery auction
+Bounce Staking Auction User Guide
+ð¨
+Auction Products
+Ad Space Auctions
+Real World Collectible Auctions
+Token & NFT Auctions
+ðª
+Bounce M&A
+Motivation Behind Bounce M&A
+Key Features of Bounce M&A
+ð¼ï¸
+Bounce NFT
+NFT Issuance
+NFT standards
+NFT standard API document
+NFT issuance on Binance Smart Chain
+FAQ
+What's a Web Wallet? What's Metamask?
+How to Get Setup on Metamask?
+How Do I Connect My Wallet to BSC?
+How Do I Become "Verified" on Bounce NFT?
+How to Make Money on NFTs
+How to Search for NFTs?
+Bounce NFT Support
+ð¨âð¼
+Logistics
+Sign Up
+Sign In
+Basic Profile Registration
+Portfolio Registration
+Company Registration
+Account Settings
+Start-up Ideas
+ð¨âð¾
+Bounce Recruitment
+What is Bounce Recruitment?
+Key Features
+Technical Innovations
+Whitepaper
+Architectural Overview
+Tokenomics
+Business model
+Strategic Vision
+User Guide
+User Help Manual
+Account Management
+Sign in/ Sign up
+Forget Password
+Account Settings
+My Wallet
+Being a Seller
+How to Become a Seller
+How to Modify Seller Profile
+Service Management
+Service Category
+Create the Service
+How do I Retrieve the Service?
+Requesting & Acquiring a Service
+Follow Service or Seller
+How do I Post a Request?
+How to Purchase a Service
+Search Requests
+Request Bidding
+Cancellation of Published Requests
+Confirmation Bid
+Ordering Process
+The Ordering Workflow
+Minting the Deliverable as an NFT
+Order Voucher (on chain)
+Order Reviews & Ratings
+FAQ
+Seller Verification Process
+ð
+Token Economics
+AUCTION Token Economics
+AUCTION Token Metrics
+Investors
+ðª
+Bounce DAO
+Bounce Lab
+Governance
+Governance Policies
+Governance Forum
+ð¤©
+Bounce Community
+Join our Community
+ð¶
+Additional Resource
+Auditing Report
+Branding Asset
+Bug Report
+Bounce Github
+Powered by GitBook
+Welcome
+Introducing Bounce: Decentralized Auctions At Your Fingertips
+Since the first traditional auction in 500 B.C. through to the digital incarnations of today, this age-old process of buying and selling assets has struggled to introduce real improvements in efficiency, transparency, and accessibility. This comes down to three main problems. 
+Firstly, traditional auctions are typically centralized. This means that they are controlled by a single auction house or broker, which can lead to a lack of transparency and fairness. 
+Secondly, they can be expensive for sellers, who may have to pay significant commissions to the auction house or broker. Plus, traditional auctions can be difficult to access for inexperienced buyers due to the complex and intimidating bidding processes that follow their own set of rules, customs, and terminologies.
+Lastly, when held in person, traditional auctions are often limited to a specific geographic location, which can curtail the pool of potential bidders and buyers. 
+Transforming Auctions Through Blockchain Technology
+Decentralization offers the potential to solve all these issues, opening the way to a new type of auction: one that is transparent, trust-less, secure, and indelibly recorded through blockchain technology. 
+Web3 auctions are powered by smart contracts, which are self-executing with the terms agreed between buyer and seller written into tamper-proof code. And in a major shift from traditional auctions, participants can also bid on assets using cryptocurrency. This means anyone with an internet connection and a crypto wallet can take part, regardless of their location or financial status. This opens up new opportunities for people to sell or bid on assets that may once have been out of reach.
+Meet Bounce: The Web3 Auction Specialist
+Bounce
+âs fully decentralized auction platform uses blockchain technology to ensure more transparent, efficient, and accessible auctioning, bidding, and buying processes for Web3 users. 
+Since our September 2020 launch, Bounce has grown into one of the most popular decentralized auction platforms in the Web3 ecosystem, particularly esteemed by buyers and sellers in the DeFi and NFT spaces. We also offer the widest selection of auctions in Web3: from the popular English auction, where the bidding starts from the lowest possible price, through to innovative playable auctions, where participants compete in simple games for the right to buy assets. 
+Unlike centralized auction platforms, Bounce is non-custodial, which means users retain control over their funds and assets at all times. Powered by blockchain, Bounceâs platform also uses smart contracts â not people â to manage auctions and distribute funds, ensuring a process that is both transparent and secure.
+One of the unique strengths of Bounce is our integration with other DeFi protocols, including, most recently, Arbitrum One for efficient and affordable Ethereum transactions. Bounceâs integrations enable users to easily swap between assets and participate in auctions using their preferred tokens. 
+Our platform allows for the creation of custom auctions, enabling users to set their own parameters such as reserve prices and auction duration across various auction types.
+Auction creators can also allocate a portion of the proceeds to specific beneficiaries or charities, providing a straightforward way to give back to the community. They can also opt to earn a percentage as a fee, incentivizing them to create high-quality and attractive auctions.
+Bounce V3
+With the launch of 
+Bounce V3
+ in February 2023, we completely overhauled our approach to auctions in a bid to adapt to an evolving Web3 landscape. 
+Weâve entered new auction sectors, expanded our marketplace offerings and forged new development partnerships to increase the range of benefits and features for users. Weâve also added fairness mechanisms to our auction processes to prevent fraudulent activity and an innovative regret function for fixed swap auctions that allows participants to withdraw their bids at any time during the process. 
+Perhaps most importantly, Bounce V3 introduced Auction as a Service (AaaS).
+
+
+Next
+Auction as a Service
+Last updated 
+6 months ago
+On this page
+Introducing Bounce: Decentralized Auctions At Your Fingertips
+Transforming Auctions Through Blockchain Technology
+Meet Bounce: The Web3 Auction Specialist
+Bounce V3
+Was this helpful?
+ 
+Â©2023 Bounce dao Ltd. All rights reserved.

@@ -1,0 +1,95 @@
+ What is DODO? - DODO Docs
+DODO Docs
+Home
+Product
+Developer
+NPM
+GitHub
+Search
+Links
+Home
+Product
+Developer
+NPM
+GitHub
+ð¥ What is DODO?
+ðº Roadmap
+ð Security
+ð¦ Token Economy
+âFAQ
+ð Join Community
+ð¨ Media Kit
+ð­ DODO Research
+ð Terms of Service
+LANGUAGES
+ç®ä½ä¸­æ
+ð¥ What is DODO?
+
+
+DODO stands at the forefront of decentralized cryptocurrency exchanges, revolutionizing the way you interact with liquidity. We are your ultimate liquidity partner, offering you the means to create, find, and harness liquidity with ease.
+
+
+In an age where financial autonomy and transparency are of utmost importance, DODO sets itself apart by empowering users to take full control of their assets.
+
+
+Core Principles
+#
+
+
+
+
+Decentralization & Trust: At its core, DODO is built on decentralization principles. It operates as a peer-to-peer system, ensuring that your assets remain securely under your control.
+
+
+Transparency & Security: With a foundation built on blockchain technology, DODO offers complete transparency. Our commitment to security is second to none, backed by rigorous audits and significant investments to bolster our defenses. This dedication extends our compatibility across most EVM chains.
+
+
+
+
+Your Path to Liquidity
+#
+
+
+DODO's innovative Proactive Market Maker (PMM) algorithm takes center stage, presenting three distinct versions: V1, V2, and V3, each catering to a diverse range of liquidity requirements. Whether you're focused on stablecoins, mainstream cryptocurrencies, or introducing new tokens to the market, DODO simplifies the path to liquidity creation.
+
+
+Our user-centric toolkit further streamlines the process. Even without any coding expertise, users can effortlessly navigate our platform. With just a few clicks, you can undertake tasks like token creation, fundraising, liquidity mining, and more.
+
+
+Introducing DODOX: Elevate Your Trading Experience
+#
+
+
+As DODO evolved, we acknowledged the unique challenges of discovering liquidity and facilitating seamless trades in a multi-chain environment. This realization gave birth to DODOX, dedicated to addressing these vital dimensions.
+
+
+
+
+Revolutionizing Liquidity Search: Navigating the vast ocean of liquidity pools can be overwhelming. DODOX simplifies this with cutting-edge algorithms and integrations. By connecting with prominent liquidity sources such as Uniswap, Curve, and PancakeSwap, and comparing prices across top-tier aggregators like 1inch and 0x, DODOX ensures that users always secure the most competitive rates. Additionally, DODOX offers a trading API and widget for developers seeking seamless integration.
+
+
+Optimized Trading: Trading should be seamless, efficient, and profitable. DODOX offers a user-centric trading experience, whether you're conducting a same-chain or cross-chain swap. With our slippage forecast system and limit order feature, users are empowered to trade with the highest transaction success rate and under ideal conditions.
+
+
+
+
+Beyond the Exchange: DODO Research
+#
+
+
+Dive deep into the crypto realm with DODO Research. Our dedicated team is committed to providing objective and insightful analyses, covering both DODO-centric news and broader crypto trends.
+
+
+Here is our 
+Content Gallery
+.
+
+
+You can also follow us on Twitter at 
+@DodoResearch
+. Our DM is open! We welcome any insights.
+ON THIS PAGE
+Core Principles
+Your Path to Liquidity
+Introducing DODOX: Elevate Your Trading Experience
+Beyond the Exchange: DODO Research

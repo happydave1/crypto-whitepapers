@@ -1,0 +1,31 @@
+Abstract | Core White Paper v1.0.7
+Core White Paper v1.0.7
+Search
+Ctrl
+â+âK
+Abstract
+Introduction
+Core Objectives and Principles
+Background
+Satoshi Plus Consensus
+Major components, roles, and workflows
+Delegated Proof of Work
+Delegated Proof of Stake
+Validator Election
+Rewards
+Security
+Tokenomics
+Governance
+Conclusion
+Appendices
+Appendix A
+Appendix B
+References
+Powered by GitBook
+Abstract
+This paper provides an overview of the Core Blockchain (Core Chain), a Bitcoin-powered, Bitcoin-aligned, EVM-compatible layer one blockchain. Core Chainâs major innovation is a novel consensus mechanism, known as Satoshi Plus, that unites Delegated Proof of Work (DPoW) and Delegated Proof of Stake (DPoS). Through this combination, Core Chain incorporates Bitcoin miners in the security of Turing-complete smart contracts, unlocks the functionality and utility of those miners beyond the simple maintenance of the Bitcoin ledger, and provides them with purely additive supplemental income in the form of CORE token rewards. This symbiotic relationship works to strengthen Bitcoin without consuming Bitcoin block space or detracting from the minersâ primary role as defenders of the Bitcoin network.
+Next
+Introduction
+Last updated 
+1 month ago
+On this page

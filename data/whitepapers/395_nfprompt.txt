@@ -1,0 +1,76 @@
+Overview | NFPrompt
+NFPrompt
+Search
+Ctrl
+â+âK
+ð 
+Overview
+ð
+Getting Started
+ðª
+$cNFP
+ð±
+Seedless Experience
+â½
+Gasless Experience
+ð°
+Payment Composition
+ð¨
+Create NFPs
+ð
+Buying NFPs
+ð
+Selling NFPs
+ð¤©
+Future Developments
+ð¼ï¸
+Artist and Community Galleries
+ð¬
+Art Discussions
+ð§
+Auction Markets
+ðª
+Creator Bounties
+â¬ï¸
+UX Improvements
+ðª
+The NFP Learning Model
+âï¸
+$NFP Tokenomics and Revenue Model
+ð§ 
+Imagine2Earn
+ðï¸
+Governance and Voting
+ðª
+Staking
+ðª
+Airdrop
+ð
+Links
+ð
+Other Information
+ð
+Contract Audits
+âï¸
+Choice of Chain
+ð²
+Financing
+Powered by GitBook
+ð 
+Overview
+Non-Fungible Prompts: Mint Your Imagination
+As we all know, with the advent of ChatGPT, AI was rapidly adopted in 2023. The everyday user has realized that AI will affect all aspects of our lives in the future, and it will disrupt the existing economic and social patterns. For ordinary people, adapting to the development in the AI ââââera is crucial, as time and time again, refusal to adopt new technology results to obsoletion.
+Although most people believe that AI is of period-defining significance, it is quite difficult to adapt and seize the opportunity. Many people want to use AI as a new way for monetization, but key points are often misunderstood hence giving a notion that AI is difficult to monetize.
+In fact, it is not that there are no channels for AI monetization, but that suitable tools have not been built and used properly; this market gap should be addressed. Introducing NFPrompt, a Web3 tool that allows the everyday user to become content creators and establishing a way to monetize creations through AI tools.
+
+We built NFP to fully utilize the advantages of blockchain technology in the contemporary art industry. Methods of art creation have evolved from traditional craftsmanship to digital art, and now to the era of AI-generated content. Combining the merits enabled by Web3, ordinary users can now fully express their imaginations through convenient tools while providing verifiable ownership of their curated AI Art.
+
+Our goal, as innovators, is to provide the power for each user to realize and express their imaginations. All, while aligning economic token incentives, and building an open marketplace for their creations. Non-fungible Prompts would be at the forefront of open innovation for NFTs by providing AI tooling, interfaces, and discovery for truly exceptional artists.
+
+Next
+Getting Started
+Last updated 
+5 months ago
+On this page
+ 
+King NFPengu: The Official NFP Prompt Mascot

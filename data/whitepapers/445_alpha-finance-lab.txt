@@ -1,0 +1,104 @@
+Getting Started | Stella
+Stella
+Search
+Ctrl
+â+âK
+Overview
+ð 
+Getting Started
+ð¤
+Pay-As-You-Earn (PAYE) Model
+Protocol Mechanism
+â
+How Stella Works?
+ð
+Stella Strategy
+Why Stella Strategy is Unique?
+Strategy Type
+Asset Type
+Strategy Exposure
+Collateral Factor
+Borrow Factor
+Credits
+Price Range & Liquidity Shape
+Liquidation
+Liquidation Discount
+Post-Liquidation Value
+Price Impact
+Leverage
+Supported Strategies
+ð¦
+Stella Lend
+Why Stella Lend is Unique?
+Pool Type
+Supported Assets
+Yield Vault
+Withdrawal Delay
+ð°
+Yield Calculation
+PAYE Graph
+Yield Sharing
+â ï¸
+Risk Framework
+Precautionary Measures
+Slow Mode
+App Guide
+Walkthrough Stella APP
+Open a position
+Close a Position
+View Your Position
+Add/Remove Extra Collateral
+Claim Assets from Liquidated Position
+Deposit & Withdraw Assets
+Developers
+ð
+Contract Addresses
+Core
+Stella Strategy
+Stella Lend
+Oracle
+ð
+Contract ABI
+âï¸
+API
+Tokenomics
+ð¯
+ALPHA Token
+â¡
+Staking & Protocol Fees
+ð¥
+Token Distribution
+Additional Information
+ð 
+About Stella
+ð
+Audit Reports
+ð£
+Community Links
+ð¸
+Media Kit
+â
+FAQ
+ð
+Terms of Use
+Powered by GitBook
+ð 
+Getting Started
+Stella
+ is a leveraged strategies protocol with 
+0% cost to borrow
+. 
+At Stella, borrowers (or â
+leveragoors
+â) can take leverage on supported DeFi strategies 
+without paying any borrowing cost
+. Lenders can earn real yield shared from the leveragoors as a lending APY, the more the leveragoors get, the more the lenders earn. This is made possible by Stella's 
+âPay-As-You-Earnâ (PAYE) model
+, designed to help leveragoors and lenders earn the highest yield potential.
+Stellaâs Mission to Redefine How 'Leveraged DeFi' Works
+Stella strives to become the go-to destination for leveragoors and lenders to access maximum yield potential. Whatever on-chain strategies that leveragoors want to use on leverage (and safe enough to be supported), then Stella will support at 0% cost to borrow.
+Next
+Pay-As-You-Earn (PAYE) Model
+Last updated 
+8 months ago
+On this page

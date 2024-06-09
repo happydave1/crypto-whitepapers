@@ -1,0 +1,1189 @@
+
+
+ 
+
+
+
+
+
+
+zkBridge | Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Search
+
+
+
+
+Browse
+
+
+
+
+About
+
+
+
+
+
+
+
+
+
+
+
+                Sign in
+            
+
+
+
+
+
+
+
+                        Register
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Search
+Journals
+Magazines
+Proceedings
+Books
+SIGs
+Conferences
+People
+More
+
+
+Search ACM Digital Library
+Search
+Search
+
+
+Advanced Search
+
+
+
+
+
+
+
+
+10.1145/3548606.3560652
+acmconferences
+Article/Chapter View
+Abstract
+Publication Pages
+ccs
+Conference Proceedings
+conference-collections
+ccs
+Conference
+Proceedings
+Upcoming Events
+Authors
+Affiliations
+Award Winners
+More
+
+
+
+
+
+
+
+
+Home
+Conferences
+CCS
+Proceedings
+CCS '22
+zkBridge: Trustless Cross-chain Bridges Made Practical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+research-article 
+Open Access
+
+
+Share on
+
+
+zkBridge: Trustless Cross-chain Bridges Made Practical
+ 
+ 
+ 
+Authors: 
+ 
+ 
+Tiancheng Xie
+ 
+UC Berkeley, Berkeley, CA, USA
+ 
+ 
+ 
+UC Berkeley, Berkeley, CA, USA
+View Profile
+ 
+,
+ 
+ 
+Jiaheng Zhang
+ 
+UC Berkeley, Berkeley, CA, USA
+ 
+ 
+ 
+UC Berkeley, Berkeley, CA, USA
+View Profile
+ 
+,
+ 
+ 
+Zerui Cheng
+ 
+Tsinghua University, Beijing, China
+ 
+ 
+ 
+Tsinghua University, Beijing, China
+View Profile
+ 
+,
+ 
+ 
+Fan Zhang
+ 
+Yale University, New Haven, CT, USA
+ 
+ 
+ 
+Yale University, New Haven, CT, USA
+View Profile
+ 
+,
+ 
+ 
+Yupeng Zhang
+ 
+Texas A&M University, College Station, TX, USA
+ 
+ 
+ 
+Texas A&M University, College Station, TX, USA
+View Profile
+ 
+,
+ 
+ 
+Yongzheng Jia
+ 
+UC Berkeley, Berkeley, CA, USA
+ 
+ 
+ 
+UC Berkeley, Berkeley, CA, USA
+View Profile
+ 
+,
+ 
+ 
+Dan Boneh
+ 
+Stanford University, Stanford, CA, USA
+ 
+ 
+ 
+Stanford University, Stanford, CA, USA
+View Profile
+ 
+,
+ 
+ 
+Dawn Song
+ 
+UC Berkeley, Berkeley, CA, USA
+ 
+ 
+ 
+UC Berkeley, Berkeley, CA, USA
+View Profile
+ 
+ 
+ 
+Authors Info & Claims 
+ 
+ 
+CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+November 2022
+Pages   3003â3017
+https://doi.org/10.1145/3548606.3560652
+Published:
+07 November 2022
+Publication History
+
+
+14
+citation
+4,596
+Downloads
+Metrics
+Total Citations
+14
+Total Downloads
+4,596
+Last 12 Months
+3,976
+Last 6 weeks
+420
+
+
+Get Citation Alerts
+New Citation Alert added!
+This alert has been successfully added and will be sent to:
+You will be notified whenever a record that you have chosen has been cited.
+To manage your alert preferences, click on the button below.
+Manage my Alerts
+New Citation Alert!
+Please 
+log in to your account
+
+
+Publisher Site
+eReader
+PDF
+CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+zkBridge: Trustless Cross-chain Bridges Made Practical
+Pages   3003â3017
+
+
+Previous
+Chapter
+Next
+Chapter
+
+
+ABSTRACT
+
+
+Blockchains have seen growing traction with cryptocurrencies reaching a market cap of over 1 trillion dollars, major institution investors taking interests, and global impacts on governments, businesses, and individuals. 
+ 
+Also growing significantly is the heterogeneity of the ecosystem where a variety of blockchains co-exist. Cross-chain bridge is a necessary building block in this multi-chain ecosystem. Existing solutions, however, either suffer from performance issues or rely on honesty assumptions of committees that significantly lower the security. Recurring attacks against bridges have cost users more than 1.5 billion USD. In this paper, we introduce zkBridge, an efficient cross-chain bridge that guarantees strong security without extra trust assumptions. With succinct proofs, zkBridge not only guarantees correctness, but also significantly reduces on-chain verification cost. We propose novel succinct proof protocols that are orders-of-magnitude faster than existing solutions for workload in zkBridge. With a modular design, zkBridge enables a few useful capabilities, including message passing, token transferring, and other computational logic operating on state changes from different chains. We fully implemented zkBridge between Cosmos and Ethereum and evaluated the end-to-end performance. The experiment shows that zkBridge achieves practical performance: it can generate a block header proof within 2 minutes, while verifying proofs on-chain costs less than 220K gas (the same as Groth16). Relaying a transaction from Cosmos to Ethereum costs 210K gas.
+
+
+
+                    References
+                
+2014. Filecoin: A Decentralized Storage Network. (2014). https: //filecoin.io/filecoin.pdf
+Google Scholar
+2017. Hyperledger Sawtooth. (2017). https://sawtooth.hyperledger.org/
+Google Scholar
+2020. Poly Network. https://poly.network/. (2020).
+Google Scholar
+2020. Rainbow Bridge. https://near.org/bridge/. (2020).
+Google Scholar
+2020. Wormhole Solana. https://solana.com/wormhole. (2020).
+Google Scholar
+2021. At least $611 million stolen in massive cross-chain hack. (2021).
+Google Scholar
+2021. Nomad Protocol. https://docs.nomad.xyz/the-nomad-protocol/overview. (2021).
+Google Scholar
+2022. Average Price of Electricity. https://www.eia.gov/electricity/monthly/ epm_table_grapher.php?t=epmt_5_6_a. (2022).
+Google Scholar
+2022. Axelar. https://axelar.network/. (2022).
+Google Scholar
+2022. Blockchain Bridge Wormhole Suffers Possible Exploit Worth Over $326M. (2022). https://www.coindesk.com/tech/2022/02/02/blockchain-bridgewormhole-suffers-possible-exploit-worth-over-250m/
+Google Scholar
+2022. Cosmos. https://cosmos.network/. (2022).
+Google Scholar
+2022. Cryptocurrency prices, charts and market capitalizations. (2022). https://coinmarketcap.com/
+Google Scholar
+2022. ed25519-circom. https://github.com/Electron-Labs/ed25519-circom. (2022).
+Google Scholar
+2022. ed25519-circom. https://github.com/Electron-Labs/ed25519-circom. (2022).
+Google Scholar
+2022. ETH-NEAR Rainbow Bridge -- NEAR Protocol. (2022). https://near.org/blog/eth-near-rainbow-bridge/
+Google Scholar
+2022. gnark. https://docs.gnark.consensys.net/en/latest/. (2022).
+Google Scholar
+2022. Hetzner. https://www.hetzner.com/. (2022).
+Google Scholar
+2022. LayerZero. https://layerzero.network/. (2022).
+Google Scholar
+2022. libSNARK. https://github.com/scipr-lab/libsnark. (2022).
+Google Scholar
+2022. Multi-chain future likely as Ethereum's DeFi dominance declines | Bloomberg Professional Services. (2022). https://www.bloomberg.com/ professional/blog/multi-chain-future-likely-as-ethereums-defi-dominancedeclines/
+Google Scholar
+2022. A multichain approach is the future of the blockchain industry. (2022). https://cointelegraph.com/news/a-multichain-approach-is-the-future-of-theblockchain-industry
+Google Scholar
+2022. Nomad crypto bridge loses $200 million in ?chaotic" hack. https://www.theverge.com/2022/8/2/23288785/nomad-bridge-200-millionchaotic-hack-smart-contract-cryptocurrency. (2022).
+Google Scholar
+2022. Polygon Hermez. https://polygon.technology/solutions/polygon-hermez/. (2022).
+Google Scholar
+2022. Polygon Miden. https://polygon.technology/solutions/polygon-miden/. (2022).
+Google Scholar
+2022. Polygon Zero. https://polygon.technology/solutions/polygon-zero/. (2022).
+Google Scholar
+2022. Risc Zero. https://www.risczero.com/. (2022).
+Google Scholar
+2022. Ronin Attack Shows Cross-Chain Crypto Is a ?Bridge' Too Far. (2022). https://www.coindesk.com/layer2/2022/04/05/ronin-attack-shows-crosschain-crypto-is-a-bridge-too-far/
+Google Scholar
+2022. Starkware. https://starkware.co/. (2022).
+Google Scholar
+2022. Vbuterin comments on [AMA] We are the EF's Research Team (Pt. 7: 07 January, 2022). (2022). https://old.reddit.com/r/ethereum/comments/rwojtk/ ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/
+Google Scholar
+2022. YouTube includes NFTs in new creator tools. (2022). https://www.nbcnews. com/pop-culture/viral/youtube-includes-nfts-new-creator-tools-rcna15813
+Google Scholar
+2022. ZkSync. https://zksync.io/. (2022).
+Google Scholar
+2022-04--24. Beeple sold an NFT for $69 million - The Verge. (2022-04--24). https://www.theverge.com/2021/3/11/22325054/beeple-christies-nft-sale-costeverydays-69-million
+Google Scholar
+Martin Albrecht, Lorenzo Grassi, Christian Rechberger, Arnab Roy, and Tyge Tiessen. 2016. MiMC: Efficient encryption and cryptographic hashing with minimal multiplicative complexity. In International Conference on the Theory and Application of Cryptology and Information Security. Springer, 191--219.
+Google Scholar
+Cross Ref
+Scott Ames, Carmit Hazay, Yuval Ishai, and Muthuramakrishnan Venkitasubramaniam. 2017. Ligero: Lightweight sublinear arguments without a trusted setup. In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security.
+Google Scholar
+Digital Library
+Giuseppe Ateniese, Ilario Bonacina, Antonio Faonio, and Nicola Galesi. 2014. Proofs of space: When space is of the essence. In International Conference on Security and Cryptography for Networks. Springer, 538--557.
+Google Scholar
+Cross Ref
+Eli Ben-Sasson, Iddo Bentov, Yinon Horesh, and Michael Riabzev. 2018. Scalable, transparent, and post-quantum secure computational integrity. Cryptology ePrint (2018).
+Google Scholar
+Eli Ben-Sasson, Alessandro Chiesa, Michael Riabzev, Nicholas Spooner, Madars Virza, and Nicholas P. Ward. 2019. Aurora: Transparent Succinct Arguments for R1CS. In EUROCRYPT 2019. 103--128.
+Google Scholar
+Iddo Bentov, Charles Lee, Alex Mizrahi, and Meni Rosenfeld. 2014. Proof of activity: Extending bitcoin's proof of work via proof of stake [extended abstract] y. ACM SIGMETRICS Performance Evaluation Review 42, 3 (2014), 34--37.
+Google Scholar
+Digital Library
+Iddo Bentov, Rafael Pass, and Elaine Shi. 2016. Snow White: Provably Secure Proofs of Stake. IACR Cryptol. ePrint Arch. 2016, 919 (2016).
+Google Scholar
+Daniel J Bernstein, Niels Duif, Tanja Lange, Peter Schwabe, and Bo-Yin Yang. 2012. High-speed high-security signatures. Journal of cryptographic engineering 2, 2 (2012), 77--89.
+Google Scholar
+Cross Ref
+B. BÃ¼nz, J. Bootle, D. Boneh, A. Poelstra, P. Wuille, and G. Maxwell. Bulletproofs: Short Proofs for Confidential Transactions and More. In Proceedings of the Symposium on Security and Privacy (SP), 2018, Vol. 00. 319--338.
+Google Scholar
+Cross Ref
+Panagiotis Chatzigiannis, Foteini Baldimtsi, and Konstantinos Chalkias. 2021. SoK: Blockchain Light Clients. Cryptology ePrint Archive (2021).
+Google Scholar
+Alessandro Chiesa, Michael A. Forbes, and Nicholas Spooner. 2017. A Zero Knowledge Sumcheck and its Applications. CoRR abs/1704.02086 (2017). arXiv:1704.02086 http://arxiv.org/abs/1704.02086
+Google Scholar
+Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas Ward. 2020. Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS. In EUROCRYPT 2020. 738--768.
+Google Scholar
+Digital Library
+Alessandro Chiesa, Dev Ojha, and Nicholas Spooner. 2020. Fractal: Post-quantum and Transparent Recursive Proofs from Holography. In EUROCRYPT 2020. 769--793.
+Google Scholar
+Digital Library
+Graham Cormode, Michael Mitzenmacher, and Justin Thaler. Practical Verified Computation with Streaming Interactive Proofs. In Proceedings of the 3rd Innovations in Theoretical Computer Science Conference (ITCS '12).
+Google Scholar
+Bernardo David, Peter Ga, Aggelos Kiayias, and Alexander Russell. 2017. Ouroboros praos: An adaptively-secure, semi-synchronous proof-of-stake protocol. Cryptology ePrint Archive (2017).
+Google Scholar
+Stefan Dziembowski, Sebastian Faust, Vladimir Kolmogorov, and Krzysztof Pietrzak. 2015. Proofs of space. In Annual Cryptology Conference. Springer, 585--605.
+Google Scholar
+Digital Library
+Amos Fiat and Adi Shamir. How to Prove Yourself: Practical Solutions to Identification and Signature Problems. In Crypto 1986.
+Google Scholar
+Digital Library
+Dario Fiore and Anca Nitulescu. 2016. On the (in) security of SNARKs in the presence of oracles. In Theory of Cryptography Conference. Springer, 108--138.
+Google Scholar
+Digital Library
+Ariel Gabizon, Zachary J Williamson, and Oana Ciobotaru. 2019. Plonk: Permutations over lagrange-bases for oecumenical noninteractive arguments of knowledge. Cryptology ePrint Archive (2019).
+Google Scholar
+Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, and Nickolai Zeldovich. 2017. Algorand: Scaling byzantine agreements for cryptocurrencies. In Proceedings of the 26th symposium on operating systems principles. 51--68.
+Google Scholar
+Digital Library
+Shafi Goldwasser, Yael Tauman Kalai, and Guy N. Rothblum. 2015. Delegating Computation: Interactive Proofs for Muggles. J. ACM 62, 4, Article 27 (Sept. 2015), 64 pages.
+Google Scholar
+Digital Library
+Jens Groth. 2016. On the Size of Pairing-Based Non-interactive Arguments. In EUROCRYPT 2016. 305--326.
+Google Scholar
+Jessica Hamlin. 2022. Big investors are finally serious about crypto. but experienced talent is still scarce. (Mar 2022). https://www.institutionalinvestor.com/ article/b1x0gr2y3dzzp3/Big-Investors-Are-Finally-Serious-About-Crypto-ButExperienced-Talent-Is-Still-Scarce
+Google Scholar
+Aggelos Kiayias, Alexander Russell, Bernardo David, and Roman Oliynykov. 2017. Ouroboros: A provably secure proof-of-stake blockchain protocol. In Annual international cryptology conference. Springer, 357--388.
+Google Scholar
+Jae Kwon. 2014. Tendermint: Consensus without mining. Draft v. 0.6, fall 1, 11 (2014).
+Google Scholar
+Carsten Lund, Lance Fortnow, Howard Karloff, and Noam Nisan. 1992. Algebraic Methods for Interactive Proof Systems. J. ACM 39, 4 (Oct. 1992), 859--868.
+Google Scholar
+Digital Library
+Ralph C Merkle. 1987. A digital signature based on a conventional encryption function. In Conference on the theory and application of cryptographic techniques.
+Google Scholar
+Silvio Micali. 2000. Computationally Sound Proofs. SIAM J. Comput. (2000).
+Google Scholar
+Satoshi Nakamoto. 2008. Bitcoin: A peer-to-peer electronic cash system. Decentralized Business Review (2008), 21260.
+Google Scholar
+Kaihua Qin, Liyi Zhou, Benjamin Livshits, and Arthur Gervais. 2021. Attacking the defi ecosystem with flash loans for fun and profit. In International Conference on Financial Cryptography and Data Security. Springer, 3--32.
+Google Scholar
+Digital Library
+Ling Ren and Srinivas Devadas. 2016. Proof of space from stacked expanders. In Theory of Cryptography Conference. Springer, 262--285.
+Google Scholar
+Digital Library
+Srinath Setty. 2020. Spartan: Efficient and General-Purpose zkSNARKs Without Trusted Setup. In CRYPTO 2020. Springer International Publishing, 704--737.
+Google Scholar
+Digital Library
+Shravan Srinivasan, Alexander Chepurnoy, Charalampos Papamanthou, Alin Tomescu, and Yupeng Zhang. 2021. Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments. IACR Cryptol. ePrint Arch. (2021), 599.
+Google Scholar
+Justin Thaler. 2013. Time-Optimal Interactive Proofs for Circuit Evaluation. In Advances in Cryptology -- CRYPTO 2013, Ran Canetti and Juan A. Garay (Eds.).
+Google Scholar
+Cross Ref
+Justin Thaler. 2015. A Note on the GKR Protocol. (2015). Available at http://people.cs.georgetown.edu/jthaler/GKRNote.pdf.
+Google Scholar
+Riad S Wahby, Max Howald, Siddharth Garg, Abhi Shelat, and Michael Walfish. 2016. Verifiable asics. In Security and Privacy (SP), 2016 IEEE Symposium on. IEEE, 759--778.
+Google Scholar
+Cross Ref
+Riad S Wahby, Ioanna Tzialla, Abhi Shelat, Justin Thaler, and Michael Walfish. 2018. Doubly-efficient zkSNARKs without trusted setup. In 2018 IEEE Symposium on Security and Privacy (SP). IEEE, 926--943.
+Google Scholar
+Cross Ref
+Lawrence Wintermeyer. 2021. Institutional money is pouring into the crypto market and its only going to grow. (Aug 2021). https://www.forbes.com/sites/ lawrencewintermeyer/2021/08/12/institutional-money-is-pouring-into-thecrypto-market-and-its-only-going-to-grow/'sh=2660a69d1459
+Google Scholar
+Gavin Wood et al. 2014. Ethereum: A secure decentralised generalised transaction ledger. Ethereum project yellow paper 151, 2014 (2014), 1--32.
+Google Scholar
+Howard Wu, Wenting Zheng, Alessandro Chiesa, Raluca Ada Popa, and Ion Stoica. 2018. DIZK: A Distributed Zero-Knowledge Proof System. (2018).
+Google Scholar
+Tiacheng Xie, Jiaheng Zhang, Yupeng Zhang, Charalampos Papamanthou, and Dawn Song. 2019. Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation. In Advances in Cryptology (CRYPTO).
+Google Scholar
+Jiaheng Zhang, Tianyi Liu, Weijie Wang, Yinuo Zhang, Dawn Song, Xiang Xie, and Yupeng Zhang. 2021. Doubly efficient interactive proofs for general arithmetic circuits with linear prover time. In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security. 159--177.
+Google Scholar
+Digital Library
+Jiaheng Zhang, Tiancheng Xie, Thang Hoang, Elaine Shi, and Yupeng Zhang. 2022. Polynomial Commitment with a {One-to-Many} Prover and Applications. In 31st USENIX Security Symposium (USENIX Security 22). 2965--2982
+Google Scholar
+Jiaheng Zhang, Tiancheng Xie, Y. Zhang, and D. Song. 2020. Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof. 2020 IEEE Symposium on Security and Privacy (SP) (2020), 859--876.
+Google Scholar
+Cross Ref
+Yupeng Zhang, Daniel Genkin, Jonathan Katz, Dimitrios Papadopoulos, and Charalampos Papamanthou. 2017. vSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases. In IEEE Symposium on Security and Privacy (S&P) 2017.
+Google Scholar
+Cross Ref
+Yupeng Zhang, Daniel Genkin, Jonathan Katz, Dimitrios Papadopoulos, and Charalampos Papamanthou. 2018. vRAM: Faster verifiable RAM with program-independent preprocessing. In Proceeding of IEEE Symposium on Security and Privacy (S&P)
+Google Scholar
+Cross Ref
+
+
+
+
+
+
+Cited By
+View all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Index Terms
+
+
+
+
+zkBridge: Trustless Cross-chain Bridges Made Practical
+Security and privacy
+Software and application security
+
+
+
+
+
+
+
+
+ 
+Recommendations
+ 
+
+
+Privacy methods and zero-knowledge poof for corporate blockchain
+Abstract
+Nowadays distributed ledger technology or blockchain is widely used in the corporate sector for various industries. Although implementation issues (coding practice, lack of capabilities, etc.) are not among the major barriers for the technology ...
+Read More
+NFT Trades inÂ Bitcoin withÂ Off-Chain Receipts
+Applied Cryptography and Network Security Workshops  
+Abstract
+Non-fungible tokens (NFTs) are digital representations of assets stored on a blockchain. It allows content creators to certify authenticity of their digital assets and transfer ownership in a transparent and decentralized way. Popular choices of ...
+Read More
+Decentralized Privacy-Preserving Netting Protocol on Blockchain for Payment Systems
+Financial Cryptography and Data Security  
+Abstract
+This paper proposes a decentralized netting protocol that guarantees the privacy of the participants. Namely, it leverages the blockchain and its security properties to relax the trust assumptions and get rid of trusted central parties. We prove ...
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Comments
+ 
+
+
+Please enable JavaScript to view the
+comments powered by Disqus.
+
+
+
+
+
+
+Login options
+Check if you have access through your login credentials or your institution to get full access on this article.
+Sign in
+Full Access
+Get this Publication
+
+
+Information
+Contributors
+Published in
+
+
+
+
+CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+November 2022
+3598  pages
+ISBN:
+9781450394505
+DOI:
+10.1145/3548606
+General Chairs: 
+Heng Yin
+University of California, Riverside
+,
+Angelos Stavrou
+Virginia Tech
+,
+Program Chairs: 
+Cas Cremers
+CISPA Helmholtz Center for Information Security
+,
+Elaine Shi
+Carnegie Mellon University
+
+
+
+
+Copyright Â© 2022 Owner/Author
+This work is licensed under a Creative Commons Attribution International 4.0 License.
+Sponsors
+In-Cooperation
+Publisher
+Association for Computing Machinery
+New York, NY, United States
+
+
+
+
+
+                Publication History
+            
+
+
+Published:
+ 7 November 2022
+
+
+
+
+
+
+Check for updates
+
+
+Author Tags
+blockchain
+distributed computing
+zero-knowledge proofs
+Qualifiers
+research-article
+Conference
+
+
+
+
+Acceptance Rates
+Overall Acceptance Rate
+1,261
+of
+6,999
+submissions,
+18%
+
+
+
+
+
+
+
+
+Upcoming Conference
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCS '24
+
+
+
+
+
+
+
+
+Sponsor:
+
+
+
+
+sigsac
+
+
+
+
+
+
+
+
+
+
+
+
+ACM SIGSAC Conference on Computer and Communications Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                October 14 - 18, 2024
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    Salt Lake City ,
+                                
+                                
+                                    UT ,              
+                                 
+                                
+                                    USA       
+                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Funding Sources
+
+
+
+
+Other Metrics
+View Article Metrics
+Bibliometrics
+Citations
+14
+Article Metrics
+14
+Total Citations
+View Citations
+4,596
+Total Downloads
+Downloads (Last 12 months)
+3,976
+Downloads (Last 6 weeks)
+420
+Other Metrics
+View Author Metrics
+Cited By
+View all
+PDF Format
+View or Download as a PDF file.
+PDF
+eReader
+View online with eReader.
+eReader
+Digital Edition
+View this article in digital edition.
+View Digital Edition
+Figures
+Other
+Share this Publication link
+https://dl.acm.org/doi/10.1145/3548606.3560652
+Copy Link
+Share on Social Media
+
+
+Share on
+
+
+0
+References
+Close Figure Viewer
+Browse All
+Return
+Change zoom level
+Caption
+
+
+
+
+View Table of Contents
+
+
+Export Citations
+Select Citation format
+BibTeX
+EndNote
+ACM Ref
+Please download or close your previous search result export first before starting a new bulk export.
+Preview is not available.
+By clicking download,
+a status dialog
+ will open to start the export process. The process may take
+a few minutes
+ but once it finishes a file will be downloadable from your browser. You may continue to browse the DL while the export process is in progress.
+Download
+Download citation
+Copy citation
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categories
+
+
+
+
+Journals
+
+
+Magazines
+
+
+Books
+
+
+Proceedings
+
+
+SIGs
+
+
+Conferences
+
+
+Collections
+
+
+People
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+About ACM Digital Library
+
+
+ACM Digital Library Board
+
+
+Subscription Information
+
+
+Author Guidelines
+
+
+Using ACM Digital Library
+
+
+All Holdings within the ACM Digital Library
+
+
+ACM Computing Classification System
+
+
+Digital Library Accessibility
+
+
+
+
+
+
+
+
+
+
+Join
+
+
+
+
+Join ACM
+
+
+Join SIGs
+
+
+Subscribe to Publications
+
+
+Institutions and Libraries
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+
+Contact
+
+
+Facebook
+
+
+X
+
+
+Linkedin
+
+
+
+
+Feedback
+
+
+Bug Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright Â© 2024 ACM, Inc.
+
+
+
+
+Terms of Usage
+
+
+Privacy Policy
+
+
+Code of Ethics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Search Results Download Request
+ 
+We are preparing your search results for download ...
+We will inform you here when the file is ready.
+Download now!
+Your Search Results Download Request
+Your file of search results citations is now ready.
+Download now!
+Your Search Results Download Request
+Your search export query has expired. Please try again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

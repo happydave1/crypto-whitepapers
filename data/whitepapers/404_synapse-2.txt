@@ -1,0 +1,77 @@
+Overview | Synapse Protocol
+Synapse Protocol
+Search
+Ctrl
+â+âK
+Overview
+Synapse Interchain Network (SIN)
+Synapse Interchain Network
+Deep Dive: Optimistic POS
+Synapse Interchain Network Testnet
+Staking and Fees
+Build on the Synapse Interchain Network
+Message Lifecycle
+Contracts
+Origin
+Destination
+Summit
+AgentManager
+Gas Oracle
+Off Chain Agents
+Executor
+Guard
+Notary
+Synapse Chain
+Synapse Chain
+SYN OP Stack
+Synapse Chain Testnet
+Gas Fees
+Using Synapse Chain
+Wallet Setup
+Faucet
+Bridging to Synapse Chain
+Building on Synapse Chain
+Synapse Chain Contracts
+thirdweb
+Synapse Bridge
+Synapse Bridge
+Transaction Support FAQ
+Bridge Liquidity
+Contract Addresses
+Governance
+Synapse DAO Governance Model
+Developers
+Bridge SDK
+Usage
+Example
+Widget
+REST API
+Usage
+Examples
+Synapse Router
+Synapse Adapter
+Example
+Contracts
+Resources
+Brand Assets
+Powered by GitBook
+Overview
+Synapse Bridge
+Bridge stables & ETH between 20 chains - synapseprotocol.com
+The Synapse Interchain Network (SIN)
+The Synapse Interchain Network (SIN) is an optimistic proof-of-stake interchain network.
+Synapse Chain
+Synapse Chain is an Etherum-based optimistic rollup built on the SYN OP stack.
+Syn OP Stack
+The Syn OP Stack is a natively interchain rollup stack, built on top of Optimism's OP Stack.
+Next
+Synapse Interchain Network
+Last updated 
+5 months ago
+On this page
+Synapse Bridge
+The Synapse Interchain Network (SIN)
+Synapse Chain
+Syn OP Stack
+Was this helpful?
+ 

@@ -1,0 +1,43 @@
+1.   Prologue | BORA 2.0
+BORA 2.0
+Search
+Ctrl
+â+âK
+1.   Prologue
+2.   Limitation of BORA 1.0
+2.1  Lack of Integration with the Public Blockchain
+2.2  Consensus Algorithm and Closed-Off Structure
+2.3  Static Token Economy
+3.   The Key Features of BORA 2.0
+3.1  Strong Connection with Klaytn
+3.2  PBFT and Governance Council
+3.3  Dynamic Token Economy
+3.4  Eco Fund and Community
+4.   BORA 2.0's Governance Council
+4.1  Definition of BORA Governance Council
+4.2  BORA Governance Council Structure
+4.3  Rights and Obligations of BORA GC Partners
+4.4  BORA Governance Council Operational Process
+4.5  Constitutional Documents update
+5.   BORA 2.0's Tokenomics
+5.1  Reasons for New Tokenomics
+5.2  Token Inflation
+5.3  Permanent Token Lock-up
+5.4  Token allocation
+5.5  Safety Policy
+6.   ROADMAP
+7.   Epilogue
+Powered by GitBook
+1.   Prologue
+  Blockchain, which concept was first conceived by Stuart Haber and W. Scott Stornetta in early 1991, was given a defined form in 2009 with the bitcoin network. It was, however, well into late 2017 or early 2018 that the public was introduced to terms such as blockchain or cryptocurrency. It was around this time that BORA emerged in the market as it envisioned a blockchain network for games and contents close to day-to-day life.
+  However, many blockchain-related projects were suspended as they faced growing scepticism toward blockchain and cryptocurrency, and this so-called Crypto Winter posed a challenge also for BORA to bring targeted services according to plan. The prevailing projection at the time was that it would take long until blockchain technology and cryptocurrency could expand and prove their value. However, with DeFi as the focus, blockchain gradually began to prove its value in 2020 and once again sent an innovative message to the whole world in 2021 with NFT and GameFi.
+  Things have turned around since 2020, and people now do not stop at simply depositing fiat into the exchange and buying virtual assets. A finance innovation called DeFi involving loans, deposits, derivatives, synthetic assets, etc., began to form an actual network with Uniswap taking the lead. This trend gave strength to the Open Source that led to many projects to proliferate and competitively develop.
+  Businesses related to games and digital contents that have converged with DeFi is rapidly expanding through Play2Earn, GameFi, GuildFi, NFT Financing and etc. The success of CryptoPunks and NBA Top Shot showed how NFT can be loved by the public and experience a Quantum Jump as a service that receives enthusiastic support. Axie Infinity proved how impactful GameFi is as a blockchain service.
+  The market research published in 2022 showed how blockchain can change the Tech-world in the future and how much this market can grow.
+  As we have explained above, assuming that the blockchain market would innovatively develop with NFT and GameFi as the base, BORA began a concentrated review from July 2021 on whether BORA is able to meet the Tech demands of the times of and further whether it can lead the new generation of blockchain. 
+  The BORA 2.0 White Paper intends to detail the processing and conclusions related to this question.
+Next
+2.   Limitation of BORA 1.0
+Last updated 
+2 years ago
+On this page

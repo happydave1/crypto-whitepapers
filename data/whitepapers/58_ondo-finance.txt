@@ -1,0 +1,93 @@
+
+
+
+
+
+
+
+
+
+
+The ONDO Token | Ondo Foundation Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Ondo Foundation Docs
+Twitter
+GitHub
+Introduction
+The Ondo DAO
+The ONDO Token
+CoinList
+The ONDO Token
+On this page
+The ONDO Token
+SUMMARY
+ONDO
+ is the governance token for 
+the Ondo DAO
+ and 
+Flux Finance
+.
+The token's address is 
+0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3
+The initial token supply of 
+ONDO
+ is 10 billion.
+There is no scheduled or planned inflation.
+Distribution
+â
+Following a decisive vote by the DAO, the restrictions on transferring the ONDO token were lifted, enabling free movement of the token as of January 18, 2024. This pivotal decision not only unlocked the token but also established a structured distribution schedule for the ONDO token, aligning with the community's consensus.
+For further details on the proposal and voting outcomes, visit:
+Proposal details: 
+FIP-08: Release of the ONDO Token Lock-Up
+Voting results: 
+ONDO DAO Proposal 10
+Locked tokens can still vote in the DAO, so everyone will collectively shape Ondo's distribution and future.
+Investor Allocations
+â
+Coinlist Tranche 1
+~0.3%
+1-year lock + 18-month release
+Coinlist Tranche 2
+~1.7%
+1-year lock + 6-month release
+Seed Investors
+<7%
+1-year lock + 24-month release
+$4m equity investment
+Series A Investors
+<7%
+1-year lock + 24-month release
+$20m equity investment
+note
+Ondo core team members and service providers are also bound by a minimum 1-year lock and subsequent 24-month release (3-year total lock-up).
+Previous
+The Ondo DAO
+Next
+CoinList
+Distribution
+Investor Allocations
+
+
+
+
+
+
+

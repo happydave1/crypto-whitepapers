@@ -1,0 +1,486 @@
+Shentu Chain Whitepaper
+
+
+
+
+Inscription
+OpenBounty
+Explorer
+DeepWallet
+Technology
+Whitepaper
+Home
+Technology
+Explorer
+DeepWallet
+Github
+Shentu Chain Whitepaper
+Draft for open community review and subject to change.
+Empower People to Trust in Blockchain
+1 Introduction
+1. 1 Security Across the Entire Project Lifecycle
+1. 2 CTK Coin and Economic Model
+2 Shentu Security Oracle
+Overview
+Technical Highlights
+3 ShentuShield
+Overview
+Additional Highlights 
+4 Shentu Chain Architecture
+4.1 Shentu Certified Virtual Machine (CVM)
+4.2 DeepSEA Toolchain
+5 Token Economics
+5.1 Staking
+5.2 Inflation
+6 Roadmap
+7 Risks
+7.1 Uncertain Regulations and Enforcement Actions
+7.2 Inadequate disclosure of information
+7.3 Competitors
+7.4 Loss of Talent
+7.5 Failure to develop
+7.6 Security weaknesses
+7.7 Other risks
+Empower People to Trust in Blockchain
+The mission of the Shentu Chain is to empower people to trust in blockchain. By utilizing cutting-edge technologies and techniques to prove trustworthiness in the underlying systems, the Shentu Chain aims to raise the standards of security and trustworthiness in the blockchain. Founded by acclaimed computer science professors, the Shentu Chain has leveraged its teamâs breakthrough research to build the worldâs premier, security-first blockchain, which relies on a native digital cryptographically-secured utility token, CTK. The Shentu Chain has supported the development of a robust suite of technologies and tools to ensure that security and correctness are maintained throughout every phase of the blockchain lifecycle, from initial development to live usage.
+The Shentu ecosystem is envisaged to provide end-to-end security solutions for blockchains, decentralized applications, and other mission-critical software applications. While the components of the Shentu ecosystem integrate natively with Shentu Chain, the Shentu Chain believes in cross-collaborative bridges with other blockchains, as security should not be a choice, but a necessity. With breakthrough technologies and techniques for proving on-chain security and correctness, the Shentu Chain aims to provide the infrastructure of provable trust for all.
+1 Introduction
+Since the advent of Satoshi Nakamotoâs peer-to-peer electronic cash system, called
+ Bitcoin
+, the digital world has seen a slew of innovations pushing forward a
+ trustless
+, decentralized alternative to todayâs centralized world. Recent years have witnessed constant evolutions, from new consensus protocols that
+ rival proof-of-work
+, to platforms that
+ increase scalability
+ for smart contract applications, to protocols that utilize evidence certificates to
+ enable privacy
+ while maintaining trustlessness.
+The vision of a trustless, decentralized world has certainly opened the doors for a wide array of possibilities, but the advantages of fully sovereign ownership of virtual assets have also come with new risks. These decentralized pieces of monetary property require the owners to be fully responsible for safeguarding the assets. Business and technical vulnerabilities, whether from accidentally misplacing it or from a malicious hack, may lead to the permanent, irretrievable loss of digital funds.
+As a consequence of the rapid rise in value throughout this nascent industry, hackers have preyed on insecure code and untested economic models. Over
+ $4B was stolen in 2019
+, with attacks seemingly evolving as quickly as the underlying security approaches. Even as projects take a more serious approach to defend against the known manipulations, hackers have countered by digging up new attack vectors and employing multi-stage manipulations.
+Different from traditional distributed computing systems, the blockchain infrastructure and application logic are highly transparent to hackers, often entirely open-sourced and immutable following deployment. This makes it extremely difficult to maintain the persistent security of digital assets, as the transparency of the code provides hackers with a playground of hints and holes. Keeping with the pace of this unprecedented growth of digital asset value, the frequency of digital attacks and unintended glitches has also grown exponentially. For blockchain to be adopted and sustained, it is paramount that the security and perhaps even more importantly, the correctness of blockchain artifacts (both infrastructure and application logic), are trustworthy.
+â
+Decentralization is one of the major motivations of blockchain systems, compared to traditional distributed computer systems. In order to fully realize the decentralization vision, the security of blockchains must also be decentralized. Unfortunately, today this is untrue. Existing blockchain security analysis is conducted in a centralized process through a handful of security auditors. Following an audit, many projects, along with their communities, signal their security and correctness by showcasing that they have undergone an audit. However, few users take the time, or have the ability, to investigate independently whether the code is truly secure and correct; instead, they trust in the centralized process.
+Today, blockchain security has limitations because security is treated as an off-chain property of blockchain. When smart contracts have been successfully audited or verified, their security analysis stays off the chain, usually in the form of a detailed audit report. As it stands, security analysis may only be used indirectly; all smart contracts, whether they are secure or not, run the same way on blockchain without any differentiation or protection. Users are expected to conduct their own deep research as to whether smart contracts have been audited, by whom, and in what capacity. In the meantime, extremely risky smart contracts are still live and may interact with other smart contracts of unknown reliability. As DeFi hacks have shown, the ever-changing pieces of the DeFi world can lead to great losses, as the complex web of interactions may create unintended errors to even audited smart contracts. Shentu firmly believes that security intelligence should be accessible in real-time and on-chain, rather than off-chain, such that they bring a new added dimension of value into the blockchain world by allowing smart contract and chain execution to dynamically establish, validate, and differentiate the security levels of their peers.
+The goal of Shentu Chain is to become 
+the
+ infrastructure of provable trust for all. In addition to the suite of state-of-the-art security technologies adopted by Shentu Chain to establish its own security and correctness, the blockchain serves as a platform to be used by all who seek the same assurances. For economics and performance, the Chain uses a Delegated Proof-of-Stake (DPoS) consensus protocol. For accessibility, the Chain uses the modular and inter-chain friendly Cosmos framework and has a virtual machine fully compatible with EVM. For the decentralization of security, the Chain has a built-in decentralized security oracle to prevent security attacks in real-time. For chain-level mitigation and protection of digital assets against security issues, the Chain has a built-in decentralized asset pool for crypto loss.
+1. 1 Security Across the Entire Project Lifecycle
+To protect against the various vulnerabilities which may arise throughout the lifecycles of a blockchain project, the Shentu Chain has developed a series of defenses for every stage.
+Pre-Development
+â
+A projectâs risks begin even before source code is developed. The intended specifications of a project serve as the rubric of how to write the code âcorrectly.â In many cases, even if the code was written securely, the initial specifications were not met, so the program may not work as intended. The mathematically intensive process of Formal Verification which the team of Shentu specializes in through decades of peer-reviewed research, proves whether source code was developed to exactly match the intended specifications.
+â
+Development
+â
+The DeepSEA toolchain, developed by the Shentu team with support from the
+ Ethereum Foundation
+,
+ 
+Columbia-IBM and the
+ Qtum Foundation
+, provides developers with an inherently secure language and compiler to prove correctness while writing code. This functional programming language allows source code to be written both securely and correctly, automatically comparing against the intended specifications while also compiling properly into the bytecode level.
+â
+Post-Development
+Professional security audits have been an effective way to identify vulnerabilities prior to code deployment. Before the open-source code is released to the public, security audits allow third-party auditors to stress test the reliability and robustness of the code. Shentu 'steam has secured over $8B worth of digital assets across traditional enterprises along with blockchain, especially in the booming DeFi sector. Leading exchanges, including Binance, Huobi, Liquid, and Coinone, have chosen to partner with Shentu's expertise to audit blockchain projects before allowing them to list on their exchanges.
+â
+Additional Information:
+Notable clients and partners include enterprises like Hyundai and Ant Financial, and blockchain projects like iEarn Finance (now yEarn Finance), Ampleforth, AAVE, Band Protocol, Bitcoin.com, Binance Coin, Crypto.com, Kava, Terra, ThorChain, ICON, Matic, Swipe, Reserve, Paxos, TrueUSD, Universal Protocol, and hundreds of other top projects.
+Additional Readings:
+Building Certified Concurrent OS Kernels (Communications of the ACM, Sept. 2019)
+Certified Concurrent Abstraction Layers (PLDI '18, Jun. 2018)
+Deep Specifications and Certified Abstraction Layers (POPL'15, Jan. 2015).
+Real-Time Usage
+â
+Shentu Chain enables a system odecentralized Security Oracleswhich provide runtime analysis of the security of live smart contracts. While professional security audits play an unquestionably important role in identifying vulnerabilities, the security results are based on a certain snapshot of the code and reported within text documentsâthis intelligence is unable to be used at the time when it's needed most: immediately before a transaction is submitted. Many blockchain projects have the resources to procure and pay for third-party audits, but within DeFi, there's been a trend of pseudo-anonymous projects gaining community users, even though their creators mention that no professional audits have been performed. For these instances, users may use Shentu's decentralized Security Oracles to directly request the itemized security analysis of a smart contract without relying on the contract creators.
+Protection from Unexpected Losses
+â
+While the suite of defenses that Shentu offers may substantially eliminate risks of malfunctioning code and malicious attacks, it is impossible to be completely secure. Hackers keep an active pulse of the ecosystem and continually devise creative ways of manipulating people and programs. To assist with individualized risk management, Shentu is also proposing the creation of a ShentuShield system, which is expected to provide a decentralized, fully flexible pool of community funds that utilize Shentu Chainâs unique voting and economics to enable reimbursements for any funds that are lost, stolen, frozen, or otherwise inaccessible. CTK is at the center of this system as the platform currency, rewarding members with staking rewards in CTK as they stake their funds into various ShentuShield Pools. In the event of a loss, CTK will also be paid from the relevant pool to the member who has suffered the loss. This alternative to insurance can provide some peace-of-mind and risk mitigation in case any unpredictable losses occur.
+1. 2 CTK Coin and Economic Model
+The native digital cryptographically-secured utility token of the Shentu Platform (
+CTK
+) is a transferable representation of attributed functions specified in the protocol/code of the Shentu Platform, which is designed to play a major role in the functioning of the ecosystem on the Shentu Platform and intended to be used solely as the primary utility token on the platform.
+â
+CTK is a non-refundable functional utility token which will be used as the medium of exchange between participants on the Shentu Platform. The goal of introducing CTK is to provide a convenient and secure mode of payment and settlement between participants who interact within the ecosystem on the Shentu Shentu Platform, and it is not, and not intended to be, a medium of exchange accepted by the public (or a section of the public) as payment for goods or services or for the discharge of a debt; nor is it designed or intended to be used by any person as payment for any goods or services whatsoever that are not exclusively provided by the issuer. CTK does not in any way represent any shareholding, participation, right, title, or interest in the Chain, the Distributor, their respective affiliates, or any other company, enterprise or undertaking, nor will CTK entitle token holders to any promise of fees, dividends, revenue, profits or investment returns, and are not intended to constitute securities in Singapore or any relevant jurisdiction. CTK may only be utilized on the Shentu Platform, and ownership of CTK carries no rights, express or implied, other than the right to use CTK as a means to enable usage of and interaction within the Shentu Platform.
+CTK also functions as the economic incentives which will be consumed to encourage users to contribute and maintain the ecosystem on the Shentu Platform, thereby creating a win-win system where every participant is fairly compensated for its efforts. CTK is an integral and indispensable part of the Shentu Platform, because without CTK, there would be no incentive for users to expend resources to participate in activities or provide services for the benefit of the entire ecosystem on the Shentu Platform. Users of the Shentu Platform and/or holders of CTK which did not actively participate will not receive any CTK incentives. CTK are designed to be consumed/utilized, and that is the goal of the CTK token sale. In fact, the project to develop the Shentu Platform would fail if all CTK holders simply held onto their CTK and did nothing with it.
+For Shentu Chain, CTK is used to pay for gas fees, which are required to incentivize the decentralized community of nodes to provide resources to validate the transaction. As a proof-of-stake protocol based on the Tendermint PoS architecture, Shentu Chain provides staking rewards to the CTK bonded to validator nodes. These staking rewards are used to incentivize a network of secure, high availability validator nodes to provide computing resources that strengthen the security of the entire blockchain. Shentu Chain's Decentralized Security Oracle is a core dApp that requires CTK to function. In order to retrieve security analysis from the decentralized Security Oracle, CTK is required as the incentive. CTK is awarded to the party that ultimately provides the security analysis, allowing for a transparent and competitive system of security investigators through the economics of CTK.
+For any ShentuShield Pools, which are decentralized funds used to reimburse assets lost within a blockchain ecosystem, CTK serves as the utility token that can be staked as funds for the pools. In addition to normal staking, CTK holders may choose to engage in "active staking," or staking their CTK as collateral into any of the ShentuShield Pools in exchange for higher staking rewards. Active staking provides for an option of higher risk, yet higher rewards; participants' staked CTK is used as collateral to pay out approved claims, but also receive a portion of the fees paid out by purchasers of this protection. By staking CTK into a ShentuShield Pool, the participants automatically become members of the ShentuShield ecosystem, receiving CTK fee rewards on top of their normal CTK staking rewards. Additionally, all members of ShentuShield Pools have the ability to vote on certain governance decisions relating to the Shentu Chain.
+ShentuShield Pools with fewer stakers may have higher reward potential, as the CTK payments are shared among a smaller group of members. This incentivizes smaller pools to grow, allowing for community protection across projects of all sizes and risks. This establishes a system of supply and demand that is expected to provide the space with greater protections and value. CTK is the medium of exchange to fund pools, pay for fees, earn rewards, and purchase protection, providing an integral utility function for the system.
+In particular, it is highlighted that CTK: (a) does not have any tangible or physical manifestation, and does not have any intrinsic value (nor does any person make any representation or give any commitment as to its value); (b) is non-refundable and cannot be exchanged for cash (or its equivalent value in any other virtual currency) or any payment obligation by the Chain, the Distributor or any of their respective affiliates; (c) does not represent or confer on the token holder any right of any form with respect to the Foundation, the Distributor (or any of their respective affiliates), or its revenues or assets, including without limitation any right to receive future dividends, revenue, shares, ownership right or stake, share or security, any voting, distribution, redemption, liquidation, proprietary (including all forms of intellectual property or licence rights), right to receive accounts, financial statements or other financial data, the right to requisition or participate in shareholder meetings, the right to nominate a director, or other financial or legal rights or equivalent rights, or intellectual property rights or any other form of participation in or relating to the Shentu Platform, the Foundation, the Distributor and/or their service providers; (d) is not intended to represent any rights under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss; (e) is not intended to be a representation of money (including electronic money), security, commodity, bond, debt instrument, unit in a collective investment scheme or any other kind of financial instrument or investment; (f) is not a loan to the Foundation, the Distributor or any of their respective affiliates, is not intended to represent a debt owed by the Foundation, the Distributor or any of their respective affiliates, and there is no expectation of profit; and (g) does not provide the token holder with any ownership or other interest in the Foundation, the Distributor or any of their respective affiliates.
+The contributions in the token sale will be held by the Distributor (or their respective affiliate) after the token sale, and contributors will have no economic or legal right over or beneficial interest in these contributions or the assets of that entity after the token sale. To the extent a secondary market or exchange for trading CTK does develop, it would be run and operated wholly independently of the Foundation, the Distributor, the sale of CTK and the Shentu Platform. Neither the Chain nor the Distributor will create such secondary markets nor will either entity act as an exchange for CTK.
+2 Shentu Security Oracle
+Overview
+Blockchain oracles play an important role in connecting off-chain data to be usable on-chain by smart contracts. Systems like decentralized finance (DeFi) rely on oracles to relay data such as token prices, but these oracles typically relay relatively easy data feeds. From the perspective of security, information on the reliability of smart contracts would be crucial to know before interfacing with the code, but this information lives in audit reports located off-chain. The Shentu Security Oracle aims to decompose complex audit reports into smaller security primitives, which are readily available to be called on-chain to verify the security of a smart contract in real-time. These Security Oracle scores are dynamic, querying the latest security primitives and tests to aggregate the scores and produce insights into the reliability of the underlying code.
+Additionally, Shentu Security Oracles can be used to submit requests about unaudited smart contracts. Those requests are relayed to a decentralized group of security operators, who compete to earn the CTK transaction fee. The Shentu Oracle Combinator combines the various results from each operator into a score available on-chain. The fees of the transaction are shared among each operator that contributed security primitives for the request.
+By invoking Shentu Security Oracles to retrieve security intelligence, users can make better decisions concerning their potential transactions and external invocations. This decentralized system of information allows communities, such as those involved in the booming DeFi ecosystem, with the power to conduct real-time security checks. In the spirit of full decentralization, this evolution decentralizes security intelligence from a handful of security auditors to the entire blockchain community to be accessible on-chain upon demand.
+DeFi Use Case
+â
+The Shentu Security Oracles are designed to be extremely easy to integrate with, simply requiring a few lines of code in the smart contract. These Security Oracles live natively on the requested blockchain, so for instance, if a user would like to request security intelligence on an Ethereum smart contract, he or she would interact directly with the Shentu Security Oracle built on Ethereum.
+A completed request generates a security score, retrieved via decentralized efforts of security operators on Shentu Chain. Without having to be fully technically savvy or spending too much time, DeFi users can quickly obtain a metric that stands as a proxy to security. Of course, these scores are not intended to replace the full diligence process, but they can provide quick heuristics to gauge the security of any smart contract.
+â
+In DeFi, it has become increasingly popular for unaudited smart contracts to be released pseudo-anonymously, and while the community understands the risk, they proceed to accept high risk for high rewards. These contracts go unaudited because it has been normally seen as the responsibility of the contract creator(s) to seek audits, but in these cases, the creator(s) elect not to. The Shentu Security Oracles decentralize the responsibility of conducting security analysis and instead give the power to the people to request security intelligence themselves.
+Below, the code snippet describes a scenario in which a smart contract checks the security score when it attempts to make external function calls. In this case, it reverts when a real-time score retrieved does not meet the required threshold. The adoption of this increased diligence can help prevent unsafe transactions and manipulations before transactions occur, preventing unexpected losses.
+The Shentu Security Oracle is built to solve security pain points by bridging the gap between on-chain transactions and real-time security checks via decentralized approaches. By adopting this innovative and practical solution, DeFi projects may obtain greater security protection and intelligence before conducting potential transactions. With its decentralized and distributed characteristics, the Shentu Security Oracles can help bridge security technologies on-chain to allow for more secure decision-making within the blockchain.
+Technical Highlights
+Security Oracle Architecture
+â
+To bridge valuable DeFi projects with enhanced security intelligence contributed by Shentu Chain and leading security software companies and communities, we decompose our Decentralized Security Oracle into four areas:
+â
+Business Chain
+: The targeted blockchain platform (that can support smart contract functionality) where Shentu Chain provides the Security Oracle to, i.e., Ethereum.
+â
+Security Oracle Interface
+: The smart contracts serve as the interface to accept security inquiries from DeFi applications for upcoming transaction calls they need to make. If such an inquiry has no result or an expired result, then a new task could be broadcasted to Shentu Chain for fulfillment.
+Shentu Chain
+: The underlying blockchain of the Shentu ecosystem which offers built-in components to facilitate the handling of security inquiries from Business Chains. Shentu Chain itself is envisioned as the Guardian of the Blockchain Galaxy, and it provides a range of Combinators that are tailored to solve different perspectives of security problems.
+Oracle Combinator
+: The built-in frameworks from Shentu Chain that facilitate the functionalities to fulfill general oracle workflows with characteristics on decentralization and transparency. Oracle movements such as task managements and result aggregation calculations will be broadcasted to Shentu Chain and recorded in states as proofs. By having a list of critical rules and reinforcements applied to the system, the system is designed to reward good actors and punish bad ones.
+Security Primitive:
+ Security Providers are welcome to register their on-chain services or off-chain API endpoints as Security Primitives and then for Oracle Operators to invoke with. Security Primitives are diverse service functionalities that tackle security considerations from different angles. It is best practice to have a select combination of Security Primitives thus to make the best judgement over the security score of a given smart contract address and its function signature.
+Cross-Chain:
+ Communications and interactions are essential to the success of the Security Oracle network. Cross-chain components are expected to be built and maintained by members nominated by the broader Shentu community.
+Oracle Operator
+: Everyone could register as an Oracle Operator on Shentu Chain and start to contribute to the whole network. Technically speaking, an Operator needs to run and maintain a software that interacts with a Shentu Chain node. Each Operator is free to use their own infrastructure or leverage tech stacks provided by Shentu Chain for quicker onboarding.
+Oracle Syncer:
+ The Oracle Syncer subscribes to the Security Oracle events on Ethereum and port to Shentu Chain. Vice versa, it also subscribes to transactions on Shentu Chain and pushes oracle results to the Security Oracle on Ethereum.
+Offchain Internet
+: This is the traditional Web2.0 ground where computing operations such as security scans and analysis happen. Tools will be provided to Oracle Operators to support popular communication protocols like HTTP/RPC to connect with those Security Primitives for accessing security insights and proprietary technologies.
+Security Oracle Workflow
+â
+The mission of the Security Oracle is to give DeFi projects the insight (security score) on whether a potential transaction call is secure or not, thus gaining confidence on the decision of issuing such a transaction. Here we describe the steps for the workflow via the perspectives of a targeted Business Chain and Shentu Chain.
+Business Chain (i.e. Ethereum)
+The DeFi contract makes a call to the Security Oracle to query for a upcoming transaction by providing the contract address and function signature offset;
+Once receiving the inquiry, the Security Oracle would:
+Respond back with the insight if such data record has already been monitored and logged;
+Since there are a significant number of external dependencies shared by different DeFi projects, the chance for hitting the Oracle result table is high;
+Respond back with a default score indicating no suggestion at the moment;
+Under the hood, such inquiry could be turned into a task on Shentu Chain and accepted by a group of Oracle Operators, who will then answer back their results;
+The DeFi contract receives the result for the security insight and makes the next move with greater insights on its security.
+Shentu Chain:
+End users submit oracle tasks, funded with CTKs, for those security insights they wish to have on the Business Chain;
+Oracle Operators will receive the task by subscribing to Shentu Chain events;
+For each Operator, it will forward the task details to its customized Primitive Combination for real-time security checks;
+After the generation of a security score, the operator will respond to the oracle task by broadcasting a transaction to Shentu Chain;
+With the closing on the task response window, Shentu Chainâs Oracle Combinator will gather all responses per that task and aggregate with a final security score;
+Task bounties will be issued out to operators accordingly;
+A cross-chain bridge component will then push the final security score to the Security Oracle contract on the Business Chain.
+3 ShentuShield
+Overview
+Over the last few years, several billions of dollars worth of cryptocurrencies have been lost, stolen, or otherwise rendered inaccessible. While the malicious activity of hackers poses as one obvious cause of asset loss, a large percentage of the losses were also attributed to code malfunctions or human error. Code malfunctions may include assets that were inadvertently frozen within inaccessible contracts or irretrievable within ungovernable DAOs. Human error may include something as simple as forgetting oneâs password or something as unfortunate as a Ledger damaged in a house fire or the death of the only person who may know the location of a private key.
+With the self-sovereign functionality of cryptocurrencies, it is the full responsibility of the asset owner to bear the risk of these circumstances that lead to losses; sometimes things can be preventable, but other times, they are not. To lessen the burden for any specific individual to undertake the absolute responsibility of preventing these losses, Shentu developed the ShentuShield Pool system, which utilizes the unique staking, governance, and security features of Shentu Chain.
+A ShentuShield Pool is a flexible, decentralized pool of CTK that uses Shentu Chain on-chain governance system to reimburse lost, stolen, or inaccessible assets from any blockchain network. ShentuShield Pools are intended to serve as discretionary community funds used to protect its members, who may be holding $ETH, $BNB, $USDT, or any other cryptoasset. In an event of irretrievable asset loss, such as tokens stolen or lost through a smart contract hack or frozen contract, the members of specific ShentuShield Pools may submit detailed Claim Proposals to the other members of the pool, thereby opening a voting period for the community to determine whether reimbursement is appropriate. This decentralized, on-chain voting process allows every member of a ShentuShield Pool to actively participate in determining reasonable coverage scenarios, creating a dynamic and fully flexible coverage model. The cost of reserving funds from the ShentuShield Pool for personal reimbursement of lost assets will be directly tied to the Shentu Security Oracle score, with lower scores (which represent more risk) requiring higher fees for protection.
+Membership into the ShentuShield system: The ShentuShield system
+The ShentuShield system has two types of Members, of which both blockchain projects and individuals may become:
+Collateral Providers: Members who contribute their cryptocurrency (CTK or other accepted crypto) as the collateral to fill the ShentuShield Pool. These collateralized funds are used to pay out any approved reimbursement requests, meaning there is a risk that these Collateral Providers exit with less crypto than they started with. As a result of contributing collateral, these Members earn staking rewards for their staked CTK, as well as a portion of the fees paid by the Shield Purchasers, who are seeking protection.
+Shield Purchasers: Members who seek protection for their own crypto assets. These Members must choose how much protection they need for their crypto assets (called a âShieldâ) and pay a fee that goes directly to reward the Collateral Providers who have contributed funds for reservation. The funds used as collateral for active Shields of Shield Purchasers are no longer able to be reserved until the Shields expire, allowing the Pool to maintain full collateralization.
+Benefits for Blockchain Projects and Their Holders
+ShentuShield Pools provide a flexible option of protection for the supporters of a blockchain networkâprotecting both the project itself, as well as its community. Because blockchain networks are often dealing with young and novel technologies, their early supporters often end up bearing the brunt of the risk. Instead, those early supporters should be treated as the most valuable contributors to blockchain projects, not their guinea pigs. ShentuShield allows members to establish a discretionary pool of funds that can be used as reimbursements if there are any unexpected issues that happen to their supporters.
+In order to request a reimbursement, any eligible member, whether from the blockchain project or from an individual, must submit a Claim Proposal with a Submission Fee. This Submission Fee is used to prevent the spamming of illegitimate requests. Once the Submission Fee is paid and the Claim Proposal is thoroughly crafted, a decentralized voting process begins where all Member of the ShentuShield system can vote to accept or reject the Claim Proposal.
+To keep the ShentuShield Pool active, the blockchain project is responsible for paying a recurring fee that goes directly to the Members who provide collateral into the Pool (the Collateral Providers). This keeps incentives aligned, as blockchain projects directly reward the Members who are providing collateral to support their ecosystem's protection, and Members are incentivized to contribute to the Pool in order to earn part of these fees.
+Benefits and Risks for Staking Members / Liquidity Providers
+All Collateral Providers of the ShentuShield Pool will receive normal staking rewards for staked CTK, while also collecting a portion of the fees paid by Shield Purchasers of the Pool.
+ShentuShield Pools can be seen as alternative, higher-risk, higher-reward staking option for CTK. Staking on Shentu Nodes, which does not put any CTK at risk as collateral, is also an option, as mentioned below. The major difference of staking with the ShentuShield Pool is that the stake of each Collateral Provider may be used to pay out the reimbursements of approved Claim Proposals for Shield Purchasers.
+All Collateral Providers should understand that it is possible that their full collateral stakes are used for reimbursements. As such, Collateral Providers are responsible for conducting thorough due diligence for all Members protected by the ShentuShield Pool; the Security Oracle score can act as one factor of security, but all Members are encouraged to deeply research all aspects of the blockchain project.
+Additional Highlights 
+Reserving a Shield to Protect Your Own Crypto Assets
+The portions of the Pool that are reserved by Shield Purchasers for reimbursement are called "Shields." In order to reserve a Shield, Shield Purchasers must pay a fee to the Collateral Providers.
+The total available Shields of a ShentuShield Pool is calculated in the equation below:
+ð¡ Available Shields = [Total Staked CTK in the Pool] - [Size of Shields Already Reserved]
+Shields last for 21 days from the point they are purchased. The reserved funds of a Shield are only used to pay out the reimbursement of approved Claim Proposals. If there are no approved Claim Proposals by the end of the 21 day period, the funds are reopened for reservation.
+A Fully Transparent Claim Proposal and Voting System for Fairness
+Only Shield Purchasers with active Shields can submit Claim Proposals. A Shield Purchaser may have multiple open Claim Proposals at one time, but the sum of requested reimbursement cannot be greater than the total size of their reserved funds.Claim 
+Proposals are located on
+DeepWallet (shentu.technology)
+ for Shield Purchasers to formally document the situation in which their crypto assets were lost. Claim Proposals may include attachments of additional documentation, such as police reports, witness statements, or any other kind of supplementary information as supporting evidence.
+In order to submit a Claim Proposal, a non-refundable processing fee of 1% of the total claim size must be paid (in CTK as the platform currency)âthis processing fee is shared among all active voters who participate in voting on this claim. Once Claim Proposals are submitted, they are unable to be modified, and the Claim Proposals are broadcasted to all Members of the ShentuShield system to begin a voting period, which is open for 2 days. Claim Proposals are either fully accepted with the full claim amount due to be paid or fully rejected. There are no partial claims paid out.
+All voting history, and the corresponding Claim Proposals, are publicly available for view. This will help encourage honest voting - if the record shows that an individual is frequently rejecting âlegitimateâ Claim Proposals, then the voting community may take that into consideration if the blockchain project ever submits a Claim Proposal for itself.
+Preventing Gaming of the ShentuShield System
+The ShentuShield system was devised with several safeguards to prevent gaming of the system. These include, but are not limited to:
+Voting threshold requiring a majority acceptance to approve Claim Proposals.
+Claim Proposals require non-refundable fees in order to be processed. These fees scale at 1% of the requested reimbursement size of the Claim Proposal, so larger payouts cost more to begin.
+Approved Claim Proposals receive payouts over 56 days.
+Veto Voting Proposals can be submitted to stop any Claim Proposals that are undergoing the 56 day payout period. These Veto Votes require a 3/4ths (75%) majority to be approved.
+Only projects with a Security Score of over 80 are eligible to obtain a ShentuShield membership. This enforces projects to secure their code before enabling protection.
+4 
+Shentu 
+Chain Architecture
+Shentu Chain is designed to be the infrastructure of provable trust, for all stakeholders in the blockchain world. Designed from ground up with blockchain security in mind, Shentu Chain aims to use state-of-art security technologies to enable an unprecedented level of security for blockchain.
+Security Technologies
+â
+Shentu Chain seeks to establish static and dynamic blockchain security that is trustless, decentralized, and on-chain.
+Security on-chain means that the creation and consumption of security analysis can be in real-time, as opposed to existing practices of providing security auditing off-chainâas it stands, there is no notion of security during the execution of chain logic, so both secure and non-secure logic may execute simultaneously with each other. In contrast to existing blockchain VMs, such as EVM and eWASM, a distinctive feature in the Shentu CVM is the ability to establish, query, and act on security knowledge at chain logic execution time for differentiating behaviors and enhancing protection.
+To capture and store security information on-chainâwhether from auditing, formal verification, testing, or other meansâShentu Chain has the built-in support of proof certificates of all kinds. Whether an audit report or a proven smart contract, their proof certificates may be stored on-chain and accessible for both off-chain queries and on-chain smart contracts.
+While these static proof certificates can provide detailed information about security, they are still static. In practice, the dynamic security knowledge deduced from information such as peers, data, and timing is often the most effective protection for chain logics execution. For this reason, Shentu Chain has a built-in Security Oracle, powered continuously by security experts and accessible by smart contracts for real-time security protection.
+As a decentralized system, blockchain should also decentralize its security, instead of relying on any particular authority or vendor. In Shentu Chain, all security-related decisions and confirmations are done in a decentralized fashion via on-chain security governance that reflects the consensus of all chain security stakeholders. In particular, ShentuShield will have a decentralized pool for protecting blockchain users from security-related losses.
+Ultimately, however, decentralized blockchain security of any kind cannot be fully trusted, except by using rigorous mathematical methodsâeven proof-of-work (PoW) cannot be trusted if the code that does the cryptographic computation is implemented wrongly. The only known way to achieve truly trustless security to date is by utilizing (independently) machine-checkable mathematical proofs of the blockchain artifacts, which include both chain infrastructure and chain logics. By applying state-of-the-art research, Shentu Chain utilizes these proofs wherever practical to create the most robust, security-first blockchain in the world.
+Design Goals
+â
+Shentu Chain was built with important design goals that go beyond the core theme of security and correctness of blockchain logic.
+One of the most important design goals for Shentu Chain is full compatibility with existing blockchains / VMs, enabling an easy migration or servicing of existing applications on Shentu Chain. For that, Shentu Chain's VM will maintain full compatibility with Ethereum's EVM (1.0) and eWASM VM (2.0).
+Shentu Chain is designed to be a cornerstone of the future secure blockchain ecosystems where it not only co-exists with many other blockchains with different focuses but also has deep integration and collaboration with them. For this goal, Shentu Chain is built following the Cosmos modular blockchain framework for static integration and will join the Inter-Blockchain Communication (IBC) protocol for cross-chain functionality.
+As a foundational blockchain to support secure blockchain ecosystems, computational efficiency and operation scalability are crucial for the success of Shentu Chain, which has adopted pBFT, a Delegated Proof-of-Stake (DPoS) consensus protocol. It is worth noting that Shentu Chain's DPoS is enhanced with the trustless and decentralized security technologies described in the previous section.
+â
+Key Components
+â
+Shentu Chain software stack includes standard chain node software components such as consensus protocol and virtual machine (VM), as well as secure smart contract language, compiler toolchain, verification tool, as well as trustworthy runtime and OS kernels.
+The consensus protocol and persistent storage layer is using Tendermint, currently the most commonly used DPoS layer in the blockchain world.
+Shentu Security Oracle is the chain component in charge of obtaining, storing, and serving real-time security information about Shentu Chain and other blockchain entities. It gathers continuous security updates from decentralized operators and synthesizes them into security scores etc., which may get pushed to other blockchains to protect their smart contracts.
+Shentu VM (CVM) realizes a majority of the security technologies and design goals of Shentu Chain. It provides the power, efficiency, protection, transparency, and security-focused features for secure as well as normal smart contracts to execute and interact.
+The preferred way to construct 
+secure smart contracts
+ is to compose them in DeepSEA, a new functional programming language specifically designed for that purpose. Not only can security and correctness properties of secure smart contracts be established for the DeepSEA source code, but it will also be 100% preserved to the target VM target bytecode that actually executes, as DeepSEA has a trustworthy compiler toolchain that is proved completely for its compilation correctness.
+For smart contracts already written in Solidity and other similar languages, Scivik is a formal verification toolchain that can be used by professional formal verification engineers to specify and establish their security and correctness properties. With the proving process being automated, Scivik can be used all through the smart contract development lifecycle.
+4.1 
+Shentu Certified 
+Virtual Machine (CVM)
+The Design of CVM
+â
+The virtual machines of many of the popular blockchains perform limited bytecode verification, leaving potentially serious, yet unknown vulnerabilities. Even if a smart contract is written 100% securely and correctly, during the transformation from human-readable code (letters) to machine-readable bytecode (1's and 0's), there may be errors introduced that render the previous security checks obsolete.
+As an intricately designed, security-first blockchain, the first goal of the Shentu Certified Virtual Machine (CVM) is to achieve the advanced security of the VM code. This hyper-secure trusted computing base (TCB) will limit attack vectors from insecure code. Eventually, the CVM will enforce sandboxing and isolation of any code that is not fully certified via mathematical proofs whilst being completely formally verified itself.
+The second goal of CVM (as well as Shentu Chain) is to enable security intelligence to become an on-chain, expressible value. This is unachievable in any of today's blockchain virtual machines; security analysis is conducted and stored off-chain, so programs are unable to reference the results when considering performing a transaction. This limits the real value of security analysis, as the onus is on an individual to perform the diligence to find and investigate any previously conducted audit reports, prior to using a smart contract. However, by extending this security intelligence on-chain, more dynamic and actionable operations are enabled. For example, a secure smart contract may choose to differentiate its actions when interaction with secure and non-secure smart contracts; in real life, this differentiation is analogous to lenders who charge different rates based on a person's credit score (or in this case, security score).
+The CVM exposes smart contract and blockchain security information to VM code, enabling unprecedented ways to access, check, depend on, and even dynamically establish blockchain and smart contract security. On-chain security intelligence provides access to information for better decision-making. While unaudited/unverified smart contracts may still execute in the CVM, there is higher transparency to those seeking to interact with it.
+A long-term goal for CVM is the separation of chain state access and general computation. VMs stand in between the smart contract/plugin/dApp logic and the persistent chain state access/replication logic. Many of today's VMs, including Ethereum's EVM, handle both blockchain state access and general computation in the same way, with no separation between VM instructions and smart contract language features. This structure loses out on the many good ways to write, debug, and run general computations that have already existed before blockchain. While some chains / VMs try to use libraries instead for chain state access, but that doesn't fix the problem because it comes with its problems, such as language-dependency, API inconsistency, and still no isolation between general computation and state access. To remedy these issues, the CVM will use the leading universal VM, the x86-64 OS process model, while potentially expanding to other ISAs such as arm64 in the future. Blockchain state access will be provided as OS abstractions (memory page, files, signals, procfs, syscalls, etc.) to CVM code. Existing bytecode VMs will still be fully supported and actually become middleware between their VM code and the CVM, meaning that the CVM will be language agnostic. As a result, all existing toolingâwhether designed for the blockchain world or notâwill be reusable for CVM code development. This OS process model also provides an excellent abstraction level for CVM code protection and isolations.
+Additional Technical Highlights:
+â
+Certificates on CVM
+â
+Extensions of CVM are developed to support smart contracts deployed on Shentu Chain to perform more customized actions. CVM extensions are implemented as precompiled contracts in CVM. They allow smart contracts to access on-chain information.
+Certificates issued on Shentu Chain provide dynamic security certifications to audited or formal verified smart contracts. With the CVM extension, users can access the certificates on chain from smart contracts. While certificates make off-chain security checks available on chain, CVM makes on-chain information available in smart contracts. In this way, smart contracts on Shentu Chain are able to check the securities of external calls.
+â
+Proof Checking on CVM
+â
+Beyond just certificates of audits, the Shentu Chain will be able to certify proof objects from formal verification developments. A proof object is any kind of machine-readable representation of a proof which can be independently checked to establish that a theorem is true. Currently the most commonly used form are the .vo files produced be the Coq proof assistant: they contain only the logical inferences used to prove a theorem, but omit the tactics and proof search which was used to construct it, so they can be checked by a utility program which is simpler and more trustworthy than the full Coq system.
+Proof objects are naturally trust-less, but with the current state of the art the only way to check a proof is to run the checker yourself. With the Shentu Chain, users have a decentralized way to confirm that a proof object is valid. The user will compile the proof using Coq, preprocess .vo files with a Shentu-developed tool, and submit it to a set of proof-validating nodes. If enough nodes agree that the proof is valid, it will be added to the chain state. In addition to Coq, the validators will also handle other theorem provers such as Z3.
+The provers will be responsible for splitting a development into a "theorem statement" and a proof of it, using the Coq module system. The chain state then includes a hash of the theorem statement (the chain nodes do not need to store the full proof, although it will be made available off-chain, e.g. on IPFS). Similar to certificates, the CVM lets user contracts query this database, so it is possible to make decentralized decisions using proofs, for example, upgrading a contract only if the upgraded version comes with a correctness proof, or posting a bounty for a theorem to be proven.
+â
+CVM Technical Challenges
+â
+With currently implemented CVM extensions, smart contracts can check the existence of certificates on-chain.
+Supporting multiple types of VMs such as EVM, eWASM, x86, ARM, etc. simultaneously requires careful design of chain state access semantics from smart contracts. Being able to isolate and protect them from each other with low latency and overhead requires state-of-art lightweight-process-virtualization-based sandboxing.
+Ultimately, Cosmos plugins themselves will be generic chain logics that runs inside x86 / ARM CVM, for better protection and isolation. Since they have complex dependencies on each other, how to accommodate such flexibility in an efficient and principled way is crucial.
+4.2 DeepSEA Toolchain
+One way to create secure smart contracts is to construct them as inherently secure and correct, by building them with a secure smart contract language and prove the security and correctness while building. DeepSEA is a secure programming language and compiler toolchain developed by researchers from Shentu, Yale University, and Columbia University to allow secure smart contract development, providing a way to formally verify difficult correctness properties about smart contracts using the Coq proof assistant. DeepSEA has the potential to eliminate some of the most critical, yet avoidable source code flaws, and its development has been supported by research grants from the
+ Ethereum Foundation
+,
+ Columbia-IBM
+, and the
+ Qtum Foundation
+.
+Much existing work on smart contract verification is built around automatic theorem provers such as Z3. These provers provide convenience by simply requiring a developer to state a theorem and then program attempts to prove that it holds true. However, they are most useful for relatively simple proofs about e.g. arithmetic expressions and data structures like arrays. In cases where the theorem requires creativity or requires custom definitions to even state (such as many of the complex requirements in smart contracts), automatic tools tend to get stuck. Coq is an example of an interactive proof assistant, which means that it doesnât prove the theorems for users: instead, the user must write both the theorem statement and the proof, and Coq checks whether the proof is correct or not. While this involves more work, it permits arbitrarily advanced mathematics.
+To reason about a contract in Coq, we first need to define a model of what it is doing, then load it into the Coq proof assistant. To achieve this securely, contracts are written in the fairly small programming language of DeepSEA. The DeepSEA compiler both compiles the contract into CVM bytecode and also outputs the representation that can be loaded into Coq. This allows the reasoning of a convenient, high-level representation of the contract, and because the DeepSEA compiler has been fully verified to be correct, the generated Coq contract representation is ensured to match the compiled CVM bytecode execution.
+Additional Technical Highlights:
+â
+DeepSEA Language Design
+â
+Writing a language for verified blockchain software is challenging because there are two competing sets of requirements. On the one hand, in order to be easy to formally reason about, programs should be as high-level as possible, ideally pure functional programs operating on high-level data types like unbounded numbers and lists. On the other hand, executing blockchain contracts is expensive, so we cannot afford luxuries like big integers or a garbage collector. The DeepSEA approach to this problem was informed by the experience of verifying the kernel. We provide a small language that avoids features that are hard to reason about, but at the same time can be executed without an elaborate runtime system.
+A DeepSEA program consists of a set of 
+objects
+, and each of the objects has a set of 
+fields
+ and 
+methods
+. In the CVM case, these correspond to contracts, storage, and methods. In this way we ensure that all contract data is encapsulated behind the object interfaces, so each method can update fields but otherwise behaves like a function. Similar to e.g. Facebookâs Move language there is no way to pass around pointers to the âinsideâ of an object, so proofs donât have to worry about aliasing and frame rules, although the implementation may use pointers to big data as an optimization hidden from the programmer. Therefore, the meaning of a DeepSEAprogram can be modeled as a set of pure functions that can be reasoned about equationally (like in high-school algebra) inside a proof assistant.
+A set of objects can be gathered into a 
+layer
+, which represents a coherent view of the entire contract state. Finally, the language supports 
+abstract refinement
+ of layers, where the programmer manually writes a specification for some methods and provides a proof that itâs satisfied. For example, one can implement a tree data structure in terms of arrays and indices, and then abstractly refine it into a simple tree data type like you might write it in a functional programming language.
+As a representative example, the following is an excerpt from a contract implementing a second-price blind auction. The state of the auction is recorded as a set of of object fields, which are updated by methods such as 
+bid
+. Objects a can depend on libraries supplying operations like evm.transfer, and the combined objects put together into layers.
+type Bid = {
+Â Â Â Â _blindedBid : hashvalue; _deposit : uint;
+}
+object BlindAuction (evm: EVMOpcodeInterface) : BlindAuctionInterface 
+{
+Â Â Â Â let _beneficiary : addr := 0u0
+Â Â Â Â let _biddingEnd : uint := 0u0
+Â Â Â Â let _revealEnd : uint := 0u0
+Â Â Â Â let _ended : bool := false
+Â Â Â Â let _bids : mapping[addr] Bid := mapping_init
+Â Â Â Â ...
+Â Â Â Â let constructor (biddingTime, revealTime) = ...
+(* Place a blinded bid with `blindedBid` = keccak256(value, secret). *)
+Â Â Â Â let bid blindedBid =
+Â Â Â Â assert (block_number < _biddingEnd);
+Â Â Â Â assert (msg_sender <> _beneficiary);
+Â Â Â Â let old_deposit = _bids[msg_sender]._deposit in
+Â Â Â Â if old_deposit <> 0u0
+Â Â Â Â then
+Â Â Â Â Â Â Â Â begin
+Â Â Â Â Â Â Â Â Â Â Â Â _bids[msg_sender]._blindedBid := blindedBid;
+Â Â Â Â Â Â Â Â Â Â Â Â _bids[msg_sender]._deposit := msg_value;
+Â Â Â Â Â Â Â Â Â Â Â Â _amountOf[msg_sender] := msg_value;
+Â Â Â Â Â Â Â Â Â Â Â Â evm.transfer(msg_sender, old_deposit)
+Â Â Â Â Â Â Â Â end
+Â Â Â Â else
+Â Â Â Â Â Â Â Â _bids[msg_sender] := {_blindedBid = blindedBid;
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â _deposit = msg_value}
+Â Â Â Â ...
+layer BLINDAUCTION : [EVMOPCODESig] BLINDAUCTIONSig = {
+Â Â Â Â blindauction = BlindAuction
+}
+DeepSEA Proof Generation
+â
+The DeepSEA compiler automatically generates a data type declaration in Coq for a type of record representing the current state of the contract.
+Record State : Type := {
+Â Â Â Â _beneficiary : int256;
+Â Â Â Â _biddingEnd : int256;
+Â Â Â Â _revealEnd : int256;
+Â Â Â Â _ended : bool;
+Â Â Â Â _bids : (Int256Tree.t Bid);
+...
+}.
+Then DeepSEA automatically generates a functional specification for each method of the contractâ a Coq function which takes State record and returns the new, updated State. For example, we will generate a Coq function representing the behaviour of the update method:
+BlindAuction_bid_opt : hashvalue -> State -> option (State * unit)
+:= (* function definition ... *)
+The compiler outputs bytecode and a proof that the code simulates the specification function, i.e., running the contract from a given state produces a new state corresponding to the one returned by the Coq function.
+By loading the state type and function definitions into Coq, we can now define arbitrary properties 
+about
+ the contract. For example, we can define a 
+strategy
+, i.e. an algorithm interacting with the contract, as just a Coq function calling the methods:
+Definition bid_own_valuation (p : player_addr) : strategy :=
+Â Â Â if andb (is_bidding_phase n prev_block) (negb (already_bidded p prev_block))
+Â Â Â Â then
+Â Â Â Â Â Â Â Â bid (player_info p).(capital_proof)
+Â Â Â Â Â Â Â Â (keccak (hashval_int256 (player_info p).(valuation)) (player_info p).(secret))
+Â Â Â Â else if is_reveal_phase n prev_block
+Â Â Â Â then
+Â Â Â Â Â Â Â Â reveal 0%Z (player_info p).(valuation) (player_info p).(secret)
+Â Â Â Â else if is_auction_finished_phase n prev_block
+Â Â Â Â then
+Â Â Â Â Â Â Â Â withdraw 0%Z
+Â Â Â Â else
+Â Â Â Â Â Â Â Â ret tt).
+Finally, we define a relation specifying how the state of the contract may evolve given a set of participants interacting with it, and show that the above strategy is a Nash equilibrium, i.e. nobody can improve their payoff by unilaterally deviating from it. Proving this theorem involves proving a set of lemmas about functional correctness, saying e.g. that after the bidding phase has ended each participant has placed one bid, and the highest_bid variable in the contract corresponds to the highest of them.
+This development shows one benefit of working in a fully general proof assistant. It is not only that itâs possible to prove complicated functional correctness theorems, e.g. involving difficult data structures. In the auction example, the functional correctness invariants are not exceptionally hard to prove, but if one only proved this style of lemmas, itâs unclear if they actually imply that the contract is secure. In an interactive proof assistant we can write down arbitrary math, so we can state the same definitions and correctness theorem that you would see in an auction theory textbook.
+DeepSEA Certified Compilation
+â
+The structure of the compiler is shown in the figure below. The frontend (type-checker) is implemented in OCaml, while the middle-end is written in Coq. The compiler first parses and type-checks the input file, and elaborates it into a simpler language, the DeepSEA typed core language. The type-annotated abstract syntax tree of the core term is printed out into a Coq source file, and then the middle-end produces both the C implementation and the functional specification from that representation. The front-end also translates layer calculus expressions from the DeepSEA source file into calls to the various lemmas of the Certified Abstraction Layers libraryâcomposing specifications and proofs for individual methods into a specification and proof for the entire system.
+To be precise, the language that the middle-end targets are a subset of C, which we refer to as âMiniCâ. The bulk of the middle-end implementation consists of a theorem, proven in Coq, that the command translation is correct with respect to the desugaring. The correctness theorem is proven once and for all. Then each time the user compiles a DeepSEA program, the front-end generates a set of Coq files which apply the desugaring and program extraction functions, and the compilation correctness theorem, to the intermediate representation of that input program. The end result is a proof that the generated functional specification matches the extracted C code. The user can load those files into Coq, and compose that proof with manually written proofs about the functional specifications.
+Blockchain Backends
+â
+In order to use DeepSEA for smart contracts, we develop backends which translate the MiniC program that the middle-end produces into blockchain bytecode. In other words, it forms a replacement for a C compiler when targeting a blockchain target like CVM or WebAssembly instead of x86 assembly. The verified part of the backend produces CVM assembly code, then an untrusted assembler/pretty-printer converts identifiers to integer offsets (for jump labels, storage identifiers, and method entry points), and outputs bytes.
+The backend proof takes the form of a number of lemmas, each saying that the translated program is equivalent to the source program. For example, the backend first transfers MiniC programs into a language, called Clike, which expands âcomplexâ values (e.g., a hashtable) into storage and pointers. As for the function clike_rvalue translating MiniC expressions to Clike expressions, we prove a lemma
+Lemma rvalue_equiv: forall (eMiniC eClike: expr) (result: val) (id: ident_ext),
+clike_rvalue eMiniC = Some eClike ->
+SemanticsMiniC.eval_rvalue me se le eMiniC result ->
+SemanticsClike.eval_rvalue me se le eClike result.
+The proofs for compilation of statments, as opposed to expressions, are more complicated because the type of program state changes in the different languages. We have to define what it means for a State in the abstract syntax tree of miniC to be equivalent to a State in the control flow graph of Clike. Each compilation phase defines such a relation, e.g.
+Inductive match_states: state -> state -> Prop :=
+| match_state: forall f cf s cs k ck le se lg g gâ
+(TF: clike_function f = Some cf)
+(TS: clike_stm s = Some cs)
+(TK: match_cont k ck)
+(GAS: (g <= gâ)%nat),
+match_states (State f s k le se lg g) (State cf cs ck le se lg gâ).
+One point of interest is that we allow the compilation phases to over-approximate the gas usage of an expression. For example, the lower-level language like Clike can specify exactly the amount of gas needed for each jump and conditional jump, but up in MiniC it is easier to say, for example, that evaluating the condition of an Sifthenelse statement consumes at most 3 jumps-worth of gas.
+â
+Using the backend for other languages
+â
+The MiniC intermediate language is not closely tied to the DeepSEA surface language, it can also be used to compile other languages. This means that the DeepSEA backend can be a re-usable language for anyone who wants a highly-trusted, formally verified compilation path for their own blockchain language. This can be particularly attractive for creating small domain-specific languages, e.g. for handling financial assets.
+Types of Governance Proposals
+Stake Delegators can submit governance proposals relating to features of the platform or protocol parameters. There are several types of proposals.
+Plain Text Proposals do not require chain code modifications. They can be used to discuss and seek majority consensus on any topic related to chain operations and governance, e.g., initiating a bounty campaign, increasing the incentive reward ratio, etc. Submission of a plain text proposal is the prerequisite for a software upgrade proposal, which ensures the technical changes are desired and agreed upon with a majority of Delegators and Validator Operators.
+Software Upgrade Proposals require chain code modifications, such as changing the range/scope of the chain parameters or adding new chain features. Once a related plain text proposal is approved, proposers are then qualified to submit a software upgrade proposal for the communityâs approval.
+Bounty Proposals may include any chain contribution request, such as creating chain artifacts, performing security verifications, constructing security proofs, conducting security audits, etc. The deposits for a bounty proposal are stored in a pool that can be claimed by contributors who complete the request. Once the proposal has been accepted by governance, contributors can submit a software upgrade proposal and claim the bounty.
+Community Pool Spend Proposals transfer tokens from the community pool to an address if they pass. The recipient of the tokens could be a chain user who has doneâor plans to doâdevelopment work or security work for the chain. The recipient could also be a smart contract that distributes the tokens to multiple addresses after conditions have been met. For example, a bug bounty smart contract could be funded by a community pool spend proposal. When a user finds a bug, the owner of the smart contract could send some tokens to that user as a reward. Just like the first two proposal types, a community pool spend proposal only needs to pass the validator voting period.
+Certifier Update Proposals add a new certifier or remove a certifier if they pass. This proposal type must be submitted by a certifier. Its voting protocol is unique, in that it must pass either the certifier voting round or the validator voting round.
+â
+The Governance Procedure
+â
+The Deposit Period
+â
+A proposal can be submitted by all three types of participants: Stake Delegators, Validator Operators, and Security Certifiers.
+For Stake Delegators, submitting a proposal requires a deposit. The proposal will be confirmed and enter the Voting Period once the minimum deposit is reached. For software upgrade proposals, proposers are required to submit a plain text proposal first to receive a majority consensus. This process will include two deposit transactions. The Proposal will enter into the Voting Period once the deposit conditions have been met; otherwise, the deposit will be refunded.
+The deposit process allows Stake Delegators to gain more attention in order to get their proposals into the Voting Period. Security Certifiers and Validator Operators can skip the deposit period when submitting proposals, since they have already been entrusted by delegators during their delegation and election process.
+â
+The Voting Period
+â
+There are two passes (hence the naming of the dual-pass governance model) of voting during the voting period, for functional and security considerations.
+For functional considerations, only staked tokens can participate in the voting pass. The number of tokens staked determines the influence on the decision, i.e., voting power. Stake Delegators adopt the vote of the Validators they have chosen to delegate to, unless they decide to cast their own vote, which would overwrite the Validatorsâ voting choice. Each token is entitled to one vote on each proposal.
+For the avoidance of doubt, the right to vote is restricted solely to voting on features of the Shentu Platform; the right to vote does not entitle CTK holders to vote on the operation and management of the Foundation, its affiliates, or their assets, and does not constitute any equity interest in any of these entities.
+There are four stake voting options:
+Yes: Voters want the proposal to pass.
+No: Voters do not want the proposal to pass and want to return the deposit.
+No with Veto: Voters do not want the proposal to pass and opt to burn the deposit.
+Abstain: Voters elect not to participate in the vote.
+There are two security voting options:
+Yes: Voters want the proposal to pass and there is no security issue.
+No / Abstain: Voters do not want the proposal to pass or elect not to participate in the vote, and there are potential security issues.
+The Results Period
+â
+If the passed proposal is a software upgrade proposal, then nodes need to upgrade their software to the new version that was voted. This process is divided in two steps, through a signal and switch.
+In the signal step, Validator Operators are expected to download and install the new version of the software while continuing to run the previous version. Once a validator node has been installed with the upgrade, it will start signaling to the network that it is ready to switch over.
+There is only one signal at any time. If several software upgrade proposals are accepted in a short time frame, a pipeline will form and they will be implemented one after the another in the order they were accepted.
+In the switch step, once a majority of validator nodes are signaling for a common software upgrade proposal, all the nodes (including validator nodes, non-validator nodes, and light nodes) are expected to switch to the new version of the software simultaneously.
+Conclusion
+â
+Governance for dPoS chains is challenging due to the limited decentralization of super nodes. By adding security stakeholders into the governance model and separating functional and security considerations, the result is practical, balanced, and extensible governance.
+Together with other unique security designs and technologies, Shentu Chain is designed to create the security groundwork for a safer blockchain ecosystem. With security as the key design focus, every chain layer or component prioritizes trust and security, such that true decentralization and scalability can be meaningfully achieved while allowing developers to rely on better chain security.
+5 Token Economics
+5.1 Staking
+Like many other Proof-of-Stake blockchains, Shentu Chain also rewards token holders who choose to stake their tokens. Staking plays a crucial role in maintaining the security of the chain, increasing the voting power needed for any adversarial group from taking control of the chain. Individually, the primary incentive to stake the tokens is the staking rewards that depends on the network status.
+A full chain node has to be in the top 100 voting power to become a bonded validator. The maximum number of bonded validators is 100.
+Shentu Chain will use Tendermint for its consensus algorithm. For each block, there will be fixed tokens distributed among the bonded validators to reward their participation in the protocol. Some important parameters are as follows:
+The block proposer will claim 5% of the total block reward.
+The rest of the minted tokens will be distributed among all other validators.
+Block proposers will be selected through a round-robin schedule according to the validators' voting power.
+Moreover, validators can set a commission rate, which will give an incentive for validators to accept delegations by enabling fees for maintaining the validator node.
+An account or a token holder can delegate his or her tokens to one of the validators to obtain staking rewards. He or she will earn rewards based on the amount of delegated tokens. Since only the bonded validators will get the staking rewards and collected fees distribution, only those delegated to one of the bonded validators will be able to earn corresponding rewards. The minimum staking amount per transaction is 1 CTK. Reward rates and the token minting/burning process are discussed in the next section.
+Validators, since they are part of the Tendermint consensus algorithm, can be punished if they make infractions either deliberately or unknowingly. There are only two cases where the staked CTK is slashed: double signing and being offline. A bonded validator is "being offline" if it does not participate in the consensus protocol for more than a certain time. The validator enters the tombstone state after the slashing, where it cannot get slashed until it un-jails himself.
+Validators may unbond their staked tokens. The validator will go through a 21-day period in which the tokens are locked. In the case of a validator unbonding, the delegators of the validator may choose to re-delegate to other validators to continue earning staking rewards. Otherwise, the delegators will not be able to earn further rewards, as the original unbonded validator is effectively excluded from the validator set.
+5.2 Inflation
+To maintain the security of the chain, token holders are incentivized to stake their coins. However, we also want to encourage users to make use of the Shentu Virtual Machine. To balance the two, the Shentu Chain could have a targeted ratio: Whenever the staked ratio falls below the target staked ratio, the rewards rate goes up Also, whenever the staked ratio rises above the target staked ratio, the rewards rate falls. This is to encourage/discourage staking in order to balance between security and liquidity of the chain.
+The core pillars of the Shentu ecosystem consists of several components, each independent and complex, yet interconnected and vital to achieving the mission of empowering people to trust in the blockchain. These components are broken down below, along with high-level milestones for each stage of development. With the mainnet launch, all necessary functionalities have been fully built, developed and ready for usage. Here we list potential and possible upgrades that our developer community can choose to develop and support:
+6 Roadmap
+The core pillars of the Shentu ecosystem consist of several components, each independent and complex, yet interconnected and vital to achieving the mission of empowering people to trust in the blockchain. These components are broken down below, along with high-level milestones for each stage of development. With the mainnet launch, all necessary functionalities have been fully built, developed and ready for usage. Here we list potential and possible upgrades that our developer community can choose to develop and support:
+Shentu Security Oracle:
+ Reputation, Punishment, and Decentralized Dispute systems.
+ShentuShield:
+ More granular factors to determine the Shield pool size and length.
+Shentu CVM (CVM):
+ Introduce more proof-checkings and hardware supports.
+DeepSEA:
+ Full compatibility with EVM and more proofs of compiler correctness.
+7 Risks
+You acknowledge and agree that there are numerous risks associated with purchasing CTK, holding CTK, and using CTK for participation in the Shentu Platform. In the worst scenario, this could lead to the loss of all or part of the CTK which had been purchased. 
+IF YOU DECIDE TO PURCHASE CTK, YOU EXPRESSLY ACKNOWLEDGE, ACCEPT AND ASSUME THE FOLLOWING RISKS:
+7.1 Uncertain Regulations and Enforcement Actions 
+The regulatory status of CTK and distributed ledger technology is unclear or unsettled in many jurisdictions. The regulation of virtual currencies has become a primary target of regulation in all major countries in the world. It is impossible to predict how, when or whether regulatory agencies may apply existing regulations or create new regulations with respect to such technology and its applications, including CTK and/or the Shentu Platform. Regulatory actions could negatively impact CTK and/or the Shentu Platform in various ways. The Foundation, the Distributor (or their respective affiliates) may cease operations in a jurisdiction in the event that regulatory actions, or changes to law or regulation, make it illegal to operate in such jurisdiction, or commercially undesirable to obtain the necessary regulatory approval(s) to operate in such jurisdiction. After consulting with a wide range of legal advisors and continuous analysis of the development and legal structure of virtual currencies, a cautious approach will be applied towards the sale of CTK. Therefore, for the token sale, the sale strategy may be constantly adjusted in order to avoid relevant legal risks as much as possible. For the token sale, the Chain and the Distributor are working with the specialist blockchain department at Bayfront Law LLC.
+7.2 Inadequate disclosure of information 
+â
+As at the date hereof, the Shentu Platform is still under development and its design concepts, consensus mechanisms, algorithms, codes, and other technical details and parameters may be constantly and frequently updated and changed. Although this white paper contains the most current information relating to the Shentu Platform, it is not absolutely complete and may still be adjusted and updated by the Shentu team from time to time. The Shentu team has no ability and obligation to keep holders of CTK informed of every detail (including development progress and expected milestones) regarding the project to develop the Shentu Platform, hence insufficient information disclosure is inevitable and reasonable.
+7.3 Competitors 
+â
+Various types of decentralized applications and networks are emerging at a rapid rate, and the industry is increasingly competitive. It is possible that alternative networks could be established that utilize the same or similar code and protocol underlying CTK and/or the Shentu Platform and attempt to re-create similar facilities. The Shentu Platform may be required to compete with these alternative networks, which could negatively impact CTK and/or the Shentu Platform.
+â
+7.4 Loss of Talent 
+â
+The development of the Shentu Platform greatly depends on the continued co-operation of the existing technical team and expert consultants, who are highly knowledgeable and experienced in their respective sectors. The loss of any member may adversely affect the Shentu Platform or its future development. Further, stability and cohesion within the team is critical to the overall development of the Shentu Platform. There is the possibility that conflict within the team and/or departure of core personnel may occur, resulting in negative influence on the project in the future.
+â
+7.5 Failure to develop 
+â
+There is the risk that the development of the Shentu Platform will not be executed or implemented as planned, for a variety of reasons, including without limitation the event of a decline in the prices of any digital asset, virtual currency or CTK, unforeseen technical difficulties, and shortage of development funds for activities.
+â
+7.6 Security weaknesses 
+â
+Hackers or other malicious groups or organizations may attempt to interfere with CTK and/or the Shentu Platform in a variety of ways, including, but not limited to, malware attacks, denial of service attacks, consensus-based attacks, Sybil attacks, smurfing and spoofing. Furthermore, there is a risk that a third party or a member of the Foundation, the Distributor or their respective affiliates may intentionally or unintentionally introduce weaknesses into the core infrastructure of CTK and/or the Shentu Platform, which could negatively affect CTK and/or the Shentu Platform. 
+Further, the future of cryptography and security innovations are highly unpredictable and advances in cryptography, or technical advances (including without limitation development of quantum computing), could present unknown risks to CTK and/or the Shentu Platform by rendering ineffective the cryptographic consensus mechanism that underpins that blockchain protocol.
+â
+7.7 Other risks 
+â
+In addition, the potential risks briefly mentioned above are not exhaustive and there are other risks (as more particularly set out in the Terms and Conditions) associated with your purchase, holding and use of CTK, including those that the Chain or the Distributor cannot anticipate. Such risks may further materialize as unanticipated variations or combinations of the aforementioned risks. You should conduct full due diligence on the Foundation, the Distributor, their respective affiliates, and the Shentu team, as well as understand the overall framework, mission and vision for the Shentu Platform prior to purchasing CTK or to purchasing CTK.
+Copyright Â© 2022 by Shentu Foundation. All rights reserved.
+DIRECTORY
+Technology
+Whitepaper
+BUILD
+Github
+TOOLS
+Explorer
+DeepWallet
+

@@ -1,0 +1,155 @@
+Ethena Overview | Ethena Labs
+Search
+Ctrl
+â+âK
+ð
+Ethena Overview
+Problem: Crypto-Native Money
+Alternatives: Existing Stablecoins
+Solution: The Internet Bond
+Importance to the Space
+Size of the Opportunity
+Video Guides
+How to Mint USDe
+How to Redeem USDe
+How to Stake USDe
+Solution Overview
+USDe Overview
+Delta-Neutral Stability
+Delta-Neutral Examples
+Scalability
+Censorship Resistance
+Yield Explanation
+Historical Examples
+Yield Mechanism Explanation
+Underlying Derivatives
+Futures vs Perpetuals
+Inverse vs Linear Contracts
+Basis Spread
+Peg Arbitrage Mechanism
+Portfolio Scenario Analysis
+Risks
+Funding Risk
+Liquidation Risk
+Custodial Risk
+Exchange Failure Risk
+Collateral Risk
+Chaos Labs Reports
+Collateral Custody & Security
+Overview
+Off-Exchange Settlement in detail
+Copper Clearloop Case Study
+Real-Time Dashboards
+ZKP Proven Positions
+Solution Design
+Overview
+Github Overview
+Key Trust Assumptions
+Matrix of Multisig and Timelocks
+Minting USDe
+Order Validity Checks
+Mint & Redeem Key Functions
+User Security Measures
+Staking USDe
+Staking Key Functions
+User Security Measures
+Use of Oracles
+Hedging System
+Internal Services
+Managing Risk from dependencies
+Reserve Fund
+DevOps Infrastructure
+Measures to Promote Security
+Key Addresses
+Backing Asset Custody
+API Documentation
+Overview
+Resources
+FAQ
+Data Repository
+Reserve Fund Analysis
+Audits
+Media Assets
+General Risk Disclosures
+Financial Risk Disclosures
+Funding Risk
+Liquidation Risk
+Custodial Risk
+Exchange Failure Risk
+Collateral Risk
+Privacy Policy
+Terms of Service
+Testnet
+Powered by GitBook
+ð
+Ethena Overview
+//Enabling the Internet Bond_
+Ethena's USDe is 
+not 
+the same as a fiat stablecoin like USDC or USDT. USDe is a synthetic dollar, backed with crypto assets and corresponding short futures positions.
+This means that the risks implicated by interacting with USDe are inherently different. 
+Please refer to our extensive 
+Risk
+s
+ section for more information.
+Overview
+Ethena is a synthetic dollar protocol built on Ethereum that provides a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated instrument - the 'Internet Bond'.
+
+Ethena's synthetic dollar, 
+USDe
+, provides the crypto-native, scalable solution for money achieved by delta-hedging Ethereum and Bitcoin collateral. 
+USDe 
+is fully-backed (subject to the discussion in the Risks section regarding events potentially resulting in loss of backing) and free to compose throughout CeFi & DeFi. 
+USDe 
+peg stability is supported through the use of delta hedging derivatives positions against  protocol-held collateral.
+The 'Internet Bond' combines yield derived from staked assets (e.g., staked Ethereum), to the extent used as backing assets, as well as the funding & basis spread from perpetual and futures markets, to create the first onchain crypto-native solution for money.
+
+Website: 
+https://ethena.fi/
+Telegram: 
+https://t.me/ethena_labs
+Discord: 
+https://discord.com/invite/HVfuYyNm8S
+Twitter: 
+https://twitter.com/ethena_labs
+LinkedIn: 
+https://www.linkedin.com/company/ethena-labs/
+Quick Links
+page
+How to Mint USDe
+Launch Features
+Users are currently able to:
+Permissionless Acquire
+ 
+USDe. 
+Access external AMM pools to acquire or dispose of 
+USDe 
+with assets such as USDT or USDC.
+Direct Mint 
+USDe
+. Deposit accepted backing assets and receive 
+USDe, subject to clearing KYC/KYB checks exclusively for approved market making counterparties
+.
+Direct Redeem 
+USDe
+. Burn 
+USDe 
+& receive backing assets
+, subject to clearing KYC/KYB checks exclusively for approved market making counterparties
+.
+Stake & Unstake
+ 
+USDe
+. Receive a share of protocol yield. 
+Available exclusively for users in permitted jurisdictions.
+Last updated 
+5 days ago
+On this page
+Overview
+Quick Links
+Launch Features
+ 
+Ethena Chartbook
+Ethena Labs on Notion
+Ethena FAQs
+Ethena Labs on Notion

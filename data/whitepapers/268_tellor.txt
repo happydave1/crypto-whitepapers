@@ -1,0 +1,136 @@
+Welcome | Tellor Docs
+Ask or Search
+Ctrl
+â+âK
+The Basics
+Welcome
+Fundamentals
+Contracts Overview
+Contracts Reference
+Tutorials
+Getting Data
+Introduction
+Solidity Integration
+User Checklists
+Local Testing
+Testnet
+Creating a Query
+Funding a Feed
+Tellor Functions
+DataSpecs Registry
+Reporting Data
+Introduction
+Becoming a Reporter
+Getting Paid
+Disputing Data
+Introduction
+Monitoring
+How to Dispute
+Voting/Resolution
+Vulnerability Disclosure
+Powered by GitBook
+Welcome
+About Tellor
+Tellor is an immutable decentralized oracle protocol that incentivizes an open, permissionless network of data reporting and data validation, ensuring that data can be provided by anyone and checked by everyone.
+Built for any 
+data type
+, our network of 
+reporters
+ supports your basic spot prices, more sophisticated pricing specs (TWAP/VWAP), Snapshot Vote Results, or any custom data needs you have. If your data can be verified, Tellor can 
+bring it on-chain
+.
+Before you get started
+Learn Tellor's Fundamental Concepts
+Read the FAQ
+Read the Whitepaper
+Review the Contracts Overview
+Helpful Things
+What Networks is Tellor on?
+Mainnets
+Ethereum
+Polygon
+Gnosis Chain
+Optimism
+Arbitrum
+Filecoin FVM
+Manta Pacific
+Linea
+Polygon zkEVM
+Fraxtal
+BOB
+zkSync Era Mainnet
+Testnets
+Sepolia
+Amoy
+Chiado
+Optimism Sepolia
+Arbitrum Sepolia
+FVM Calibration
+Manta Pacific Testnet
+Base Sepolia
+Linea Sepolia
+Cardona Testnet
+Fraxtal Testnet
+Puff-BOB
+zkSync Era Sepolia
+*this list will be updated as we move onto more chains.  If you'd like us to deploy somewhere we aren't 
+let us know
+!  
+Need Testnet Tokens (TRB)? 
+Testnet TRB is obtained differently depending on the network youâre using.  In some cases it's only attainable by request and for others a faucet is an option.
+Sepolia, Goerli, and Filecoin Calibration
+Reach out in our 
+discord
+, or create a tweet to 
+@trbfaucet
+.  If you tweet 
+@trbfaucet
+ make sure to include your wallet address and the network youâre testing on.  For example:
+Note: It may take a few hours for the faucet to process your request.
+Polygon Mumbai
+Mumbai
+Faucet: 
+https://mumbai.polygonscan.com/address/0x3251838bd813fdf6a97D32781e011cce8D225d59#writeContract
+Gnosis Chain Chiado
+Faucet: 
+https://blockscout.chiadochain.net/address/0xe7147C5Ed14F545B4B17251992D1DB2bdfa26B6d/write-contract#address-tabs
+Arbitrum Goerli
+Faucet: 
+https://goerli.arbiscan.io/address/0x3251838bd813fdf6a97D32781e011cce8D225d59#writeContract#F5
+Optimism Goerli
+Faucet: 
+https://goerli-optimism.etherscan.io/address/0xd71F72C18767083e4e3FE84F9c62b8038C1Ef4f6#writeContract#F5
+
+
+
+
+
+
+
+
+Developer Tools
+Tellor Github
+Data Specs
+Live Feeds
+QueryID Builder
+Get Testnet TRB
+Simple Funding Script
+AutoTipper Bot
+Educational Resources
+Tellor School
+Best Practices
+Dev Calls
+Reporter Calls
+Weekly Updates
+Get Direct Help
+Ask us a question in our discord
+Tell us what you need and we'll get in touch
+Next
+Fundamentals
+Last updated 
+25 days ago
+On this page
+About Tellor
+Helpful Things
+Get Direct Help
+Was this helpful?

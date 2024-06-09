@@ -1,0 +1,179 @@
+Welcome to Maple | Maple
+Maple
+Search
+Ctrl
+â+âK
+Welcome to Maple
+Maple for Lenders
+Introduction
+Role of the Pool Delegate
+Lending
+Loan Types
+Accessing Permissioned Pools
+Defaults and Impairments
+Risk
+Withdrawal Process
+Cash Management Pool
+Overview
+Lending
+Withdrawals
+Risks
+Maple for Borrowers
+Introduction
+Loan Management
+Maple for Pool Delegates
+Introduction
+Fees
+Maple for Token Holders
+MPL
+What fees are shared with MPL holders?
+MPL Migration
+xMPL
+Governance with MPL and xMPL
+Technical Resources
+Protocol Overview
+Background
+Protocol Actors
+Smart Contract Architecture
+Glossary
+Smart Contract Addresses - EVM Chains
+Smart Contract Addresses - Solana
+Fees
+Composability
+Proxies and Upgradeability
+Security
+Security
+List of Assumptions
+External Entry Points
+Emergency Protocol Pause
+Protocol Invariants
+Test Report
+Loans
+Loans
+Fixed Term Loans
+Open Term Loans
+Refinancing
+Impairments
+Defaults
+Pools
+Pools
+Pool Creation
+PoolManager
+PoolDelegateCover
+Accounting
+Pool Accounting
+Pool Exchange Rates
+Loan Managers
+Fixed Term Loan Manager
+Overview
+Claims
+Advance Payment Accounting
+Accounting Examples
+Open Term Loan Manager
+Withdrawal Managers
+WithdrawalManager (Cyclical)
+WithdrawalManager (Queue)
+Singletons
+Globals
+MapleTreasury
+Oracles
+Pool Permission Manager
+Admin Functions
+Governor Admin Actions
+Operational Admin Actions
+Pool Delegate Admin Actions
+Timelocks
+Operations
+Protocol Deployment
+Open Term Loan Deployment
+December 2023 Deployment & Upgrade Procedure
+Interfaces
+FixedTermLoan
+FixedTermLoanFactory
+FixedTermLoanFeeManager
+FixedTermLoanInitializer
+FixedTermLoanManager
+FixedTermLoanManagerFactory
+FixedTermLoanManagerInitializer
+FixedTermLoanRefinancer
+Globals
+Liquidator
+LiquidatorFactory
+LiquidatorInitializer
+OpenTermLoan
+OpenTermLoanFactory
+OpenTermLoanInitializer
+OpenTermLoanManager
+OpenTermLoanManagerFactory
+OpenTermLoanManagerInitializer
+OpenTermLoanRefinancer
+Pool
+PoolDelegateCover
+PoolDeployer
+PoolManager
+PoolManagerFactory
+PoolManagerInitializer
+PoolPermissionManager
+WithdrawalManager (Cyclical)
+WithdrawalManagerFactory (Cyclical)
+WithdrawalManagerInitializer (Cyclical)
+WithdrawalManager (Queue)
+WithdrawalManagerFactory (Queue)
+WithdrawalManagerInitializer (Queue)
+MPLv2
+Architectural Overview
+Base ERC20 Structure
+Upgradability
+Modules
+Time Locks
+Recapitalization Module
+Emergency Module
+Deployment and Migration Procedure
+GraphQL API
+SDK
+Introduction
+Installation
+Protocol Actors
+Usage Guide
+Troubleshooting & Support
+Intercom
+Maple 1.0
+Access to deprecated Maple 1.0
+Legal
+Borrower MLA
+KYC
+Interface Terms of Use
+Privacy Policy
+MPL Token Migration T&Cs
+Powered by GitBook
+Welcome to Maple
+Founded in 2019 and led by a team of former bankers and credit investment professionals aiming to improve upon legacy capital markets, Maple is an institutional capital network that provides the infrastructure for credit experts to run on-chain lending businesses and connects institutional lenders and borrowers. Built with both traditional financial institutions and decentralized finance leaders, Maple is transforming capital markets by combining industry-standard compliance and due diligence with the transparent and frictionless lending enabled by smart contracts and blockchain technology. Maple is the gateway to growth for financial institutions, pool delegates and companies seeking capital on-chain.
+Links:
+Website: 
+www.maple.finance
+YouTube: 
+https://www.youtube.com/channel/UCXJPzNcN_kSXj82EfRrV1pQ
+Telegram: 
+https://t.me/maplefinance
+Twitter: 
+https://twitter.com/maplefinance
+LinkedIn: 
+https://www.linkedin.com/company/maplefinance/
+Dune Dashboard: 
+https://dune.com/scottincrypto/Maple-Deposits
+Token Terminal Dashboard: 
+https://tokenterminal.com/terminal/projects/maple-finance
+Messari: 
+https://messari.io/asset/maple-finance
+Coin Market Cap: 
+https://coinmarketcap.com/currencies/maple/
+Coin Gecko: 
+https://www.coingecko.com/en/coins/maple
+DeFi Llama: 
+https://defillama.com/protocol/maple
+Next
+Introduction
+Last updated 
+2 months ago
+On this page
+Was this helpful?

@@ -1,0 +1,27 @@
+Welcome | Tensor Foundation
+Tensor Foundation
+Search
+Ctrl
+â+âK
+Welcome
+Tokenomics
+Governance
+Tensor Protocols
+Audits
+Powered by GitBook
+Welcome
+Tensor Foundation facilitates community-led governance over Tensor protocols and helps the Tensor DAO grow and develop the Tensor ecosystem.
+Tensor protocols are critical trading infrastructure for NFTs built on Solana â one of the only chains with the throughput, speed, and low fees necessary for mass adoption.
+To date, Tensor protocols have traded over $2bn worth of Solana NFTs. In the past 90 days they have facilitated over 
+70% of Solanaâs NFT trading volume
+ (wash trading removed).
+This is the official documentation site of Tensor Foundation. Follow the links below to learn more:
+Tokenomics
+Governance
+Tensor protocols
+Audits
+Next
+Tokenomics
+Last updated 
+2 months ago
+On this page

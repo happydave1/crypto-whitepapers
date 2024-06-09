@@ -1,0 +1,111 @@
+Frax Â¤ Finance
+Frax Â¤ Finance
+English ð°ð¾
+English ð°ð¾
+EspaÃ±ol ðªð¸
+FranÃ§ais ð«ð·
+×¢Ö´××¨Ö´××ª ð®ð±
+æ¥æ¬èª ð¯ðµ
+íêµ­ì´ ð°ð·
+PortuguÃªs ðµð¹
+Ð ÑÑÑÐºÐ¸Ð¹ ð·ðº
+TÃ¼rk ð¹ð·
+Tiáº¿ng Viá»t ð»ð³
+ä¸­æ ð¨ð³
+Search
+Ctrl
+â+âK
+Frax Finance Stablecoin Protocol
+FRAX v3
+Overview
+AMOs
+RWAs
+sFRAX
+FXBs
+FRAX V2 - Algorithmic Market Operations (AMO)
+AMO Overview
+Collateral Investor
+Curve
+Uniswap v3
+FRAX Lending
+Decentralization Ratio (DR)
+Frax Shares (FXS)
+veFXS & Gauges
+veFXS
+Gauge
+Fraxbridge & Cross Chain FRAX & FXS
+Bridge Mechanism
+Frax Price Index
+Overview (CPI Peg & Mechanics)
+Frax Price Index Share (FPIS)
+Oracle
+FPI Controller Pool
+veFPIS
+Fraxswap
+Technical Specifications
+Protocol Uses & DAO to DAO Swaps
+Fraxlend
+Fraxlend Overview
+Key Concepts
+Lending
+Borrowing
+Advanced Concepts
+Position Health & Liquidations
+Interest Rates
+Vault Account
+API
+Frax Ether
+Overview
+frxETH and sfrxETH
+Technical Specifications
+Redemption
+Fraxferry
+Overview
+Details
+Frax Governance
+Frax Governance Overview
+How It Works
+Advanced Concepts
+BAMM
+Frax Oracle
+Frax Oracle Overview
+How It Works
+Advanced Concepts
+Frax Base Pool (FRAXBP)
+Coming soon
+Token Distribution
+Frax Share (FXS)
+Guides & FAQ
+FAQ
+Staking
+Uniswap Migration / Uniswap V3
+Fraxswap / FPI
+Matic / Polygon
+Avalanche
+BSC
+Fantom
+Harmony
+Moonriver
+Smart Contracts
+All Contracts
+FPI and FPIS Contract Addresses
+Frax (FRAX)
+Frax Share (FXS)
+frxETH and sfrxETH Contract Addresses
+sFRAX Contract Addresses
+Multisigs
+Frax Pools
+Oracle
+Staking
+Curve AMO
+AMOs
+AMO Minter
+Miscellaneous & Bug Bounty
+Fraxswap
+API
+Combined Data
+Staking / APRs
+Other
+Audits
+Media Kit / Logos
+Powered by GitBook

@@ -1,0 +1,264 @@
+Introduction to KyberSwap | KyberSwap Docs
+KyberSwap Docs
+Search
+Ctrl
+â+âK
+Introduction to KyberSwap
+Getting Started
+Quickstart
+FAQ
+Supported Exchanges And Networks
+Foundational Topics
+Decentralized Finance
+Tokens
+Stablecoins
+DEX/DeFi Aggregator
+Slippage
+Price Impact
+Zap
+Maximal Extractable Value (MEV)
+Decentralized Technologies
+Wallets
+Dapps
+RPC
+Oracles
+On-Chain vs Off-Chain Data
+Other Valuable Resources
+KyberSwap Solutions
+KyberSwap Interface
+User Guides
+Connect Your Wallet
+Switching Networks
+Instantly Swap At Superior Rates
+Swap At Your Preferred Rates
+Add Your Favourite Tokens
+Get Crypto With Fiat
+Bridge Your Assets Across Multiple Chains
+Swap Between Different Tokens Across Chains
+Profiles
+Profile Creation
+Profile Customization
+Sync Profile Across Devices
+Notifications
+Notification Center
+KyberSwap Aggregator
+Concepts
+Dynamic Trade Routing
+User Guides
+Instantly Swap At Superior Rates
+Developer Guides
+Execute A Swap With The Aggregator API
+Upgrading To APIv1
+Aggregator API Specification
+EVM Swaps
+Contracts
+Aggregator Contract Addresses
+DEX IDs
+Subgraphs
+FAQ
+KyberSwap Widget
+Developer Guides
+Integrating The KyberSwap Widget
+Customizing The KyberSwap Widget
+iFrame Alternative
+Limit Order
+Concepts
+Off-Chain Relay, On-Chain Settlement
+Gasless Cancellation
+User Guides
+Swap At Your Preferred Rates
+Update Limit Orders
+Cancel Limit Orders
+Developer Guides
+Create Limit Order
+Gasless Cancel
+Hard Cancel
+Fill Limit Order
+Contracts
+Limit Order Contract Addresses
+Limit Order API Specification
+General APIs
+Maker APIs
+Taker APIs
+FAQ
+Governance
+KyberDAO
+User Guides
+Participating in KyberDAO
+Staking
+Voting
+Stake KNC And Enjoy Gas Savings
+Fees to KyberDAO
+KyberDAO Operator MultiSig
+Contracts
+KyberDAO Contract Repo
+KyberDAO Contract Addresses
+FAQ - Others
+KNC Token
+KNC Tokenomics & Utility
+Gas Refund Program
+KNC Contract Addresses
+Security
+Audits
+Reference
+Legacy
+KyberSwap Classic
+Concepts
+Programmable Pricing Curves
+Dynamic Auto-Adjusting Fees
+Virtual Balances
+Protocol Fees
+Contracts
+Classic Contract Repo
+Classic Contract Addresses
+Classic Contract Farming Addresses
+KyberSwap Elastic
+Concepts
+Concentrated Liquidity
+Reinvestment Curve
+Tick-Range Mechanism
+Pool Process Flows
+Anti-Sniping Mechanism
+Tick-Based Farming
+Elastic Zap
+TWAP Oracle
+Elastic APR Calculations
+Contracts
+Elastic Contract Repo
+Elastic Contract Addresses
+Elastic Farming Contract Addresses
+Elastic Zap Contract Addresses
+Elastic Core Contracts
+Elastic Core Libraries
+Elastic Periphery Core Contracts
+Elastic Peripheral Library Contracts
+Elastic Peripheral Base Contracts
+Subgraphs
+Whitepapers
+Audits
+KyberAI
+KyberScore
+Concepts
+On-Chain Indicators
+Number Of Trades
+Trading Volume
+Netflow To Whale Wallets
+Netflow To CEX
+Number Of Transfers
+Volume Of Transfers
+Number Of Holders
+Top Holders
+Technical Indicators
+Live Charts
+Support & Resistance Levels
+Live Trades
+Funding Rate On CEX
+Liquidations On CEX
+Liquidity Analysis
+Elastic Legacy
+Elastic Legacy Contract Repo
+Elastic Legacy Contract Addresses
+Elastic Legacy Farming Contract Addresses
+Remove Elastic Legacy Liquidity
+Protocol
+Overview
+Smart Contract Architecture
+Trust and Security Model
+Integrations
+Getting Started
+Use Cases
+Integration Types
+Smart Contracts
+Ethers JS
+RESTful API
+Slippage Rate Protection
+Price Feed Security
+Contract Events
+Platform Fees
+Reserves
+Getting Started
+Overview
+Why Develop On Kyber
+Create New Reserve
+Existing Reserves
+Customising Existing Reserves
+Development Guides
+Fed Price Reserve
+Automated Price Reserve
+Reserves with Ganache
+Orderbook Reserve
+Operations
+Listing Policies
+Reserve IDs
+Reserve Rebates
+Sanity Rates
+Addresses
+Introduction
+Mainnet
+Kovan
+Rinkeby
+Ropsten
+API/ABI
+Introduction
+RESTful API
+RESTful API Overview
+RESTful API
+Core Smart Contracts
+IKyberNetworkProxy
+KyberNetworkProxy
+IKyberNetwork
+ISimpleKyberProxy
+IKyberMatchingEngine
+KyberMatchingEngine
+IKyberHint
+KyberHintHandler
+IKyberHintHandler
+IKyberFeeHandler
+IKyberStaking
+KyberStaking
+IKyberDao
+KyberDao
+IKyberStorage
+KyberStorage
+IKyberHistory
+KyberHistory
+IKyberReserve
+KyberReserve
+ConversionRates
+LiquidityConversionRates
+EpochUtils
+IEpochUtils
+KyberFeeHandler
+Contract ABIs
+ABIs
+Code Snippets
+Token Quantity Conversion
+Misc Contracts
+KyberNetwork
+ConversionRatesInterface
+PermissionGroups
+SanityRates
+Withdrawable
+OrderbookReserveInterface
+OrderbookReserveLister
+KyberSwap Operator MultiSig
+Permitable Tokens
+Third-Party Integrations
+KyberSwap Analytics
+KyberSwap App
+GitHub
+KyberSwap Analytics
+KyberSwap Blog
+Kyber Network Press Kit
+Socials
+X
+Discord
+Telegram
+LinkedIn
+Reddit
+Instagram
+Tik Tok
+Support
+KyberSwap Help Center
+Complaints Handling Process
+Powered by GitBook

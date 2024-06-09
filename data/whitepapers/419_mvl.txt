@@ -1,0 +1,85 @@
+Welcome to MVL | ENG | MVLChain
+MVLChain
+ENG
+ENG
+KOR
+Search
+Ctrl
+â+âK
+Welcome to MVL
+ð
+Mobi Services
+TADA Ride-Hailing
+ONiON E-Vehicle & Infra
+Mobility Solutions
+Partnerships
+âï¸
+MVL Blockchain
+MVL Blockchain
+MVL DePIN
+MVL Fi
+MVL RWA (Musubi)
+Clutch Wallet
+Web2-Web3 Bridging
+Assetization of Mobi Datas
+Open Infra for Mobility
+MVL Token Economy
+Token
+Governance
+Treasury
+Milestone & Road Map
+Milestone
+Road Map
+ð¹ï¸
+User Guide
+Clutch Wallet Guide
+Sign Up
+Connect to Mobility
+Main Function and Benefit
+Security and Account
+Incentive Protocol Guide
+Financing Protocol Guide
+Token Use Cases
+Buy Products
+Governance
+MVL Staking
+MUST READ
+BackGround
+LP Staking (Farms)
+Single Staking (Pools)
+User Guide
+MVL Bridge
+Must Read Before Using the MVL Bridge
+Creating a MetaMask Wallet
+Using the MVL Bridge
+Connect Wallet
+Staking
+BNB-bMVL LP Staking
+ETH-MVL LP Staking
+bMVL Single Staking
+MVL Single Staking
+FAQ
+MVL Bridge
+Wallet
+Staking
+Other Activity
+ð
+Contact
+Contact Us
+Homepage
+Telegram
+Powered by GitBook
+Welcome to MVL
+MVL is a project that shares the value of data with all ecosystem participants.
+Mobility platform companies enhance their value by utilizing user service usage data. The increase in value of mobility platform companies is significantly contributed to by individual users as well as the platform company itself. However, traditional mobility platform companies have monopolized all mobility data in a centralized manner.
+This is where MVL comes in. The MVL team wants to share the value of data monopolized by mobility service platform companies with all ecosystem participants.
+Over the past five years, we have completed a broad mobility ecosystem ranging from ride hailing to vehicle manufacturing.
+TADA, a mobility service brand, directly operates taxi and ride-hailing services. Over the past five years, TADA has achieved explosive growth in several Southeast Asian countries, including Singapore and Cambodia, and has now become a popular service. In addition, we provide a variety of solutions to our partners based on our technology and experience across all areas of mobility, including delivery, logistics, truck management, limousine reservations, and designated driving. 
+ONiON Mobility, an eco-friendly vehicle brand, provides services for all life cycles of vehicles, including vehicle manufacturing, operation management, vehicle finance (sales, loan, rental), and driver management (credit evaluation, loan, insurance). In particular, we directly operate infrastructure such as battery asset management and eco-friendly charging stations, and are continuously expanding our service scope into the eco-friendly energy sector.
+The convergence of mobility and blockchain can create greater value. 
+MVL provides a variety of blockchain protocols to support the growth of mobility services. By applying transparent and fair token incentives, users can be encouraged to continue participating in the service, and a reliable vehicle financing system can be implemented using NFT and smart contracts. 
+In the MVL ecosystem, various mobility data are generated in real time. MVL records these data in DePIN (Decentralized Physical Mobility Infrastructure Network). This data is being utilized for the development of new services and products, like vehicle RWAs.
+Next
+TADA Ride-Hailing
+Last updated 
+27 days ago

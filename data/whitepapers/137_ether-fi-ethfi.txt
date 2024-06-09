@@ -1,0 +1,171 @@
+ether.fi Whitepaper | ether.fi
+ether.fi
+Ask or Search
+Ctrl
+â+âK
+ð
+Getting Started
+Introduction
+Stake with Ether.fi
+ðº
+Loyalty Points
+Badges
+Referrals
+Integrations - Points
+Decentralized Application
+Multichain Ecosystem
+L2 Native Staking
+Secure Bridging with LayerZero
+How to bridge weETH
+Arbitrum Canonical Bridging
+FAQ
+ðï¸
+Events
+ð¤
+StakingFrens
+ð¤
+Polyhedra Network Frens (Apr 9-18)
+ð¤
+Omni Frens (Apr 22-26)
+ð¤
+Gearbox Frens (May 4-8)
+ð¤
+Ondo Frens (May 13-17)
+ð¤
+Ethena Frens (May 20-24)
+ð¤
+Mystery Box Frens (May 27-31)
+ð¤
+Mystery Box Frens #2 (June 3-7)
+ð¤
+Mystery Box Frens #3 (June 10-14)
+ðï¸
+Season 2: StakeRank
+â³
+The Final Countdown
+ð
+Mega Week
+ð§
+Liquid
+ETH Yield Vault
+Market-Neutral USD Vault
+Coverage for Liquid
+Technical Documentation
+FAQs
+ð³
+Cash
+ð¡
+Solo Stakers
+ð¥©
+Operation Solo Staker
+ð
+Solo Staker Onboarding
+ð¤
+Obol DVT Explained
+ð
+Avado Setup
+âï¸
+Ethereum Validator Clients
+âï¸
+Mainnet
+ð§ª
+Testnet (Goerli)
+ð
+Obol DVT Package
+ð
+Mainnet
+ð§ª
+Testnet (Goerli)
+ð§
+Additional Configuration
+ð¡
+Remote Connect
+ð§
+Troubleshooting
+ð
+Dappnode Setup
+âï¸
+Ethereum Validator Clients
+âï¸
+Mainnet
+ð§ª
+Testnet (Goerli)
+ð
+Obol DVT Package
+ð
+Mainnet
+ð§ª
+Testnet (Goerli)
+ð
+Monitoring
+ð§
+Additional Configuration
+ð¡
+Dappnode VPN
+ð§
+Custom Setup
+ð
+Obol Key Splitting
+ðï¸
+2 ETH B-NFT stakers
+ð³
+32 ETH Stakers
+ðª
+Validator Exits
+ð
+Solo Staking Hardware
+ð ï¸
+Node Operators
+Dapp walkthrough
+Node operators guide
+ðï¸
+ether.fi Whitepaper
+Introduction
+ETH Staking
+ETH Re-staking
+Technical Documentation
+Risks
+Team
+Governance
+ð
+ether.fan Litepaper
+ð¤
+Partnerships
+Node operators
+DVT
+Coverage
+Press Kit
+ð
+Security
+Audits
+Bug Bounty
+Contracts and Integrations
+ð
+Deployed Contracts
+ð¤
+Integrations
+Governance
+Mission
+ETHFI Allocations
+Airdrop Season 1
+Governance Roadmap
+Forum
+Voting
+Powered by GitBook
+ðï¸
+ether.fi Whitepaper
+Introduction
+ETH Staking
+ETH Re-staking
+Technical Documentation
+Risks
+Team
+Governance
+Previous
+Node operators guide
+Next
+Introduction
+Last updated 
+5 months ago
+On this page
+ 

@@ -1,0 +1,93 @@
+Introduction to BENQI | BENQI
+Search
+Ctrl
+â+âK
+Introduction to BENQI
+ðï¸
+BENQI Markets
+Depositing
+Borrowing
+Health
+Liquidations
+Protocol Parameters
+Markets App
+ð§
+BENQI Liquid Staking
+Overview
+Staking & Unstaking
+sAVAX
+FAQs for sAVAX
+veQI (vote-escrowed QI)
+Delegation Strategy
+veQI App
+Liquid Staking App
+ð¥
+Ignite
+Introduction
+Getting Started
+Ignite App
+ðª
+Benqinomics
+QI Token
+Token Distribution
+Liquidity and Community Incentives
+Liquidity Provider Incentives
+Governance
+ð
+RESOURCES
+Github
+Contracts
+ð¦
+Markets
+ð§
+Liquid Staking
+ð¥
+Ignite
+âï¸
+Price Feeds (Chainlink)
+Risks & Audits
+Media Kit (Logos & Graphics)
+Powered by GitBook
+Introduction to BENQI
+What is BENQI?
+BENQI is a suite of decentralized finance protocols built on 
+Avalanche
+. It consists of the 
+BENQI Markets
+, 
+BENQI Liquid Staking
+ and 
+Ignite
+.
+
+
+BENQI Markets 
+enables users to effortlessly lend, borrow, and earn interest with their digital assets. Depositors providing liquidity to the protocol earn yield, while borrowers are able to borrow in an over-collateralized manner. 
+It is permissionless to use and allows DeFi users to:
+Instantly supply and withdraw liquidity from a shared liquidity market
+Instantly borrow from a liquidity market using their supplied assets as collateral
+Have a live and transparent view of interest rates around the clock based on the asset's market supply and demand
+
+BENQI Liquid Staking
+ is an Avalanche liquid staking solution that tokenizes staked AVAX. By tokenizing AVAX through liquid staking, users are given the ability to use, swap or collateralize the yield-bearing asset within Decentralized Finance applications.
+It is a capital efficient staking product that allows Avalanche users to:
+Freely transfer locked up capital (staked AVAX) staked in validators in securing the Avalanche network
+Gain additional utility on their yield-generating asset by utilizing it within Decentralized Finance by trading it or using it as collateral
+Seamlessly stake their AVAX on the Avalanche Contract Chain (C-Chain) with no tedious cross-chain transfers or server hosting
+Ignite 
+is a protocol designed to bootstrap Avalanche validators and Subnets â designed for everyone, ranging from institutions to individual developers and Web3 natives.
+It is permissionless to use and allows builders and users to:
+Launch Avalanche validators with minimal capital required
+Affordably launch blockchains through Subnets to bootstrap the next big Web3 idea
+Storage of funds
+Funds are administered by Smart Contracts.
+Risks
+No protocol within the blockchain space can be considered entirely risk free. The risks related to the protocol may potentially include Smart Contract risks and Liquidation risks. The team has taken necessary steps to minimize these risks as much as possible by undergoing audits and keeping the protocol public and open sourced.
+Last updated 
+4 months ago
+On this page
+page
+Risks & Audits
+What is BENQI?
+Storage of funds
+Risks

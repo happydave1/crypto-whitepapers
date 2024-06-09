@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+
+
+
+Welcome to Everscale | Docs of Everscale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Everscale Docs
+Overview
+Build
+Validate
+Standards
+Crash Course
+Contribute
+Blog
+Status
+GitHub
+Welcome to Everscale
+Overview
+Build
+Run Validator
+Specifications
+Standards
+Architecture
+Contribute
+Welcome to Everscale
+On this page
+Welcome to Everscale
+This is the starting point for Everscale documentation. Here you will find the guidance necessary to start developing on the network. 
+To begin with
+â
+Since you landed on this page you most likely want to learn Everscaleâs tech and start developing with us. This entails you will need to create a wallet and hold some EVERs, the native token of Everscale. Below, we gathered the resources you will undoubtedly need to comfortably manage your EVER tokens.  
+Create a Wallet
+ 
+https://everwallet.net/
+https://ever.surf/
+https://everspace.app/
+This is the place where you will store your EVER tokens while interacting with Everscale.
+Buy or Sell EVERs
+One window for all DEX and CEX platforms where EVER token is listed on. 
+https://everkit.org/coin
+ 
+Exchange tokens
+https://flatqube.io/
+ 
+With FlatQube you can easily exchange your tokens or use a multitude of earning opportunities, including liquid staking.
+Track transactions
+https://everscan.io/
+ 
+https://ever.live
+With the help of these explorers, you can search and view all transactions, addresses, tokens and other activities on the Everscale blockchain and its test networks.
+Move tokens across chains
+https://octusbridge.io/
+ 
+Octus Bridge allows you to instantly transfer your tokens to several popular networks in both directions.
+info
+After having studied how to manage your EVERs, please move to the overview of Everscaleâs documentation via 
+this link
+.
+Edit this page
+Last updated
+ on 
+Apr 2, 2024
+Next
+Overview
+To begin with
+About
+Jobs and Vacancy
+White Paper
+Lite Paper
+Digest
+Visual Brand Identity
+Community
+Grants
+Bounties
+Smart Contracts Chat
+Everscale Validators Channel
+DeBots Chat
+SDK Chat
+Stack Overflow
+Workshop
+Crash Course
+EverDev Tutorial
+Smart contract architecture
+Smart contract development
+Development of DeBots
+More
+Sample smart-contracts
+Sample SDK
+Solidity API
+ABI Specification
+NFT
+CLI
+SDK
+Copyright Â© 2020â2024
+ 
+Everscale
+ All rights reserved
+  
+Touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

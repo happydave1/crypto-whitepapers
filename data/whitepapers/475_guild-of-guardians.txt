@@ -1,0 +1,70 @@
+Guild of Guardians Whitepaper | Guild of Guardians
+Search
+Ctrl
+â+âK
+Guild of Guardians Whitepaper
+Mission & Vision
+Market Overview
+Mobile RPG Overview
+Business Model
+Growth
+Guild of Guardians Universe
+Design Principles
+Core Gameplay
+Guardians
+Guilds
+Pets & Energy Boosters
+Equipment
+In-game Economy
+$GOG Tokens
+Supply Schedule
+Token Utilities
+Technology
+Roadmap
+Team
+Channels
+Disclaimer
+Powered by GitBook
+Guild of Guardians Whitepaper
+Official compendium for Guild of Guardians, last updated February 2024. All contents are subject to change.
+Looking for the original whitepaper (PDF) from 2021? 
+(Note - contents may be outdated)
+Background on Authors of this Whitepaper
+Leonis Pty Ltd, as the publisher of Guild of Guardians mobile game has partnered with Guardians Guild Limited (GGL), for GGL to create, issue and distribute an in-game currency that will be integrated and supported in the Guild of Guardians mobile game. The in-game currency, named $GOG token, is an ERC-20 token that is being created, issued and distributed by GGL.
+This whitepaper describes both the Guild of Guardians mobile game and the $GOG tokens which are integrated and supported in the Guild of Guardians mobile game in order to enhance the overall user experience.
+Readers are hereby informed that this whitepaper is intended for informational purposes only and does not constitute an endorsement, promotion, or solicitation for the purchase or use of the $GOG tokens.
+The publisher assumes no responsibility or liability for the issuance, distribution, or use of the $GOG tokens issued by GGL and nor does GGL assume any responsibility or liability for the Guild of Guardians mobile game. Any acquisition or use of the $GOG tokens in connection with the Guild of Guardians mobile game should be undertaken at the userâs own risk, and you are encouraged to conduct your own research and seek professional advice before making any decisions.
+By accessing and reviewing this whitepaper, you acknowledge and accept the terms of this disclaimer, recognizing the separate entities, products and risks in connection with the publisherâs Guild of Guardians mobile game and GGLâs $GOG tokens.
+Summary
+Guild of Guardians is a mobile roguelite squad RPG set in a lush world where civilization stands on the precipice. Players embark on an epic adventure with a diverse cast of iconic characters and discover the full power of ownership.
+In Guild of Guardians, players experience the dungeon crawling loop via a unique blend of roguelite squad RPG combat, sophisticated merge and recipe based progression, and web3 trading and ownership.
+Guild of Guardians is published by 
+Immutable
+ and developed by Mineloader (âThe GOG teamâ). Immutable is one of the worldâs largest VC-funded blockchain gaming start-ups, backed by investors such as Temasek, Animoca Brands, Tencent, Galaxy Digital and Coinbase. Mineloader is a premier game development studio with 20 years of experience, and has worked on some of the biggest games in the world, including Final Fantasy XIV, Final Fantasy Remake, Biomutant, The Last of Us and many more.
+Guild of Guardians are focused on the future of NFT gaming by demonstrating excellence in the following areas:
+Fun mobile RPG gameplay
+: First and absolutely foremost, Guild of Guardians will be fun and compelling. GOG will have a combination of roguelite squad RPG combat, deep strategy, a dynamic trading economy metagame, and social focused gameplay that will keep players engaged for years. 
+Play-and-earn mechanics
+: Guild of Guardians allows players to play for free and compete for rewards in the form of in-game assets, NFTs and tokens. You can choose how you want to play, and how to best optimise for your goals within GOGâs dynamic virtual economy. 
+Community driven incentives
+: The value that a community brings to the game is critical. Guild of Guardians will involve and reward the community for contributing to the growth of the overall ecosystem, and empower creators to build long-term businesses in the Guild of Guardians metaverse. 
+Highly accessible:
+ Guild of Guardians is undergoing listing processes to become available on iOS and Android, with the goal of making it readily accessible to everyone. The underlying technology will be based on Immutable Platform technologies, allowing players to enjoy fast trading, easing the on-boarding and gameplay experience for players through Immutable Passport. Immutable Passport is a non-custodial wallet and authentication solution that streamlines user onboarding through passwordless sign-on and automated wallet creation. With the feature of parallel play, players can easily adjust their level of engagement in the game, making it the ideal partner for any lifestyle. 
+To date, Guild of Guardians has attracted 
+over 1 million pre-registered users
+, and a passionate, global community of over 400,000 followers across Twitter, Discord, Tiktok, Reddit and Medium.  
+We successfully sold out our first NFT Founder sale, generating $14 million. To introduce Guild of Guardians to the mainstream gamers, we launched the Esports Exclusives NFT series, a collaboration with eight of the most renowned professional esports organizations: Cloud9, Fnatic, NAVI, Ninjas in Pyjamas, NRG, SK Gaming, T1, and Team Liquid!
+In our unwavering commitment to the long-term prosperity of Guild of Guardians, we have also forged strategic alliances with industry leaders such as Sandbox, and Yield Guild Games. The collective synergy shared by our collaborators further emphasizes our dedication to help create a sustainable and thriving ecosystem for our game.
+The entire Guild of Guardians team is super excited by the early success we have had so far, and we look forward to spearheading the future of gaming and to help bring web3 games to a mainstream audience.
+Guild of Guardians is scheduled for release globally in Q2 2024 on iOS and Android. For more information on Guild of Guardians visit: 
+https://www.guildofguardians.com/
+ 
+Next
+Mission & Vision
+Last updated 
+4 months ago
+On this page
+Background on Authors of this Whitepaper
+Summary
+Was this helpful?
+Export as PDF

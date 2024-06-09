@@ -1,0 +1,144 @@
+Introduction to Ribbon Finance | Ribbon Finance
+Ribbon Finance
+Search
+Ctrl
+â+âK
+Introduction to Ribbon Finance
+Aevo
+FAQ
+General
+DOV Deposits
+DOV Withdrawals
+DOV Trading and options
+Ribbonomics
+Dune dashboards
+Contribute
+Security
+Ribbon Theta Vaults
+Introduction to Theta Vaults
+Strike Selection and Expiry
+Options Architecture
+Options Settlement
+Auctions
+Risk profile
+Fees
+Theta vaults architecture
+User guides
+How to deposit
+How to withdraw
+How to pause and resume
+How to stake, unstake vault shares and claim rewards
+How to transfer vault positions
+How to participate in Paradigm Auctions
+How to redeem oTokens
+RIBBON EARN
+Introduction to Ribbon Earn
+Ribbon Earn USDC
+Risk-Free Rate
+Twin win strategy
+Vault specifications
+Eligibility
+Fees
+Ribbon Earn stETH
+What is a dolphin strategy?
+Vault specifications
+Risk profile
+Fees
+RIBBON LEND
+Introduction to Ribbon Lend
+Yields from unsecured lending
+No lockups
+Pool status
+Default
+Off-chain enforcement / credit underwriting
+Built-in insurance
+Fees
+ribbon treasury
+Introduction to Ribbon Treasury
+Why Ribbon Treasury?
+Partners
+How to get involved
+Ribbonomics
+Overview and RBN tokenomics
+Vote-Escrowed RBN
+Fee Collection and Distribution
+Liquidity Gauges and RBN Emissions
+Gauge Weight Voting
+Bribes
+Guide to Boost Bribing
+For Bribers
+For veRBN Holders
+Upgrades
+How to lock RBN, boost and claim protocol revenues
+Developers
+Deployed Contracts
+Ribbon Subgraph
+Powered by GitBook
+Introduction to Ribbon Finance
+Ribbon Finance
+ is a suite of DeFi protocols that help users access crypto structured products. By combining derivatives, lending and a proprietary 
+on-chain options exchange (Aevo)
+, Ribbon aims to be the one-stop solution for users who want to improve a portfolio's risk-return profile.
+Here you can find the products descriptions and 
+outgoing links
+ to the different communication channels, where you can reach out to the Team and Community.
+Theta Vaults (DOVs)
+Theta Vaults, also known as DOVs (DeFi Options Vaults), were invented by Ribbon in 2021. At its core, a Theta vault is a yield-oriented strategy that proposes that depositors trade volatility on their underlying by selling 
+European options
+ with weekly expiration. The sale value of these options, or "premium," is set through 
+auctions
+ and determines the vault return. The vault reinvests the premiums earned back into the strategy, effectively compounding them for depositors over time.
+There are two types currently active:
+Covered call selling
+: each week the vault issues 
+OTM (out of the money)
+ call options on all deposits.
+Put selling
+: each week the vault issues OTM put options on all deposits.
+For more information you can check 
+this section
+.
+Ribbon Earn
+The 
+R-Earn vaults
+ employ fully funded strategies to capitalize on the intra-week ETH movements, while also ensuring their capital is protected. The vaults earns a base APY and uses the remaining funding to purchase weekly options.
+There are currently two vaults available:
+Earn USDC: it employs a twin win strategy through which depositors can capitalise on the intra-week ETH movements in either direction;
+Earn stETH: employs dolphin strategy through which depositors can capitalise on the upside ETH movements.
+For more information you can check 
+this section
+.
+Ribbon Treasury
+Ribbon Treasury are private Ribbon Theta vaults built specifically for DAOs to run covered calls on their native tokens. These private vaults are segregated from the main Ribbon vaults, and run a custom strategy for each DAO. Each vault has a few unique parameters:
+Strike Selection Methodology
+
+DAOs can choose how aggressive they want to be with regards to the strike selection methodology. 
+Tenor
+
+DAOs can choose how often they want to run the strategy. The current Ribbon Vaults run a weekly strategy that automatically re-rolls, but DAOs can choose longer tenors.
+Premium Currency
+
+DAOs can also choose what currency they want to receive the premiums in. For example, a DAO could elect to receive premiums in USDC or ETH, depending on their treasury diversification goals.
+For more information you can check 
+this section
+.
+Ribbon Lend
+***Ribbon Lend is currently paused until further notice***
+Ribbon Lend can be described as an uncollateralized Aave, allowing depositors to lend unsecured to KYC/AMLâd institutional market makers of their choosing with high liquidity. Ribbon Lend offers the best of both worlds between TradFi and DeFi:
+High yields from unsecured lending
+No lockups from Aaveâs money market model
+Off-chain enforcement / credit underwriting
+Built-in insurance
+For more information you can check 
+this section
+.
+Next
+Aevo
+Last updated 
+8 months ago
+On this page
+Theta Vaults (DOVs)
+Ribbon Earn
+Ribbon Treasury
+Ribbon Lend
+Was this helpful?

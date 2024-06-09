@@ -1,0 +1,59 @@
+Introduction | HPO Whitepaper | Hippocrat Whitepaper
+HPO Whitepaper
+HPO Whitepaper
+íêµ­ì´
+Ask or Search
+Ctrl
+â+âK
+Introduction
+Understanding of the healthcare data
+Importance of healthcare data
+Types of Healthcase Data
+Problems to be solved
+What is the Hippocrat?
+The goal of Hippocrat
+Blockchain and Cryptography Technology
+Self Sovereign Identity and MyData
+Hippocrat Wallet SDK
+Issuing and utilization of data
+Governance and DAO
+Incentive model
+HPO Token
+Future of Hippocrat
+Anticipated Impacts
+Roadmap
+Others
+Disclaimer
+References
+Powered by GitBook
+Introduction
+The HUM project started in 2018 with a vision to contribute to personalizing healthcare services by building an environment where patient data can be collected and utilized transparently. In 2020, we launched 
+Rarenote
+ through our partner development corporation, Humanscape Inc., and about 30,000 patients with rare diseases have been using it so far. In the process, patients' various health data collection details have been recorded on the blockchain, and more than 75,000 transactions have occurred to date (
+Reference 1
+, 
+Reference 2
+). However, simultaneously, we realized that to settle down the original meaning of the ecosystem to collect and utilize the health data mentioned in the whitepaper first must fulfill the three items as follows:
+Building a patient-centered data utilization environment
+Decentralized governance and open collaboration structures 
+Sustainable incentive model considering not only patients but also participants in the governance
+
+Through this process, the project team became acutely aware of the need for a blueprint for a new structure that exceeded the governance's limits and goals articulated in the original HUM project white paper. In fact, outside of one or two services from partner development entity Humanscape Inc., it wasn't easy to make a case for meaningful use of health data. This is because the key individuals, organizations, and institutions that can generate data or already collect a lot of it constitute a vested interest, making it difficult for them to participate in a blockchain project dominated by a single private company.
+In this white paper, the HUM project team presents a blueprint for "building a health data collection and utilization ecosystem" under the new identity of 
+Hippocrat
+. Hippocrat means 'the party of Hippocrates', named after the ancient Greek physician.
+
+The incentive model and governance that Hippocrat seeks to enable will give data subjects sovereignty over their healthcare data on a more open and decentralized protocol and help healthcare providers and institutions that utilize healthcare data work together seamlessly. This will protect data subjects from privacy violations, build trust between individuals and institutions, and facilitate the use of data to drive a range of innovations that can improve health and quality of life.
+For example, patients can leverage their healthcare data to receive personalized healthcare while minimizing the risk of privacy breaches, and they can also expect to receive revenue from using their data. Pharmaceutical companies or healthcare providers can obtain data with the patient's informed consent to develop more efficient clinical trial subject screening or precision medicine. Healthcare organizations, such as hospitals, can expect to be rewarded for providing data sustainably by demonstrating that they contributed to its creation while meeting the high level of data rights required by data subjects.
+Finally, public healthcare systems and their sustainability are critical to obtaining healthcare data. The activation of Hippocrat benefits individual stakeholders and helps increase the amount of money donated to the public healthcare system in each data subject's country. In this way, Hippocrat strengthens the rights of data subjects and individual stakeholders and contributes to a future where more patients worldwide and stakeholders in the ecosystem enjoy healthy lives.
+
+Next
+Importance of healthcare data
+Last updated 
+4 months ago
+On this page
+ 
+Find more on
+Website
+Community
+Github

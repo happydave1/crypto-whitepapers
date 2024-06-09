@@ -1,0 +1,39 @@
+Introduction to Seedify.fund | Seedify.fund
+Seedify.fund
+Search
+Ctrl
+â+âK
+Introduction to Seedify.fund
+Whitepaper
+Seedify.fund Ecosystem
+Mechanics of the Fund Pool
+Seedify.fund Incubator Basics
+Project Selection Workflow
+A New Take on Staking Rewards
+Staking Workflow of $SFUND
+Community Involvement Programs
+Seedify.fund Launchpad
+Seedify.fund DAO & Specs
+Initial DAO Sessions
+Chain-Agnostic Framework
+Solution Partners Program
+Tokenomics
+Roadmap
+Transparency Code
+Jobs
+BSC Smart Contract Developer
+UI/UX Designer
+Powered by GitBook
+Introduction to Seedify.fund
+Seedify.fund is a blockchain innovation hub with a DAO-driven seed stage fund, decentralized incubator, and launchpad
+, for empowering next innovations of the blockchain ecosystem, through community-driven governance, feedback, involvement and funding mechanisms.
+Any entrepreneur/innovator can submit their projects to Seedify.fund DAO, get voted by the community, and get their seed fund as well as enter our incubation program by winning the votes.
+At Seedify.fund, stakers and our community members who involve in the success of the projects that get their seed fund and incubated through community votings, receive reward tokens from all selected & funded projects, creating a DeFi seed fund mechanism to create diversified portfolios of reward tokens through staking SFUNDs. 
+Also our Launchpad provides a robust environment for IDOs to take place, with a tiered based allocation mechanism for SFUND holders/stakers and farmers, to enjoy these benefits at the same time. Those who stake and/or yield farm SFUND tokens, also become eligible for the IDOs according to the tier system. 
+Our whitepaper is ready for you to take a look at all the mechanisms and systems of our decentralized incubator & seed fund ecosystem.
+Next
+Seedify.fund Ecosystem
+Last updated 
+3 years ago
+On this page
+Was this helpful?

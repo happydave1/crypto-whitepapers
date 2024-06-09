@@ -1,0 +1,255 @@
+Introduction | ChainGPT Documentation
+ 
+ChainGPT Home
+DAO Page
+Ask or Search
+Ctrl
+â+âK
+Overview
+Introduction
+Mission & Vision
+Learn The Concepts
+Large Language Models (LLMs)
+Text to Image Models (TTIMs)
+Natural Language Processing (NLP)
+Machine Learning (ML)
+Fine-Tuning
+Generative Model
+Pretrained Language Model
+Transformer Architecture
+Tokenization
+Contextual Awareness
+APIs & SDKs
+Road Map
+âï¸
+2022: Q3-Q4
+âï¸
+2023: Q1-Q2
+âï¸
+2023: Q3-Q4
+ð
+2024: Q1-Q2
+ð
+2024-2025 Initiative
+FAQ
+The Ecosystem
+AI Tools & Applications
+AI Web3 Chatbot
+AI NFT Generator
+AI Generated News
+AI Smart-Contract Generator
+AI Smart-Contract Auditor
+AI Trading Assistant
+Prompt Marketplace
+Pricing & Membership Plans
+AI Cross-Chain Swap
+CryptoGuard Extension: Your Web3 Shield
+Web3 Safety Toolkit
+Crypto Wallet Security 101
+Recognizing and Avoiding Scams in Web3
+APIs & SDKs
+AI News SDK Documentation
+Getting Started
+SDK Components
+ChatBot SDK Documentation
+Getting Started
+SDK Components
+Smart Contract Auditor SDK Documentation
+Getting Started
+SDK Components
+Smart Contract Generator SDK Documentation
+Getting Started
+SDK Components
+Pricing and usage tracking
+LLMs & TTIMs
+CGPT Utility Token
+Tokenomics
+Burn Mechanism
+CGPTc (Credits)
+CGPTsp (Staking Points)
+CGPTvp (Voting Power)
+Staking Dashboard
+Supply Dashboard
+Tier System & Benefits
+DAO Governance
+ChainGPT Pad
+Introduction & Overview
+Tier System
+Staking
+KYC Onboarding Guide
+Register Interest
+IDO Rounds Explained
+Leadership Team
+Flexible Refund Policy
+Claim & Refund Guide
+F.A.Q.s - ChainGPT Pad
+KOLs Program (Ambassadors)
+Smart-Contracts
+RE:BOT NFTs
+Misc
+Ecosystem Partners
+Incubation Program
+Case Study: DexCheck
+Case Study: Solidus AI Tech
+Case Study: GT Protocol
+B2B Offerings
+Launchpad Whitelabel
+Work With Us
+Chief Technology Officer
+Head of Blockchain Development
+Head of Product
+Business Development Associate
+Senior Full-Stack Web3 Developer
+Senior ML Engineer
+Senior Technical Lead
+Full-Stack Web3 Developer
+KOL Manager
+Marketing Manager
+Social Links
+Twitter
+Discord
+Facebook
+Instagram
+Youtube
+LinkedIn
+Telegram Chat
+Brand Kit
+Legal Docs
+Privacy Policy
+Terms of Service
+Cookies Policy
+Disclaimer
+Grant - $1M Ecosystem Fund
+Grant Mission and Scope
+Grant Support
+Application
+FAQ
+Powered by GitBook
+Introduction
+Welcome to ChainGPT: Where AI Meets Web3
+ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions designed explicitly for Web3. From LLMs to Web3 AI Tools, ChainGPT is the go-to place to boost your Web3 flow with Artificial Intelligence.
+ChainGPT's Solutions:
+AI NFT Generator (
+Visit App
+ - Read More: 
+AI NFT Generator
+)
+AI-Generated News (
+Visit App
+ - Read More: 
+AI Generated News
+)
+Smart-Contracts Generator (
+Visit App
+ -Read More: 
+AI Smart-Contract Generator
+)
+Smart-Contracts Auditor (
+Visit App
+ - Read More: 
+AI Smart-Contract Auditor
+)
+AI Trading Assistant (
+Visit App
+ - Read More: 
+AI Trading Assistant
+)
+ChainGPT Pad (
+Visit App
+ - Read More: 
+ChainGPT Pad
+)
+ChainGPT LLMs & TTIMs (Read More: 
+LLMs & TTIMs
+)
+AI-Powered Security Extension (Coming Soon)
+AI Blockchain Analytics
+ChainGPT Labs (VC Arm)
+Incubation & Acceleration Program for AI Startups (Read More: 
+Incubation Program
+)
+Whitelabels: AI Chatbot, Launchpad, & more! (Read More: 
+B2B Offerings
+)
+The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.
+$CGPT Utility Token:
+The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops, native gas fee of ChainGPT's AIVM & more. $CGPT is currently held on decentralized wallets by 55,000+ unique and active users.
+Quick Stats:
+-
+ 250,000+ monthly active users
+- 55,000+ $CGPT token holders (decentralized)
+- Listed on top CEXs (HTX, ByBit, KuCoin, Gate & more) 
+- Backed by Google, BNB, Tron & others
+- Partnered with 100+ leading Web3 companies (
+full list
+)
+ChainGPT's recent awards & grants:
+- Google Cloud Grant ($350,000)
+- NVIDIA Grant ($100,000)
+- BNB Chain Ecosystem Catalyst Award (Innovation Excellence)
+- BNB Chain Gas Grant Program
+- #1 Web3 App of April, 2023 (ProductHunt)
+- Website of the day by Awwwards
+- #4 ranked Web3 Telegram bot by Binance Research
+Official Links:
+
+Website
+ | 
+Crypto AI Hub
+ | 
+AI NFT Generator
+ | 
+ChainGPT Pad
+ | 
+AI-Generated News
+ | 
+ChainGPT DAO
+ | 
+$CGPT Staking
+ | 
+Blog
+ | 
+Brand-Kit
+ | 
+Social Media Links - Join Our Community:
+
+Twitter
+ | 
+Pad Twitter
+ | 
+Telegram Group
+ | 
+Telegram Channel
+ | 
+Discord
+ | 
+CMC
+ | 
+Youtube
+ | 
+Instagram
+ | 
+Medium
+ | 
+Linkedin
+ |
+Disclaimer
+Last updated 
+1 day ago
+On this page
+Welcome to ChainGPT: Where AI Meets Web3
+ChainGPT's Solutions:
+$CGPT Utility Token:
+Quick Stats:
+ChainGPT's recent awards & grants:
+Was this helpful?
+Export as PDF
+ 
+ChainGPT.org
+ChainGPT AI Chatbot (
+Telegram
+, Discord, 
+ - Read More: 
+AI Web3 Chatbot
+)
+Web

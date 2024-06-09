@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+Introduction | Radworks Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Introduction
+Ecosystem
+The RAD Token
+Governance
+Overview
+Governance Manual
+Stay up to date
+FAQ
+History
+Code of Conduct
+Introduction
+On this page
+What is Radworks?
+In a world that almost entirely relies on software, maintaining the resilience and health of the free and open source ecosystem is more important than ever.
+Radworks is building a sovereign developer stack that enables developers to securely host, collaborate, and reward open-source code. It operates as a community-governed network that uses both and off- and on-chain governance mechanisms to make decisions as a community. 
+See 
+here
+ for more information on our governance.
+Purpose
+â
+Radworks focuses on funding and supporting the creation of censorship-resistant and decentralized technologies that empower builders and creators to collaborate.
+Radworks is committed to transparency, inclusivity, and decentralized decision-making, ensuring that the community has a say in the direction of its efforts and the projects it supports. Together, the Radworks community can build a more decentralized and equitable future for software development. 
+The community-mandated purpose lives 
+here
+.
+Projects
+â
+Radworks currently supports the development of the following technologies:
+Radicle ð¾
+Radicle is a peer-to-peer code collaboration stack
+radicle.xyz
+ 
+Drips ð§
+Drips is a decentralized toolkit for funding critical software dependencies
+drips.network
+ 
+Radicle Integrations & Tooling ð ï¸
+The Radicle Integrations & Tooling team improves onboarding to Radicle by developing integrations with third-party developer tooling
+Coming soon!
+ 
+RSN ð
+The Radworks Seed Network is a decentralized network of seed node operators providing storage and retrieval services for the Radicle network.
+Coming soon!
+ 
+About this doc
+Last updated
+ on 
+Apr 19, 2024
+Contribute
+Edit this page
+Stay up to date
+Need help?
+Find us on Discord
+Follow us on Twitter
+Next
+Ecosystem
+Purpose
+Projects
+Copyright Â© 2024 Radworks 
+ and contributors.
+
+
+
+
+
+
+

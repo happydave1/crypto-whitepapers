@@ -1,0 +1,108 @@
+Overview | SPACE ID | Docs
+ 
+App
+ 
+Blog
+ 
+Twitter
+ 
+Discord
+Ask or Search
+Ctrl
+â+âK
+Overview
+.bnb Name Service
+.arb Name Service
+SPACE ID Token (ID)
+- Getting Started -
+Tutorials
+Set Up a Wallet
+Discover
+Register
+Trade
+Manage
+Programs
+SPACE ID Premier Club
+SPACE ID DAO
+SPACE ID Grant Program
+SPACE ID Referral Program
+SPACE ID Gift Card
+SPACE ID Cosmic Council
+SPACE ID Voyage Season 2 - Calling
+- Launch your TLDs with SPACE ID 3.0 -
+Overview
+Step by Step Guide
+Demos of One-Stop Domain Issuance Toolkit
+- Developer Guide - 
+Web3 Name SDK
+Web3 Name SDK
+SID API
+Registration Integration
+Integration Partners
+Links
+Brand Kit
+Website
+Blog
+Twitter
+Discord
+Telegram
+Powered by GitBook
+Overview
+An In-depth Tour of SPACE ID
+SPACE ID Mission
+â
+SPACE ID is building a universal name service network with a one-stop identity platform to discover, register, trade, manage web3 domains. It also includes a Web3 Name SDK & API for developers across blockchains and provides a multi-chain name service for everyone to easily build and create a web3 identity.
+One Place for Digital Identities
+As the world moves further into the web3 age, decentralized identities have become an increasingly crucial aspect of any web3 presence; a vast number of domain name providers have emerged in a short period of time, and owning multiple identities became nothing new. However, no matter what domains you own, itâs always a headache to search, register, and manage different domains, and the existing NFT marketplaces are not built for trading domain NFTs; ENS users have to set their primary names or controller on ENS App, while .bnb owners need to find a BNB Chain marketplace to list the .bnb domains they want to sellâ¦
+Enough of that! SPACE ID 2.0 thus offers a 
+one-stop web3 domain & identity platform
+ to discover, register, trade, and manage web3 domains. It also includes a 
+web3 name SDK & API
+ for developers across blockchains and provides a 
+multi-chain name service
+ for everyone to easily build and create a web3 identity.
+One-stop Web3 Domain & Identity Platform
+The SPACE ID one-stop web3 domain & identity platform is exactly what it sounds like â an innovative infrastructure that allows you to manage all aspects of your domains in one place. No more using multiple products for different domains. Everything you need is over here, in the palm of your hand at the same time.
+It mainly arms the following four actions:
+Discover:
+ A central hub for users to search desired names in all supported TLDs, as well as discover trending domain collections. It supports functions like auto-suggesting and the quick check on the domain registration status
+Register:
+ Users can now register for all web3 domains on the SPACE ID Mainnet. The .bnb and .eth domains will be the first two TLDs to be supported in our first version of Mainnet.
+Trade:
+ A marketplace that is specifically designed for trading web3 domains, with aggregated liquidity from other marketplaces such as OpenSea
+Manage:
+ One single integrated portal to manage the renewal, record, and ownership of all your web3 domains
+Multi-chain Name Service
+SPACE ID introduced .bnb Name Service on BNB Chain and built a community of 168K unique domain holders within 6 months, and we are now bringing the multi-chain name service. As mentioned in previous posts, supporting more TLDs and blockchains is always one of the priorities of SPACE ID. In the upcoming SPACE ID 2.0, we will not only continue focusing on .bnb Name Service, but also see some significant progress in terms of the support for more Top Level Domains. This includes but is not limited to the new TLDs that will be launched by the SPACE ID team, plus we are expecting to see other domain providers joining us with this ground-breaking multi-chain name service feature.
+SPACE ID has already come in contact with many industry partners on various blockchains, and we are confident to share with you that the SPACE ID ecosystem will expand exponentially in no time. Stay tuned for more announcements in the following weeks.
+Web3 Name SDK & API
+One SDK for all has always been one of the main features of SPACE ID to support all web3 dApps. It is ultimately designed to be a unified and streamlined approach that greatly simplifies the integration of web3 services, eliminating the need for developers to work with multiple protocols, saving time and reducing the risk of compatibility issues.
+Moreover, equipped with all the other upgrades in SPACE ID 2.0, our Web3 Name SDK has gained more horsepower than ever, and aims to empower communities and partners to grow and better engage with users by leveraging custom domain names. Weâve added an all-in-one API on top of the SDK, which helps provide a much more comprehensive platform for integrating web3 services into any application. With its significantly improved versatility, scalability, and future-proof design, it is poised to become a game-changer in this web3 age, and our 100+ integrated and future partners only need to integrate this one Web3 Name SDK to connect to all naming data owned by users.
+SPACE ID Vision: Universal Name Service
+The objective of SPACE ID is simple; the vision of a 
+universal name service network
+ has been the driving force behind our work. At SPACE ID, we believe that the core of Web3 is to become the gateway between decentralized identities and the physical/digital world, and the key is finding solutions to the challenges that all the current Domain Services are facing. Although the current version of SPACE ID already marks an essential step towards making this objective a reality and serves as a strong foundation for future developments and advancements in the web3 identity space, ultimately getting there is not easy. But Keep in mind, with each new step, SPACE ID is moving closer to becoming an all-in-one universal digital identity solution.
+Join SPACE ID Community
+â
+Website: 
+http://space.id
+Twitter: 
+https://twitter.com/SpaceIDProtocol
+Medium: 
+https://medium.com/@SpaceID
+Discord: 
+http://discord.gg/spaceid
+Telegram: 
+https://t.me/spaceid_news
+Next
+.bnb Name Service
+Last updated 
+11 days ago
+On this page
+SPACE ID Missionâ
+One Place for Digital Identities
+One-stop Web3 Domain & Identity Platform
+Multi-chain Name Service
+Web3 Name SDK & API
+SPACE ID Vision: Universal Name Service
+Join SPACE ID Communityâ

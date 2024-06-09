@@ -1,0 +1,1016 @@
+
+
+
+
+
+
+
+
+Getting started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Navigation menu
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Getting started
+Features
+API
+How to 
+Basic tutorials
+Advanced guides
+Frequently Asked Questions
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Getting started
+
+
+
+
+
+
+From ArdorDocs
+
+
+
+
+
+					Jump to:					
+navigation
+, 					
+search
+
+
+
+
+This page contains 
+changes
+ which are not marked for translation.
+
+
+Other languages:
+English
+
+
+ä¸­æï¼ç®ä½ï¼â
+
+
+íêµ­ì´
+
+
+
+
+Ardor
+ is a blockchain-as-a-service multi-chain platform that evolved from the time-tested and energy-efficient 
+Nxt blockchain
+. The Ardor mainnet launched on 01 January 2018. Through this documentation, you will learn all about the extensive capabilities of the Ardor platform. Begin developing your knowledge by reading about each of Ardorâs distinctive 
+Features
+ or consider trying the technology yourself by following some 
+Basic Tutorials
+. For developers, documentation is provided for each of Ardorâs more than 250 
+APIs
+ that can be used to quickly and cost-effectively deploy dApps and smart contracts that integrate your business processes with the Ardor blockchain. Check this site regularly for new content and updates as additional features are released. 
+
+
+
+
+
+Contents
+
+
+
+
+1
+ 
+Download Ardor
+
+
+2
+ 
+Client Installation
+
+
+
+
+2.1
+ 
+Need help?
+
+
+
+
+
+
+3
+ 
+Lightweight Contracts documentation
+
+
+4
+ 
+Login to Ardor
+
+
+5
+ 
+Getting your first ARDR
+
+
+
+
+5.1
+ 
+Exchanges
+
+
+
+
+
+
+6
+ 
+Next steps
+
+
+
+
+6.1
+ 
+Staking
+
+
+
+
+
+
+7
+ 
+Feedback and errors
+
+
+
+
+
+
+Download Ardor
+
+
+Before we begin, if you havenât already done so, you may wish to check that you have the correct (usually most recent) version of 
+Java
+ installed on your computer. You can use any compatible Java available for your platform. The minimum required version is Java 8. The recommended version is Java 11. We usually test with OpenJDK 14.
+
+To start with Ardor/
+Ignis
+, you must first download the client, also known as a "wallet", on your machine. The client is distributed as a binary package for the following platforms:
+
+
+
+
+
+
+
+Client Installation
+
+
+
+
+
+
+
+
+
+
+
+
+Windows
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Download the Windows installer for the latest official Ardor Client 2.4.3 from 
+https://www.jelurida.com/ardor-client.exe
+. If you want to test the latest testnet-only version 3.0.1e that includes the snapshotting and pruning functionality, refer to the Universal Zip Package.
+
+
+Ardor's Windows client comes as an .exe file. After downloading it, you can verify its integrity by performing an 
+integrity check
+
+
+Run the installer and follow the instructions on the screen. Note that you can select either the testnet or mainnet during installation, if further details are needed please follow the 
+step-by-step guide
+. Once installed icons will be created by default in your desktop and Start Menu.
+
+
+You can now run the Ardor software by clicking on the Ardor icon. After a few seconds, the Ardor wallet will open in its own window.
+
+
+If you already have created an Ardor account, click on 'Returning User' to introduce your passphrase. If you need to create your Ardor account, 
+click here for instructions to Create a New Ardor Account
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MacOS
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Install and run the Ardor Client
+
+
+Download the latest client version 2.4.3 from or 
+https://www.jelurida.com/ardor-client.zip
+ the experimental 3.0.1e from 
+https://www.jelurida.com/ardor-client-experimental.zip
+.
+
+
+Download the signature from 
+https://www.jelurida.com/ardor-client.zip.asc
+ (
+https://www.jelurida.com/ardor-client-experimental.zip.asc
+ for the experimental version) to the same directory where the zip was downloaded. To verify the signature, open a terminal, navigate to the downloads directory and run the command
+gpg --with-fingerprint ardor-client.zip.asc
+
+
+In case of error that the gpg command is not found, install GnuPG:
+
+brew install gpg
+
+
+If brew is missing, follow the instructions at 
+https://brew.sh
+ to install it first.
+
+
+In case of error 
+gpg: Can't check signature: No public key
+:
+
+Download the Jelurida GPG key from 
+https://www.jelurida.com/sites/default/files/jelurida.gpg
+
+
+Import it to GnuPG:
+gpg --import jelurida.gpg
+
+
+Unzip 
+ardor-client.zip
+ to a directory of your choice.
+
+
+Start Ardor by executing the file 
+ArdorMacOS.command
+. A terminal window will open and an Ardor icon will appear in the status menu.
+
+
+Common problems
+
+
+In case an error 
+Unable to locate a Java Runtime
+ is displayed in the terminal window, follow the instructions and install Java from 
+http://www.java.com
+
+
+At first run Ardor may need about a minute to initialize the database. Messages like "Loading public keys" are displayed in the terminal. Wait for the initialization to complete and do not close the window.
+
+
+If the Desktop Application is inaccessible (the "Show Desktop Application" button is disabled in the status menu), it's likely due to missing JFX libraries in the Java installation. It's recommended to use the "Open Wallet in Browser" option from the menu instead. Alternatively, you can download JFX from 
+https://openjfx.io/
+ and extract it into a directory named 
+javafx-sdk
+ under the directory where Ardor was extracted in step 3.
+
+
+Deprecated instructions for using the installer in older Ardor versions
+
+
+Download the Mac installer for the latest official Ardor Client  2.4.3 from 
+https://www.jelurida.com/ardor-installer.dmg
+. After downloading, 
+verify its signature
+. After downloading, check the SHA256 hash of the package for security. If you want to test the latest testnet-only version 3.0.1e that includes the snapshotting and pruning functionality, refer to the Universal Zip Package.
+
+
+Open the MacOS terminal.
+
+
+Navigate to the Mac installer you just have downloaded.
+
+
+Execute the command 
+sudo xattr -c ardor-installer-2.4.3.dmg
+. Type your passphrase
+
+
+Run the installer package (Ardor's Mac installer comes packaged in .dmg format) and follow the instructions on screen
+
+Select the language 
+
+
+Click on 'Next' to begin with the installation 
+
+
+Accept the terms of the license agreement 
+
+
+Select the installation path 
+
+
+Select the packages you want to install 
+
+
+Check the options 
+See the tutorial for setting up the Ardor testnet
+ 
+
+
+Once installed, click on finish 
+
+
+You can now run the Ardor software clicking on the "ardor.app" in Applications. If you already have created a Ardor account, click in 'Returning User' to introduce your passphrase. If you need to create your Ardor account, 
+click here for instructions to Create a New Ardor Account
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linux
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is the guide to installing the Ardor Client on a Linux 64-bit platform. 32-bit installation instructions are very similar; you just might need to download the 32-bit version of Java instead of the 64-bit one.
+
+You can use these instructions on your Linux VPS as well.
+
+
+
+Set up Java
+
+
+You can skip this step if you already have Java installed. Otherwise, you can install it via your distribution repository doing the following (for Ubuntu/Debian builds):
+
+
+
+sudo apt update 
+sudo apt install openjdk-11-jre-headless
+
+
+You can also use `openjdk-8-jre-headless` or any other Java 8+ compatible version.
+
+
+
+Install and run the Ardor Client
+
+
+Using the Unix installer
+
+
+You can execute the Unix installer executable compatible with most Linux distributions from 
+ardor-client.sh
+ and follow the instructions.
+
+
+
+wget https://www.jelurida.com/ardor-client.sh
+sh ardor-client.sh
+
+
+
+Using the Universal Zip Package
+
+
+You can follow the more generic instructions as explained below:
+
+
+
+Change to your home folder and download the latest client (version 2.4.3 or the experimental 3.0.1e):
+cd ~
+wget 
+https://www.jelurida.com/ardor-client.zip
+wget 
+https://www.jelurida.com/ardor-client.zip.asc
+ and verify that the signature is correct: 
+gpg --with-fingerprint ardor-client.zip.asc
+
+
+Unzip it:
+unzip ardor-client.zip
+cd ardor
+
+
+
+Using the experimental version is as follows: 
+
+cd ~
+wget 
+https://www.jelurida.com/ardor-client-experimental.zip
+wget 
+https://www.jelurida.com/ardor-client-experimental.zip.asc
+ and verify that the signature is correct: 
+gpg --with-fingerprint ardor-client-experimental.zip.asc
+
+
+
+
+Run the Ardor client
+
+
+Now it's time to start the software. You may start it by executing 
+./run.sh
+ or 
+./run.sh --daemon
+ for running the Ardor node in the background, which you will find in the ardor directory. The server will be active as soon as you see in the window a text similar to this: 
+Ardor server 2.4.3 started successfully.
+ This shell window will be running the Ardor server and print all the Ardor log messages, so it needs to stay running!
+
+
+Open 
+http://localhost:27876/
+ from a web browser to access the Ardor Client. Please note that, if it's the first time you run Ardor in your machine, the Ardor blockchain will need to be downloaded until it is up to date. Depending on your network connection speed, this may take a few hours. The Ardor Client will show you a progress bar as the blockchain downloads. Now you can visit the 
+click here for instructions to Create a New Ardor Account
+.
+
+NOTE: If you've installed the client on a dedicated server or VPS, you should change "localhost" to your Server/VPS IP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raspberry Pi
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+For installing the Ardor client on a Raspberry pi, you can refer to the description of 
+an implementation with the Ardor client powered by solar panels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Click on the 
+Android Full Node installation guide
+ and follow the instructions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Docker Image
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+There is an Ardor Node Docker image available in the Docker Hub: 
+Ardor Docker Image
+. Deploying this image requires knowledge about docker and management of containers. Please refer to the tutorial 
+Deploying the Ardor Node Docker Image
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+
+
+Need help during the download or development process? Contact us on the 
+Ardor & Nxt Technical forum
+, and take a look at the 
+FAQ
+. You can also reach us by opening a ticket in our 
+helpdesk
+
+
+
+
+Lightweight Contracts documentation
+
+
+Lightweight Contracts represent a framework for developing a layer of automation on top of the existing Ardor APIs, refer to the official documentation to read more about this feature:
+
+
+
+
+
+
+
+
+
+Lightweight Contracts documentation
+
+
+
+
+
+
+
+
+Login to Ardor
+
+
+There are different ways to log in to Ardor to create an account. It is explained in the 
+Login Page Tutorial
+
+
+
+
+
+
+Getting your first ARDR
+
+
+With the Ardor client installed, it is now time to start transacting. To do that, we need to get some tokens, be it ARDR, IGNIS, or any other child chain. The Ardor mainnet is live and actual tokens are in circulation across numerous major exchanges. 
+
+Note the tokens we will be using in the next examples are from testnet. These tokens are not traded in exchanges and have no monetary value -- they exist only as a convenience for developers and those willing to experiment with the features.
+
+The process for receiving testnet tokens is simple. Ask for them in the 
+Ardor Forum
+, contact us on the 
+slack
+ channel #helpdesk. There is an external 
+faucet
+ as well.
+
+
+
+
+
+Exchanges
+
+
+Currently trading ARDR
+
+
+
+
+
+
+Next steps
+
+
+Learn how to use the Ardor platform by following the 
+basic tutorials
+ or start reading about Ardor's extensive built-in 
+Features
+.
+
+
+
+Staking
+
+
+The process of staking in Ardor is called 
+Forging
+. Once you have more than 1.000 ARDR you can start forging, thus earning the transaction fees when a block is generated by your node. 
+
+Furthermore, you can also opt-in the 
+Node Reward Program
+ by just setting up a node with both the API and peer ports open to the Internet and a public and static IP address.
+
+
+
+
+
+Feedback and errors
+
+
+If an error in this documentation is found, we would love to be aware to correct it as soon as possible. Please write a question to 
+info@jelurida.com
+ and we will take care.
+
+
+
+
+
+
+
+
+
+
+
+
+								Latest documentation changes and updates
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Getting started
+â
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+				Retrieved from "
+https://ardordocs.jelurida.com/index.php?title=Getting_started&oldid=13049
+"				
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  / 
+Ardor Technical Forum
+ / 
+@ArdorPlatform
+ 
+Ardor Platform Documentation
+ by 
+Jelurida Swiss SA
+ is licensed under a 
+CC BY-SA 4.0
+.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

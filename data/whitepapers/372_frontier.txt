@@ -1,0 +1,123 @@
+Frontier Product Roadmap for the year 2023
+Security
+Features
+ 
+Trade
+Swap
+Cross-chain Bridge
+Buy Crypto
+Earn
+Stake
+Liquidity Pool
+Yield Farming
+Lending
+Use Cases
+ 
+DeFi
+NFTs
+More
+ 
+Frontier Bundle
+Browser Extension
+About
+FRONT Token
+FRONT Token Bridge
+Product Roadmap
+Blog
+Feature Request
+Support
+Download
+Security
+Features
+ 
+Use Cases
+ 
+More
+Unlock the true 
+ potential of 
+ web3 wallet
+Download
+Road map
+Unifying the self-custody experience to simplify onboarding and adoption of Web3 technology
+The road ahead
+Q2 2023
+April - June â23
+Frontier Web App (Portfolio) beta launch and prepare for production release.
+The portfolio app will allow you to connect multiple wallets and give a better visualization of your net worth (Tokens/NFTs/DeFi).
+Mobile app v3: More than a wallet! (Alpha Phase)
+We are rethinking our mobile app experience to make the mobile app the gateway experience to the Web3 world.
+Q3 2023
+July - September â23
+Frontier Chain (Testnet & Mainnet). Future of $FRONT
+A cosmos-based blockchain of Frontier will be launched as a test and eventually the mainnet. $FRONT will be made as the native token and migrated to the new chain.
+Mobile v3 Launch (Beta & Production)
+We are innovating our mobile wallet to make it a unified Web3 experience for our self-custody users.
+Decentralized MPC Network - Storage module
+MPC (Multi-part Computing) wallets shards encrypted data storage is one of the critical use cases of Frontier Chain, a storage module will be implemented and rolled out on the chain.
+Launch of Keyless Wallet via MPC (Beta)
+Through MPC technology, self-custody users can create keyless/seed phrase-less wallets on Frontier. Itâs going to take away the risk of losing keys and crypto.
+Q4 2023
+October - December â23
+Decentralized MPC Network - Wallet Module
+Encrypted shards of keyless wallets on Frontier will be stored on the Frontier chain, making it secure and safer. The frontier chain will also enable the computation.
+Wallet SDK for Mobile (iOS & Android), Web, and Unity
+Frontier MPC wallet SDK will enable third-party players to build their wallets on Frontier infrastructure (chain). SDK will be available on iOS, Android, Web, and Unity platforms.
+Q1 2024
+January - March â24
+Keyless Hardware wallet powered by Frontier Chain
+To further strengthen our âSelf-Custodyâ vision, Frontier will launch a keyless hardware wallet on the chain-pushing keyless wallet boundaries.
+Intents Resolver Protocol
+We are exploring intents to make Frontier more user-friendly and flexible for self-custody users
+More coming soon
+Disclaimer:
+ 
+The product roadmap is intended to outline our general product direction, itâs only for information purposes. The development, release, and timing of any features or functionality described in the roadmap remain at the sole discretion of Frontier Management.
+Latest updates
+Web3 Investor Gathering in Davos: Bridging the Gap between Startups and VCs
+4 min read
+Feb 10, 2023
+Frontier partners with Concordium blockchain and plans to add the support soon
+Feb 03, 2023
+Frontier Wallet Monthly Rollup
+4 min read
+Feb 02, 2023
+Load more
+We are the One Web3 Wallet that includes 
+ 
+Crypto, DeFi, NFTs, and more. It enables your 
+ 
+safe crypto journey with security, fraud 
+ 
+detection, and prevention mechanisms.
+We are the One Web3 Wallet that includes Crypto, DeFi, NFTs, and more. It enables your safe crypto journey with security, fraud detection, and prevention mechanisms.
+Get Started with us:
+Explore Tools
+Security
+Trade
+Swap
+Cross-chain Bridge
+Buy
+Earn
+Stake
+Liquidity Pool
+Yield Farming
+Lending
+Use Cases
+DeFi
+NFTs
+More
+Browser Extension
+Roadmap
+About us
+FRONT Token
+Blog
+Feature Request
+Support
+Legal
+Privacy Policy
+Terms and conditions
+Â© 2024 Ohana Labs Pte. Ltd., All rights reserved.
+Â© 2024 Ohana Labs Pte. Ltd., 
+ All rights reserved.
+Join our community ð¥
+Join

@@ -1,0 +1,233 @@
+Introducing Loom Network: Scaling Ethereum Today | by Georgios Konstantopoulos | Loom Network | Medium
+Open in app
+Sign up
+Sign in
+Write
+Sign up
+Sign in
+Introducing Loom Network: Scaling Ethereum Today
+Georgios Konstantopoulos
+Â·
+Follow
+Published in
+Loom Network
+Â·
+6 min read
+Â·
+Oct 18, 2017
+--
+Listen
+Share
+Update:
+We publicly released the Loom SDK beta in June, 2018. 
+See the announcement here
+.
+Smart Contracts. A word that dates as early as 1994 when famously 
+introduced 
+by Nick Szabo.
+We have come a long way since then. With Ethereum came the era of 
+Decentralized Applications
+,
+ 
+introducing concepts never thought to be possible before such as decentralized exchanges, decentralized organizations, decentralized 
+âinsert your ideaâ
+.
+But despite these revolutionary possibilities offered by Ethereum, there is still a lot of progress to be done on the development side. There is a huge lack of proper Layer 2 solutions to assist bootstrapping, and abstractions that will help developers create those unstoppable applications faster, in a more robust manner and most importantly, 
+at scale.
+Letâs look at the typical workflow of creating a simple Decentralized Application (referred to as DApp, from now on). First, the developer writes a 
+Smart Contract 
+in the language of his preference (currently the most popular Ethereum smart contract language is Solidity).
+Afterwards, unlike traditional programming where you run a script or compile and run an executable, the process is a little different.
+The developer:
+Pays 
+the gas fees and submits the contractâs creation
+Waits
+ until his transaction is verified. The contract is now considered deployed and the 
+contractâs address is returned
+.
+Users now can make calls to the functions of the contract by sending 
+specially crafted transactions to the deployed contractâs address
+.
+This is a âpureâ approach (as in not requiring any extra software, just raw data submitted as a transaction). In reality, 
+higher-level approaches 
+are being used, such as libraries like 
+web3 
+(available for J
+ava
+, P
+ython
+, and J
+avascript
+). In addition, 
+development frameworks 
+such as 
+Truffle 
+and 
+Embark
+ also exist, which automate parts of the deployment and testing.
+However, they each require specific configurations per project, and developers first need to 
+familiarize themselves with the frameworkâs features before utilizing its full potential.
+ This makes it very complex and time-consuming for your average DApp developer to actually deploy their applications.
+Adding to that, there are currently serious limitations with the Ethereum network that make the deployment of commercial-scale applications inefficient.
+High gas costs due to contractsâ complex operations make large-scale applications like a decentralized Facebook or Twitter infeasible. Currently, a simple Ethereum transaction costs 
+21,000 gas
+,
+ 
+which translates to roughly $
+0.13 (currently the rate of ETH to USD is $321). 
+A call to a smart contract function that involves 
+storing data on the blockchain
+,
+ 
+such as a simple tweet, 
+can cost more than double that amount.
+Imagine millions of users tweeting daily on a Decentralized Application â how much money would be âburnedâ in transaction fees?
+Also, slow confirmation times are not to be forgotten. Ethereumâs 15-second block times are not enough for an application that expects to scale to millions of users (even though they are faster than other blockchain implementations).
+As another example, think of a chatting application which requires waiting 15 seconds for your messages to get delivered while also costing you $0.25 per message.
+What is Gas? â Feel free to skip if you are familiar with how it works
+In Ethereum each operation costs a specific amount of gas. Each transaction has a special âgas limitâ field that specifies the amount of gas the transaction is allowed to spend. Depending on that amount, contract calls are able to execute more complex calculations. More resource-heavy operations cost more gas and, in turn, more money. Gas serves as a security measure against putting smart contracts in infinite loops and effectively causing denial of service (DoS) attacks to the network.
+Gas is what creates transaction fees. Reducing gas costs is one of the most important factors to take into account when scaling your DApp.
+For these reasons, there is huge demand for infrastructure that enables developers to deploy their applications as simply as possible
+ 
+while also allowing them to be more 
+flexible regarding their security measures and their cost allocation
+.
+Enter Loom Network.
+âLoom Network is a Platform as a Service (PaaS) that allows Ethereum based Solidity applications to be run on public, permissioned and private chains.â
+Goals
+Enable DApps to 
+run faster and for lower costs 
+when they do not need the full security of the blockchain for their operations
+Allow DApps to have 
+free trials 
+to attract new users
+Enable secure and trusted communication with the off-chain world via oracles, and notify users of state changes via push and SMS notifications (saving on gas costs, since all the 
+computations are done on our side-chain
+)
+What we noticed is how Ethereum handles all transactions with the same scrutiny, not being able to differentiate between high-priority transactions (which require the maximum security measures) and between lower-priority ones such as the change of a userâs profile picture in a social media DApp.
+We believe that applications should be allowed to have more relaxed consensus mechanisms depending on their needs and their threat model.
+As a simple scenario, an attacker might have 
+huge incentives 
+to reverse a 1000 ETH transaction between accounts A and B, and thus that transaction needs to be carried out with 
+maximum security
+. The same attacker however has little incentive to interfere with a call to contract Câs function âchangeProfilePictureâ which allows us to execute that transaction with looser security measures thus making it 
+cheaper and faster to confirm
+.
+We believe that applications should be allowed to have more relaxed consensus mechanisms depending on their needs and their threat model, in contrast to the current popular Proof of Work systems, which are designed to be robust against even state-level adversaries.
+Furthermore, there is currently no innate mechanism for free trials when using DApps â Note that we are not referring to debugging environments (testrpc) or testnets (Ropsten, Rinkeby). We want to allow product owners to deploy their contracts to a real network and be able to provide users with free access to specific features of their DApp for a predefined time period.
+Finally, on the developerâs side, there is no solution that supports a one-command deployment to the network. When a web developer uses a service like Heroku, once they push changes to their git repository, their application is automatically deployed and preconfigured, meeting their exact needs. This drastically reduces the time consumed on DevOps and also reduces the friction between the developer and the actual system, thus making the surface of error negligible.
+Again, there is currently no solution to that in the Ethereum ecosystem and that is our 
+end-game goal
+.
+Like Heroku, for Ethereum.
+With Loom, you can deploy your applications to the network in one simple command. 
+http://loomx.io/#loom-cli
+Conclusion
+We know that is a lot to promise. That is why we are working hard to bring you 
+a closed beta in November. 
+In our next posts we will be answering
+ 
+FAQâs, revealing and explaining Loom Networkâs features, and also comparing them to existing solutions, if they exist.
+Stay tuned for more posts like this. If you liked this introductory article, give us a clap, share this with your friends, get involved, and most important of all, get ready for the solution that will scale Ethereum Decentralized Applications to millions of users.
+Loom Network
+ is the multichain interop platform for scaling high-performance dapps â already live in production, audited, and battle-tested.
+Deploy your dapp to Loomâs Basechain once and reach the widest possible user base across all major blockchains today.
+New to Loom?
+ 
+Start here
+.
+Want to stake your LOOM tokens and help secure Basechain?
+ 
+Find out how
+.
+Like what weâre doing here? Stay in the loop by 
+signing up for our private mailing list
+.
+Ethereum
+Blockchain
+Future
+Technology
+Bitcoin
+Some rights reserved
+--
+--
+Follow
+Written by 
+Georgios Konstantopoulos
+8.8K Followers
+Â·
+Writer for 
+Loom Network
+Research @paradigm. prev: independent consultant
+Follow
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

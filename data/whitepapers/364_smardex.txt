@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(PDF) The SMARDEX Protocol: A Novel Solution to Impermanent Loss in Decentralized Finance | Eric Rabl, Jean Rausis, and StÃ©phane Ballmer - Academia.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academia.edu no longer supports Internet Explorer.
+To browse Academia.edu and the wider internet faster and more securely, please take a few seconds to 
+upgrade your browser
+.
+
+
+×
+Close
+Log In
+Log in
+ with 
+Facebook
+Log in
+ with 
+Google
+or
+Email
+Password
+Remember me on this computer
+or 
+reset password
+Enter the email address you signed up with and we'll email you a reset link.
+
+
+Need an account? 
+Click here to sign up
+
+
+
+
+
+
+Log In
+Sign Up
+Log In
+Sign Up
+more
+About
+Press
+Blog
+People
+Papers
+Terms
+Privacy
+Copyright
+We're Hiring!
+Help Center
+less
+
+
+Download Free PDF
+Download Free PDF
+The SMARDEX Protocol: A Novel Solution to Impermanent Loss in Decentralized Finance
+The SMARDEX Protocol: A Novel Solution to Impermanent Loss in Decentralized Finance
+Jean Rausis
+Eric Rabl
+StÃ©phane Ballmer
+2023, The SMARDEX Protocol: A Novel Solution to Impermanent Loss in Decentralized Finance
+Impermanent Loss (IL [1]) is a significant challenge in the Decentralized Finance (DeFi) space that arises when users provide tokens to a liquidity pool, and the price of those tokens changes, either upward or downward. Addressing this issue has been a major obstacle for DeFi, and all previous attempts to solve it have been unsuccessful. This paper introduces a new technology based on formulas that manage liquidity differently by using Fictive Reserve (FR). Although approaches involving FR have been attempted in the past, they did not solve the problem of IL, and in some cases, they made it worse. This scientific article details the functioning of a new Decentralised Exchange (DEX [2]) protocol implemented on SMARDEX that, for the first time, solves the problem of IL. It discusses the technical and security challenges of this protocol and explains how it opens a new door for DeFi, enabling liquidity providers to achieve Impermanent Gain (IG).
+See Full PDF
+Download PDF
+See Full PDF
+Download PDF
+See Full PDF
+Download PDF
+Loading Preview
+Sorry, preview is currently unavailable. You can download the paper by clicking the button above.
+RELATED TOPICS
+Mathematical Finance
+Web 3.0
+Bitcoin
+Cryptocurrency
+Cryptocurrencies
+Ethical Decentralized Finance
+Decentralized Finance Platforms
+decentralized finance
+Decentralized Finance Token Deve...
+See Full PDF
+Download PDF
+About
+Press
+Blog
+People
+Papers
+Topics
+ 
+We're Hiring!
+ 
+Help Center
+Find new research papers in:
+Physics
+Chemistry
+Biology
+Health Sciences
+Ecology
+Earth Sciences
+Cognitive Science
+Mathematics
+Computer Science
+Terms
+Privacy
+Copyright
+Academia ©2024
+
+
+
+
+

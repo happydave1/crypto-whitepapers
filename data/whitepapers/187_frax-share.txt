@@ -1,0 +1,157 @@
+Frax Finance Stablecoin Protocol | English ð°ð¾ | Frax Â¤ Finance
+Frax Â¤ Finance
+English ð°ð¾
+English ð°ð¾
+EspaÃ±ol ðªð¸
+FranÃ§ais ð«ð·
+×¢Ö´××¨Ö´××ª ð®ð±
+æ¥æ¬èª ð¯ðµ
+íêµ­ì´ ð°ð·
+PortuguÃªs ðµð¹
+Ð ÑÑÑÐºÐ¸Ð¹ ð·ðº
+TÃ¼rk ð¹ð·
+Tiáº¿ng Viá»t ð»ð³
+ä¸­æ ð¨ð³
+Search
+Ctrl
+â+âK
+Frax Finance Stablecoin Protocol
+FRAX v3
+Overview
+AMOs
+RWAs
+sFRAX
+FXBs
+FRAX V2 - Algorithmic Market Operations (AMO)
+AMO Overview
+Collateral Investor
+Curve
+Uniswap v3
+FRAX Lending
+Decentralization Ratio (DR)
+Frax Shares (FXS)
+veFXS & Gauges
+veFXS
+Gauge
+Fraxbridge & Cross Chain FRAX & FXS
+Bridge Mechanism
+Frax Price Index
+Overview (CPI Peg & Mechanics)
+Frax Price Index Share (FPIS)
+Oracle
+FPI Controller Pool
+veFPIS
+Fraxswap
+Technical Specifications
+Protocol Uses & DAO to DAO Swaps
+Fraxlend
+Fraxlend Overview
+Key Concepts
+Lending
+Borrowing
+Advanced Concepts
+Position Health & Liquidations
+Interest Rates
+Vault Account
+API
+Frax Ether
+Overview
+frxETH and sfrxETH
+Technical Specifications
+Redemption
+Fraxferry
+Overview
+Details
+Frax Governance
+Frax Governance Overview
+How It Works
+Advanced Concepts
+BAMM
+Frax Oracle
+Frax Oracle Overview
+How It Works
+Advanced Concepts
+Frax Base Pool (FRAXBP)
+Coming soon
+Token Distribution
+Frax Share (FXS)
+Guides & FAQ
+FAQ
+Staking
+Uniswap Migration / Uniswap V3
+Fraxswap / FPI
+Matic / Polygon
+Avalanche
+BSC
+Fantom
+Harmony
+Moonriver
+Smart Contracts
+All Contracts
+FPI and FPIS Contract Addresses
+Frax (FRAX)
+Frax Share (FXS)
+frxETH and sfrxETH Contract Addresses
+sFRAX Contract Addresses
+Multisigs
+Frax Pools
+Oracle
+Staking
+Curve AMO
+AMOs
+AMO Minter
+Miscellaneous & Bug Bounty
+Fraxswap
+API
+Combined Data
+Staking / APRs
+Other
+Audits
+Media Kit / Logos
+Powered by GitBook
+Frax Finance Stablecoin Protocol
+The Frax Protocol issues innovative, decentralized stablecoins and contains subprotocols to support them. The Frax Protocol currently issues 3 stablecoins: FRAX, FPI, and frxETH.
+
+The Frax Protocol also has 3 subprotocols within it that integrate its stablecoins: Fraxlend, Fraxswap, and Fraxferry.
+Core concepts to understand the unified Frax Finance ecosystem include:
+Three Stablecoins
+ â The Frax Protocol currently issues 3 stablecoins. FRAX, a USD pegged asset. The Frax Price Index (FPI) stablecoin, the first stablecoin pegged to a basket of consumer goods creating its own unit of account separate from any nation state denominated money. FraxEther (frxETH), pegged to ETH for use as a replacement for WETH in smart contracts.
+Fraxswap, a native AMM
+ â Fraxswap is the first AMM with time weighted average market maker orders used by the Frax Protocol for rebalancing collateral, mints/redemptions, expanding/contracting stablecoin supply, and deploying protocol owned liquidity onchain.
+Fraxlend, permissionless lending markets
+ â Fraxlend is the lending facility for Frax-based stablecoins allowing debt origination, customized non-custodial loans, and onboarding collateral assets to the Frax Finance economy.
+Fraxferry, optimistic transfer protocol for Frax-based tokens
+ â Fraxferry transfers natively issued Frax Protocol tokens across many blockchains.
+Frax Share (FXS) as base layer governance token
+ â Frax Share (FXS) is the governance token of the entire Frax ecosystem of smart contracts which accrues fees, revenue, and excess collateral value. FPIS is the governance token of FPI only and splits its value capture with FXS holders.
+Gauge Rewards System
+ â The community can propose new gauge rewards for strategies that integrate Frax-based stablecoins. FXS emissions are fixed, halve each year, and entirely flow to different gauges based on the votes of veFXS stakers.
+Website: https://app.
+frax.finance
+
+Telegram: 
+https://t.me/fraxfinance
+
+Telegram (announcements / news): 
+https://t.me/fraxfinancenews
+
+Twitter: 
+https://twitter.com/fraxfinance
+
+Medium / Blog: 
+https://fraxfinancecommunity.medium.com/
+
+Governance (discussion): 
+https://gov.frax.finance/
+
+Governance (voting): 
+https://snapshot.org/#/frax.eth
+
+
+Next
+Overview
+Last updated 
+3 months ago
+On this page
+Was this helpful?
+Export as PDF

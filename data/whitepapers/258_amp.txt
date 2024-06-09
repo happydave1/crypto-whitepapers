@@ -1,0 +1,52 @@
+Whitepaper | Ampera
+Ampera
+Search
+Ctrl
+â+âK
+Overview
+About Amp
+Contract addresses
+Security audits
+Whitepaper
+Community links
+Brand guidelines
+Projects using Amp
+Flexa
+Developers
+API reference
+Grants
+Ecosystem
+Markets & DeFi
+Apps & wallets
+Powered by GitBook
+Whitepaper
+Learn more about the technical and economic foundations for decentralizing risk to enable universal digital payments.
+The Amp whitepaper introduces the primary technical elements of the Amp token contract and collateral managers. In particular, it presents novel partition strategies for enabling "stake-in-place" innovation for Ethereum tokens. 
+The paper also presents an analysis of legacy payment infrastructure, distributed payment networks, and token economics. This research uses established economic models in addition to a unique, in-depth assessment of the long-term utility, value, and stability of a collateral token network.
+Sections include:
+Digital Payments and the Flexa Network
+Decentralized collateral
+Finality assurance and scale
+Meta-staking and risk distribution
+Amp token contract
+Operators and partition scopes
+Partition strategies
+Token hooks
+Flexa collateral manager
+Further extensibility
+Token economics
+Production model
+Tokenization model
+Network efficiency model
+Stability analysis
+Previous
+Security audits
+Next
+Community links
+Last updated 
+2 years ago
+On this page
+Was this helpful?
+975KB
+Amp Whitepaper.pdf
+pdf

@@ -1,0 +1,125 @@
+Welcome to BounceBit | BounceBit Docs
+BounceBit Docs
+Search
+Ctrl
+â+âK
+0ï¸
+Welcome to BounceBit
+BounceBit's Philosophy
+Challenges Addressed By BounceBit
+BounceClub: Build on BounceBit
+Infrastructure
+âï¸
+BounceBit PoS Chain
+Dual-Token Staking Consensus
+EVM Compatibility and Developer Support
+â£ï¸
+BounceClub
+What is BounceClub?
+What is BounceBit App Store?
+ð
+Shared Security Clients
+ð
+BTC Bridge
+ð®
+Oracle
+CeDeFi
+ð¦
+BounceBit CeFi + DeFi
+Infrastructure
+Yield Structure
+ð
+Premium Yield Generation
+Integration of Node Staking Rewards
+Funding Rate Arbitrage
+Premium BTC Yield Generation Directory
+Profit Claim Policy
+Mainnet Asset Withdrawal & Distributions for Early Access Users
+Redemption Rules & Process
+Asset Withdrawal Process
+Security Risk Management
+Token
+ð¦
+BounceBit Tokenomics
+Key Terms
+ðª
+BB Coin
+Liquid Staking Token (stBBTC & stBB)
+Bitcoin on BounceBit (BBTC)
+Stablecoins on BounceBit (BBUSD)
+ð§±
+Staking Delegation
+ð§
+Liquid Staking
+ð¤
+Liquid Custody
+User Guides
+Ethena <> BounceBit
+How to Deposit / How to get BBTC, BBUSD
+Mainnet FAQ
+ð¶
+Binance Megadrop
+How to Access Binance Megadrop?
+How to Create a Binance Web3 Wallet?
+How to Transfer BNB to Binance Web3 Wallet?
+How to Transfer BTCB to your Binance Web3 Wallet
+Web3 Quest - Deposit & Withdrawal
+ð
+Bridging
+Portal Bridge
+MultiBit Bridge
+Polyhedra zkBridge
+â£ï¸
+For BounceClub Owners
+How to Create Your Own BounceClub
+How to Launch Your Memecoin
+How to Add DApps to Your BounceClub
+Bitswap
+Bitstaking
+Bitstable
+Bitleverage
+How to Mint & Launch Your Own Token
+How to Participate in the BounceClub Lottery
+For BounceClub Members
+How to Use DApps Within BounceClub
+Bitswap
+Bitstaking
+Bitstable
+Bitleverage
+Deploy on BounceBit
+ð
+CeDeFi
+How to Withdraw/Redeem Your LCT
+How to Subscribe to Premium Yield Generation
+How to Unsubscribe from Premium Yield Generation
+ð 
+Node Staking and Delegation
+How to Stake/Unstake on Portal
+How to Stake/Unstake BB and BBTC (Delegation)
+General
+How to Get BTCB from Binance
+How to Transfer BTCB to your Binance Web3 Wallet
+How to Use the Testnet Faucet
+How to Add BounceBit Network to Your Wallet
+Assets
+â
+Latest BounceBit's BTC TVL Audit Report
+â
+Smart Contract Audit Report
+First BounceBit's BTC TVL Audit Report
+ð
+BounceBit Official Social Media Channels
+Privacy Policy
+Terms of Use
+Powered by GitBook
+ 
+0ï¸
+Welcome to BounceBit
+BounceBit pioneers CeDeFi infrastructure, offering institutional-grade yield products, restaking use cases, and CeDeFi as a service, making high-yield opportunities accessible to all.
+The BounceBit chain, a dual-token PoS Layer 1 secured by BTC and $BB, leverages Bitcoin's security with full EVM compatibility. By designing liquidity custody tokens (LCTs) and partnering with CEFFU, users earn tangible interest from CeFi and utilize LCTs for restaking and on-chain farming.
+Securely maximize yield with BounceBit CeDeFi.
+Next
+BounceBit's Philosophy
+Last updated 
+19 days ago
+On this page

@@ -1,0 +1,247 @@
+tBTC Bitcoin Bridge | Threshold Docs
+ 
+Threshold Website
+ 
+tBTC v2 Docs
+ 
+TACo Docs
+Search
+Ctrl
+â+âK
+What is the Threshold Network?
+THRESHOLD DASHBOARD
+tBTC Minting Walkthrough
+Upgrade NU & KEEP to T
+Applications
+tBTC Bitcoin Bridge
+Fees
+Wallet Generation
+Wallet Signing
+The Path to Permissionlessness
+Sweeping
+Coverage Pool
+TACo - Threshold Access Control
+Simple Overview
+Value Propositions
+Key Concepts
+Use Cases
+Extensions
+Proxy Re-Encryption (PRE)
+Threshold USD
+Overview of thUSD
+Borrowing
+Stability Pool and Liquidations
+Redemptions and thUSD Price Stability
+Recovery Mode
+Bootstrapping
+Initial Protocol Loan
+B. Protocol
+Governance
+Threshold DAO
+ð³ï¸
+Governance Process
+ðââï¸
+Guilds
+ð°
+Threshold Multisigs
+Vote Delegation
+Liquid Token Delegation
+Staked Token Delegation
+Staking & Running a Node
+Running a Node
+Self-Managed
+tBTC v2 Node Setup
+Operator Account
+Application Authorization & Operator Registration
+Network Configuration
+Data Storage
+Installation
+Docker Installation
+Binary Installation
+Updating tBTC v2 Node
+Advanced Options
+Alternatives to Dashboard
+Logging
+Config File
+CLI Options
+Client Info
+Frequently Asked Questions
+Sepolia Testnet
+Testnet tBTC v2 node Setup
+TACo Node Setup
+Duties & Compensation
+Minimum System Requirements
+Run a TACo Node with Docker
+TACo Authorization & Operator Registration
+One-off Commitment Bonus
+TACo Node Management
+tBTC Stakers FAQ
+tBTC Beta Stakers Program
+Staking Providers
+Legacy Staking (NU & KEEP)
+App Development
+TACo Access Control
+Quickstart (Testnet)
+Integration Guides
+Testnet TACo Integration
+Mainnet TACo Beta Program
+Mainnet TACo Integration
+Irys + TACo
+Trust Assumptions
+Mainnet Trust Disclosure (Provider Answers)
+Mainnet Trust Model Foundation
+Trust levers & parameter packages
+Testnet Trust Assumptions
+Godmode Alice Trust Model
+Conditions
+TimeCondition
+RpcCondition
+ContractCondition
+CompoundCondition
+Condition Context and Context Variables
+Condition Examples
+Gatekeeping access with an NFT
+Gatekeeping access with an RPC condition
+Multichain conditions
+Porter
+User Authentication
+Encryptor allowlist
+Advanced Usage Guides
+Use custom contract calls
+Implement access revocation via smart contract
+Implement highly secure data sharing with Proxy Re-Encryption
+Fee Model
+API References
+Contribution Guide
+Staking Contract and DAO
+Staking Contract and DAO API
+BaseTokenholderGovernor
+Checkpoints
+GovernorParameters
+IApplication
+ILegacyTokenStaking
+IStaking
+IVotesHistory
+KeepStake
+PercentUtils
+ProxyAdminWithDeputy
+SafeTUpgradeable
+StakerGovernor
+StakerGovernorVotes
+T
+TokenholderGovernor
+TokenholderGovernorVotes
+TokenStaking
+VendingMachine
+Random Beacon
+Random Beacon API
+AltBn128
+BeaconAuthorization
+BeaconDkg
+BeaconDkgValidator
+BeaconInactivity
+BLS
+BytesLib
+Callback
+Governable
+Groups
+IRandomBeacon
+IRandomBeaconConsumer
+ModUtils
+RandomBeacon
+RandomBeaconChaosnet
+RandomBeaconGovernance
+Reimbursable
+ReimbursementPool
+Relay
+tBTC
+tBTC SDK
+Quickstart
+Architecture
+Guides
+Initialize SDK
+Deposit and mint
+Unmint and redeem
+API Reference
+tBTC Contracts API
+Bridge API
+Bank
+BitcoinTx
+Bridge
+BridgeGovernance
+BridgeGovernanceParameters
+BridgeState
+Deposit
+DepositSweep
+DonationVault
+EcdsaLib
+Fraud
+GovernanceUtils
+Heartbeat
+IReceiveBalanceApproval
+IRelay
+IVault
+L2TBTC
+L2WormholeGateway
+LightRelay
+LightRelayMaintainerProxy
+MaintainerProxy
+MovingFunds
+Redemption
+TBTC
+TBTCOptimisticMinting
+TBTCVault
+VendingMachine
+VendingMachineV2
+VendingMachineV3
+WalletCoordinator
+Wallets
+ECDSA API
+EcdsaAuthorization
+EcdsaDkg
+EcdsaDkgValidator
+EcdsaInactivity
+IWalletOwner
+IWalletRegistry
+WalletRegistry
+WalletRegistryGovernance
+Wallets
+Ask Your Provider
+Resources
+T Token
+Contract Addresses
+Mainnet
+Threshold DAO
+tBTC
+TACo
+thUSD
+Legacy
+GÃ¶rli Testnet
+Sepolia Testnet
+tBTC Pools
+Contribution
+Security
+Brand Assets
+Glossary
+Links
+Powered by GitBook
+tBTC Bitcoin Bridge
+A Decentralized, Permissionless Bitcoin Bridge to DeFi
+Existing solutions that bridge Bitcoin to Ethereum require users to send their Bitcoin to an intermediary, in exchange for an ERC-20 token that represents the original asset. This centralized model requires you to trust a third party and is susceptible to censorship, threatening the premise of Bitcoin as sovereign, secure, permissionless digital asset.
+The second generation of tBTC
+ 
+is a truly decentralized (and scalable) bridge between Bitcoin and Ethereum. It provides Bitcoin holders secure and open access to the broader DeFi ecosystem. tBTC v2 allows you to unlock your Bitcoinâs value to borrow and lend, mint stablecoins, provide liquidity, and much more.
+Instead of centralized intermediaries, tBTC uses a randomly selected group of operators running nodes on the Threshold Network to secure deposited Bitcoin through threshold cryptography. That means tBTC requires a threshold majority agreement before operators perform any action with your Bitcoin. By rotating the selection of operators weekly, tBTC protects against any individual or group of operators colluding to fraudulently seize the underlying deposits. By relying on an honest-majoriy-assumption, we can calculate the likelihood any wallet comprised of a quorum of dishonest operators (for a deeper discussion of the probability calculations, see 
+here
+. An insurance backstop (the coverage pools), serves as an emergency fallback in the event a wallet is compromised.
+Unlike other solutions on the market, users of tBTC trust math, not hardware or people.
+Previous
+Upgrade NU & KEEP to T
+Next
+Fees
+Last updated 
+3 months ago
+On this page
+Was this helpful?
+Export as PDF
+tBTC intro video

@@ -1,0 +1,76 @@
+Introduction | Aevo Documentation
+Ask or Search
+Ctrl
+â+âK
+Legal Disclaimer
+FAQs
+AEVO EXCHANGE
+Introduction
+Roadmap
+Technical Architecture
+Off-chain Orderbook and Risk Engine
+On-chain Settlement
+Layer 2 Architecture
+Liquidations
+Deposit contracts
+Options Specifications
+ETH Options
+BTC options
+Index Price
+Margin Framework
+Standard Margin
+Portfolio Margin
+Perpetuals Specifications
+ETH Perpetual Futures
+BTC Perpetual Futures
+Perpetual Futures Funding Rate
+Perpetual Futures Mark Pricing
+Pre-Launch Token Futures
+BLAST Pre-Launch Futures
+Cross-Margin Collateral Framework
+aeUSD
+Deposits
+Redemptions
+Composition
+Spot Convert Feature
+Fees
+Options Fees
+Pepretuals Fees
+Pre-Lauch Fees
+Liquidation Fees
+Deposit & Withdrawal Fees
+API Reference
+TRADING AND STAKING INCENTIVES
+Aevo Airdrops
+Trading Rewards
+Finalized Rewards
+Staking Perks
+Staking Rewards
+Finalized Rewards
+Referrals
+AEVO GOVERNANCE
+Definitions
+Token smart contracts
+Token Distribution
+Original RBN Distribution (May 2021)
+Governance
+AGP - Aevo Governance Proposals
+Committees
+Treasury and Revenues Management Committee
+Growth & Marketing Committee
+Aevo Revenues
+Operating Expenses
+security
+Security
+Powered by GitBook
+Introduction
+Aevo is a high-performance decentralized derivatives exchange platform, focused on options and perpetual contracts. The exchange runs on a custom EVM roll-up that rolls up to Ethereum. Aevo operates an off-chain orderbook with on-chain settlements. This means that once orders are matched, trades get executed and settled with smart contracts.
+Previous
+FAQs
+Next
+Roadmap
+Last updated 
+2 months ago
+On this page
+Was this helpful?
+ 

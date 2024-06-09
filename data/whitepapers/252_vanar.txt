@@ -1,0 +1,67 @@
+Documentation
+Search
+Ctrl
+â+âK
+Getting Started
+Vanar
+ð
+Overview
+ðª
+$VANRY Token
+ðï¸
+The Vanar Foundation
+Why Vanar?
+ð¡
+Our Philosophy
+ð
+Green Chain
+ð
+Fixed Fees
+âï¸
+Why L1?
+ð
+Why Choose Vanar
+â­
+Proof of Reputation
+Vanar Architecture
+Protocol Customizations
+Native Gas Token ($VANRY)
+Fixed Fees
+Transaction Ordering
+Block Rewards
+Block Time
+Block Size
+EVM Compatibility
+Consensus Mechanism
+Fixed Fees
+Gas Fees Tiers
+How it works
+Gas Price API
+Fixed Fees Management
+$VANRY Token Price API
+Builders
+For Developers
+ðª
+Vanar Network Details
+âï¸
+Adding Network to Wallet
+ð
+Connect Wallet to Vanar Chain
+â½
+Gas Estimation
+Build with thirdweb
+Connect
+Contracts
+Engine
+SDKs
+Tutorials
+Deploy a Token Contract - ERC20
+Deploy an NFT Contract - ERC721
+Deploy a Token Contract - ERC20 (Thirdweb)
+Deploy an NFT Contract - ERC721 (Thirdweb)
+Vanguard
+Explorer
+Faucet
+Test $VG
+vanarchain.com
+Powered by GitBook

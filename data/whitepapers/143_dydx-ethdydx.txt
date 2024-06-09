@@ -1,0 +1,83 @@
+Introduction | DYDX Token Migration
+DYDX Token Migration
+ 
+Home â
+ 
+Forums â
+ 
+Discord â
+ 
+dYdX v3 Docs â
+ 
+How to Bridge Guide â
+ 
+How to Stake Guide â
+Ask or Search
+Ctrl
+â+âK
+START HERE
+Introduction
+dYdX Chain Architecture
+Legal Disclaimers
+Migration of DYDX from Ethereum to dYdX Chain
+Migration & Bridge Overview
+dYdX v3 Governance Architecture
+wethDYDX Smart Contract
+GovernanceStrategyV2 Smart Contract
+TreasuryBridge Smart Contract
+v4 Community Pool
+Open-Source Bridge User Interface
+Token Comparison
+How to Bridge Guide
+DYDX (dYdX Chain)
+Introduction
+x/bridge module
+Bridge Daemon
+dYdX Chain Modules and Parameters
+Staking 
+How to Stake Guide
+How to Redelegate Guide
+How to Unstake Guide
+Distribution
+How to Claim Staking Rewards
+Governance
+How to Vote Guide
+Proposal Lifecycle
+Proposal Submission Technical Guide
+Governance Adjustable Parameters
+Trading Stats and Fees
+Trading Core
+Markets
+Perpetual
+Clob
+Adding & Updating a Live Market
+Safety
+Market Tiers
+Slashing
+Fee Schedule
+Trading Rewards and Rewards Module
+Community Treasury
+Relevant Links for the dYdX Chain Open Source Software
+Powered by GitBook
+Introduction
+Overview of the dYdX Chain and the DYDX token.
+On October 26 at 17:00 UTC, 2023, the 
+dYdX Chain open source software
+ was deployed and the  first block of the dYdX Chain was created by the dYdX Chain validators.
+The dYdX Chain is a proof-of-stake blockchain network built using the Cosmos SDK and leveraging CometBFT for consensus. 
+The dYdX community, through dYdX governance, voted (
+Snapshot
+ and 
+on-chain
+) in favor of adopting DYDX as the Layer 1 token of the dYdX Chain for staking to validators in order to secure the chain and for stakers of the L1 token to govern the network.
+The utility of the dYdX Chainâs L1 token, DYDX, is apparent in three areas: Staking, Security and Governance.
+Staking: DYDX holders have the option to serve as validators (and self-delegate) or to delegate their stake to existing validators. Such delegation increases the likelihood of the chosen validators entering or staying in the active validator set, thereby becoming a participant in the networkâs consensus process.
+Security: Staking DYDX directly contributes to dYdX Chain security. As more DYDX holders choose to stake their tokens across a diverse range of validators in the network and the total amount of stake on the network increases, it becomes increasingly difficult for a coordinated attack to influence a consensus decision.
+Governance: DYDX empowers DYDX holders to propose and vote on proposals, directly influencing the evolution of the dYdX Chain through a democratic process. The subject matter of proposals can vary from changing a governable parameter on the dYdX Chain, spending dYdX community funds, and updating the software that dYdX Chain nodes are running, among other things.
+*** Last Updated as of October, 2023.
+Next
+dYdX Chain Architecture
+Last updated 
+5 months ago
+On this page
+Was this helpful?

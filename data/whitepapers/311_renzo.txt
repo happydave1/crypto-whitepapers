@@ -1,0 +1,68 @@
+Intro | Renzo Protocol
+Renzo Protocol
+Search
+Ctrl
+â+âK
+Intro
+EigenLayer
+What is EigenLayer
+Ecosystem
+Operators
+Actively Validated Services
+Restaked points
+Renzo
+How do LRTs work
+$ezETH
+FAQs
+$REZ
+Season 1
+Season 2
+REZ Tokenomics
+FAQs
+$REZ Staking
+FAQs
+$EIGEN Staking
+FAQs
+Product
+Restake
+Deposit Boosts
+Renzo ezPoints
+How do we do it
+Renzo FAQs
+ezPoints
+Layer 2
+DEX
+Dev
+Integrations
+DeFi
+Pendle
+L2 Native Restaking
+Contracts
+Ethereum Mainnet
+Layer 2s
+Arbitrum
+Base
+Blast
+BNB Chain
+Mode
+Linea
+Source Code
+Legal
+Terms of Service
+Privacy Policy
+Disclaimer
+Security
+Audits
+Bug Bounty
+Resources
+Brand Kit
+Powered by GitBook
+Intro
+Renzo is a Liquid Restaking Token (LRT) and Strategy Manager for EigenLayer. It is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.
+The protocol abstracts all complexity from the end-user and enables easy collaboration between them and EigenLayer node operators.
+Renzo strongly advocates for EigenLayer and its goal of facilitating permissionless innovation on Ethereum, and programmatically acquiring trust for the ecosystem. Renzo is built to promote the widespread adoption of Eigenlayer.
+Next
+What is EigenLayer
+Last updated 
+2 months ago
+On this page

@@ -1,0 +1,278 @@
+Phala Network Docs
+Phala Network Docs
+ 
+Home
+ 
+Guides
+ 
+Product
+ 
+References
+ 
+Compute Providers
+Ask or Search
+Ctrl
+â+âK
+Home
+ð¾
+Phala Network Docs
+Overview
+âï¸
+Phala Network
+â¡
+AI Execution Layer
+ð
+PHA Token
+ðª
+Introduction
+ð
+Delegation
+Delegate to StakePool
+What is Vault
+What is Share
+WrappedBalances & W-PHA
+Examples of Delegation
+Use Phala App to Delegate
+Estimate Your Reward
+ð³ï¸
+Governance
+Governance Mechanism
+Join the Council
+Voting for Councillors
+Apply for Project Funding
+Khala Treasury
+Khala Governance
+Setting Up an Account Identity
+AI Agent Contract
+ð©âð»
+Getting Started
+Build Your First AI Agent Contract
+Build Your AI Agent Contract with OpenAI
+Build Your AI Agent Contract with LangChain
+Integrate with 3rd Party API with HTTP Request
+ð¨
+Build
+Define Your Agent
+Add a Data Source
+Connect to Smart Contracts
+Invoke Other Agents
+Test and Benchmark
+Token Gated Access
+Use Default Agent DAO
+Customize Your Agent DAO
+ð
+Launch
+Publish Agent Script
+Deploy Agent DAO
+Subscribe for Cross-Agent Usage
+ð¤³
+Use
+Access from UI
+Access from Other Agents
+ð¤
+Profit with Agent Wars
+ð§ââï¸
+Examples
+Create a Weather Agent w/ Function Calling
+Connect from FLock.io Plugin
+Connect from Autonolas Plugin
+Connect from Morpheus Plugin
+Connect from Fetch.ai Plugin
+Handling Secrets and Queries
+ð
+Integrations
+âï¸
+Airstack Agent
+ð
+The Graph Agent
+ðª
+Mirrored Price Feeds Agent
+Getting Started
+Feed Addresses
+Astar zKatana Testnet
+Tanssi Dancebox Testnet
+Base Sepolia Testnet
+How Mirrored Price Feeds Work
+ð±
+LensAPI Oracle Agent
+Agent Wars
+ð
+Introduction
+ð¸
+Tokenomics
+â¶ï¸
+Getting Started
+Wallet Setup & Get PHA
+Create and Play with Social Agents
+ð§âð«
+Tutorial
+Tech Specs
+ð¥·
+AI Agent Contract
+Phala Agent Gateway
+â
+Multi-Proof and Verifiable Compute
+Why Multi-Proof and What We Can Help
+Trusted Execution Environments (TEE) and Compute Verifiability
+How to Build with Multi-Proof
+Conclusion & Future Developments
+âï¸
+Blockchain
+Blockchain Entities
+Cluster of Workers
+Secret Key Hierarchy
+References
+ð
+Setting Up a Wallet on Phala
+Acquiring PHA
+ð¤
+AI Agent Contract SDKs
+JS SDK
+ð¾
+Create a Dashboard Profile
+â¨
+Phat Contract Starter Kit
+ðââï¸
+Quick Start
+âï¸
+Connect Phat Contract to EVM Consumer Contract
+ðï¸
+Customizing Your Phat Contract
+ð¤«
+Handling Secrets
+ðª´
+LensAPI Oracle
+ð§âð
+Polygon Consumer Contract for LensAPI Oracle
+ð
+The Graph
+ð¦
+Quick Start
+ð«
+Connect The Graph Phat Contract to EVM Consumer Contract
+ðï¸
+Get an API Key for The Graph
+âï¸
+Airstack
+ð©ï¸
+Quick Start
+ð«
+Connect Airstack Phat Contract to EVM Consumer Contract
+ðï¸
+Get an Airstack API Key
+Rust SDK
+Generate Test Account
+Phat Contract Console
+Next Step
+Build
+Environment Setup
+Swanky Phala CLI Tool
+Create Contract
+Deploy Contract
+Language Basics
+Call Your Contract
+Build Stateless Backend
+Use Pink Extension
+Use Rust Crates
+Unit Tests
+Store Contract States
+âï¸
+Phala SDK
+ð¼ï¸
+FrameHub
+ð
+SubBridge
+Cross-chain Transfer
+Supported Assets
+Asset Integration Guide
+Technical Details
+ð¨âð
+Builders Program
+ð·
+Community Builders
+ð¤¯
+Advanced Topics
+Cross Chain Solutions
+System Contract and Drivers
+Run Local Testnet
+SideVM
+ð
+Support
+Available Phala Chains
+Resource Limits
+Transaction Costs
+Compatibility Matrix
+Block Explorers
+Faucet
+âï¸
+FAQ
+Compute Providers
+ð
+Basic Info
+Introduction
+Gemini Tokenomics (Worker Rewards)
+Budget balancer
+Staking Mechanism
+Requirements in Phala/Khala
+Confidence Level & SGX Function
+Rent Hardware
+Error Summary
+ð¦¿
+Run Workers on Phala
+Solo Worker Deployment
+PRBv3 Deployment
+Using PRBv3 UI
+PRB Worker Deployment
+Switch Workers from Solo to PRB Mode
+Headers-cache deployment
+Archive node deployment
+ðââï¸
+Run Workers on Khala
+Solo Scripts Guidance
+Installing Khala Solo Scripts
+Worker Confidence Level
+Configure the Worker
+Deploy the Worker
+Monitor Worker's Status
+Accelerate Khala Syncing
+Update your Worker's Node
+PRBv3 Deployment Guide
+Using PRBv3 UI
+Migration from PRBv2 to v3
+Headers-cache deployment
+Archive node deployment
+PRBv2 Deployment Guide
+PRB Worker Deployment
+How to switch from Solo scripts to PRB worker
+Khala Worker Rewards
+Troubleshooting
+ð¡ï¸
+Gatekeeper
+Collator
+Gatekeeper
+Web Directory
+Discord
+GitHub
+Twitter
+YouTube
+Forum
+Medium
+Telegram
+Powered by GitBook
+ 
+Participate
+Compute Providers
+Node
+Community
+About Us
+Resources
+Technical Whitepaper
+Token Economics
+Docs
+GitHub
+More
+Testnet
+Explorer
+Careers
+Responsible Disclosure
+COPYRIGHT Â© 2024 PHALA.LTD ALL RIGHTS RESERVED. May Phala be with you!

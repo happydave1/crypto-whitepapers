@@ -1,0 +1,39 @@
+Overview | Merlin Docs
+Merlin Docs
+Search
+Ctrl
+â+âK
+Overview
+Architecture
+ZK Rollup on Bitcoin
+Advantage
+Zero-knowledge proof generation and commitment verification
+Decentralized Oracle Network
+Future Upgrades: Bitcoin's On-Chain Fraud Proof Mechanism
+Security
+Decentralized Prover Network
+ZKP's Two-Step Submission Algorithm
+Bridge
+Supporting BTC L1 Assets
+Resources
+Network Configuration
+DEVELOPERS
+Quick Start
+Connecting to Merlin via EVM wallet
+Connecting to Merlin via BTC wallet
+Bridging assets to Merlin
+External Node Deployment
+Mainnet Updates
+How to
+Write a contract
+Deploy a contract with Hardhat
+Powered by GitBook
+Overview
+Merlin Chain is a Bitcoin Layer 2 that integrates the ZK-Rollup network, decentralized oracle network, Data Availability, and on-chain BTC fraud proof modules. Merlin Chain is committed to empowering Bitcoin's native assets, protocols, and products on Layer1 through its Layer 2 network, to Make Bitcoin Fun Again.
+Merlin Chain leverages zero-knowledge proofs submitted to Bitcoin for verification of commitments, providing enhanced support to the Bitcoin network. It allows challengers to present fraud proofs on disputed matters, utilizing Bitcoin's robust consensus mechanism to ensure the security of the Merlin Chain network. This ensures a secure, practical, comprehensive, and economically efficient network environment for users within the ecosystem.
+Merlin Chain aims to expand the native innovation from Bitcoin Layer 1 to Layer 2. This includes supporting all kinds of Bitcoin Layer 1 assets, building dApps with 'fully on chain' spirit of Bitcoin, and community driven assets launching method. Merlin is trying to build a EVM compatible chain for Bitcoin, to unleash the potential of Bitcoin and Ordinals.
+Next
+Architecture
+Last updated 
+2 months ago
+On this page

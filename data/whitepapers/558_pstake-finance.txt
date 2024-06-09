@@ -1,0 +1,28 @@
+Introduction | pSTAKE Docs
+pSTAKE Docs
+Search
+Ctrl
+â+âK
+ð
+Introduction
+PSTAKE Token
+Token Contract Metadata
+Geofencing
+Details
+Alternative Frontends
+Powered by GitBook
+ð
+Introduction
+This documentation is under a revamp. We will be back soon! For more information please feel to contact us on our 
+Telegram community chat
+. 
+pSTAKE Finance is a Bitcoin Yield and liquid staking protocol, backed by Binance Labs.
+With pSTAKE Finance, users can liquid stake BTC to get rewards from Babylon's Trustless BTC staking for securing other app chains while maintaining their liquidity, powered by institutional custody providers like Cobo.
+Accessing Bitcoin yields should not be complex, risky, or unsafe. With four years of liquid staking expertise and expert-curated yield strategies, pSTAKE Finance helps individuals and institutions put their BTC to work in BTCfi.
+pSTAKE Finance has partnered with leading blockchain security firms, such as Halborn, Hexens, Oak Security, Immunefi, Forta, and more, to offer a secure liquid staking product suite.
+PSTAKE is the governance and incentivization token of the pSTAKE Finance protocol. It has some of the most prominent investors, including Binance Labs, DeFiance Capital, Spartan Group, Coinbase Ventures, and DeFiance Capital.
+Next
+Token Contract Metadata
+Last updated 
+1 day ago
+On this page

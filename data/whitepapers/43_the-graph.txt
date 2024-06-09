@@ -1,0 +1,207 @@
+Get Started | Docs | The Graph
+Upgrade Your Hosted Service Subgraphs
+Upgrade within 4 days
+Show
+ details
+â 
+Show
+ details
+â 
+â 
+â 
+The Graph
+Products
+â 
+Studio Pricing
+Ecosystem
+â 
+Blog
+Jobs
+Docs
+Search
+â
+K
+â 
+English
+â 
+Search
+â
+K
+â 
+English
+â 
+Get Started
+About The Graph
+The Graph Network
+Sunrise Upgrade FAQ
+Billing
+Glossary
+Tokenomics
+Scaling with Arbitrum
+Subgraphs
+Quick Start
+Developing
+Deploying
+Publishing
+Managing
+Querying
+Cookbook
+Release Notes & Upgrade Guides
+Substreams
+Substreams
+Indexing
+Operating Graph Node
+Chain Integration Process Overview
+Integrating New Networks
+Firehose
+Graphcast
+MIPs FAQs
+Docs
+Get Started
+Get Started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn about The Graph, a decentralized protocol for indexing and querying data from blockchains.
+
+
+About The Graph
+Learn more about The Graph
+Quick Start
+Jump in and start with The Graph
+Developer FAQs
+Frequently asked questions
+Query from an Application
+Learn to query from an application
+Create a Subgraph
+Use Studio to create subgraphs
+Upgrade from the hosted service
+Upgrading subgraphs to The Graph Network
+
+
+Network Roles
+â 
+#
+Link to this section
+
+
+Learn about The Graphâs network roles.
+
+
+Developer
+Create a subgraph or use existing subgraphs in a dapp
+Read more
+Indexer
+Operate a node to index data and serve queries
+Read more
+Curator
+Organize data by signaling on subgraphs
+Read more
+Delegator
+Secure the network by delegating GRT to Indexers
+Read more
+
+
+Products
+â 
+#
+Link to this section
+
+
+Subgraph Studio
+Create, manage and publish subgraphs and API keys
+Read more
+Graph Explorer
+Explore subgraphs and interact with the protocol
+Read more
+Hosted Service
+Create and explore subgraphs on the hosted service
+Read more
+
+
+Supported Networks
+â 
+#
+Link to this section
+
+
+The Graph supports the following networks.
+
+
+Ethereum
+Optimism
+BSC
+Gnosis Chain
+Fuse
+Polygon
+Fantom Opera
+Boba
+Moonbeam
+Moonriver
+Moonbase Alpha
+Arbitrum One
+Celo
+Avalanche
+Aurora
+Harmony
+Mode
+Polygon zkEVM
+zkSync Era
+Linea Mainnet
+Base Mainnet
+Scroll Mainnet
+Blast Mainnet
+Astar zkEvm Mainnet
+X Layer Mainnet
+NEAR
+Cosmos
+Osmosis
+Arweave
+Bitcoin
+Solana
+Injective
+
+
+For more details, see the 
+Supported Networks
+ page.
+â 
+Edit page
+â 
+Next
+About The Graph
+â 
+Edit page
+â 
+Page Sections
+Network Roles
+Products
+Supported Networks
+Home
+Blog
+Jobs
+Docs
+Past Events
+â 
+Testnet
+Privacy Policy
+Terms of Service
+Brand Assets
+Partnership Requests
+â 
+Forum
+â 
+Security
+â 
+EN

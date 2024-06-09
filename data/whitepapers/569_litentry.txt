@@ -1,0 +1,117 @@
+About Litentry | English | Litentry Doc
+Litentry Doc
+English
+English
+ä¸­æ
+Search
+Ctrl
+â+âK
+About Litentry
+Problem & Solution
+High Level Functionality
+Identity Use Cases
+FAQ Litentry Protocol
+Parachain
+Introduction
+Get Started
+Litmus Network
+Rollout Plan
+Collator
+Full Node
+Litentry Network
+Rollout Plan
+Collator
+Full Node
+Pallets and Modules
+Verifiable Credential Management Pallet (VCMP)
+Parts of a VCMP
+VCMP Extrinsic, Events, and Error Events
+Assertion definitions and parameters
+Identity Management Pallet (IMP)
+Components of the IMP
+IMP Extrinsic, Events and Error Events
+Teerex Pallet
+Token Bridge
+Tokenomics revisit
+Architecture model
+Token Bridge Commission
+TEE
+Background
+FAQ Trusted Execution Environment
+Architecture diagram
+Core components
+Litentry Identity Registrar
+Developer Documentation
+Build parachain
+Launch a local network
+Run tests
+SDK Documentation
+Linking an Identity
+Requesting a Verifiable Credential
+Validating Verifiable Credentials
+Retrieving the Hash of any ID Graph
+Getting the User id_graph
+SDK Use Case Example
+How to Run Setup and Run Parachain + Worker
+How-to guides
+Interact with parachain
+Claim crowdloan rewards
+Transfer LIT from Ethereum to parachain
+Transfer LIT from parachain to Ethereum
+Transfer LIT to other parachains with XCM
+Participate in LIT staking on Litentry
+Auto-compound staking
+Litentry Kusama Registrar Guide
+Participate in Litentry Governance
+Partner Documentation
+Establishing XCM communication with Litentry
+Front-end Products
+IdentityHub
+Product Features
+Direct Invocation
+EVM Sign-In
+Identity Score
+Verifiable Credentials (VCs)
+IdentityHub Client
+Securing Privacy
+User Guide
+Getting Started with the IDHub
+Set up a Shielding Key
+Link Identity
+Link Web3 Account
+Link Web2 Account
+BRC 20 Sign-in
+Generating Credentials
+FAQ IdentityHub
+Rules of IDHub v0.8
+Litentry Foundation
+Tokenomics
+Litenry parachain inflation and collator staking
+Ecosystem Wallet
+Team Wallet
+Foundation Wallet
+Misc
+Glossary of Terms
+Related Links
+Media Assets
+Powered by GitBook
+About Litentry
+This page discusses the general functionality of the Litentry protocol.
+Litentry is a decentralized, cross-chain identity aggregator that enables users to link their identities in a privacy-preserving context. We aim to give users full control over their personal data and enable them to gain social and economic value from it. Our protocol can be adopted in on-chain reputation, governance, DeFi, and customized data services.
+Our Mission statement
+
+Litentry is unlocking verifiable personal data in a private and secure way, to pave the way for identity-based social and economic innovations.
+Guides: Jump right in
+Follow our handy guides to get started on the basics as quickly as possible.
+The parachain is our blockchain on the Kusama & Polkadot ecosystem. 
+The Identity Hub is the interface to our protocol and it allows users to interact with the parachain. 
+page
+Introduction
+page
+IdentityHub
+Next
+Problem & Solution
+Last updated 
+9 months ago
+On this page
+Was this helpful?

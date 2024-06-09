@@ -1,0 +1,114 @@
+Introduction | WEMIX3.0 (ENG) | WEMIX3.0
+WEMIX3.0
+WEMIX3.0 (ENG)
+Library
+WEMIX3.0 (ENG)
+WEMIX3.0 (KOR)
+WEMIX.Fi (ENG)
+WEMIX.Fi (KOR)
+NILE (ENG)
+NILE (KOR)
+WEMIX Wallet (ENG)
+WEMIX Wallet (KOR)
+Search
+Ctrl
+â+âK
+Introduction
+Blockchain Basics
+What is Blockchain?
+Consensus Algorithm
+Transactions
+Gas
+Account
+Design
+Architecture
+Consensus
+Governance
+Minting
+EIP1559
+Eco Fund
+Fee Delegation
+Roadmap
+Quick Start
+Start Node
+Use Binary
+Command-line Option
+Use Public API Server(RPC)
+Connect Node
+Account
+Use MetaMask
+Testnet Faucet
+Install & Operation
+End Node
+System Requirements
+Firewall Setting
+Install Guide
+Block Producer Node
+System Requirements
+Firewall Setting
+Install Guide
+Download
+Operation Guide
+dApp Developer
+Smart Contract
+Solidity
+Precompiled Contracts
+Sample Contracts
+JSON-RPC
+API Reference
+Account APIs
+Block APIs
+Contract APIs
+Transaction APIs
+Event logs APIs
+Tokens APIs
+Tutorial
+Create a Wallet
+Receive Test Coin
+Create Smart Contract
+Remix
+Truffle
+Hardhat
+ERC-20 Token
+Write ERC-20 Contract
+Check ERC-20 Token
+Send ERC-20 Token
+Check ERC-20 Token API
+Burn ERC-20 Token
+ERC-721 Token
+Write ERC-721 Contract
+Minting ERC-721 Token
+Check ERC-721 Token API
+Burn ERC-721 Token
+Use Fee Delegation
+Manual
+Explorer
+Wallet
+FAQ
+Powered by GitBook
+Introduction
+WEMIX3.0 Summary
+WEMADE looks at the world in a slightly different light. As times change, we look the market and analyze it, and create a plan that can be put into action. And then, actually doing it and producing results, ultimately leading to other followers following WEMADE's path.
+Throughout the WEMIX1.0 & 2.0 era, our efforts to create a balanced ecosystem have enabled us to gain extensive knowledge, data and experience. And these are all the more important things that WEMADE is once again playing a role in transforming the industry and market.
+WEMIX3.0 is a true blockchain ecosystem designed to support the upcoming dApp, games, DAO, DeFi, NFT, and more.
+EVM-compatible Public Chain
+Stake-based Proof of Authority(SPoA) Consensus
+40 Highly Qualified Node Council Partners(Authorities)
+Max 4,000 TPS Throughput
+PMR(Permanent Minting Reward): 1 WEMIX per Block 
+WEMIX3.0 Ecosystem
+The WEMIX3.0 Mainnet is based on Ethereum Virtual Machine (EVM) in the Stake-based Proof of Authority (SPoA) consensus algorithm. The new Mainnet provides the best security based on decentralized On-Chain Governance through 40 Node Council Partners (NCPs), while ensuring fast TPS at the same time.
+WEMIX$, with USDC as collateral, is an important good in the dApp ecosystem and serves to relieve the unpredictable price volatility of tokens and the resulting anxiety. WEMIX$ provides currency stability, which makes various dApps more stable in the ecosystem. By relieving the anxiety of the price volatility, WEMIX3.0 takes the ideal form of an open platform.  
+At the heart of WEMIX3.0, there are three important services. We support WEMIX PLAY(a blockchain gaming platform), NILE(a DAO service based on the Neith protocol), and decentralized financial services.
+Indemnification Provision
+WEMIX3.0 blockchain is forked from Ethereum and refers to various Ethereum open source project technologies. The executed smart contract is implemented in Ethereum-based solidity language, and has a grammar similar to JavaScript as a Turing completeness form of computer language. Therefore, it is possible to program with a high degree of freedom without restrictions on implementation.
+The technology stack of WEMIX3.0 blockchain was developed using traditional Ethereum and supports EVM and library equivalent to Ethereum. WEMIX's improvement proposal fully accommodated the Ethereum improvement proposal (EIP) according to the configuration of the WEMIX ecosystem, and was adopted through some migrations. This makes it easier for members of the WEMIX3.0 ecosystem to participate in the WEMIX3.0 blockchain by forming an Ethereum-like ecosystem.
+Claims, contents, algorithms, roadmaps, etc. presented in this document are the result of this project effort. As a result, the person using the Software is deemed to have been bound and agreed to comply with all licenses applied thereto.
+Next
+Blockchain Basics
+Last updated 
+10 months ago
+On this page
+WEMIX3.0 Summary
+WEMIX3.0 Ecosystem
+Indemnification Provision

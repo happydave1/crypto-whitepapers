@@ -1,0 +1,101 @@
+Horizen - Whitepapers & Research
+Developers
+Documentation
+Launch EON App
+Test Token Faucet
+Horizen Block Explorer
+EON Block Explorer
+Community
+Updates
+Get Involved
+Governance
+Staking
+Download a Wallet
+Get $ZEN
+Horizen's native cryptocurrency
+Horizen Swag
+Learn
+EON Ecosystem
+EON Litepaper
+Roadmap
+Horizen Academy
+Research & Whitepapers
+Developers
+Documentation
+Launch EON App
+Test Token Faucet
+Horizen Block Explorer
+EON Block Explorer
+Community
+Updates
+Get Involved
+Governance
+Staking
+Download a Wallet
+Get $ZEN
+Horizen's native cryptocurrency
+Horizen Swag
+Learn
+EON Ecosystem
+EON Litepaper
+Roadmap
+Horizen Academy
+Research & Whitepapers
+Whitepapers
+Deep dive into the Horizen technology
+Horizen Invests in the continued R&D of blockchain technology
+Horizen strives to push technological boundaries and bring new products and services to those who need them most.
+Horizenâs culture is research-driven, and we believe in the development of open source technology. Our R&D and Engineering teams are building an open, permissionless and multipurpose blockchain platform that will help make the world a better place.
+Below is our original whitepaper along with our updated Application Platform paper and our project-specific contributions to the Distributed Ledger Technology industry.
+Darlin
+A Proof-Carrying Data Scheme Based on Marlin Whitepaper
+Release date: August 2021
+This paper describes Darlin, a recursive zk-SNARK that Horizen created to handle the computation of block and epoch proofs in a Latus sidechain. Latus is a sidechain construction within Zendoo, which uses recursive proof composition for the generation of a succinct proof of the correctness of the interoperable blockchainâs current state. In this process, the proofs provided for each transaction that happened in the interoperable blockchain are computed recursively by a group of provers. The transactions are then merged to end up with one unique proof for the epoch.
+DOWNLOAD
+Latus Incentive Scheme
+Enabling Decentralization in Blockchains based on Recursive SNARKs
+Release date: March 2021
+This paper details the incentive scheme of the latus-enabled sidechain first introduced in the Zendoo white paper. This reward scheme is an essential element for a fully decentralized system and allows the creation of a balanced mechanism of reward distribution. The scheme also promotes stable system operation and honest participation. The ideas described in the paper can also be adopted by other SNARK-based blockchains to incentivize proof creation.
+DOWNLOAD
+Zendoo
+A zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains
+Release date: January 2020
+Sidechains are an appealing innovation for enhancing existing blockchain systems. It enables blockchain scalability and extensibility. The value of sidechains is underestimated, and we seek to develop this area. This paper introduces Zendoo, a universal construction for Bitcoin-like blockchain systems. The paper also provides a specific sidechain construction, Latus, that leverages zk-SNARK techniques to establish decentralized and verifiable cross-chain transfers. Both constructions enable the creation and communication with different sidechains without knowing their internal structure.
+DOWNLOAD
+Horizen
+A Blockchain Platform for Fully Customizable Decentralized Applications
+Release date: October 2019
+Horizen is a distributed blockchain platform enabling truly decentralized applications. The system is composed of the main Horizen blockchain and its well established tradable ZEN token, a core protocol that behaves as a simple âtruth engineâ, and decoupled sidechains that are fully generalizable in consensus and any other design characteristics.
+DOWNLOAD
+51% Attack Prevention:
+A Solution to Modify Bitcoinâs Consensus
+Release date: June 2018
+The longest chain rule, or Nakamoto Consensus, worked well in the relatively decentralized environment in which it was introduced in 2009. Mining technology has evolved over the years, thus making it financially feasible to launch 51% attacks on operational public blockchains networks. Horizen proposes a solution to modify the longest chain rule to make it financially infeasible to conduct such attacks while also allowing the network to dynamically adjust parameters.
+DOWNLOAD
+Horizen Sidechain Model
+Decoupled Consensus Between Chains
+Release date: October 2018
+We propose a novel sidechain construction tailored to be compatible with the Horizen blockchain and designed for conducting secure and decentralized cross-chain transfers without requiring the mainchain nodes to track sidechains to verify them. The proposed scheme can also be adopted for other similar blockchain systems. We show that our cross-ledger transfer mechanism is secure under certain plausible assumptions.
+DOWNLOAD
+Get the newest updates
+Subscribe
+Contact
+General inquiries
+Technical support
+Resources
+Whitepapers
+Brand Kit
+Public keys
+About
+Roadmap
+Swag store
+Join our community
+Join our community
+Â© 
+2024
+ Horizen.
+ 
+All Rights Reserved.
+Legal
+|
+Privacy Policy

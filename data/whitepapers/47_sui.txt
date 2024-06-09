@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+Sui Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Sui Documentation
+Guides
+Concepts
+Standards
+References
+Search
+Get started
+Sui Documentation
+Discover the power of Sui through examples, guides, and concepts
+About Sui
+Tokenomics
+Cryptography
+Standards
+Developers
+Getting started
+Sui Developer Basics
+Move
+Validators and Node operators
+Validator configuration
+Run a Sui Full node
+References
+Sui dApp Kit
+Sui API
+Sui framework (GitHub)
+Rust SDK (GitHub)
+Resources
+Sui ecosystem directory
+Sui blog
+Sui dev cheat sheet
+Build your dApp on Sui
+Why Sui?
+Sui is the first internet-scale programmable blockchain platform
+Unmatched scalability, instant settlement
+A safe smart contract language accessible to mainstream developers
+Ability to define rich and composable on-chain assets
+Better user experience for web3 apps
+Scalability
+Sui scales horizontally to meet the demands of applications. Network capacity grows in proportion to the increase in Sui validators' processing power by adding workers, resulting in low gas fees even during high network traffic. This scalability characteristic is in sharp contrast to other blockchains with rigid bottlenecks.
+Move
+Move design prevents issues such as reentrancy vulnerabilities, poison tokens, and spoofed token approvals that attackers have leveraged to steal millions on other platforms. The emphasis on safety and expressivity provides a more straightforward transition from web 2.0 to web3 for developers, without the need to understand the intricacies of the underlying infrastructure.
+On-chain assets
+Rich on-chain assets enable new applications and economies based on utility without relying solely on artificial scarcity. Developers can implement dynamic NFTs that you can upgrade, bundle, and group in an application-specific manner, such as changes in avatars and customizable items based on gameplay. This capability delivers stronger in-game economies as NFT behavior gets fully reflected on-chain, making NFTs more valuable and delivering more engaging feedback loops.
+Built for Web3
+Sui aims to be the most accessible smart contract platform, empowering developers to create great user experiences in web3. To usher in the next billion users, Sui empowers developers with various tools to take advantage of the power of the Sui blockchain. The Sui Development Kit (SDK) will enable developers to build without boundaries.
+Â© 2024 Sui Foundation | Documentation distributed under 
+CC BY 4.0
+
+
+

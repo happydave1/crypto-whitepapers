@@ -1,0 +1,123 @@
+EXPLORE | Aleph Zero
+Search
+Ctrl
+â+âK
+EXPLORE
+About Aleph Zero
+AlephBFT Consensus
+The Economy of Aleph Zero
+Where to Buy AZERO
+Decentralized Governance on Aleph Zero
+Ecosystem
+Aleph Zero Foundation Treasury Management
+Community
+Glossary
+Audit & Research Papers
+USE
+Wallets
+Explorer
+Ledger
+Telegram Notifications
+Aleph Zero Signer
+General introduction
+What does Signer do?
+What are Sub-accounts and Sub-account paths?
+Why is it critical to store your Secret Phrase in a safe place?
+How to forget and restore accounts?
+What are Networks?
+What are Trusted apps?
+Dashboard
+Dashboard basics
+Overview
+Stake
+Staking Basics
+Staking Menu Overview
+How to Start Staking with the Aleph Zero Dashboard
+How to Start Staking With the Developer Wallet
+How to start staking using Ledger hardware wallet
+How to Change Nominations
+How to Stop Staking
+Staking Rewards
+Validators
+Commission and Foundation Nodes
+Proxy Accounts
+Validate
+Validating Overview
+Hardware requirements
+Running an Aleph Node on Testnet
+Downloading and running the node
+Verifying your setup
+Customizing your setup
+Building and running from source [advanced]
+Building from source
+Set environment variables
+Download DB snapshot
+Running the binary
+Appendix: Ports, addresses, validators, and archivists
+Running an Aleph Node on Mainnet
+Running the node
+Building and running from source [advanced]
+Setting your identity
+Making the node validate
+Securing your validator
+Troubleshooting
+Troubleshooting on the Mainnet
+Elections and Rewards Math
+Testnet Validator Airdrop
+BUILD
+Aleph Zero smart contracts basics
+Setting up a Testnet account
+Installing required tools
+Creating your first contract
+Deploying your contract to Aleph Zero Testnet
+Extending your contract
+Cross contract calls
+Using references
+Using dynamic calls
+Migrating from Solidity
+Writing e2e tests with ink-wrapper
+Aleph Zero Signer integration
+Front-end app: smart contract interaction
+Security Course by Kudelski Security
+ink! Developers Security Guideline
+Lesson 1 - Getting started with ink!
+Lesson 2 - Threat Assessment
+Lesson 3 - Integer Overflow
+Lesson 4 - Signed-integer
+Lesson 5 - Role-Based Access Control
+Lesson 6 - Address Validation
+Lesson 7 - Smart Contract Control
+PROTOCOL DETAILS
+Shielder
+Overview
+Preliminaries - ZK-relations
+Notes and Accounts
+ZK-ID and Registrars
+Anonymity Revokers
+Relayers
+Deterministic Secret Management
+Shielded Transfers
+SNARK-friendly Symmetric Encryption
+Cryptography
+User Wallet
+Specification (Legacy, not up-to date)
+Tutorial  (Legacy, not up-to date)
+FAQ
+Powered by GitBook
+EXPLORE
+Next
+About Aleph Zero
+Last updated 
+1 month ago
+On this page
+Was this helpful?
+About Aleph Zero
+AlephBFT Consensus
+The Economy of Aleph Zero
+Where to Buy AZERO
+Decentralized Governance on Aleph Zero
+Ecosystem
+Aleph Zero Foundation Treasury Management
+Community
+Glossary
+Audit & Research Papers

@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+Interact with Kusama Â· Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+The Polkadot Blockchain Academy is coming to Asia! 
+Find out more ð
+Guide
+Docs
+Search
+Contribute
+English
+English
+Help us translate
+Explore
+Get Started
+Home
+Code of Conduct
+Claims
+Parameters
+Timeline
+Community
+Kappa Sigma Mu
+Wallets
+Apps
+Dashboards
+Community & Contributors
+Programs
+Metadata Explorer
+Learn
+Maintain
+Build
+What to Break
+Explore
+Get Started
+Home
+On this page
+Interact with Kusama
+Polkadot's Canary Network
+â
+Kusama is a 
+canary network
+ for Polkadot; an earlier release of the code that is available first
+and holds real economic value. For developers, Kusama is a proving ground for runtime upgrades,
+on-chain governance, and parachains.
+No Promises
+Kusama is owned by those who hold the Kusama tokens (KSM). There's no central kill switch and all
+changes are made through the protocol's on-chain governance.
+The network is a permissionless and anyone can come along and start using it. Those who participated
+in the Polkadot sale can claim a proportional amount of KSM through the
+
+Kusama Claims process
+.
+Kusama is experimental. 
+Expect Chaos
+.
+As a KSM holder
+You can interact with all the features of the Kusama network such as staking (i.e. validating or
+nominating), governance, parachain auctions, basic transfers and everything else.
+Accounts
+Transactions
+Staking
+Polkadot OpenGov
+Proxy Accounts
+Account Identity
+Parachains
+Bridges
+Become an Ambassador
+Become a Nominator
+Treasury
+Join Kappa Sigma Mu
+For brand-new learners of Kusama's cousin network, Polkadot, please head over to the
+
+Polkadot Wiki
+.
+What can I do with my KSM?
+â
+KSM is the native token of the Kusama Network. KSM can be used for transaction fees, staking,
+governance, acquisition of a parachain slot and for enabling several key functionalities on Kusama.
+:
+
+the minimum balance required to have an active account on Kusama Network. If your account balance
+drops below the minimum, your account will be reaped. Learn more about
+
+Accounts
+ and the
+
+Existential Deposit
+ requirement.
+:
+
+the minimum contribution required to join a
+
+nomination pool
+ and earn staking rewards for contributing
+to the security of the network. Learn more about
+
+nomination pools
+.
+:
+
+the minimum contribution required to participate in 
+crowdloans
+
+for 
+parachain slot auctions
+.
+:
+
+register an 
+on-chain identity
+:
+
+create a 
+proxy account
+.
+:
+
+you can create your own 
+nomination pool
+.
+:
+
+the minimum amount of KSM required to become an active nominator and earn rewards.
+KSM has utility in 
+Kusama's OpenGov
+. Bonding KSM is a
+requirement to create proposals, to endorse them and to vote on them when they become referendums.
+Bonding
+
+
+or 5% of requested funding is a requirement to make a
+
+treasury proposal
+.
+Kusama Gifts
+â
+Kusama Gifts provide an easy way to:
+Onboard friends or family who are curious about blockchain but havenât made the leap yet.
+Share your love of Kusama and send any amount of KSM.
+Say âthank youâ or send someone tokens when you donât know their address.
+Get friends and family set up to participate in crowdloans.
+Learn more about how you can create and send Kusama Gifts
+
+here
+.
+While Kusama does not support smart contracts natively, building apps on it is still possible (e.g.
+
+RMRK.app
+). If you're interested in diving deeper into 
+proper
+ development,
+however, check out the 
+builders guide
+.
+Additional Resources:
+mooc
+medium
+claims
+endpoints
+tokens
+validator
+nominator
+polkadot wiki
+Last updated
+ on 
+May 7, 2024
+ by 
+Filippo
+Previous
+Explore
+Next
+Code of Conduct
+Polkadot's Canary Network
+What can I do with my KSM?
+Kusama Gifts
+Kusama Network
+FAQ
+Twitter
+Community Hub
+Kusama Discord
+Kusama Watercooler
+Grants and Bounties
+Join a cyber secret society
+The Kappa Sigma Mu fraternity asks you to get a Kusama tattoo to join.
+See Kappa Sigma Mu
+Â© 2024 Web3 Foundation
+Â·
+Legal Disclosures
+Â·
+Privacy Policy
+
+
+
+
+
+
+

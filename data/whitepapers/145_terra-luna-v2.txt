@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+Terra Docs | Terra Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+            var img = document.createElement('img');
+            img.src = "https://terradocs.matomo.cloud//piwik.php?idsite=1&rec=1&url=https://docs.terra.money" + location.pathname;
+            img.style = "border:0";
+            img.alt = "tracker";
+
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(img,s);
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+terra.money
+Search
+Terra Docs
+About
+Develop
+Full node
+Terra Core upgrade
+Station Docs
+Terra Docs
+Terra Docs
+
+
+Welcome to the official documentation for Terra, a decentralized, 
+open-source blockchain
+ which hosts a vibrant ecosystem of decentralized applications (dApps) and offers cutting-edge 
+developer tools
+. If you are looking for the documentation for Terra Classic, visit the 
+Terra Classic docs site
+.
+
+
+Start building
+Click here to learn how to build on Terra.
+Get started with Station
+Download Station and create a wallet.
+Tool guide
+Not sure which tools to use? Start here.
+Mint an NFT
+Follow the minting tutorial to mint your own NFT.
+Learn about Terra
+Learn about Luna, rewards, staking, and governance.
+Terra migration guides
+Move from Terra Classic to the new Terra chain.
+Edit this page
+NEXT
+Learn
+Station
+Careers
+Forum
+Logos
+Finder
+Ecosystem
+Copyright Â© 2024 Terraform Labs
+
+
+
+
+
+
+

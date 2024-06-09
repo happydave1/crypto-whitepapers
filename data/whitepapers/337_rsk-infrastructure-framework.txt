@@ -1,0 +1,651 @@
+Rootstock Devportal - RIF Developer Resources: Build on Rootstock using RIF Tools and Services | Dev.Rootstock.io
+Platforms
+Rootstock Blockchain
+RIF - Rootstock (RSK) Infrastructure Framework
+Build
+The Stack
+Dev Portal
+Explorer
+Stats
+Gas Station
+Learn
+Courses
+Use
+Build On Rootstock
+Wallets
+RIF Name Service
+Buy RBTC/RIF Tokens
+Community
+Discord
+GitHub
+Forum
+Bounty Program
+Medium
+Blog
+Search...
+CTRL
+K
+Rootstock Documentation
+Expand All
++
+The Stack
+Rootstock Blockchain
++
+About Rootstock Blockchain
+Rootstock Node
++
+About RSKj Node
+Architecture
++
+Architecture
+JSON-RPC API
++
+Intro
+Transport Protocols
+JSON-RPC Methods
+JSON RPC - Personal Module
+Configuration Limits
+Management API Methods
+Use
+Install Node
++
+Overview
+Rootstock Node Updates
+Minimum Hardware Requirements to Run Roostock Node | Rootstock (RSK)
+Operating Systems
++
+Setting up a Rootstock Node
+Setup node on Ubuntu
+Setup node using Java
+Setup node on Docker
+Configure
++
+Configure
+CLI
+Reference
+Verbosity
+Switch network
+Mining
++
+For mining
+Using autominer
+Contribute
++
+Contribute
+CLI
+Linux
+Mac OSX
+Windows
+Reproducible Build
+Security Chain
+Network Upgrades
+Troubleshooting
+Peer Scoring System
+RBTC Cryptocurrency
++
+RBTC Token
+Conversions
++
+BTC to RBTC Conversion
+User Guides
++
+Mainnet Guide
+Testnet Guide
+With Ledger
+With SLI
+With Trezor T
+Gas
+Architecture
++
+Architecture
+Account Based
+Powpeg
+Merged Mining
++
+How RSK Mining Architecture Works | Rootstock (RSK)
+Implementation Guide
+Reference
+REMASC
+Security model
+Transaction Privacy & scalability
+Fast payments
+Flyover Protocol
+RIF
+-
+About RIF
+RIF Token
+RIF Relay
++
+About
+Overview
+Architecture
+Versions
+Gas Costs
+Contracts
+rLogin
++
+Get Started
+Features
+Sample Apps
+Integrated backend authentication
+Migrating
+Design & Architecture
+Integrations
+Develop
+Libraries
++
+Intro
+Client Side (rLogin)
+Server Side (DID Auth)
+Communications (VC JSON Schemas)
+FAQ
+RNS
++
+About RNS
+User Guide
++
+About
+Introduction
+Setup
+Getting Started
+Operations
+Advanced operations
+RNS Wallets Value Proposition
+Specs
++
+About
+Registry Specs
+Resolvers Specs
+Operations
++
+About Operations
+Register an .rsk domain
+Resolve a domain's address
+Change resolver
+Set address resolution
+Set Bitcoin address resolution
+Renew a domain
+Transfer a domain
+Register a subdomain
+Expose the name of your address
+Find the name of an address
+Migrate a domain from auction registration
+Architecture
++
+About Architecture
+Registry
+Resolver
+.rsk Registrar
++
+About .rsk Registrar
+Rootstock (RSK) Owner
+Rootstock (RSK) Registrars
++
+About RNS registrars
+FIFS Registrar
+FIFS Addr Registrar
+Rootstock (RSK) Renewers
++
+About Renewers
+Simple Renewer
+Name Price
+Reverse Suite
++
+About Reverse Suite
+Reverse Registrar
+Name Resolver
+Tools
++
+About Tools
+Web3
+MyCrypto
+RNS Manager
+Subdomain Tool
+Libs
++
+About RNS Libraries
+Javascript
++
+About JS Library
+Getting Started
+RNS.js Instance
+Operations
+Advanced Usage
+Error Knowledge Base
+Contribute
+Android
+iOS
+Python
+rns-artifacts
+Integrate
++
+Integration guidelines
+Quick Start
+Integrate your dApp
+Integrate your wallet
+Mainnet
+Testnet
+RIF Rollup
++
+Introduction
+Overview
+dApps on RIF Rollup
+FAQs
+Glossary
+Security
+Developer Reference
++
+Getting Started
+SDKs and APIs
+Troubleshooting
+Design and Architecture
+RIF Wallet
++
+Intro
+Overview
+FAQs
+Developer Reference
++
+Setup
+Getting Started
+Running with Local Services
+Interact with the wallet
+Using the Libraries
+Troubleshooting
+Architecture
+Security
+User Guide
++
+Intro
+Create and Import a wallet
+Funding a wallet
+Deploying a wallet
+Registering a Username
+Sending and Receiving Tokens
+Viewing Transaction History
+Wallet Backup
+Switch Networks
+Security and Privacy
+Knowledge Base
++
+Overview
+FAQ
+Getting Started with RSKj
+RSKj for Developers
+Transaction Rate Limiter
+Build with Tenderly
+Add a Protocol To DefiLlama
+The Graph Integration
+Verify address ownership
+Fungible Token Standards
+Send RIF Tokens through Metamask
+Bring your Ethereum dApp to Rootstock
+RPC via GetBlock
+Verify Smart Contracts
+Geth attach to Rootstock local node
+Deploy a smart contract using Remix and Geth
+Frontend Web3 Injected
+Frontend with web3 in a local node
+Compile Smart Contracts to Go
+Interface Registry
+Add Rootstock to Metamask Programmatically
+Guides
++
+Overview - Guides on Rootstock
+Quick Start
++
+Overview - Quick Start
+Rootstock Blockchain
++
+Overview - Rootstock Blockchain
+What is Rootstock
+Merged Mining
+PowPeg
+Compatibility
+Using Rootstock in the Browser
++
+Overview - Using Rootstock in the Browser
+Install Metamask
+Cryptography
+Configure Custom Network and Token
+Rootstock Transactions
++
+Overview - Exploring Rootstock Transactions
+Block Explorer
+Transfer tRBTC
+Transfer tRIF
+RBTC Balance Decrease
+View Transactions
+View Network Stats
+Getting Started with Hardhat
++
+Overview - Introduction to Hardhat
+Create a Hardhat Project
+Configure Hardhat for Rootstock
+Write a Smart Contract
+Test Smart Contracts
+Deploy Smart Contract
+Interact with the Front-end
+Debugging and Troubleshooting
+RIF Relay
++
+Overview
+Installation Requirements
+Starter Kit
+Deployment
+Develop
+Integrations
+Smart Wallets
+Get Crypto on Rootstock
++
+Table of Contents
+Overview
+Cryptocurrency vs Token
+Get RBTC using Powpeg
+Get RBTC using Wallets
+Get RBTC using Exchanges
+Deploy NFTs on Rootstock
++
+Table of Contents
+Overview
+Configure NFT Metadata
+Create Smart Contract
+Deploy NFT on Rootstock
+Starter Kits
+2 Way Peg App
++
+Introduction
+Overview
+Prerequisites
+Peg-in
++
+Overview
+Peg-in using Ledger Hardware Wallet
+Peg-in using Liquality Software Wallet
+Viewing Peg-in Transaction Status
+Peg-in using Trezor Hardware Wallet
+Peg-out
++
+Overview
+Viewing a derived bitcoin address
+Peg-out using Liquality and Ledger
+Peg-out using Ledger
+Peg-out using Liquality
+Peg-out using Metamask
+Troubleshooting and Common Errors
+Viewing Peg-out Transaction Status
+Peg-out using rLogin (Trezor and Ledger)
+Advanced Operations
++
+Overview
+Design and Architecture
+Supported Addresses
+Supported Browsers
+Supported Wallets
+FAQs
+Glossary
+Courses
+Solutions
++
+About
+Defiant
+Money on Chain
+Oracle Money on Chain
+GetBlock
+Math Wallet
+Beexo
+D'Cent
+Liquality
+Edge
+Tenderly
+WakeUp Labs
+Sovryn
+Covalent
+Givetrack
+BabelFish
+API3
+Fireblocks
+3xpl
+Envio
+NowNodes
+Develop
++
+How to Integrate
+Wallet
++
+About Wallet
+Create - RIF Wallet
+Integrate
+Use
++
+Table of Contents
+Ledger
+MyCrypto
+MetaMask
+JSON-RPC
+Libs
++
+About Libs
+JSON-RPC
+Rootstock Pre-compiled ABIs
+Tools
++
+Overview
+Explorer
++
+Explorer
+Blockscout
+Hardhat
+Faucet
+Foundry
+Rootstock RPC API
+Contribute to Rootstock
++
+Overview
+Bug Bounty Program
+Bitcoin Writing Contest
+RIF Developer Resources: Build on Rootstock using RIF Tools and Services | Dev.Rootstock.io
+5
+' to read
+Edit
+Share
+Twitter
+LinkedIn
+Facebook
+Email
+Copy link
+RIF Developer Resources: Build on Rootstock using RIF Tools and Services | Dev.Rootstock.io
+RIF Services
+
+
+Rootstock (RSK) Infrastructure Framework Open Standard (RIF OS) is a suite of open and decentralized infrastructure protocols that enable faster, easier and scalable development of distributed applications (dApps) within a unified environment.
+
+
+RIF OS is an all in one, easy to use, blockchain infrastructure service framework that provides developers and organizations access to a variety of services across multiple crypto-economies.
+
+
+RIF OS Protocols enable broad interoperability and faster time-to-deployment, and aim to bridge the gap between blockchain technologies and their mass-market adoption. RIF OS Protocols complete the Rootstock (RSK) Smart Contract Network vision of bringing the Internet of Value to life.
+
+
+
+
+
+
+
+
+RIF Wallet
+
+
+RIF Wallet provides a full stack library of functionalities that allow you to easily integrate crypto lending, saving and paying services into your existing product or launch your own smart wallet.
+
+
+
+
+
+
+Coming Soon
+
+
+
+
+RIF Name Service
+
+
+RNS is a decentralized service that allows users to have a readable domain or alias. It can be used to identify other personal resources, such as payment or communication addresses.
+
+
+
+
+
+
+Create a domain or alias
+
+
+
+
+RIF Rollup
+
+
+RIF Rollup is a trustless protocol for fast and scalable low-cost payments on Rootstock powered by zkRollup Technology. Its current functionality and scope includes low gas transfers of RBTC and ERC20 tokens on the Rootstock network.
+
+
+
+
+
+
+Learn more about RIF Rollup
+
+
+
+
+rLogin
+
+
+Learn how to integrate rLogin into your app and allow users to choose their favourite wallets to log in. With a single tool, you will get connected to their wallet using an API compatible with Metamask and other wallets.
+
+
+
+
+
+
+Get started
+
+
+
+
+RIF Flyover
+
+
+The Flyover protocol performs fast peg-ins. It provides a new feature to transfer BTC from Bitcoin directly to a smart contract or EOA in RSK faster than the regular 
+peg in
+ protocol.
+
+
+
+
+
+
+Learn more about RIF Flyover
+
+
+
+
+RIF Relay
+
+
+RIF Relay is a secure sponsored transaction system that enables users to pay the transaction fees using ERC-20 tokens. This enables end users to transact entirely using one asset instead of having to manage a separate asset for gas.
+
+
+
+
+
+
+Integrate RIF Relay
+
+
+
+
+RIF White Paper
+
+
+To understand the general vision behind RIF OS, read the 
+RIF White Paper
+.
+
+
+RIF FAQ
+
+
+Q: Whatâs the relationship between RIF services and the Rootstock (RSK) platform?
+
+
+A: RIF services are implementations of the RIF OS Protocols that anybody following the protocols can build. RIF Labs in particular chose to build its implementation of RIF OS Protocols on top of the Rootstock Smart Contract Network because of its unique position as the first open-source smart contract platform secured by the Bitcoin Network. All RIF OS Protocols implementations share a common set of interfaces and the acceptance of RIF token as payment means.
+
+
+Q: Whatâs the relationship between RIF Labs and the Rootstock (RSK) platform?
+
+
+A: RIF Labs acquired RSK Labs, the company behind the construction of the open source Rootstock Smart Contract Network. Also given Rootstock Smart's unique position as the first open source Smart Contract platform secured by the Bitcoin Network it also chose to implement its RIF OS Protocols on top of it. For clear strategic reasons RIF Labs will take the lead on technology development and community growth for the the ecosystem as a whole.
+
+
+Both the RIF OS Protocols and Rootstock Smart Contract Network share the same principles and mission, and now they will be supported by the combined teams of RIF Labs and RSK Labs. Together, Rootstock and RIF will continue to focus on improving the lives of millions excluded around the world by building this next generation blockchain-based infrastructure that will bring to life the Internet of Value.
+
+
+Q: Why did RIF Labs build RIF OS Protocols on top of the Rootstock (RSK) Smart Contract Network?
+
+
+A: We chose to continue building on top of Rootstock Smart because of its unique position as the first open-source smart contract platform secured by the Bitcoin network. The goal of the Rootstock Smart Contract Network and RIF OS Protocols is to add value and extend the functionality of the Bitcoin ecosystem by integrating smart-contracts, near-instant payments, and greater stability. This will also allow projects to access a variety of decentralized infrastructure services, from payments to storage, and speed up time-to-market.
+
+
+Rootstock (RSK) is the first open-source smart contract platform secured by the Bitcoin Network that is:
+
+
+
+
+Bitcoin Friendliness: Bitcoin was the first and, today, the most secure blockchain available.
+
+
+Security: Rootstock blockchain is secured by merge-mining, which means that Rootstock can achieve the same security as Bitcoin in terms of double-spend prevention and settlement finality.
+
+
+Scalability: Rootstock can scale up to 100 transactions per second without sacrificing decentralization.
+
+
+Flexibility: Instant payments allow new use cases, such as retail-ready store payments and micro-credits.
+
+
+RIF Labs implemented RIF OS Protocols on top of the solid ground that Rootstock Smart Contract Network has built.
+
+
+
+
+Q: Whatâs the difference between RIF token and RBTC?
+
+
+A: Rootstock Infrastructure Framework Open Standard (RIF OS) is a suite of open and decentralized infrastructure protocols that enable faster, easier and scalable development of decentralized applications (dApps) within a unified environment. RIF OS includes support for decentralized, third-party, off-chain payment networks; a set of APIs for seamless and secure communications between decentralized applications; and easy-to-use interfaces for developers. Access to, and payment for, RIF OS services are based on the RIF Token, which allows developers to access the suite of services built on top of RIF protocols such as Directory, Payments, Data Feeds, Storage and Communications including third party-developed infrastructure services, and any other apps that might be deployed on RIFâs framework that agrees to accept RIF Tokens as a means of accessing / consuming the service or app.
+
+
+RBTC is the native token of the Rootstock Live Mainnet and is pegged 1:1 to BTC. It's used as gas to pay for Smart Contract execution in the same way as ETH is used as gas for Ethereum. Technical users can obtain RBTC in a decentralized manner, by converting to and from BTC by using the bridge between the Bitcoin and Rootstock protocols. Less technical users can obtain RBTC from supporting exchanges like Huobi and Bitfinex, among others. This is necessary in order to use Rootstock and all of the applications that run on Rootstock, including RIFOS once it launches.
+<< 
+Flyover Protocol
+RIF Token
+ >>
+Receive updates
+Get the latest updates from the Rootstock ecosystem
+Loading...
+Build
+Together
+Whitepaper
+Original Whitepaper
+Updated Whitepaper
+RIF Whitepaper
+Resources
+Merged Mining
+Rootstock Explorer
+About RootstockLabs
+Blog
+Terms & Conditions
+Privacy Policy
+Â© 
+2024
+. RootstockLabs. All rights reserved

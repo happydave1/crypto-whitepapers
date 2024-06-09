@@ -1,0 +1,204 @@
+Hello Beam! | Beam documentation
+Skip to content
+Chain
+Chain
+API
+API
+GitHub
+GitHub
+ (opens in a new tab)
+Beam
+
+
+Your gaming blockchain
+
+
+Welcome to the Beam Technical Documentation hub! Whether you're a blockchain enthusiast, a developer, or someone new to the world of blockchain, you'll find a treasure trove of resources here to get you started and keep you going.
+
+
+Beam is a sovereign network focused on gaming. Powered by the established Avalanche network, Beam operates independently to cater towards gamers and game developers.
+
+
+ð ï¸
+Feel like something is missing, and needs to be prioritized? Let's have a chat
+through 
+build@onbeam.com
+
+
+Integrate Beam: APIs & SDKs for Game Developers
+
+
+Unlock the full potential of Beam in your games with our comprehensive APIs and SDKs tailored for developers. From managing in-game assets to user profiles, get all the tools you need for seamless integration.
+
+
+
+
+
+
+Getting Started
+: Learn how to kickstart your Beam integration with essential steps like API key acquisition.
+
+
+
+
+
+
+SDK
+: Learn best practices for using Beam's official SDKs, including API key security.
+
+
+
+
+
+
+Game
+: A guide to managing and updating your game's assets and details within Beam.
+
+
+
+
+
+
+Profiles
+: Understand the role of Profiles as your players' on-chain inventories and more.
+
+
+
+
+
+
+Transactions
+: Understand how to run sponsored, self-paid and custom charge transactions.
+
+
+
+
+
+
+Policies
+: Understanding and creating policies.
+
+
+
+
+
+
+Assets
+: Simplify in-game asset management.
+
+
+
+
+
+
+Trading
+: Trade assets and tokens between two profiles securely.
+
+
+
+
+
+
+Marketplace
+: List, buy and make offers on other peoples assets.
+
+
+
+
+
+
+Exchange
+: Convert tokens based on configured liquidity pools.
+
+
+
+
+
+
+Companion
+: Implement the Beam Companion app in your game.
+
+
+
+
+
+
+Reporting
+: Get some insight on how your game is doing in terms of on-chain transactions
+
+
+
+
+
+
+Explore the Chain: Your Comprehensive Guide to Beam
+
+
+Get the foundational knowledge you need to understand and interact with the Beam blockchain.
+
+
+
+
+
+
+Beam Introduction
+: Your starting point for understanding the Beam network's basics.
+
+
+
+
+
+
+Connecting to Beam
+: Learn to connect to Beam via MetaMask and find RPC settings for both mainnet and testnet.
+
+
+
+
+
+
+Validator
+: A guide for those considering the role of a validator, detailing qualifications and duties.
+
+
+
+
+
+
+Build on Beam
+: Must-read for developers exploring Beam's unique features like high scalability and EVM compatibility.
+
+
+
+
+
+
+Beam Ecosystem
+: Explore Beam's toolset, including its decentralized exchange and other essential resources.
+
+
+
+
+
+
+Need Further Assistance? We're Here to Help!
+
+
+If you have questions that haven't been answered in our documentation, don't hesitate to reach out. You can use the search function at the top of the page for specific queries. Alternatively, you can email us at 
+build@onbeam.com
+ or connect with us on Twitter for a more immediate response. We're committed to providing you with all the information you need to make the most out of Beam.
+
+
+Beam
+ (opens in a new tab)
+ Â·
+
+GitHub Repository
+ (opens in a new tab)
+ Â· 
+Terms of
+Service
+ Â· 
+Support
+ (opens in a new tab)
+MIT 2024 Â© Nextra.

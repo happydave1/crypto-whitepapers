@@ -1,0 +1,417 @@
+White Papers - Orbs
+SUBSCRIBE FOR UPDATES
+Amazing! Thank you for subscribing
+Sometimes we have interesting announcements to tell you... don't miss out!
+First Name
+Please fill the input
+Email
+Please fill the input
+Please insert valid Email
+ORBS
++ developers
++ network status
++ blog
++ github
+ORBS
++ subscribe
+Overview
+WHAT IS ORBS: LAYER 3
+Execution Services
+Proof of Stake
+White Papers
+FAQ
+POWERED BY ORBS
+Liquidity Hub
+Perpetual Hub
+dTWAP Protocol
+dLIMIT Protocol
+Notification Protocol
+TON Access
+TON Vote
+Community
+Governance
+Blog
+Ecosystem
+Media
+Hexa Foundation
+Brand Assets
+Contact
+Resources
+TETRA
+Orbs Staking Wallet
+ANALYTICS
+Orbs Universe Analytics
+NETWORK STATUS
+Orbs Network Status Page
+STAKING CALCULATOR
+By Staking Rewards
+DEFI.ORG
+DeFi Accelerator Program
+DEVELOPERS
+Documentation
+Alphaday
+Community Dashboard
+OIP-6 Migrator
+Migration Contract
+ 
+White Papers
+
+
+Proof of Stake
+Orbs PoS V3: Multi-Chain Staking
+Published March 2022
+Everything you need to know about Orbs PoS V3: Multi-chain staking. For the first time, in version 3, the Orbs protocol has expanded staking to an additional blockchain beyond Ethereum mainnet - Polygon mainnet. Understand how multi-chain staking influences the committee, validator nodes and delegations using Tetra - Orbs staking wallet.
++ read the paper
+Orbs PoS V2: The Age of Guardians
+Published July 2020
+Version 2 of Orbs Proof-of-Stake will emphasize usage and performance while empowering the Orbs Universe Guardians. Orbs V2 will enable the Orbs Universe Guardians to take an active role in building and maintaining a secure, scalable network by running validator nodes, which will be the first choice for blockchain adoption, and to better manage and serve the network and its participants.
++ read the paper
+Orbs PoS V1: Year Zero Genesis
+Published March 2019
+The Orbs Proof-of-Stake (PoS) ecosystem is the back bone of the Orbs network and the Universe that is being created. This document is provided for discussion purposes and presents the PoS architecture and model in its Year Zero genesis, implemented in V1.
++ read the paper
+White Papers
+Orbs Technology Overview
+Published May 2019
+An overview of all major technology and business aspects that make up the Orbs platform. This paper, published in 2019, outlines the core differentiators of the Orbs network architecture and approach to blockchain design. The paper covers the main technological innovations and how they come together to offer Orbs' unique value proposition.
++ read the paper
+Orbs Position Paper
+Published April 2018
+The original Orbs Position Paper published close to Orbs inception in 2018. The paper outlines the original vision behind Orbs, why was the project created, what are its main goals and what is the general path to achieve them. The Position Paper has always been the guide by which Orbs development is measured.
++ read the paper
+Working Papers
+Decentralized Gasless DAO Governance for TON
+Published March 2023
+TON.Vote
+ is a completely decentralized, on-chain DAO governance platform built exclusively for the TON ecosystem, developed by the Orbs team. The core user base is anticipated to be TON DAOs, projects, and other TON-related communities requiring governance activities.
++ read the paper
+dTWAP for Decentralized Exchanges (DEXs)
+Published January 2023
+This lightpaper outlines the concept and architecture behind Orbsâ new decentralized TWAP protocol and a prototype UI that will allow DEXs to harness this technology to benefit the platform and its users.
++ read the paper
+Use of Ethereum as a Base Layer for PoS and PoA Platforms
+Published February 2019
+We designed Orbs for applications that make use of multiple blockchain platforms (i.e. a hybrid system) because we believe such design makes more sense for complex, real-world use cases. In this paper, we would like to highlight some of the advantages and challenges hybrid designs can bring to infrastructure projects.
++ read the paper
+Blockchain Virtualization: A Necessity for Real-World DApps
+Published August 2018
+In this paper we explore how virtualization solved significant barriers in web application backends, analyze the barriers experienced with current-generation blockchain technology, and explain how virtualization technology offers the potential to overcome these barriers.
++ read the paper
+Eliminating the Security-vs-Scalability Dilemma: Randomized-Committee Consensus Protocols
+Published August 2018
+Current-generation blockchain protocols can determine their level of decentralization on an security-performance spectrum. A new family of consensus protocols enable the maximization of both security and throughput by employing novel cryptographic techniques for trustlessly generating random seeds in a group, without allowing any party to manipulate or predict the randomization results.
++ read the paper
+Blockchain Architecture Considerations to Compete with PaaS/Cloud Services
+Published August 2018
+In this document we present our findings, along with some architecture designs that may be used to create a blockchain platform that is competitive with centralized platforms. These aspects include cost structures, system performance when scaling up, avoidance of platform lock-ins to reduce technical risks, and completeness of the smart contracts environment.
++ read the paper
+Research Papers
+Helix Consensus White Paper
+Published April 2018
+An introduction to Helix, a decentralized, scalable and fair consensus algorithm. This novel consensus algorithm which is based on PBFT was developed by the Orbs team together with the Technion - Israel Institute of Technology. A concise version of this paper is in proceedings of the 26th IEEE International Conference on Network Protocols (ICNP â18). For citations, please refer to the official IEEE page at 
+https://ieeexplore.ieee.org/document/8526804
++ read the paper
+Enforcing Fairness in Blockchain Transaction Ordering
+Published May 2019
+In this peer reviewed research paper, we propose a toolbox of techniques to enforce fair block selection for blockchain consensus protocols, to improve quality of service. A version of this paper is in proceedings of the 2019 IEEE International Conference on Blockchain and Cryptocurrency, 
+http://icbc2019.ieee-icbc.org/
+.
++ read the paper
+Fully Distributed Group Signatures
+Published April 2019
+A group signature scheme is a powerful primitive by which one can sign a message as a member of a well-defined group without leaking oneâs individual identity, but the group manager can revoke this anonymity and reveal the identity of the signer. We present two highly efficient fully distributed group signature schemes in this paper.
++ read the paper
+Rational Threshold Cryptosystems
+Published January 2019
+We propose a framework for threshold cryptosystems under a permissionless-economic model in which the participants are rational profit-maximizing entities. The key threat to rational threshold cryptosystems is collusionâby cooperating `illegallyâ, a subset of participants can reveal the cryptosystemâs secret, which, in turn is translated to unfair profit. Our countermeasure to collusion is framing.
++ read the paper
+Accelerating Decentralized Execution of Blockchain Transactions Towards Centralized Performance
+Published August 2018
+In this peer reviewed research paper, we focus on scaling blockchain protocol. Our approach introduces a decentralized execution model in which network nodes interact with a stronger centralized accelerator whose work can be verified in a fully decentralized way without compromising most of the performance gains.
++ read the paper
+Bloom Filter with a False Positive Free Zone
+Published April 2018
+A bloom filter is a probabilistic data structure for set representation with relatively low data storage use. In this peer reviewed paper, the Orbs research team proposed model improvements. This paper appeared at IEEE Infocom, April 2018 - 
+https://ieeexplore.ieee.org/document/8486415
+.
++ read the paper
+Token Specifications
+Orbs Token Distribution
+Published April 2019
+This document explains the use of the ORBS token, the total supply and distribution of various pools. These token metrics were set on the project inception and remained static throughout the years.
++ read the paper
+Orbs Operation Fees
+Published March 2019
+This list of operation fees provides the specifics of how the overall vision of stable and predictable operation fees will be implemented in the Orbs network. The goal of predictability is accomplished because the purchasing power of ORBS tokens is fixed as equal to a defined amount of computing power.
++ read the paper
+Grants
+Orbs Grant Program: Fourth Call For Grants
+Published January 2024
+The Orbs project is launching a new call for grants under the OEGP. In this round, we are looking for research and proposals regarding the uses and utility of the Orbs tokens and refining the token model.
++ read the paper
+Orbs Grant Program: Third Call For Grants
+Published October 2022
+The Orbs project is building on the TON Network (ton.org) and is working to provide L3 infrastructure services to TON dapps that can significantly increase their capabilities without relying on centralized infrastructure. In this third call for grants, Orbs is offering developer grants for building and integration work to Orbs core TON protocols. The grants are focused mostly around the TON ecosystem for FunC and TWA developers.
++ read the paper
+Orbs Grant Program: Second Call for Grants
+Published August 2021
+The Orbs project is launching a new call for grants under the OEGP. For this round, the focus will be on applications that will draw on the power of the Orbs Universe, with its Guardians and Delegators, using their ability to arrive at consensus through the Orbs protocol incentive layer powered by the ORBS token.
++ read the paper
+Orbs Grant Program: First Call for Grants
+Published August 2020
+Orbs is committed to advance the process of decentralization by involving even more developers and teams in the development of the Orbs ecosystem and is introducing the Orbs Ecosystem Grant Program (OEGP). We believe that the special features of the blockchain infrastructure of the Orbs Network and the incredibly strong and active community in the Orbs PoS Universe together provide a unique opportunity to interface and collaborate with DeFi
++ read the paper
+We use cookies to ensure that we give you the best experience on our website. By continuing to use our site, you accept our 
+cookie policy
+.
+accept
+reject
+Orbs
+ is a âLayer-3â public blockchain infrastructure project powered by PoS, pioneering on-chain innovation since 2017.
+Orbs is set up as a separate execution layer between L1/L2 solutions and the application layer, as part of a tiered blockchain stack, enhancing the capabilities of smart contracts and powering protocols such as 
+dLIMIT
+, 
+dTWAP
+ and 
+Liquidity Hub
+.
+hello@orbs.com
+SUBSCRIBE FOR UPDATES
+Subscribe
+Latest Blog Posts
+Arbidex integrates dLIMIT & dTWAP powered by Orbs
+
+
+Shawn O'Donaghue
+|
+6 months ago
+Arbidex, one of the largest DEXs on Arbitrum, has integrated the 
+dLimit
+ & 
+dTWAP protocol
+ powered by Orbs!
+As a result, Arbidex traders will now have access to both advanced order types, enabling traders to guarantee the price of their orders or break up large orders into smaller trades. This development follows successful integrations with other prominent DEXs including QuickSwap, SpookySwap, Thena, and more. With each integration, dLIMIT and dTWAP further solidify Orbs' position as a market leader in DeFi innovation, showcasing Orbs' novel 
+layer 3 technology
+ for pushing the boundaries of smart contract technology.
+dLIMIT and dTWAP are fully decentralized, permissionless, and composable DeFi protocols developed by the Orbs project and powered by the Orbs network. ArbiDex traders will now have access to the advanced order types at no extra cost, with dLimit enabling limit orders for single transactions and dTWAP enabling the execution of commonly used algorithmic trading strategies, all in a decentralized manner that was not available before.
+Orbs
+ is a decentralized protocol executed by a public network of permissionless validators using PoS, staked with TVL valued at over a hundred million dollars. Orbs pioneers the concept of L3 infrastructure, by utilizing the Orbs decentralized network to enhance the capabilities of existing EVM smart contracts, opening up a whole new spectrum of possibilities for Web 3.0, DeFi, NFTs, and GameFi.
+Trade DeFi like a Pro
+
+
+In the past month, ArbiDex supported a transaction volume of over 7 million dollars at the time of writing. dLIMIT & dTWAP will expand the DEX's current offerings, potentially opening up another avenue for the project to increase trading volumes.
+For those who are unfamiliar, a Limit order allows users to buy or sell tokens at a specific price or better. While the specified price is guaranteed, the execution of the order is not and depends on price movement. Limit orders will only be executed if the market price meets the order specifications.
+In contrast, a TWAP order is an algorithmic trading strategy that aims to reduce the impact of large orders on the market by breaking them down into smaller portions that are then executed over time. By executing smaller orders, this approach lessens the price impact or enables traders to gradually acquire various assets over a specific period. In DeFi this is particularly useful as pools need time to rebalance.
+ArbiDex's traders can now utilize both of these key traditional finance orders without sacrificing decentralization.
+Setting up a dLIMIT and dTWAP orders
+
+
+When switching to a dLIMIT 'swap' on ArbiDex, users are presented with an easy-to-follow user interface alongside an order history tab to keep track of previous transactions.
+Before executing a dLIMIT order, traders must specify the following:
+
+
+From: The token that they currently have
+
+
+To: The token that they wish to swap for
+
+
+Limit price: Trades will ONLY be executed when the available market price is equal to or better than the Limit price.
+
+
+
+
+dLIMIT takes into account current market conditions, prices, and gas fees. Once the parameters are set, the user can approve the specific source token, place the order, and review their order live in the 'order history' tab.
+For a dTWAP order, three additional parameters need to be specified:
+
+
+No. of Intervals: allows the user to specify the number of individual trades. The UI automatically calculates the total number of transactions required to complete the entire order and the estimated trading interval.
+
+
+Max Duration: the maximum time during which the total amount of individual trades making up the full dTWAP order may be executed.
+
+
+Trade Interval: sets the time gap between each individual trade. The user can edit this parameter, which also results in changes to the corresponding trade size and number parameters.
+
+
+
+
+Similarly to dLIMIT, these parameters provide incredible flexibility in customizing each order, taking into account factors like market conditions and current gas fees. Additionally, the UI facilitates both dTWAP-market orders, which execute all trades at the available market price, and dTWAP-Limit orders, which only execute individual trades if they are within the price Limit set by the user. Once these parameters are set, the user can approve the specific source token, place the order, and confirm their specified configuration.
+Redefining Trading Standards on Decentralized Exchanges
+The dLIMIT & dTWAP protocols, powered by 
+Orbs L3 technology
+, have become the industry standard for decentralized algorithmic orders in DeFi.
+To date, the protocol has been implemented by 8 prominent DEXs spanning 5 chains, facilitating over 5 million dollars in trading volume.
+For more information regarding both advanced order types, join the support 
+Telegram channel
+.
+Find out more info:
+
+
+dTWAP webpage
+
+
+dLIMIT webpage
+Â 
+
+
+Whitepaper
+
+
+Security audits (
+1
+,
+2
+)
+
+
+
+
+ 
+
+
+About Orbs
+
+
+The Orbs Network is an open, decentralized, public blockchain infrastructure executed by a secure network of permissionless validators using Proof-of-Stake (PoS) consensus.
+Orbs is a separate decentralized execution layer operating between existing L1/L2 solutions and the application layer, as part of a tiered blockchain stack, without moving liquidity onto a new chain. Orbs acts as a "decentralized backend", enhancing the capabilities of existing smart contracts and opening up a whole new spectrum of possibilities for Web 3.0, DeFi, NFTs, and GameFi.
+Orbs was founded in 2017 and launched its mainnet and token in March of 2019. Orbs is being developed by a dedicated team of more than 30 people, with contributors working out of Tel Aviv, London, New York, Tokyo, and Seoul.
+For more information, please visit 
+www.orbs.com
+, or join our community at:Â 
+Telegram: 
+https://t.me/OrbsNetwork
+Â 
+Twitter: 
+https://twitter.com/orbs_network
+Triple APY for New ORBS Stakers
+
+
+Eddy Kim
+|
+7 months ago
+Orbs has received increased attention from the broader web3 ecosystem in October and has seen a significant rise in participation. Among other things, the ORBS token has been listed on over 20 exchanges, including venues like Binance and Bybit. This has helped the community grow. As the Orbs community has grown, so has interest in participating in staking. The Orbs project is decentralized and community-based, valuing community and core web3 values. Â  One way to solidify the long-term engagement of new community members is to encourage them to take an active part in the work of securing and operating the Orbs Network's technology by participating in the Orbs Proof-of-Stake Universe. To welcome and encourage new community members to participate, the Orbs community approved a governance vote to introduce the Orbs triple APY event for new stake.
+Event details
+
+
+All NEW Orbs tokens staked in November and December 2023 will receive additional rewards.
+â° Event period: ~ 31th Dec 2023Â 
+ð Additional APY
+Triple: All new Orbs tokens staked during November 2023, will get triple rewards during the promotion
+Double: All new Orbs tokens staked in December 2023 will get double rewards during the promotion 
+ð Network: Ethereum and Polygon
+â  How to participate: Staking using the 
+Tetra Staking Wallet
+Example
+
+
+Alice stakes 5M Orbs before November 1st and then added 2M Orbs on Nov 15th, and added another 1M Orbs on 3rd Dec.
+The 5M Orbs Alice staked before the event (November 1st), is not eligible.
+For the 2M Orbs staked on Nov 15th, Alice will get triple APY during 1st ~ 30th Nov.
+For the 1M Orbs staked on 3rd Dec, Alice gets double APY during 1st ~ 31th Dec
+Things to note
+
+
+Only Orbs additional staked during Nov and Dec 23 are eligibleÂ 
+
+
+If the newly staked tokens are unlocked before reward distribution, no reward will be given
+
+
+The additional rewards will be distributed before the end of Jan 2024
+
+
+
+
+About Orbs PoS Universe
+
+
+Since Orbs launched in 2019, The
+ Orbs Proof-of-Stake (PoS) Universe
+ has been the backbone of
+the Orbs network and the ecosystem created. Generally, users can participate in the ecosystem by staking
+ORBS tokens in smart contracts using 
+TETRA
+, the official web-based Orbs staking wallet dApp.
+TETRA is the official ORBS staking dApp, providing connectivity to the entire POS network.
+To stake Orbs, it is recommended that users use a PC's web browser or alternatively, if using mobile, the embedded dApp browser.Â 
+Useful links
+
+
+About Orbs PoS V3
+
+
+Official Polygon bridge
+
+
+OIP-7
+
+
+
+
+latest tweets
+ 
+Overview
+WHAT IS ORBS: LAYER 3
+Proof of Stake
+Execution Services
+White Papers
+FAQ
+Overview
+WHAT IS ORBS: LAYER 3
+Proof of Stake
+Execution Services
+White Papers
+FAQ
+POWERED BY ORBS
+Liquidity Hub
+Perpetual Hub
+dTWAP Protocol
+dLIMIT Protocol
+Notification Protocol
+TON Access
+TON vote
+POWERED BY ORBS
+Liquidity Hub
+Perpetual Hub
+dTWAP Protocol
+dLIMIT Protocol
+Notification Protocol
+TON Access
+TON vote
+COMMUNITY
+Governance
+Blog
+Orbs ecosystem
+Media
+Hexa foundation
+Brand Assets
+Contact
+COMMUNITY
+Governance
+Blog
+Orbs ecosystem
+Media
+Hexa foundation
+Brand Assets
+Contact
+ 
+Resources
+Tetra
+Analytics
+Staking calculator
+Network Status
+DeFi.org
+Developers
+Resources
+Tetra
+Analytics
+Staking calculator
+Network Status
+DeFi.org
+Developers
+Terms Of Use
+ 
+Â· Privacy Policy
+ 
+Â· Accessibility declaration

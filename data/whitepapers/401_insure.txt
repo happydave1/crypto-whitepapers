@@ -1,0 +1,1333 @@
+
+
+
+
+
+
+Whitepaper: Cryptocurrency and RWA Insurance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+inSure DeFi 
+since 2018
+ 
+
+
+
+
+ Menu
+	      
+
+
+
+
+
+
+Home
+
+
+Staking
+
+
+Insurance
+
+
+Exchanges
+
+
+Roadmap
+
+
+Whitepaper
+
+
+Contact
+
+
+Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home 
+ 
+Whitepaper
+
+
+Whitepaper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What we do
+
+
+Our mission
+
+
+Our goal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offering the Best Insurance for Crypto Portfolios
+
+
+We are tired of seeing people get scammed and having no collateral for their DeFi losses. Our solution will protect your portfolio from scammers and unexpected losses. 
+
+
+We provide different plans that are very clear and simple to understand.  
+
+
+Buy SURE tokens
+
+
+
+
+
+
+
+
+
+
+Protect Crypto Investors from Scammers & Devaluations
+
+
+The first idea behind this project is to get rid of the situations where our fellow investors lose their money completely.  
+
+
+We are here to provide stability to the crypto world and protect people from their mistakes and from fraudulent activities of others.
+
+
+Buy SURE tokens
+ 
+
+
+
+
+
+
+
+
+Help as Many Investors & Traders as Possible
+
+
+We don't want our fellow investors & traders to end-up in a situation where they lose most of the crypto portfolio because of unexpected causes. 
+
+
+Helping other people is very important to us. We are willing to establish a 24/7 support system to help as many people as possible.
+
+
+Buy SURE tokens
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strength is in Honesty
+
+
+inSure Ecosystem's Whitepaper
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strength is in Honesty
+
+
+inSure DeFi Token Risks
+
+
+We believe in honesty and integrity that is why we openly disclose the token risks with our community members.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inSure Token - Infinity Project
+
+
+How it works?
+
+
+
+
+
+
+
+
+
+
+
+
+Acquire SURE tokens
+
+
+Submit Request
+
+
+Receive Payment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acquire SURE tokens
+
+
+In order to insure your crypto portfolio, you simply need to purchase/acquire SURE tokens from available 
+exchanges
+ and enable coverage from the 
+Dashboard.
+
+
+Insurance will be enabled after 7 days of contributing SURE to the community vault. 
+ 
+
+
+Please refrain from storing your SURE tokens on centralized exchanges. In order to process the insurance claim, you will need to create a proposal on Snapshot (Please see "Submit Request") with your private wallet.
+
+
+Stake SURE on DEXs
+ by Contributing to 
+ Liquidity Pool
+ and protect your funds in SURE LPs.
+
+
+Buy SURE tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit Request
+
+
+If your portfolio was affected by scam, 
+                      drastic devaluation or stolen funds (exchange closure) we will be happy to reimburse your 
+                      losses based on the plan chosen by you.
+                     
+
+
+If you were unlucky and was affected by one of three reasons mentioned above, please create a ticket on Snapshot including:
+                      
+ 
+Title:
+ "[inSure DeFi] - [Insurance Claim] - [Coin/Token Name]"
+
+
+1. Name of the crypto coin/token with the links to Coinmarketcap and Coingecko
+
+
+2. Your Affected wallet address 
+* Optional: If the wallet is different, 
+Sign the ownership proof with the affected wallet using MEW and place the signature to the ticket. (Login-> Message-> Sign)
+
+
+3. Date of the incident
+
+
+4. Your email and/or Telegram ID
+
+
+5. Additional information to take into account
+
+
+6. "Approve" and "Reject" voting options must be set for the ticket.
+
+
+Please give the community members 3-4 business days to process your request (we will investigate the issue and provide the best available resolution) 
+      
+    
+
+
+Once the investigation is completed by the community members, the ticket with the summary of the Insurance Claim will be created on 
+Snapshot
+ with the link to the original request for the 
+inSure DAO approval.
+ 
+Anyone who holds SURE can vote on the insurance claim.
+
+
+ 
+Create Insurance Claim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Receive Payment
+
+
+inSure DeFi Community will process your request with diligence and approved claim will result in a transfer of SURE tokens from the community vault/s to the wallet of the claimer in the amount covered by the active insurance policy/s.
+
+
+
+
+
+
+You are not forced to sell your SURE tokens right away, you can: 
+
+
+1.  Use SURE for the new Insurance Policy/s from the 
+Dashboard.
+
+                      2. Have a voting power in the community by holding SURE. 
+
+                      3. Stake SURE on LPs and receive 24% APR. 
+
+
+
+
+Buy SURE tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Questions About inSure DeFi
+
+
+Here are the most frequently asked questions from our community members
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          How do I stake SURE?
+
+
+
+
+
+
+
+
+The staking is only available via LPs on DEXs.
+No single sided staking is available.
+
+
+Visit Staking Page Here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+												What are the details around the terms of use describing the events you can have insurance for?
+
+
+
+
+
+
+
+
+[The Swap, Liquidity Pool, Lending, Borrowing, Yield Farming, Defi, NFT, Metaverse and other projects must have]:
+
+
+â¢ The project must have its own fungible token that is listed and tracked on CoinMarketCap and Coingecko (SC audit links must be specified on the page).
+                      
+â¢ Token of the project must be listed on at least 2 Centralised Exchanges.
+                      
+â¢ No Ponzi scheme projects are covered.
+                      
+â¢ Projects with more than 100% APY (Annual percentage yield) are not covered.
+
+
+
+
+
+
+[Claim eligibility criteria for the funds on CEXs or DEXs]
+:
+                      
+                      
+â¢ CEXs and DEXs where the funds were deposited must have tracked listing on both CoinMarketCap and Coingecko (Tracked volume of at least 50 trading pairs)
+                      
+ 
+â¢ CEXs and DEXs must have their own token/coin that is listed on at least other 2 Centralized Exchanges.
+                      
+
+
+
+
+The insurance will be covering any crypto funds owned by the same wallet, crypto funds ownership, and SURE wallet ownership has to be proven before the request can be processed and the insurance claim fulfilled. I.e. let's say you owned N amount of XYZ crypto and crypto lost its value you will have to prove the ownership of devaluated token/coin (signing the message from the wallet that holds XYZ or if it is on the exchange by sending XYZ funds from the exchange) I.e. we have the process to verify the ownership of the funds hence even if you hold funds in another wallet the insurance plan will cover all the crypto assets in the amount insured based on the chosen plan.
+													
+The token/coins must be trading on multiple CEXs (2+) and available on Coingecko and Coinmarketcap to be eligible for insurance claims.
+Meme and Ponzi scheme projects are not covered by inSure DeFi community.
+
+
+
+
+
+
+
+
+
+
+
+
+
+														What are the main risks owning crypto assets? 
+
+
+
+
+
+
+
+
+Three main problems of owning crypto at the moment:
+															
+
+															1. Stolen Funds - inSure plans cover the funds that are held by the custodians/exchanges. If exchanges are closed (publicly verified information) then the claim will be fulfilled in the amount based on the policy holder's plan.
+															
+2. Scams - social engineering or other types of scams that can be proven that the customer can't retrieve the funds back. For example, depositing to the exchange your crypto funds and CEX never responds to you on what happened with your deposit. Withdrawal from CEXs etc. (Publicly verifiable information). 
+                              Swapping/buying from the wrong SC or sending to the "instant reward wallets" are not covered.
+															
+3. Devaluations - Crypto assets that lost the value to the community member completely (> 98% of initial value). Similar to totalled cars, we will ask the policyholder to send devaluated tokens/coins to the community wallet to get the reimbursement based on the chosen plan.
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+																How long does it take to file and get a claim?
+
+
+
+
+
+
+
+
+The insurance plan has to be on the wallet for 7 days before it can take effect and the claim will be valid.
+																	
+
+
+
+
+
+
+
+
+
+
+
+
+
+																How do you prevent fraud in inSure Ecosystem?
+
+
+
+
+
+
+
+
+Insuring publicly verifiable information, an audit of transactions, and communicating to the policyholder to get more details if needed. All the requests have to be signed with the wallet that holds SURE tokens. I.e. only SURE owners can file the claim. No fradulent claims can be processed.
+																	
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                What should I do with old tokens?
+
+
+
+
+
+
+
+
+Old tokens are not supported by inSure DeFi Community. All the members who bought SURE before June 12th, 2021 have already received equial amount of new SURE token.
+
+
+Old tokens are not swappable for the new tokens, do not use them!
+
+
+Check the smart contract addresses here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												How do I insure my Crypto Portfolio?
+
+
+
+
+
+
+
+
+You can easily insure your crypto portfolio by simply buying SURE tokens and using them to enable the insurance policy from the 
+Dashboard.
+
+                          Please choose one of the plans that meets your insurance needs.
+													
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Can I buy SURE tokens from someone else? 
+
+
+
+
+
+
+
+
+SURE tokens are liquid and tradable through Centralized and Decentralised exchanges. That means anyone can become a reseller of insurance plans.
+													Please use only official exchanges to trade SURE tokens.
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Can I enable Insurance Plan after my Crypto Portfolio was affected and still be insured from previous losses?
+
+
+
+
+
+
+
+
+Insurance coverage becomes active on the 7th day of contributing SURE tokens to the Community Vault/s from the 
+Dashboard.
+ The new digital assets added after enabling the plan must follow the same rule of 7 days before the insurance plan will be covering those assets. I.e. previous losses are not covered if the insurance plan wasn't enabled before the incident.
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												I am the holder of SURE tokens, how do I get reimbursed for my losses? 
+
+
+
+
+
+
+
+
+To be compensated by inSure System, the users must submit the claim request. The process is described 
+					in 
+"How it works?"
+ section. 
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Can I invest my money into SURE tokens?
+
+
+
+
+
+
+
+
+Yes, you are allowed to hold and sell SURE tokens at any time.
+													 Since the value of the SURE token fluctuates,
+													 by trading SURE token you have potential to increase the $ value of your crypto portfolio. 
+
+
+
+
+
+
+
+
+
+
+
+
+What do I do if my insurance policies are terminated? 
+
+
+
+
+
+
+
+
+
+												In order to be insured with a new plan, you will need to contribute SURE tokens again to the Community Vault/s. Size of the contribution represents the chosen insurance plan.
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+											Does the premium go up with a claim?
+
+
+
+
+
+
+
+
+We have a dynamic pricing model, where we calculate the risk based on the volatility of the markets, the stats on the fraud in crypto, demand on the insurance plans in the market. Any changes must be introduced by members and approved by the community.
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Who do you see as the closest competitor?
+
+
+
+
+
+
+
+
+inSure DeFi doesn't have other competitors who have the same community centric approach. Our community can use Nexus Mutual, Cover, EtherRisk and other projects to futher underwrite the risk of owning crypto assets.
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+													You are using community funds for covering a claim, how can this run out?
+
+
+
+
+
+
+
+
+Community funds: risk pool is reinvested to generate the surplus funds which will be used to rebuy SURE tokens after inSurance claim fulfillment. I.e. inSure Community can run as long as a community or new members still requires to distribute the risks of their investments.
+                              If the surplus funds will pass the safe level based on the amount of inSure plans in the market, community can vote for initiation of a buyback process (described in the whitepaper) from the markets increasing the valuation of SURE. 
+                              The newly bought SURE tokens from the market will be added back to the Community Vault which can be sold in the future for the benefit of the community by providing the voting power for the new members, ability to stake and enable the insurance policy.
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+														I'd like to understand more on the token economics?
+
+
+
+
+
+
+
+
+~70% of SURE funds are locked in the Community Vaults. The funds may be unlocked only by voting of the community members. Currently, we have ~30% in circulation, anyone can join inSure DeFi Community and become a member of inSureDAO. This allows SURE holders to vote on the future priorities of the community and on the solutions for controversial situations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             What are the Community Vaults?
+
+
+
+
+
+
+
+
+
+
+Information on how the funds are released from the community vaults:
+
+1. A Snapshot is created and an announcement is made in the community groups to see the proposal and vote.
+
+2. After voting is complete, the decision is made by a majority of voters. The transaction will be created for approval on Gnosis Safe.
+
+3. The transaction must be approved by a majority of Community Safe Signers.
+
+(At the time of writing, at least 11 members out of 21 need to approve the transaction â 51% rule).
+
+
+In order to become a signer across the community vaults, the member must hold enough SURE (combined from the different chains) to be in the Top 20 holders list.
+If one member has the same amount as the last member/s in the top 20, the wallet will be added as a signer as well.
+Membersâ removal and addition to the Community Vault transaction signer can be completed on a monthly basis.
+
+
+
+List of community vaults:
+
+1. Ethereum: 
+0xF4b2aa60Cd469717857a8A4129C3dB9108f54D74
+
+2. BSC: 
+0x30b14C91bC80445070bD33B5a436c2454E0Ac43e
+
+3. Polygon: 
+0x55d621fF4CBB38A2065be6481B4681Cc10d31dE8
+
+4. Avalanche: 
+0x329F5910739D4e7fd55594F68BFC7053a731cE22
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Easy to Start
+
+
+Sign Up For inSurance Plan Today!
+
+
+
+
+
+
+
+
+
+
+Starting at Only
+
+
+ 
+2 500 SURE
+
+
+
+
+
+
+
+
+Get started now
+
+
+
+
+
+
+
+
+
+
+
+
+inSure DeFi
+
+
+We are here to protect you from the scams, hacks, and drastic devaluation of your crypto portfolio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Useful Links
+
+
+
+
+EtherScan
+
+
+Bitcointalk
+
+
+Facebook
+
+
+Twitter
+
+
+Github
+
+
+Reddit
+
+
+Telegram Group
+
+
+Telegram Channel
+
+
+Medium
+
+
+LinkedIn
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Partnership
+
+
+Investors
+
+
+Home
+
+
+Staking
+
+
+Plans
+
+
+Exchanges
+
+
+Roadmap
+
+
+Whitepaper
+
+
+Contact
+
+
+Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+Contacts
+
+
+
+
+
+
+
+
+t.me/insureteam
+
+
+info@insuretoken.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      © 
+ inSure DeFi Ecosystem 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,248 @@
+Acala & Karura Wiki | V1.2.0, English | Acala Wiki
+Acala Wiki
+V1.2.0, English
+V1.2.0, English
+ 
+Learn
+ 
+Build
+ 
+Maintain
+Search
+Ctrl
+â+âK
+Acala & Karura Wiki
+Acala 2.0
+Overview
+Execution Roadmap
+aUSD SEED (aSEED)
+aSEED Integration Guide
+ACA
+ACA/KAR Staking
+Universal Asset Hub (UAH)
+Euphrates DApp
+Learn
+Acala Introduction
+Acala Dollar
+AcalaSwap
+Homa Liquid Staking
+Redenomination of ACA
+Trilogy Networks
+Flexible Fees
+How to change default fee token
+Governance Overivew
+Participate in Democracy
+How to Verify a Runtime Upgrade
+How to Verify Referendum Proposal
+Treasury
+Acala EVM+
+Why Acala EVM+
+Existing Solutions
+Acala EVM+
+Composable DeFi Stack
+Flexible Fees
+EVM Account
+On-chain Scheduler
+Queryable & Lightweight
+Upgradable Contracts
+Compatible Toolings
+No Dust Account
+How does it work?
+Get started
+Acala Network
+Acala Launch Phases
+Wallet & Account
+Account Generation
+Polkadot{.js} Browser Extension
+Polkawallet Mobile App
+Ledger Hardware Wallet
+Exchange Withdraw/Deposit
+Balance Type and Vesting
+Check Address for Different Chains
+Acala's DOT Bridge
+Acala Assets
+Governance
+Acala Web Apps
+Acala Mobile
+Karura Network
+Karura Launch Phases
+Check Distribution
+Wallets & Account
+Account Generation
+Polkadot{.js} Browser Extension
+Polkawallet Mobile App
+Ledger Hardware Wallet
+Exchange Withdraw/Deposit
+Balance Type & Vesting
+Check Address for Different Chains
+Inter Kusama Transfer
+Karura Assets
+Karura Web Apps
+Governance
+Transaction Fees
+Mandala Testnet
+Integrate
+Acala Network
+Protocol Info
+Token Transfer
+Node Interaction
+Full Node
+Collator
+Karura Network
+Protocol Info
+Token Transfer
+Node Interaction
+Full Node
+Collator
+Build
+EVM+ documentation
+SDKs
+Acala Stablecoin
+Homa Liquid Staking
+AcalaSwap
+Homa Staking
+Guides
+Set up an Oracle
+Oracle on Mandala Testnet
+Run a Liquidation Bot
+Node Interaction
+Transaction Construction
+Build DApps
+Deploy Ecosystem Modules
+Composable Chains
+Open HRMP Channel
+Bridge Tokens
+Cross-chain Listing
+Open-Web3-Stack & ORML
+Smart Contracts
+Acala EVM Overview
+Get Started
+Connect to a Node
+Use MetaMask with EVM+
+Setup EVM Account
+Polkadot Explorer
+EVM Playground
+Use Remix
+Use Waffle
+Use Hardhat
+Deploy Contracts
+Advanced
+Use Native & Cross-chain Tokens
+Use On-chain Scheduler
+Tutorial
+Use Oracle Feeds
+Upcoming Features
+Acala EVM Hacker Guide
+Try Acala DApp
+Tools
+Indexers
+SubQuery
+Miscellaneous
+Runtime Events
+Modules
+Cross Chain DeFi
+Ecosystem
+General Info
+Alliance
+Community
+Contribution & Rewards
+Acala Old Friend NFT
+Ecosystem
+Media Kits
+Crowdloans
+What are crowdloans
+Acala Crowdloan
+Crowdloan Event
+Crowdloan Rewards
+Claim ACA
+How to Crowdloan
+FAQ
+Acala Quests
+Attaching Polkawallet to Polkadot.js Extension
+DOT Address
+Creating a New DOT Account
+Becoming a DOT Holder
+Unstaking Your DOT
+Unstaking Your DOT Tokens on Polkadot.{js} Extension
+Unstaking Your DOT Tokens on Polkawallet
+Karura Crowdloan
+Crowdloan Event
+Crowdloan Rewards
+Claim KAR
+How to Crowdloan
+FAQ
+KSM Address
+Creating a New KSM Account
+Check KSM Address
+Unstaking Your KSM
+Unstaking Your KSM Tokens on Polkawallet
+Unstaking Your KSM Tokens on Polkadot.{js} Extension
+Finding Tokens and NFTs
+Misc
+aUSD Incident
+Contributing
+Glossary
+Powered by GitBook
+Acala & Karura Wiki
+Welcome to the Acala & Karura wiki, the hub for those interested in learning, building, or using the Acala and Karura protocols. The wiki is divided into sections to cater to each of these different groups within the Acala ecosystem:
+If you're eager to start building your project to connect to Acala or Karura, see the 
+build
+ section.
+If you're interested in operating a node, head on over to the 
+integration
+ section.
+If you are here to learn, peruse the 
+learn
+ section.
+If you want to quickly find some general information, such as communities, links, the Alliance, please find 
+ecosystem
+.
+If you are ready to get started using Acala or Karura, head to 
+Get Started
+ section.
+If you're looking for an introduction to Acala please 
+go here
+.
+Other Wikis:
+Acala Dollar
+AcalaSwap
+Homa Liquid Staking
+Acala Apps
+Karura Apps
+EVM+ Documentation
+Want to get started using?
+Get Started with the live Acala Network
+Get Started with the live Karura network
+Get Started
+ with the testnet - Try the test network.
+Learn
+ - 
+Quick navigation in order to learn Acala.
+Want to build on Acala?
+Builder Guides
+ - Tools, libraries, and resources to help you build.
+Starters Guide
+ - 
+Overview on how to get started building your project on Acala.
+Want to maintain the network?
+Integration Guide
+ - Information covering running a node on the Acala and Karura Network.
+Oracle Overview
+ - Provide pricing information for assets on the Acala and Karura Network.
+Resources
+Community / Ecosystem
+ - List of community rooms and channels to talk to others about Acala.
+Contributing Guide 
+- Rules for contributing to the wiki.
+Next
+Overview
+Last updated 
+10 months ago
+On this page
+Was this helpful?
+Edit on GitHub
+Other Wikis:
+Want to get started using?
+Want to build on Acala?
+Want to maintain the network?
+Resources

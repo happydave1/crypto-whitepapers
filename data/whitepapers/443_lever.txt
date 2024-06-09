@@ -1,0 +1,60 @@
+About LeverFi | LeverFi
+LeverFi
+Search
+Ctrl
+â+âK
+About LeverFi
+LEVER Utility
+OmniZK
+Discreet Log Contracts
+zkOracles
+Trusted Execution Environment
+L0 Endpoints Integration
+OmniRelayers
+Application Use Cases
+OmniZK SDK
+Staking and Delegation Programs
+LeverPro
+Staking and Participation Rules
+Initial Inscription Offerings (IIOs)
+Initial Dex Offerings (IDOs)
+Project Pipeline
+Ecosystem Partners
+Launch with LeverPro
+Risk Warnings
+LeverTrade
+Trade-and-Earn
+User Guides
+Traders - Deposit and Trade
+Lenders - Lend and Earn
+Trade Account Settlement
+Components
+Collateral Manager
+Trading Manager
+Lending Manager
+Risk Manager
+Protocol Parameters
+Supported Collateral List
+Tradable Assets List
+Lending Pools List
+Product FAQ
+Technical Docs
+Contracts
+Audits
+Bug Bounty
+Risk Warnings
+Social Channels
+Powered by GitBook
+About LeverFi
+LeverFi is a DeFi infrastructure and innovation network that focuses on delivering new and exciting opportunities for the fast growing global web3 user community.
+With our eyes set on delivering unique solutions in the decentralized finance space, weâre thrilled to empower our community and users with exciting new offerings in the BTC ecosystem in 2024.
+LeverFi currently operates the following networks:
+OmniZK (Bitcoin/EVM): A secure validation protocol that allow developers to shift complex computations onto any EVM layer, and relay the final event outcomes back to the Bitcoin network to conduct native settlements.
+LeverPro (Bitcoin): The premium BRC20/Runes launchpad with a focus on high potential DeFi projects building native applications for the Bitcoin ecosystem.
+LeverTrade (EVM): Trader-centric platform that helps traders earn yield on collateral while trading with 10x leverage at the same time.
+Stay tuned for more updates as we continue to expand our global community of users and partners!
+Next
+LEVER Utility
+Last updated 
+25 days ago
+On this page

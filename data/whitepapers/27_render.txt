@@ -1,0 +1,177 @@
+Render Network Knowledge Base | Render Network Knowledge Base
+Render Network Knowledge Base
+ 
+RenderNetwork.com
+Search
+Ctrl
+â+âK
+Render Network Knowledge Base
+General Render Network
+Important Safety Information
+Render Network Official Links and Channels
+RNDR to RENDER: What you need to know
+Setting up a Solana Wallet
+Setting up a Solana Compatible Ledger Wallet
+Using the Solana Upgrade Assistance Tool
+Render Network Upgrade Portal FAQ
+Burn Mint Equilibrium
+About Render Network Governance
+Understanding Render Network Governance
+How to Use Nation and Snapshot to Vote in RNPs
+The Render Network Foundation
+RNPs and the DAO system
+What is a "DAO"?
+Render Network Proposal (RNP) System
+Getting Started
+Creators and Node Operators: Where do you fit?
+Render Network Artist Tutorials
+Getting Started with Brilly
+Going behind the process with Zomax
+Understanding Caustic Rendering with Silverwing
+The Render Network on Mac with Pro Tharan
+Everything you need to know about using the New ORBX Exporter
+Cinema 4D on the Render Network with Brilly
+Cinema 4D on Render Network (Beta) Guide
+Preparing your Cinema 4D file for the Render Network
+Caching Simulations for the Render Network (Advanced)
+How to work with nested scenes (XRefs) in C4D for the Render Network (Advanced)
+Cinema 4D on the Render Network with Brilly
+How to get started as a Creator
+Preparing a scene
+Working with Particles, Attributes and Dynamics
+Upload ORBX Scene for Rendering
+Create Job Parameters for Rendering
+Linear EXR workflows and recommended DWA compression
+Select RNDR Tier
+Estimate Job Costs Prior to Rendering
+Adding Funds to Your Account
+Review and Approve Frames
+Requesting a New Node
+Downloading and Sharing Completed Frames
+How to get started as a Node Operator
+Connecting your Node to the Render Network
+Running Multiple Programs or Tasks
+Running at Full Wattage
+Understanding Crypto Wallets
+Setting up your Wallet
+Purchase RNDR Tokens
+Advanced Topics
+Render Network Basics
+What is a RNDR Token?
+What is a RNDR Credit?
+Generating an Invoice for RNDR Credits
+How much does RNDR cost?
+How do token contracts work?
+Migrating Genesis Tokens
+RNDR Metrics Summary
+Powered by GitBook
+Render Network Knowledge Base
+Everything you need to know about the Render Network
+Welcome to Render Network
+What is the Render Network?
+The 
+Render Network
+ is a high-performance distributed GPU rendering network that leverages industry-leading 
+OTOY Inc.
+ software to facilitate a compute marketplace between GPU Providers and GPU Requestors. 
+First conceived in 2009 by OTOY, inc. Founder and CEO 
+Jules Urbach
+, 
+Render Network
+ held its first public token sale in October 2017, entering into a private sale period from January - May 2018. During the private sale, early adopters were onboarded onto the "RNDR Beta Testnet", where Beta Node Operators and Beta Creators worked together with the Render Network team to build out and test the network. Render Network launched publicly on April 27th 2020. November 2nd, 2023, RENDER was launched 
+Backed by parent company OTOY, Inc., the Render Network Team is based out of Los Angeles, CA, with team members located all over the globe. With a 
+world class advisory board
+ boasting industry leaders such as 
+Ari Emmanuel
+ (Co-Founder and Co-CEO, WME), 
+JJ Abrams
+ (Chairman and CEO, Bad Robot Productions), 
+Mike Winkelmann
+ (Beeple) and 
+Brendan Eich
+ (Founder and CEO, Brave Software and BAT), Render Network aims to bridge the gap between the graphics present and the virtual future. 
+How does the Render Network Work?
+The Render Network gives GPU owners an opportunity to monetize otherwise idle GPUs by offering their compute power to creators in search of rendering resources. In short, Render Network allows GPU owners to loan out their GPU power to creators in need of additional power. 
+Rendering the Metaverse
+Inspired by the book 
+Life After Television
+ (written in 1990 by OTOY Advisor Board member George Gilder), Jules Urbach laid out his vision for the future in 
+Life After Automation: The Rendering Economy
+:
+âA first principle in the âRender Economyâ is that the resonance of authentic human thought, creativity and imagination are the fundamental units of currency"
+"Our complete personal experience is a uniquely human metric by which we constantly measure qualia, social resonance and novel truths. No machine can ever do this more authentically and meaningfully than we do. In a decentralized, dematerialized and fully automated world, the flow and final evaluation of human value must never stop being a human responsibility.â
+âThe Render Token and the network that it encompasses are built to enable such a systemâs viability as early as possible. First, through massive cost savings in distributed rendering that bootstrap the render economy in its early stages. Then, in subsequent phases to come, through a semantic web of value and authorship encoded in the blockchain itself.â
+Echoing that same vision for the future, Ari Emanuel (Co-CEO of Endeavor and OTOY and Render Network Advisor Board member) penned in his piece 
+This is Life After Television
+ how Render Network plans to help make this future dream a reality:
+âSince then, Jules and I have been building a system for the future. It will all be built on RNDR. We have lined up and signed deals with all of the major media companies from Disney and HBO to Facebook and Unity. LightStages will be built at our WME offices for blockchain based scans of all our clients and athletes. I am driving media to go through the Render Token network.â - Ari Emanuel
+Expanding on his vision, Jules wrote 
+A Photon Driven Economy
+ as an example of how RNDR<->BAT could interact and work together. The RNDR Token will allow for cross-token development and services across multiple fronts (BAT, Sia, etc.)
+âThe Internet was built on the promise of distributed computing and the open exchange of ideas and data. As we move from hypertext and hypermedia to a fully immersive metaverse built on complex interactive 3D scenes, the challenges and opportunities are exponentially greater.â
+âThe RNDR Token, powered by the blockchain, uses the act of creation â rendered by the laws of physics and light â to open the door to a new model of value exchange and a truly decentralized Metaverse.â
+Co-creator of Basic Attention Token (BAT), JavaScript creator, co-founder of Mozilla, and also OTOY and Render Network Advisor Board member, Brendan Eich wrote in his blog post 
+"The Render Token"
+:
+"Large shared AR/VR worlds cannot possibly âencrypt what you seeâ (as DRM for fixed media tries to do). Yet creators of models and art in such shared virtual worlds need effective and fair protection, as experience from Second Life shows.
+Indelible watermarking is a key part of the solution. [..]
+Iâm honored to be an advisor to OTOY and RNDR. Iâm thrilled by the prospects for RNDR, BAT, and other domain-specific tokens that will bind the Metaverse economy into a coherent and equitable, yet decentralized, whole. The future will be tokenized!" - Brendan Eich
+This vision of a truly decentralized and open Metaverse is what has connected OTOY with many other leaders in the 3D and entertainment industry, including Star Wars director and 
+OTOY and RNDR Advisor Board member J.J. Abrams
+:
+âAs technology continues to become democratized â including the sort of remarkable results you can get with Octane â more diverse and unique stories will be told. Worlds, familiar and extraordinary, will be created and distributed in ways that could not have been imagined a decade ago. â - J.J. Abrams
+Across the Gaming and Virtual Reality industries, pioneers such as Tim Sweeny (CEO of Epic Games) and John Carmack (Developer of Doom/Quake, Former CTO of Facebook Oculus VR)  have publicly pushed for the creation of a Metaverse similar to Jules' vision, as described in a 2017 story about 
+Jules Urbachâs Quest To Realize Star Trekâs Holodeck
+.
+âOTOY is juggling a lot of widely different tech, but if you squint at it right, there are a lot of pieces that fit together in a particular vision of the future.â - John Carmack
+Render Network Showcase
+Join the Render Revolution: Follow the Render Network
+Website:
+ 
+https://render.x.io
+
+
+Twitter:
+ 
+https://twitter.com/rendernetwork
+
+
+Discord:
+ 
+https://discord.gg/rendernetwork
+
+
+Reddit
+: 
+https://www.reddit.com/r/RenderNetwork/
+
+
+Medium
+: 
+https://rendernetwork.medium.com/
+
+
+Facebook
+: 
+http://facebook.com/rendernetwork
+
+
+Render Network Foundation:
+ 
+https://renderfoundation.com/
+Render Network has officially moved away from RocketChat. 
+For the latest news on Render Network, please follow any of our channels listed above.
+Last updated 
+2 months ago
+On this page
+Welcome to Render Network
+What is the Render Network?
+How does the Render Network Work?
+Rendering the Metaverse
+Render Network Showcase
+Join the Render Revolution: Follow the Render Network
+Gilles Augustijnen Hype-O-Dream 2020
+SpaceStation by Geoff Holman
+Dino Muhic Beauty Shots (Dunlop)
+deadmau5 & The Neptunes - Pomegranate (Official Music Video) partially rendered on RNDR
+RNDR Automotive 4K Test by Andrey Lebrov

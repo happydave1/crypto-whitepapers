@@ -1,0 +1,101 @@
+Introduction | MANTRA Chain
+MANTRA Chain
+Search
+Ctrl
+â+âK
+Introduction
+Why MANTRA Chain
+Why build on MANTRA Chain
+Use Cases
+MANTRA Chain Ecosystem
+The Team
+Chain Features
+MANTRA Compliance
+MANTRA Token Service
+MANTRA Assets
+MANTRA DEX
+Developer Guide
+Develop Smart Contracts
+What are Smart Contracts?
+What is CosmWasm?
+Installing Prerequisites
+Setting up Environment
+Downloading and Compiling a Contract
+Deployment and Interaction
+Hongbai Deployment and Interaction
+Hongbai Experimental Oracle
+Dapp Tools
+Cosmos SDK
+CLI references
+API
+RPC Hooks
+Faucet
+MANTRA Chain Networks
+Mainnet
+Testnet
+Localhost
+Developer FAQs
+Nodes and Validator Operations
+What are Validator Nodes?
+Operating System
+Setup and Deploy a Node
+Convert Node into a Validator
+Secure Validator
+Join Incentivised Testnet
+Testnet Phase 1
+Hongbai - Testnet Phase 2
+Validator FAQs
+Roadmap
+Governance
+Draft a Proposal
+Text Proposal
+Community Spend Proposal
+Software Upgrade
+Cancel Software Upgrade
+Submitting a Proposal
+Verifying your transaction
+Depositing funds
+Voting on a Proposal
+Frequently Asked Questions
+General FAQs
+What is MANTRA Chain?
+What are the key features/ modules available to builders on MANTRA Chain?
+What support is available for developers and validators that join the ecosystem
+Where can i find MANTRA Social Accounts & Communities?
+How can an Issue or a bug be reported?
+Validator FAQs
+What does a new validatorâs journey look like?
+What are my key responsibilities as a validator?
+What is uptime and how is it maintained?
+What are the hardware requirements?
+How to get validator keys?
+How can I connect a validator from an older testnet to the newest testnet?
+How do I create a backup snapshot of a node?
+How do I restore a node from a snapshot?
+What are the different states a validator can be in?
+How do I unjail a validator?
+How do I edit a validator's description?
+What is self-delegation?
+Is there a minimum amount of OM that must be delegated to be an active validator?
+Developer FAQs
+What is MANTRA Chain, and how does it utilize the Cosmos ecosystem?
+How does MANTRA Chain ensure interoperability with other blockchains in the Cosmos ecosystem?
+What is the Cosmos ecosystem, and how does it differ from other blockchain platforms?
+Which programming languages are commonly used for developing on the Cosmos ecosystem?
+How do I get started with development on the Cosmos ecosystem?
+What are Cosmos SDK and Tendermint, and how do they work together?
+What are Cosmos zones and hubs, and how do they interact?
+How do I build and deploy smart contracts on the Cosmos ecosystem?
+How do I interact with Cosmos chains and applications programmatically?
+What is the best way to learn about developing for the MANTRA Chain and Cosmos ecosystem?
+More Help & Support
+Glossary
+Powered by GitBook
+Over the past several years, there have been a lot of blockchain infrastructure projects introduced to the Web3 universe. Many claim to be faster, offer more features, be more user friendly than the others. Given that landscape, why are we introducing yet another chain?
+
+
+Next
+Why MANTRA Chain
+Last updated 
+1 month ago
+On this page

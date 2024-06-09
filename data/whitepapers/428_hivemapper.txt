@@ -1,0 +1,146 @@
+Introduction | Hivemapper Docs
+Ask or Search
+Ctrl
+â+âK
+welcome
+Introduction
+Explain Like Iâm Five
+Network Governance
+Open Dashcam
+Data Protection and Privacy
+Contribute
+Map With a Dashcam
+Install a Hivemapper Dashcam
+Install a Hivemapper Dashcam S
+Connect Dashcam to App
+Start Driving and Mapping
+Upload Your Contributions
+Authorized Resellers
+Dashcam Accessories
+Open Road
+Open Road Season 1: Trailblazers
+Open Road Season 2: Champions
+Sign Up to Share Unique Partnership Opportunities
+Driver FAQs
+Map With a Phone
+Train the Map AI
+Speed Limit
+Speed Type
+Turn Restrictions - No Turns 1
+Confirm Attribute
+Turn Restrictions - No Turns 2
+Stop Sign
+Traffic Light
+Highway Exit Signs
+Highway Exit Info
+Dashcam View
+Dashcam Tilt
+Confirm Clarity of View: Interior vs Exterior
+Confirm Clarity of View: Forward-Facing vs Side-Facing
+Position
+Azimuth
+Merge
+Confirm Position & Azimuth
+Confirm Roadwork
+Classify Roadwork
+Manage a Fleet
+Adding a New Driver
+[PENDING] Promoting a Driver to Manager
+Giving Access to Locked Dashcams
+Token Splits
+Access Control List
+Hivemapper Fleet Resources
+Use Map Data
+Getting Started: Console
+Map Data Structure
+Map Image API
+Map Features API
+Turn Restriction Signs
+Stop Signs
+Highway Signs
+Speed Limit Signs
+Intersection Traffic Lights
+Scout
+Scout Hosted Service
+Scout UI Library
+Bursts
+HONEY Token
+What Is HONEY?
+Token Restrictions
+Earning HONEY
+Reward Types
+Global Map Progress
+Individual Reward Factors
+Map Tile Saturation
+Usable Imagery
+Clarity of View
+Beware of Scam Airdrops
+Powered by GitBook
+Introduction
+A global, decentralized mapping network for everyone.
+Maps are one of the most important human inventions.
+Ever since our ancestors started painting on cave walls, humans have used maps to share what we learn about our world. Mapmaking technologies have rapidly improved over the past few decades, making it easy for anyone with a smartphone to learn about the world around them. 
+Billions of people
+ around the world now use mapping apps every day. 
+Millions of businesses use and pay for maps and mapping APIs.
+1.5B vehicles are steadily adding automated driving features that require map data. 
+High-quality maps are crucial to the transportation and logistics industries, as well as real estate, utilities, and government. Analysts estimate the mapping industry has a market size of
+ $200B to $300B
+, including mapping apps and APIs, geospatial analytics, GIS, and map data collection.
+Today's standard mapmaking techniques, such as deploying dedicated vehicles to collect road-level imagery, are incredibly expensive. As a result, mapmaking is consolidated among the few companies with the capital to map roads at global scale. Even their maps lack the freshest data. 
+And yet, most roads are driven every day. In the United States alone, 
+humans drove
+ 3.26 trillion miles in 2022, or 8.9 billion miles per day. So why canât we collect the map data as a community?
+The Hivemapper Network, launched in November 2022, is an open, global, and decentralized mapping network that uses AI to build a map from the driving we do everyday. Thanks to its vibrant contributor community, the Hivemapper Network 
+collects
+ millions of kilometers of road-level imagery every week.
+The Problems Weâre Solving
+Uneven coverage and freshness
+ - Typical methods of collecting map data are very expensive, so even the best-funded companies struggle to refresh maps at global scale.
+Fresher maps for autonomous and 
+ADAS
+ driving - 
+Today's maps were made for humans.  The maps required by autonomous and semi-autonomous vehicles require far fresher data.
+Expensive for businesses 
+-
+ 
+Millions of businesses pay to integrate maps into their products. With so few choices for reliable maps, monopoly pricing makes map data unaffordable.
+Today's maps don't understand the "why" 
+- When cars start to travel at 10 mph on a road they normally travel at 40 mph, modern maps don't know if this is due to road construction, a minor fender-bender or a severe crash that will take hours to clear.  Even when a user reports an issue through an app, they cannot immediately trust the report without imagery.
+Data without rewards 
+- Modern mapmaking relies on large amounts of user-generated data. Many mapmakers collect location data and imagery from users without compensating them. In many cases, these companies are not transparent about how user data is being used.
+The design of the Hivemapper Network helps to address all problems.
+Hivemapperâs Approach
+Hivemapper contributors can help build the map by collecting high-quality, street-level imagery with 
+dashcams
+. They can also play 
+AI Trainer
+ games to edit the map and improve machine learning models. 
+In return for their efforts, contributors are rewarded with a digital token called 
+HONEY
+ that can be redeemed to access map data. This model allows the economic benefits of the global mapping network to be shared with the people who build the map.
+The Hivemapper Network is designed from the ground up to be:
+Decentralized 
+- This helps the Hivemapper Network to remain fair and open. Along with engaged members of the community, the 
+Hivemapper Foundation
+ will help maintain the 
+decentralized mapping network
+ and support an open-source ecosystem, including releasing source code and materials for hardware and software projects.  
+Permissionless 
+- Anybody, anywhere can contribute to the Hivemapper Network or consume data from it, as long as they adhere to basic rules. They do not need permission to do so.
+Rewards-based
+ - Contributors to the global map receive HONEY, Hivemapperâs token, which allows them to share the economic benefits of map development.
+The documentation in this repository is intended to help people learn how to contribute to the mapping network and how to consume Hivemapper data. If you canât find what you need, feel free to join our 
+Discord community
+ or send the development team an email at 
+hi@hivemapper.com
+.
+Thank you for being a part of the future of maps. Happy mapping!
+Next
+Explain Like Iâm Five
+Last updated 
+1 month ago
+On this page
+The Problems Weâre Solving
+Hivemapperâs Approach
+Building a better map, together

@@ -1,0 +1,447 @@
+Telos Roadmap
+
+
+
+
+
+
+
+
+
+
+Use Telos
+Technology
+Developers
+About
+
+
+
+
+EVM
+The world's fastest Ethereum Virtual Machine
+Zero
+Telos's native network, built to scale
+Ecosystem
+Discover a universe of dApps on Telos
+The Basics
+An offficial Inroduction to Telos
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Getting Started with Telos EVM
+Learn more about Telos EVM and its ecosystem
+Wallet
+Create and maintain a Telos Web Wallet or Telos Cloud Wallet
+Block Explorer
+Monitor and review all activity across the network
+Staking
+Get started with staking on Telos EVM
+Telos Bridge
+Send tokens from one network to another
+Buy Telos
+Buy and sell TLOS easily, securely and quickly through onboarding partners.
+Getting Started with Telos Zero
+Learn more about Telos Zero and its utility
+Wallet
+Create and maintain a Telos Web Wallet or Telos Cloud Wallet
+Block Explorer
+Monitor and review all activity across the network
+Staking
+Get started with staking on Telos
+Bridge
+Send tokens from one network to another
+Buy Telos
+Buy and sell TLOS easily, securely and quickly through onboarding partners.
+Seamlessly transfer assets and data to and from any other blockchain supported by LayerZero.
+Explore
+All
+Gaming
+Launchpads
+Exchanges
+Metaverse
+Block Explorers
+NFTs
+DeFi
+Oracles
+Social
+Wallets
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Getting Started With Telos
+Dive into this comprehensive guide to kickstart your journey.
+Creating A Wallet
+To get started in the Telos ecosystem youâll need a cryptocurrency wallet.
+Fund Your Wallet
+After youâve created your wallet and added the Telos EVM, it's time to get your hands on some TLOS.
+Bridging to Telos EVM
+How To Move Assets With The Telos Bridge, Powered By LayerZero
+Exploring DeFi on Telos EVM
+To learn more about various types of DeFi protocols and the types of projects on the TelosEVM, see below for some simple explainers.
+Technology
+Learn more about Teloâs technology stack and how it can benefit your project
+Tokenomics
+Learn about the $TLOS token distribution, emissions rate and utility
+Roadmap
+Explore upcoming milestones and technical releases.
+Developer Home Base
+Everything you need to get started building on Telos
+Technology
+Learn more about Telos's technology stack and how it can benefit your project
+Docs
+Explore developer resources that include everything you'll need to start building
+About
+A beginner's guide to Telos
+Roadmap
+Explore the project's milestones and future goals
+Blog
+The latest Telos news and insights
+Tokenomics
+Learn about the $TLOS token distribution, emissions rate and utility
+Team
+Discover the team behind Telos
+Use Telos
+EVM
+The world's fastest Ethereum Virtual Machine
+
+
+
+
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Getting Started with Telos EVM
+Learn more about Telos EVM and it's utility
+Wallet
+Create and maintain a Telos Web Wallet or Telos Cloud Wallet
+Block Explorer
+Monitor and review all activity across the network
+Staking
+Get started with staking on Telos
+Bridges
+Send tokens from one network to another
+Buy
+Buy and sell TLOS with fiat easily, securely and quickly through onboarding partners.
+Zero
+Telos's native network, built to scale
+
+
+
+
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Getting Started with Telos Zero
+Learn more about Telos Zero and it's utility
+Wallet
+Create and maintain a Telos Web Wallet or Telos Cloud Wallet
+Block Explorer
+Monitor and review all activity across the network
+Staking
+Get started with staking on Telos
+Bridge
+Send tokens from one network to another
+Buy
+Buy and sell TLOS with fiat easily, securely and quickly through onboarding partners.
+EVM
+The worlds fastest Ethereum Virtual Machine.
+Zero
+Telosâ native network built to scale
+Ecosystem
+Whatâs currently being built on Telos.
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Getting Started with Telos EVM
+Learn more about Telos EVM and it's ecosystem
+Wallet
+Create and maintain a Telos Web Wallet or Telos Cloud Wallet.
+Block Explorer
+Monitor and review all activity across the network.
+Staking
+Get started with staking on Telos.
+Bridges
+Send tokens from one network to another.
+Getting Started with Telos EVM
+Learn more about Telos EVM and it's ecosystem
+Wallet
+Create and maintain a Telos Web Wallet or Telos Cloud Wallet.
+Block Explorer
+Monitor and review all activity across the network.
+Staking
+Get started with staking on Telos.
+Bridges
+Send tokens from one network to another.
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Technology
+Toolkits, guides and information for devs.
+Not sure where to start?
+An official introduction to Telos.
+Ecosystem
+Discover a universe of dApps on Telos
+
+
+
+
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Seamlessly transfer assets and data to and from any other blockchain supported by LayerZero.
+Explore
+All
+Gaming
+Launchpads
+Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+Social Media
+Infrastructure
+Wallets
+The Basics
+An official introduction to Telos
+
+
+
+
+LayerZero, is an omnichain interoperability protocol partnered with Telos.
+Explore
+All
+Gaming
+Launchpads
+Centralized Exchanges
+Metaverse
+DAOs
+NFTs/NFT Infrastructure
+DeFi
+Oracles
+ESG
+Social Media
+Infrastructure
+Wallets
+Getting Started With Telos
+Dive into this comprehensive guide to kickstart your journey.
+Creating A Wallet
+To get started in the Telos ecosystem youâll need a cryptocurrency wallet.
+Fund Your Wallet
+After youâve created your wallet and added the Telos EVM, it's time to get your hands on some TLOS.
+Bridging to Telos EVM
+How To Move Assets With The Telos Bridge, Powered By LayerZero
+Exploring DeFi on Telos EVM
+To learn more about various types of DeFi protocols and the types of projects on the TelosEVM, see below for some simple explainers.
+Technology
+
+
+
+
+Technology
+Learn more about Teloâs technology stack and how it can benefit your project
+Tokenomics
+Â 
+Learn about the $TLOS token distribution, emissions rate and utility
+Roadmap
+Explore upcoming milestones and technical releases.
+Developers
+
+
+
+
+Developers Home Base
+Everything you need to get started building on Telos
+Technology
+Learn more about Telos's technology stack and how it can benefit your project
+Docs
+Explore developer resources that include everything you'll need to get building
+About
+
+
+
+
+Roadmap
+Explore the project's milestones and future goals
+About
+A beginner's guide to Telos
+Blog
+The latest Telos news and insights
+Tokenomics
+Learn about the $TLOS token distribution, emissions rate and utility
+Team
+Discover the team behind Telos
+Community Resources
+Brand assets and more
+Wallet
+Wallet
+Telos Evolved
+Shaping the digital world's future with unparalleled scalability, privacy and utility.
+EVM Docs
+ZERO Docs
+GitHub
+Evolution Path
+NOV 29
+Telos Evolved 01: Town Hall introducing the team and vision
+See More
+
+
+
+
+DEC 18
+Telos Evolved 02: Unveiling the Evolved Roadmap
+See More
+
+
+
+
+Q1 2024
+SNARKtor Technical Whitepaper Releaseâ
+Whitepaper 
+
+
+
+
+Litepaper 
+
+
+
+
+Blog
+
+
+
+
+Implement
+
+
+
+
+Topics
+Testnet
+Telos Evolved 01: Meet the Team & Vision
+We envision Telos as a beacon of innovation, propelling blockchain to new heights. Leveraging Zero Knowledge technology, we're not just enhancing the Telos ecosystem; we're setting a new standard for the entire Web3 and enterprise landscape.Â Our commitment is to transform Telos into a cornerstone infrastructure, indispensable to major platforms like Ethereum while making blockchain universally accessible, efficient, and vital.Â 
+Watch below for the unveiling of Telos Evolved, our latest developments, critical hires, and new vision catapulting us into a thriving 2024.Â 
+Telos Evolved 02: Unveiling the Roadmap
+We've laid out a visionary and cutting-edge roadmap for Telos in 2024. Central to this plan is the management of high-volume transactions enhanced by zero knowledge proofs and the introduction of our Scalable Proof Protocol. These steps are crucial in leading the charge for widespread blockchain adoption, focusing on scalability and protecting user data. Upgrading the tEVM and innovating with a blockchain-as-a-service model will further these objectives. Additionally, the Tekika NFT collection and the Telos ZK EVM Gaming Chain, K2-18, spotlight our strategic commitment to community engagement and exploring the web3 gaming market. These collective efforts are a significant milestone in Telos' journey, merging technological advancements with practical gaming applications and beyond. 
+Watch below for the unveiling of the Telos Evolved Roadmap.
+Telos Evolved 03: SNARKtor Unlocking Potential
+SNARKtor represents a massive step forward in the ability to scale the efficiency and cost of zero knowledge technology, helping support mainstream adoption. 
+SNARKtor will allow for massive scalability of ZKSNarks, allowing for unlocking of many use cases and ultimately allowing Telos to be the center of the usable Zero Knowledge technology. Once built it will allow developers to create more complex, privacy-preserving, and secure systems without compromising on performance or security. This paradigm shift paves the way for broader adoption and more innovative use cases in the quest for truly scalable and versatile blockchain infrastructure.
+Watch below to find out more about the real world utility of the Telos SNARKtor technology.
+EVM
+Getting Started
+Wallet
+Block Explorer
+Staking 
+Telos Bridge
+Buy
+Zero
+Getting Started
+Wallet
+Block Explorer
+Staking
+Bridge
+Buy
+Explore
+Ecosystem
+Technology
+Roadmap
+Brand Assets
+Governance
+Arcade Token
+ABOUT
+About
+Blog
+Team
+Terms of use
+Privacy Policy
+BUILD
+Developer Home Base
+Github 
+Documentation
+

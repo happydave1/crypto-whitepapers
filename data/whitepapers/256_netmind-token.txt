@@ -1,0 +1,32 @@
+1. Introduction | White Paper
+White Paper
+Search
+Ctrl
+â+âK
+1. Introduction
+2. The Volunteer Computing Network
+3. Training Platform
+4. Inference Platform
+5. General Features
+6. NetMind Chain
+7. NetMind Token
+8. User types
+9. Future Direction
+10. Conclusion
+Powered by GitBook
+1. Introduction
+Recent years have seen an exponential rise in the demand for high performance computing, driven by massive improvements and increased global interests in the applications of Machine Learning and Artificial Intelligence.
+This explosive boom has not come without its challenges, however, and as a result of this spike in demand, companies, machine learning practitioners, research institutions and developers globally are now facing various issues such as insufficient computing power available, scattered computing resources, and high computing costs.
+Computing power is increasingly concentrated in the hands of the tech giants, contributing to monopolistic control on pricing, availability and access. Small organizations and research institutions are therefore faced with prohibitive costs in developing the AI models of the future, limiting their ability to innovate and compete with larger organizations, while big tech companies continue to dominate the field.
+To break down these barriers, we introduce NetMind Power, a decentralized computing platform developed by NetMind.AI, an AI research and software company based in London, UK and Washington DC, USA.
+NetMind Power is a platform for Machine Learning and AI training, fine-tuning and inference, aimed at machine learning professionals, researchers, and software developers.
+NetMind's mission is to create a global network of computing power for AI models by utilizing the idle GPUs of users worldwide. As part of this mission, NetMind Power provides a platform for large-scale distributed computing, integrating heterogeneous computing resources globally, and leveraging grid and voluntary computing scheduling architecture and load balancing technology.
+NetMind aims to democratize access to computing power for businesses and research institutions, making it easier and more affordable for them to develop and run their AI models through a low-latency, widely-connected, and easy-to-manage distributed deep learning training and inference platform.
+In this white paper, we will explore the three core components of NetMind Power: the training platform, the inference platform, and NetMind Chain and Token, which is the utility token for the platform. We will cover the technical and economic challenges that NetMind Power aims to solve in more detail, as well as the innovative solutions that NetMind has developed to address these challenges. We will also dive into the platform's future direction.
+We believe that NetMind Power has the potential to revolutionize the AI computing power landscape and create a more equitable and accessible environment for all organizations, regardless of size.
+This white paper will be continuously updated as our journey progresses, to reflect the rapidly changing nature of this market. As such, it is subject to change and is a reflection of our latest efforts.
+Next
+2. The Volunteer Computing Network
+Last updated 
+1 month ago
+On this page

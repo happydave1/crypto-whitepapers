@@ -1,0 +1,88 @@
+Whitepaper | Oraichain
+Oraichain
+Search
+Ctrl
+â+âK
+Whitepaper
+Introduction
+Terminology
+System Overview
+AI Layer 1 for Data Economy & Oracle services
+Layer 2 Rollups and Subnetworks
+Verifiable and trustless AI Execution
+Decentralized Data and AI platform
+IBC Integration
+Use Cases
+Token Economics
+Protocol Messages
+Developers
+General
+Blockchain details
+Networks
+Joining Mainnet
+Build Linux binary from source and become a Sentry Node Operator
+Become a Validator
+Joining Testnet
+Oraichain Tutorials
+Manually upgrade your Oraichain node
+Migrate one Oraichain node to another
+AI Providers
+AI Provider Integration
+AI Executors
+AI Executor File Integrity
+Become an AI Executor
+Become an AI Executor with Docker
+AI Executor Incentive Mechanism
+Guide
+How To Convert ORAI ERC20 To BEP20 And Vice Versa?
+How To Swap ERC20 or BEP20 Token To Native Token?
+Create An Oraichain Account
+Delegate Tokens To A Validator
+CosmWasm IDE
+Tutorial 01
+Tutorial 02
+Faucet
+Wallets
+OWallet
+Oraichain Wallet (OBSOLETE)
+PRICE FEEDS
+Introduction
+BNB Chain
+Ethereum
+Oraichain
+Deployed Contract Registry
+VRF 2.0
+Introduction to Oraichain VRF 2.0
+Get a Random Value Directly
+Get a Random Value from API
+Get VRF Value from different networks
+Contract Addresses and Pricing
+Validate a Group Signature
+Security Remarks
+API Reference
+Security Remarks
+Get support from Oraichain team
+OraiDEX
+Introduction to OraiDEX
+ORAIX Token
+Contracts
+Others
+Privacy Policy
+Powered by GitBook
+Whitepaper
+As the 
+worldâs first AI-powered oracle and ecosystem for blockchains
+, 
+Oraichain
+ now transforms itself to become an advanced 
+AI Layer 1 for Data Economy and Oracle services
+ that serves as a foundational layer for the creation of a new generation of smart contracts and Dapps and create a complete AI Ecosystem on blockchain.
+This whitepaper describes the Oraichain's terminology, system overview, use cases, and token economics.
+Next
+Introduction
+Last updated 
+6 months ago
+On this page
+Was this helpful?
+Edit on GitHub
+ 

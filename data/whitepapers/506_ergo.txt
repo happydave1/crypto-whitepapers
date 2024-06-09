@@ -1,0 +1,280 @@
+Discover | Ergo Platform
+Ergoâs Next Hackathon Takes Place May 25 - June 2, 2024!
+WALLETS
+â¢
+EXCHANGES
+â¢
+ROADMAP
+â¢
+BLOG
+â¢
+DOCUMENTATION
+â¢
+SIGMAVERSE
+ERGO COMMUNITY
+GET ERG
+DISCOVER
+ECOSYSTEM
+en
+ 
+Discover Ergo
+Ergo is a next-generation Proof of Work smart-contract platform that enables new models of financial interaction, underpinned by a safe and rich scripting language built with flexible and powerful Zero-Knowledge proofs (Î£-protocols).
+READ THE MANIFESTO
+READ THE DOCS
+LEARN WITH DECO
+CHECK THE BLOG
+Software
+The Ergo Node is your entry-point to development on Ergo and lets you communicate with the blockchain.
+GET SETUP
+Learn
+Start from the basics. What is Ergo? What can you do on Ergo?
+VISIT ERGONAUT.SPACE
+Grants & Bounties
+In general, anything educative for the community is subject to some bounty even if not specifically listed. We are looking to fund grants for projects that focus on building key ecosystem infrastructure. However, the quickest way to get some funding is to start a Raffle.
+CONTRIBUTING
+START A RAFFLE
+GET IN TOUCH
+ANY QUESTIONS?
+FAQ
+Weâve compiled some of the most frequently asked questions.
+CAN'T FIND WHAT 
+ YOUâRE LOOKING FOR?
+team@ergoplatform.org
+What is Ergo?
+Ergo is a next-generation Proof of Work smart-contract contract platform that enables new models of financial interaction, underpinned by a safe and rich scripting language and flexible and powerful Zero-Knowledge proofs (Î£-protocols).
+
+
+Ergo is a self-amendable protocol that allows it to absorb new ideas and improve itself in the future and is based on original research published at known peer-reviewed conferences.  Prioritising useful features without compromising security using a research-driven but practical development model.
+
+
+Creating financial contracts on the blockchain isn't just about the functionality; it's about making that functionality safe, accessible, and powerful.
+When/how was Ergo launched? 
+
+Ergo was built to be a battle-ready network that supports permissionless, composable financial contracts. The initial design and test net process started in 2016, with the mainnet launching on July 1st, 2019.
+
+
+There is a maximum supply of 
+97,739,925
+ Erg with the Ergo Foundation treasury receiving 
+4.43%
+ of the total monetary base to fund ecosystem development. 
+There was no private sales, premine, or initial coin offering.
+
+
+The Ergo Foundation is a community-driven entity focused on promoting development and widespread adoption of the Ergo Platform protocol.
+
+
+Tokenomics and emission
+
+
+The Ergo Foundation
+What is the teams background?
+Ergo was designed and implemented by experienced developers and researchers who hold publications and PhDs in cryptography, compiler theory, blockchain technology, and cryptographic e-cash.
+
+
+
+
+The team has a solid background in core development with cryptocurrencies and blockchain frameworks such as Nxt, Scorex and Waves. Brief biographies for some of the core ERGO team as well as some of the many other developers and community members involved, (some of whom are anonymous) can be found in the 
+Hall of Fame
+.
+Why Proof of Work?
+Ergo was created for regular people, Proof of Work allows a truly fair start and the highest degree of decentralisation. It's also widely studied, has very high-security guarantees and is friendly to light clients. These are all essential for having useful contractual, programmable money that's ready today.
+
+
+
+
+Read More
+Why UTXO?
+UTXO (or Unspent-Transaction Output) has many advantages over the account-based model used by Ethereum. It provides superior:
+
+
+
+
+Privacy
+, as UTXOs are one-time objects, makes it possible to formalise privacy leaks.
+
+
+Scalability
+, as parallel transaction processing is more straightforward in UTXO. UTXOs are also more friendly to known stateless client solutions.
+
+
+Interoperability
+, as off-chain and sidechain protocols. One-time objects are more straightforward to work with from an off-chain point of view.
+
+
+Transaction Cost Predictability
+, where the only on-chain action is validating the smart contracts. As a result, the transaction cost is significantly lower, and most importantly, the transaction cost is predictable, eliminating the need for âgas.â
+
+
+Ergo uses the 
+extended-UTXO model
+, which implies UTXOs with the ability to contain arbitrary data and sophisticated scripts.
+
+
+
+
+
+
+
+Ergo extends Bitcoin's way of writing contracts by attaching a guard script (together with additional custom data) to every coin. In addition to the regular protection offered by an 
+ mâofân
+ signature, Ergo allows specifying the possible recipients of these coins, which may be another contract with similar complex conditions. This "chaining" approach allows the implementation of secure and efficient contracts of arbitrary complexity.
+What are Sigma Protocols?
+Sigma Protocols (Î£-protocols) are a form of a Zero-Knowledge proof system. A zero-knowledge proof allows someone to prove they know the solution to a problem without actually revealing the solution itself by providing information derived from that secret. These can be used natively in complex and sophisticated contracts making Ergo uniquely useful as 'Contractual Money'.
+
+
+
+
+Î£-protocols enable truly peer to peer finance with privacy in mind. No one else at the moment can build a trustless ['Local Exchange Trading System'] system, multisig with no signers disclosure, trustless payment networks or has real ring signatures that preserve zero knowledge.
+
+
+
+
+Read more
+What is Storage Rent?
+
+Storage Rent is a protocol-level feature that allows a small fee to be taken from coins unmoved for four or more years. This prevents Ergo from being lost forever and helps incentivise miners to keep securing the network in the long term which avoiding the UTXO set bloat we see in Bitcoin and other UTXO chains.
+
+
+
+
+Read more
+What are NiPoPoWs?
+Non-Interactive Proofs of Proof-of-Work (NIPoPoWs) are short stand-alone strings that a computer program can inspect to verify that an event happened on a proof-of-work-based blockchain without connecting to the blockchain network and without downloading all block headers. For example, these proofs can illustrate that a cryptocurrency payment was made.
+
+
+
+
+This is essentially a data compression technique and solves several problems, providing opportunities to increase the adoption and accessibility of blockchain technology.
+
+
+
+
+Read More
+What are the main use cases?
+Ergo provides superior support for real-world financial agreements. It does this through:
+
+
+
+
+A simple high-level language, ErgoScript, with support for formal verification of contracts.
+
+
+Sophisticated smart contracts with Turing-complete support.
+
+
+Turing-complete smart contracts.
+
+
+Easy Oracle creation allowing robust decentralised networks of oracles organised into a trust hierarchy within a pool, bringing lower risks of exploits and manipulation.
+
+
+Sigma Protocols that enable world-class optional privacy on the peer to peer level; and truly unstoppable DeFi.
+
+
+Support for Multi-Stage contracts that operate on a stateful level.
+
+
+Can Ergo scale? TPS?
+
+Ergo Platform uses a research-driven approach to achieve long-term scalability. Ergo offers a raw TPS of 47.5, but TPS is only part of the story. Factors like transaction weight and computational cost per block also matter, influenced by dynamic aspects like network size and miner resources.
+
+
+Ergo employs the Extended UTXO (eUTXO) model for greater efficiency and flexibility, accommodating complex DeFi transactions and multiple token types within a single output. This significantly enhances the blockchain's performance and scalability.
+
+
+Importantly, Ergo can serve as a common settlement layer for various L1 and L2 protocols. Transactions can be bundled at these layers and finalized on Ergo's L0, thanks to the flexible ErgoScript programming model. This approach uniquely solves scalability issues in different domains, such as simple payment transactions.
+
+
+The primary objective in scaling Ergo is to enhance TPS without compromising the fundamental principles and assurances typically linked with blockchain technology.
+
+
+Read more
+How do I mine Erg?
+Ergo mining is based on 
+Autolykos
+, an ASIC resistant Proof of Work algorithm written in Scala. It can run on most low-end GPUs at cooler temperatures than other algorithms - increasing mining equipment longevity. Combined with the eUTXO model and shifting the heavy-lifting off-chain, this creates a highly efficient Proof of Work.
+
+
+
+
+Dig in
+Where can I learn more about Ergo?
+Join the 
+community chats
+ and ask questions, 
+ergonaut.space
+ and 
+docs.ergoplatform.com
+ should cover most bases.
+
+
+We also host weekly AMAs (Ask Me Anything) and developer updates on 
+Youtube
+.
+CAN'T FIND WHAT 
+ YOUâRE LOOKING FOR?
+team@ergoplatform.org
+DIVE INTO THE ERGO SEA OF TRANSACTIONS
+Explore
+The Ergo Explorer is your interface with the blockchain. Watch every transaction made in real-time. Or, view community curated metrics on ergo.watch.
+EXPLORER
+ERGO.WATCH
+Documents
+Ergo takes a research-based approach and uses stable well-tested solutions to provide a robust platform for developers to build on for years to come. Most of Ergo solutions are formalized in papers presented at peer-reviewed conferences and have been widely discussed in the community.
+Foundational Papers
+A Systematic Approach To Cryptocurrency Fees
+Bypassing Non-Outsourceable Proof-of-Work Schemes Using Collateralized Smart Contracts
+EDRAX: A Cryptocurrency with Stateless Transaction Validation
+Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrenciesâ
+
+Multi-Stage Contracts in the UTXO Model
+Multi-mode Cryptocurrency Systems
+On Contractual Money
+Revisiting Difficulty Control for Blockchain Systems
+
+Self-Reproducing Coins as Universal Turing Machine
+
+ZeroJoin: Combing Zerocoin and CoinJoin
+Whitepaper
+Advanced ErgoScript Tutorial
+Ergo: A Resilient Platform For Contractual Money (2019)
+ErgoScript, a Cryptocurrency Scripting language Supporting Noninteractive Zero-Knowledge Proofs
+The Ergo Platform Project Overview
+Other
+Ergo Hackathon: Crowdfunded Smart Contract Pools Research and Conceptualization
+
+
+Soft  Power:  Upgrading  Chain 
+Macroeconomic   Policy  Through  Soft  Forks (Dionysis  Zindros)
+Presentations
+ZeroJoin: Combining Zerocoin and CoinJoin
+team@ergoplatform.org
+COMMUNITY
+Join our channels
+Sigmanauts
+Contribute to Ergo
+Hall of Fame
+Ergo Foundation
+GET ERG
+Mining
+Mining Calculator
+Wallets
+Exchanges
+DISCOVER
+Software Releases
+Grants & Bounties
+FAQ
+Explore
+Documents
+ECOSYSTEM
+DApps
+Roadmap
+Wiki
+Ergo Raffle
+Videocasts
+Ergo Platform Â© 
+2024
+Privacy Policy
+Legal
+1 Irving Place, #08/11 The Commerze@irving Singapore (369546)

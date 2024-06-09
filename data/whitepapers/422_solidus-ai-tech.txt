@@ -1,0 +1,111 @@
+I. Introduction | AITECH
+AITECH
+Search
+Ctrl
+â+âK
+Overview
+I. Introduction
+Our Vision
+General Overview of the Project
+ll. AITECH Ecosystem
+Computing Resource Provider
+Software/AI Services Providers
+Government Enterprise Blockchain Solution
+lll. Roadmap
+RoadMap 2023
+About Solidus
+ð
+Market Overview
+ð¤
+Artificial Intelligence
+Artificial Intelligence Marketplace
+AI Marketplace for developers:
+ð
+GPU Marketplace
+ð­
+AITECH Data Center
+ð
+Our Solutions
+ð
+Security
+ð³
+Sustainable Solutions
+AITECH Token
+About AITECH
+Token Sales & Distribution
+Growth Initiatives
+DAO Governance
+MISC.
+Apply for AITECH Pad
+ð¨ð³
+Whitepaper in Mandarin
+ð¥
+Giveaway Campaigns
+$20,000 Airdrop Campaign - by AITECH
+AITECH x CoinMarketCap: $50,000 Airdrop Campaign. Terms & Conditions
+Solidus Ai Tech Website
+CertiK
+Medium.com
+Twitter
+Telegram Chat
+Telegram Announcements
+LinkedIn
+Legal
+Legal Disclaimer
+Powered by GitBook
+I. Introduction
+Links: | 
+Website
+ | 
+CertiK
+ | 
+Medium
+ | 
+GitHub
+ 
+Community:  
+Twitter
+ | 
+Telegram Chat
+ | 
+Telegram - Announcements 
+| 
+Discord
+ | 
+LinkedIn
+ | 
+Instagram
+ 
+Introduction to AITECH
+Solidus has successfully constructed an environmentally conscious, state-of-the-art High-Performance Computing (HPC) Data Centre spanning over 8,000 square feet. This facility is strategically situated in a highly secure European location. In conjunction with this remarkable achievement, Solidus is set to unveil the world's pioneering deflationary AI infrastructure utility token, known as AITECH. This token will serve as a payment gateway for accessing services of the Artificial intelligence & GPU Marketplace.
+AITECH, as the core token fueling the Solidus AI Tech ecosystem, presents a comprehensive solution for procuring all services available on the platform. In addition to facilitating token payments, Solidus offers the convenience of accepting traditional payment methods. The conversion of fiat currency transactions to AITECH occurs seamlessly on the backend, with the entire process conducted on the Blockchain utilizing AITECH tokens. 
+As an integral component of our deflationary token economy, a percentage (yet to be determined) of AITECH tokens utilized for acquiring services on the platform will be systematically burned. This meticulous process ensures the utmost transparency, as the precise number of tokens subjected to burning can be readily monitored through our comprehensive dashboard.
+Dive to the Past
+When Solidus launched in December 2017 as a Ethereum Mining entity, the company has an intimation that Ethereum would very likely move from âproof of workâ to âproof of stakeâ and would no longer be mineable largely due to the aforementioned pending updates and developments in the Ethereum roadmap. Furthermore, the EIP-1559 upgrade will eventually make Ethereum deflationary. The Solidus team knew that this scenario was probable, and pre-emptively opened up channels of communication with our joint venture partner's international clients, these include of Governmental Authorities and Corporations who would likely require AI & HPC services in the future.
+When the data centre and AI & GPU marketplace is complete, Solidus Ai Tech will begin generating revenue from Governmental Authorities, Corporations, SMEs & Web3 & Blockchain companies. The long-term plan is to scale up by building additional data centres across the globe. All of our data centres will follow our unique protocol.
+Solidus Ai Tech Revenue Streams
+AITECH Pad - Launchpad
+GPU Marketplace - High Performance Computing (HPC) Power
+Artificial Intelligence Marketplace
+Artificial-Intelligence-as-a-Service (AIaaS)
+Blockchain-as-a-Service (BaaS)
+AITECH Token Utilities
+Participating in launches of projects on 
+AITECH Pad - Launchpad.
+Accessing services on our AI & GPU marketplace.
+Reward the most popular AI applications in our marketplace.
+Rewards for locking up tokens on our staking platform.
+DAO governance, Voting power proportional to amount of tokens staked.
+Next
+Our Vision
+Last updated 
+12 days ago
+On this page
+Introduction to AITECH
+Dive to the Past
+Solidus Ai Tech Revenue Streams
+AITECH Token Utilities
+ 
+BSC Smart Contract
+: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944
+Disclaimer: This contract address is the official token contract address. Please refer to the above before going ahead with decisions through any third party websites.

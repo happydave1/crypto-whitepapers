@@ -1,0 +1,103 @@
+Welcome to Synthetix | Synthetix V2X - User Docs | Synthetix Docs Collection
+Synthetix Docs Collection
+Synthetix V2X - User Docs
+Synthetix V2X - User Docs
+Synthetix V3 - Developer Docs
+Synthetix V3 - User Docs
+Search
+Ctrl
+â+âK
+Synthetix Protocol
+Welcome to Synthetix
+The Synthetix Protocol
+Synthetix Token (SNX)
+The Role of Stakers
+Oracles
+Synthetix Litepaper
+Synthetic Assets
+Perpetual Futures
+Spot Synths
+Staking
+Current Protocol Parameters
+Staking Guide
+Steps for Staking SNX (via Minting)
+Steps for Unstaking SNX (via Burning)
+Steps for Claiming Rewards
+Automating Staking, Claiming, Burning, and Minting
+Legacy Automated Minting & Claiming
+Understanding the Collateralization Ratio
+Understanding Debt, Minting, and Burning
+Simplified Debt Hedging
+Escrow and Vesting
+Liquidations
+Staking FAQ
+DAO
+Governance Framework
+Synthetix Improvement Proposals (SIPs)
+Synthetix Configuration Change Proposal (SCCPs)
+Spartan Council
+Treasury Council
+Grants Council
+Ambassador Council
+Core Contributors
+Core Contributor Committee
+Staker
+Elections and Voting
+Voting with a Gnosis Safe
+How to write SIP/SCCPs
+V3
+Synthetix v3
+Build on v3
+Synthetix Ecosystem
+Built on Synthetix
+Kwenta - Spot and Perps
+Decentrex - Perps
+Lyra - Options
+Polynomial - Perps and Option Vaults
+1inch/Curve - Atomic Swaps
+Community Infrastructure
+Ecosystem Operations
+integrations
+Perps Integration Guide
+Introduction
+Optimistic Sepolia Testnet Tokens
+Technical Integration
+Perps Subgraph
+General FAQ
+Tracking Codes
+Perps Keeper
+Liquidations
+Useful Links
+Migration Guides
+PerpsV2 Mintaka -> Almach
+FuturesV1 -> PerpsV2 (Mintaka)
+Contract Addresses
+Releases
+Terms of Use
+Brand Assets
+Design Resources
+Powered by GitBook
+Welcome to Synthetix
+Synthetix is a decentralized liquidity provisioning protocol built on Ethereum and Optimistic Ethereum (a layer two scaling solution built on Ethereum). Synthetic assets, and associated products, are collateralized by stakers via Synthetix Network Token (SNX), which when locked in a staking contract enables the issuance of synthetic assets (synths). This pooled collateral model allows users to perform conversions between synths directly with the smart contract, avoiding the need for counterparties. This mechanism solves the liquidity and slippage issues experienced by DEXs. 
+Synthetix liquidity powers a range of derivatives and on-chain financial instruments. You can learn more about the 
+two types of synthetic assets
+ that protocols will integrate to create on-chain derivatives. 
+The Synthetix Protocol does not operate any user-facing front-ends, which allow users to trade. Instead, it serves as a backend liquidity provisioning tool to support user-facing DeFi applications. There is a growing number of protocols that utilize this capital and generate trading fees for stakers. See the 
+"Built on Synthetix"
+ section to learn more.
+We should make clear the distinctions between the different areas of "Synthetix":
+The Synthetix Protocol
+: A suite of smart contracts that provisions liquidity with the input of Synthetix Governance to enable various financial derivative products.
+The Synthetix Staking Interface
+: A web interface that allows for easy interaction with Synthetix Staking and other synthetix products
+Synthetix Governance
+: A representative council system that governs Synthetix. Four staker-elected councils exist Spartan, Treasury, Ambassador, and Grants Council.
+Synthetix Partners & Integrators
+: Protocols listed under the Synthetix Partners and Integrators section have integrated with Synthetix products and liquidity to build user-facing protocols for varying use cases.
+The Greater Synthetix Ecosystem
+: Many additional protocols have spun out of the Synthetix Community or have very close relationships with Synthetix. While these protocols do not directly integrate with Synthetix liquidity, they are closely intertwined with Synthetix. 
+Next
+The Synthetix Protocol
+Last updated 
+4 months ago
+On this page

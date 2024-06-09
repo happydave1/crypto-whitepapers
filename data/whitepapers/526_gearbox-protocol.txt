@@ -1,0 +1,68 @@
+Tech Paper | Gearbox Protocol
+Gearbox Protocol
+Search
+Ctrl
+â+âK
+Overview 
+Link Tree & Dev Docs
+What can you do with leverage 2.0?
+Protocol overview
+How it works
+Credit Accounts
+AllowedList: Integrations
+OLD: V1 and V2
+How to add new Contracts & Assets to AllowedList
+Liquidations
+Reserve Fund
+Protocol Fees
+Tech Paper
+FAQ
+History: DAO-First Launch
+Birth at ETHGlobal MarketMake 2021
+Kovan testing with DegenScore & lobsterdao
+Credit Account Mining
+Early Testers and Discord
+Traders & farmers
+Opening a Credit Account
+Margin Trading: PURE
+Boosted Long/Short or "Free Leverage"
+Leverage Points & Restaking
+Leverage Farming
+One-Click Strategies
+Leveraged liquid staking
+Leveraged stablecoin farming
+Leveraged Curve V2 and Convex
+Leveraged vanilla yVaults
+Arbitrage of correlated assets
+Tips for leverage users
+How to avoid liquidations
+How to close a Credit Account
+PRO: Leverage Bible
+Passive Lending
+Pools & APY
+OLD: V1-V2 Pools
+Dashboard: How to Earn
+GOVERNANCE | DAO
+Main DAO Governance
+Guards [Multisigs]
+Community Delegates
+Quotas and Gauges
+Dashboard: Gauge Voting
+GEAR Token
+Supply Information
+Utility & Staking
+Security & Risks
+Audits & Bug Bounty
+Risks and T&C
+Powered by GitBook
+Tech Paper
+Math and architecture in one technical document.
+The paper below is not as elaborate as the user docs and the dev docs, but if you like LATEX (not the leather costumes, not here) - then enjoy this quick mathematical writeup:
+Previous
+Protocol Fees
+Next
+FAQ
+Last updated 
+5 months ago
+On this page
+Was this helpful?

@@ -1,0 +1,62 @@
+Introduction | bemo liquid staking
+bemo liquid staking
+Search
+Ctrl
+â+âK
+ð
+Welcome to bemo
+Introduction
+What is liquid staking?
+TON staking
+Staking limitations
+Liquid staking
+bemo benefits
+How bemo works
+Staking
+Validation
+Unstaking
+stTON
+stTON explained
+stTON pricing
+ð
+Get Started
+How to stake TON
+FAQ
+Ambassador Program
+ð¦
+Tokenomics
+Incentive Rewards Program
+stXP
+stXP FAQ
+BMO Token
+Legal
+Disclaimer
+Terms of Use
+Privacy policy
+ð
+Support
+Powered by GitBook
+Introduction
+What is bemo?
+bemo
+ is a non-custodial liquid staking protocol built on The Open Network (TON) blockchain. It is the first liquid staking application on TON that allows you to stake native TON tokens and, in return, get stTON tokens which you can use freely in DeFi.
+The price of the stTON token to TON increases with the staking rewards accrued after each validation round by 
+bemo
+ protocol.
+Who is behind bemo?
+The creation of 
+bemo
+ was led by a diverse, skilled team. We are traditional finance professionals, blockchain experts, and software developers. We share a common goal of building investment products that would add value to every user, whether new or native to blockchain.
+
+
+bemo
+ smart contracts were developed by the team standing behind the first retail project launched on the TON - 
+Fanzee
+, an innovative sports fan engagement platform. The tech team has seven years of experience building blockchain platforms and applications.
+Next
+What is liquid staking?
+Last updated 
+2 months ago
+On this page
+What is bemo?
+Who is behind bemo?

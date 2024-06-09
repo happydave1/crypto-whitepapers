@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+Welcome to Synternet | Synternet | Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Learn
+Build with Data Layer
+Data Layer Portal
+Blockchain Explorer
+Welcome to Synternet
+Synternet Data Layer Overview
+The motivation for Data Layer protocol
+High level overview of the protocol
+Synternet Tokenomics
+The Synternet Network Token
+App Chain
+Data Layer
+Token
+Governance
+Actors
+Publisher
+Subscriber
+Broker
+Observer
+Concepts
+Fee structure
+Services
+Decentralized accounting
+Attacks and penalties
+Welcome to Synternet
+Welcome to Synternet
+Introduction
+Synternet is a blockchain that powers modular, interoperable data infrastructure across all major chains. At its core lies the Data Layer, a protocol serving as the customizable execution layer between all blockchains. Designed for efficiency, security, and interoperability, the Data Layer enables a fully decentralized data exchange for developers, organizations, and users. By eliminating dependence on centralized services, Synternet provides swift and seamless access to both real-time and historical on-chain data. Synternet's modular data infrastructure fosters a dynamic ecosystem committed to powering the next generation of decentralized applications while unlocking unprecedented opportunities for innovation.
+Quick links
+Telegram community group
+Telegram announcements channel
+Start building with Data Layer
+Builders Discord group
+Synternet Blog
+Synternet Twitter
+Next
+Synternet Data Layer Overview
+Copyright Â© 2024 Synternet. Built with Docusaurus.
+
+
+
+
+
+
+

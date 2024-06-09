@@ -1,0 +1,80 @@
+C.R.E.A.M. Finance | Ethereum Mainnet | C.R.E.A.M. Finance
+C.R.E.A.M. Finance
+Ethereum Mainnet
+Ethereum Mainnet
+Binance Smart Chain
+Arbitrum
+Polygon
+ 
+Lending
+ 
+Iron Bank
+ 
+API Docs
+ 
+Forum
+Search
+Ctrl
+â+âK
+C.R.E.A.M. Finance
+Contract Address
+Audit Report
+About
+Press Kit
+Lending
+Lending Contract Address
+Collateral Factor & Reserve Factor
+Interest Rate Model
+Price Oracle
+iceCREAM
+iceCREAM Tokenomics
+iceCREAM Mechanism Phase 1
+iceCREAM Mechanism Phase 2
+Developer
+crTokens
+Key Events
+Error Codes
+crTokens
+Comptroller
+Subgraph (GraphQL)
+Testnet
+Data API
+CRETH2
+What is Ethereum 2.0
+Why Stake for CRETH2
+Migration Schedule
+CRETH2 Contract Address
+Legacy
+Swap
+Swap v1
+Swap v2
+Reward Pool Contract Address
+Inactive Staking pools Address
+creamY
+Give Feedback
+Powered by GitBook
+C.R.E.A.M. Finance
+Ethereum Mainnet documentation
+You can switch between Ethereum Mainnet, Binance Smart Chain and Fantom Opera in top-left corner
+Overview
+What is C.R.E.A.M. Finance?
+C.R.E.A.M. Finance is a decentralized lending protocol for individuals and protocols to access financial services. The protocol is permissionless, transparent, and non-custodial.
+Currently, C.R.E.A.M. is live on Ethereum, Binance Smart Chain, and Fantom.
+C.R.E.A.M. Financeâs smart contract money markets are focused on longtail assets -- with the goal of increasing capital efficiency for all assets in crypto markets.
+Users are able to lend any supported assets on our markets, and use the provided capital as collateral to borrow another supported asset.
+C.R.E.A.M. offers a wide range of tokens on our money markets, including: stablecoins (USDT, USDC, BUSD); interest-bearing stablecoins (yCRV, yyCRV); defi tokens (YFI, SUSHI, CREAM, CREAM); LP-tokens (USDC-ETH SLP, WBTC-ETH SLP); and other cryptocurrencies (ETH, LINK). This list is not exhaustive.
+Please check the link below for the latest list of supported tokens:
+page
+Lending Contract Address
+How to use C.R.E.A.M. Finance?
+Borrow and lend tokens on 
+app.cream.finance
+Next
+Contract Address
+Last updated 
+2 years ago
+On this page
+Overview
+What is C.R.E.A.M. Finance?
+How to use C.R.E.A.M. Finance?
+Was this helpful?

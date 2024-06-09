@@ -1,0 +1,407 @@
+
+
+
+
+
+
+IconDev: Elevate Your Digital Presence with Innovative Web Development Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is ICON?
+Getting Started
+How to run a local network
+How to run a Validator node
+How to run an API Endpoint
+How to create an ICON account
+How to write a smart contract
+How to use the JSON-RPC API
+Concepts
+Economics
+Governance
+Network
+Computational utilities
+ICON Stack
+Intro to the stack
+ICON execution environments
+Smart contracts
+ICON networks
+Client APIs
+Storage
+IDEs
+Projects
+BTP & ICON Bridge
+Decentralized applications (dApps)
+ICON Improvement Proposals (IIPs)
+Support
+Support
+Security
+Advanced topics
+Release notes
+2022-04-11
+2021-12-23
+2021-12-20
+2021-12-10
+2021-12-07
+2021-10-22
+2021-10-12
+2021-03-20
+2021-03-04
+2021-02-17
+2020-09-03
+2020-08-27
+2020-08-23
+2020-08-10
+2020-04-08
+2020-01-28
+2019-12-19
+Powered By 
+GitBook
+What is ICON?
+Introduction
+ICON is a general purpose blockchain ecosystem with a focus on linking different blockchains together.
+The purpose of this documentation is to inform technical users, including developers, power-users, and enthusiasts, of how the ICON network is setup and how to utilize the various components of it.
+This is an open-source community effort, so feel free to suggest new topics, add new content, and provide examples wherever you think it might be helpful. Please open a merge request on the 
+Github repository
+, or if you want to be more heavily involved, open an issue to have access to edit via the Gitbook app.
+Topics
+Getting Started
+â
+How to run a local network
+â
+â
+How to run a Validator node
+â
+â
+How to run an API endpoint
+â
+â
+How to create an ICON account
+â
+â
+How to write a smart contract
+â
+â
+How to use the JSON-RPC API
+â
+Concepts
+â
+Economics
+â
+â
+ICX
+â
+â
+STEP
+â
+â
+Staking
+â
+â
+Rewards & Penalties
+â
+â
+Governance
+â
+â
+Delegates
+â
+â
+Network proposals
+â
+â
+Network
+â
+â
+Clients
+â
+â
+API Endpoints
+â
+â
+Validator nodes
+â
+â
+Computation utilities
+â
+â
+Accounts
+â
+â
+Transactions
+â
+â
+Blocks
+â
+â
+Consensus mechanism
+â
+â
+Goloop
+â
+â
+Setup
+â
+â
+CLI
+â
+â
+Maintenance API
+â
+â
+Maintenance metrics API
+â
+ICON Stack
+â
+Intro to the stack
+â
+â
+ICON execution environments
+â
+â
+Java
+â
+â
+Python (deprecated)
+â
+â
+Smart contracts
+â
+â
+Smart contract languages
+â
+â
+Smart contract anatomy
+â
+â
+Building smart contracts
+â
+â
+Testing smart contracts
+â
+â
+Deploying smart contracts
+â
+â
+Composability
+â
+â
+Smart contract security
+â
+â
+ICON networks
+â
+â
+Main network
+â
+â
+ICE network
+â
+â
+Client APIs
+â
+â
+JSON-RPC API
+â
+â
+v3
+â
+â
+Javascript SDK
+â
+â
+Examples
+â
+â
+Python SDK
+â
+â
+Examples
+â
+â
+Java SDK
+â
+â
+Swift SDK
+â
+â
+Examples
+â
+â
+Storage
+â
+â
+IDEs
+â
+Projects
+â
+BTP & ICON Bridge
+â
+â
+Decentralized applications (dApps
+)
+â
+Oracles
+â
+â
+ICON Improvement Proposals (IIPs)
+â
+Support
+â
+Support
+â
+â
+Security
+â
+â
+Advanced topics
+â
+â
+Validator nodes
+â
+â
+Common operation and debug steps
+â
+â
+More on node operation and configuration
+â
+â
+Understanding log files
+â
+â
+How to collect centralized logging
+â
+â
+Backup and restore DB guide
+â
+â
+How to setup a 'keystore' on a Validator node'
+â
+â
+How to bond
+â
+â
+API Endpoints
+â
+â
+Common operation and debug steps
+â
+â
+Goloop
+â
+â
+Genesis transaction file format
+â
+â
+Genesis transaction storage
+â
+â
+Java smart contracts
+â
+â
+Allowed methods
+â
+Release Notes
+â
+2022-04-11
+â
+â
+2021-12-23
+â
+â
+2021-12-20
+â
+â
+2021-12-10
+â
+â
+2021-12-07
+â
+â
+2021-10-22
+â
+â
+2021-10-12
+â
+â
+2021-03-20
+â
+â
+2021-03-04
+â
+â
+2021-02-17
+â
+â
+2020-09-03
+â
+â
+2020-08-27
+â
+â
+2020-08-23
+â
+â
+2020-08-10
+â
+â
+2020-04-08
+â
+â
+2020-01-28
+â
+â
+2019-12-19
+â
+Next - Getting Started
+How to run a local network
+Copy link
+Contents
+Introduction
+Topics
+
+
+
+
+
+
+

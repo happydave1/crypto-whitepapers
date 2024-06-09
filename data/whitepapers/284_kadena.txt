@@ -1,0 +1,396 @@
+Kadena resources | Kadena Docs
+Skip to main content
+Learn
+Build
+Deploy
+Participate
+Tutorials
+Reference
+Learn
+Introduction
+What is a blockchain?
+Why build on a blockchain?
+Cryptography
+Why Kadena
+Consensus
+Chainweb simplified
+Accounts, keys, and principals
+Glossary
+Kadena FAQ
+Resources
+Build
+Introduction
+Explore the blockchain
+Deploy your first contract
+Build with kadena-cli
+Smart contracts
+Get started with Pact
+Set up a local network
+Hello World
+Explore language basics
+Modules
+Keysets
+Schemas and Tables
+Develop using Atom SDK
+Accounts and Transfers
+Contract Interaction
+Rotatable Wallet
+Loans
+Test in the SDK
+Deploy to a local server
+Pact and JavaScript
+Safety
+Interfaces with Pact
+Built in Functions
+Advanced concepts
+Non-fungible tokens (NFT)
+What is Marmalade?
+Get started with Marmalade
+Contract architecture
+Describe tokens in metadata
+Store digital assets
+Create a non-fungible token
+Create a token collection
+Policies
+Use concrete policies
+Explore example policies
+Create custom policies
+Sales
+Sale options
+Auctions
+Start a sale
+Create an auction
+Frontend frameworks
+Kadena client
+Query building with GraphQL
+Authenticate accounts
+Authentication overview
+Register an account
+Integrate decentralized apps
+Create transactions
+Recover accounts
+Code templates
+Workshop: Election application
+Welcome
+Prepare your workspace
+Start a local blockchain
+Add administrator account
+Define a namespace
+Define keysets
+Write a smart contract
+Nominate candidates
+Add vote management
+Add a gas station
+Workshop: Faucet application
+Workshop: NFT marketplace
+Welcome
+Prepare your workspace
+Deploy token contracts locally
+Define a collection
+Upload assets
+Upload assets
+Create and mint tokens
+Configure an offer
+Bid and buy
+Receive funds
+Deploy
+Introduction
+Get started as a Chainweb operator
+Compact a Chainweb node database
+Troubleshoot Chainweb
+Start Mining
+Participate
+Introduction
+Run a Chainweb node
+Interact with nodes
+Contribute to documentation
+Exchanges
+Wallets
+Custody options
+Use Kadena SpireKey
+Get started with Chainweaver
+Use Ledger hardware wallet
+Tutorials
+Introduction
+Set up a local network
+Hello World
+Language Basics
+Pact and JavaScript
+Reference
+Introduction
+Syntax and keywords
+Pact functions
+Introduction
+General
+Database
+Time
+Operators
+Keysets
+Capabilities
+SPV
+Commitments
+Guards
+ZK
+REPL-only functions
+Property validation
+Validate smart contract code
+Properties and invariants
+Numerical operators
+Bitwise Operators
+Object Operators
+Logical operators
+List Operators
+String Operators
+Temporal Operators
+Quantification Operators
+Transactional Operators
+Database Operators
+Authorization Operators
+Function Operators
+Other Operators
+Sequenced pacts
+Pact REPL
+Pact REST API
+Command-line interface
+Common options and flags
+kadena account
+kadena config
+kadena dapp
+kadena key
+kadena network
+kadena tx
+kadena wallet
+Frontend libraries
+Client libraries
+Client utilities
+Pactjs
+Pactjs-cli
+Pactjs-generator
+Cryptographic utilities
+NFT marketplace reference
+Ledger
+Policy manager
+Policy manager contract
+Collection Policy
+Guard Policy
+Non-fungible policy
+Royalty policy
+Sales-specific contracts
+Create a sale contract
+Conventional auction
+Dutch auction
+Kadena SpireKey technical specifications
+Chainweb API
+Introduction
+Node client
+Streaming client
+Bindings and types
+Learn
+Resources
+Edit this page
+Last updated 
+2024-05-31
+ 
+
+
+Kadena resources
+
+
+This page provides official links to help you find information about Kadena, including where you can find whitepapers, blog pos article, press releases, and brand guidelines. For information about the Kadena team, see 
+About Kadena
+ on the main Kadena website.
+
+
+Whitepapers
+
+
+Kadena has published several whitepapers detailing important aspects of the Chainweb protocol, the Pact smart contract language, and the Kadena public blockchain. You can download these white papers from the main 
+Kadena
+ website.
+
+
+For more information about Chainweb, see the following resources:
+
+
+
+
+How Chainweb Works: A Simple Animation
+
+
+Kadenaâs Public Blockchain 101
+
+
+Original Chainweb whitepapers
+
+
+How to scale a Proof of Work Blockchain
+
+
+
+
+For more information about Pact, see the following resources:
+
+
+
+
+Safer, Smarter Contracts with Pact
+
+
+Pact Smart Contract Language
+
+
+Pact GitHub
+
+
+Pact Language Reference
+
+
+
+
+Note that the links to older articles or whitepapers are provided for convenience and historical context, but might contain information that is out-of-date.
+
+
+Articles
+
+
+To browse recent articles, see the Kadena 
+Blog
+ on the main Kadena site.
+
+
+Videos
+
+
+To view video presentations, live streamed sessions, and playlists, subscribe to the 
+Kadena YouTube
+ channel.
+
+
+Developer program
+
+
+Kadena's Developer Program is designed to help committed developers build high-impact applications for deployment on the Kadena network. The program is open to professional developers and organizations, blockchain enthusiasts, and students. The program offers:
+
+
+
+
+
+
+Dedicated technical support with access to live support channels with Kadena core developers and Pact smart contract authors.
+
+
+
+
+
+
+10,000 free transactions with gas station funding to cover transaction fees and streamline user onboarding.
+
+
+
+
+
+
+Application launch support to leverage the Kadena brand, community, and network to amplify awareness of your project.
+
+
+
+
+
+
+To apply, contact Jeffrey on Discord (Jef_f#2495) or Telegram (@SpaceJeff) to start your enrollment.
+
+
+Media kit
+
+
+To view press releases and download branding assets, see the 
+Media kit
+ on the main Kadena website.
+
+
+Technical grants
+
+
+To view information about or apply for a technical grant, see the 
+Kadena Grants Program
+ on the main Kadena website.
+
+
+Social media
+
+
+To follow Kadena on social media, use the following official links:
+
+
+
+
+
+
+X (Twitter)
+
+
+
+
+
+
+Discord
+
+
+
+
+
+
+Youtube
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+Github
+
+
+
+
+
+
+ 
+
+
+ 
+Edit this page
+previous:
+Kadena FAQ
+next:
+Build with Kadena
+Was this page helpful?
+Receive important developer updates
+Subscribe
+On this page
+Whitepapers
+Articles
+Videos
+Developer program
+Media kit
+Technical grants
+Social media
+Kadena.io
+Privacy Policy
+Terms and Conditions
+Code of Conduct
+Changelogs
+Copyrights 2023 Â© Kadena LLC

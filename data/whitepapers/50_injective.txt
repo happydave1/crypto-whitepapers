@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+Injective Documentation | Injective Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Injective
+Learn
+Develop
+Trade
+Nodes & Validators
+Resources
+Injective
+GitHub
+Search
+Injective Documentation
+Learn
+Develop
+Trade
+Nodes & Validators
+Resources
+Injective Documentation
+On this page
+Injective Documentation
+Injective is a lightning-fast, interoperable, layer one blockchain optimized for building premier Web3 financial applications. Injective provides developers with robust plug-and-play modules such as a fully decentralized orderbook, binary options, real-world asset (RWA) module, and more, allowing developers to build a diverse array of sophisticated applications.
+Getting Started
+â
+Dive straight into Injective with examples or set up your tooling.
+Getting Started
+Download the binaries and build your first dApp on Injective.
+Developer Tooling
+Explore SDKs and APIs available for developers.
+Injective Modules
+Learn about the building blocks that power Injective.
+Explore Injective
+â
+Learn why Injective is the number one blockchain to build financial dApps.
+What is Injective?
+Injective is an open, interoperable, layer-one blockchain for building powerful DeFi applications.
+Injective Hub
+The platform and gateway that allows you to interact directly with the Injective ecosystem.
+Basic Concepts
+Learn all about the fundamentals of Injective, including the INJ coin, gas, fees, wallets, and more.
+Join the Injective Community
+â
+Meet other builders in the Injective ecosystem.
+Developer Chat
+Chat with Injective developers on Discord.
+Found an Issue?
+Help us improve this page by suggesting edits on GitHub.
+Injective Forum
+Discuss governance proposals with builders.
+Next
+Learn
+Getting Started
+Explore Injective
+Join the Injective Community
+Injective
+Hub
+Explorer
+Blog
+Community
+Blog
+Injective Forum
+Discord
+Reddit
+Social
+Twitter
+Youtube
+LinkedIn
+Medium
+Copyright Â© Injective since 2021. All rights reserved 
+Injective
+
+
+
+
+
+
+

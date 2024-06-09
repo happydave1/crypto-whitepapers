@@ -1,0 +1,176 @@
+Overview | AltLayer Documentation
+AltLayer Documentation
+Ask or Search
+Ctrl
+â+âK
+ð
+Welcome
+Overview
+Restaked Rollups
+VITAL for Decentralised Verification
+Tier-1 Finality
+Tier-2 Finality
+Tier-3 Finality
+MACH for Faster Finality
+Interoperability via MACH
+SQUAD for Decentralised Sequencing
+Staking of dApp Token
+â¾ï¸
+AltLayer-Facilitated Actively Validated Services
+Overview
+AltLayer MACH AVS for OP Mainnet
+Operator Guide
+User Delegation Guide
+Xterio MACH AVS for Xterio Chain
+Operator Guide
+User Delegation Guide
+DODOchain MACH AVS for DODO Chain
+Operator Guide
+User Delegation Guide
+Cyber MACH AVS for Cyber L2
+Operator Guide
+User Delegation Guide
+ð¥©
+ALT Restaking
+Staking Info & Parameters
+Restake ALT
+Delegating reALT
+Check and Claim Staking Rewards
+Unstake ALT
+Migration from Xterio (Legacy) ALT Pool to Xterio Restaked ALT Pool
+Rollup-as-a-Service
+What is Rollup-as-a-Service (RaaS)?
+AltLayer's RaaS Offering
+RaaS Onboarding Guide
+Optimism Rollup FAQ
+Arbitrum Rollup FAQ
+AltLayer Ecosystem
+Clients in the Spotlight
+Pricing Model
+Rollup Launchpad
+Getting Started with AltLayer's RaaS Dashboard (Free Trial)
+Creating Rollup (Dev tier)
+Creating Rollup (Restaking Tier)
+Prerequisite - Restake with EigenLayer
+Launching Restaking Trial flash layer
+Toolings
+Web IDE
+FlashGPT
+Creating Flash Layer
+Create and deploy smart contract
+API and SDKs
+Endpoint and API key
+Creating Flash Layer
+Get Flash Layer info
+Terminate Flash Layer
+Public Testnets
+OP EigenDA Testnet
+OP Avail Testnet
+Nitrogen (Orbit Celestia) Testnet
+Discovery (Orbit EigenDA) Testnet
+MACH Alpha for inEVM
+External Integrations
+Account Abstraction using Biconomy
+Data Availability (DA) using Celestia
+Enabling permissionless interoperability on AltLayer Rollup with Hyperlane
+Deplying Hyperlane Warp Routes for ERC20 Token Bridging
+Running Off-chain Agents
+Setting up the bridging UI
+Cross-chain Interoperability using Celer
+Fungible Token Bridging
+Non-fungible Token Bridging
+Generic Message Passing
+cBridge SDK
+AltLayer's In-House Rollup Stack in Depth
+How does AltLayer's in-house rollup stack work?
+Decentralized Sequencer Set
+Security via Fraud Proof
+Rollup Types
+Flash Layer Rollups
+Example Use cases
+NFT Mint Events
+Games
+Event Ticketing
+Persistent Rollups
+Core Features of AltLayer's In-House Rollup Stack
+Modular
+Elastic
+Multi-VM Support
+Fraud Proofs
+Decentralized Sequencers
+Tiered-Finality
+FlashLayer Showcase
+AltLayer's POAP NFTs Collection Mint
+Performance Test in the Wild
+Dark Forest Community Round
+Oh Ottie! NFT Collection Mint
+Dark Forest Community Round for Jump Crypto's Pit Event
+Ottie 2048
+Other demos
+Fraud Proof Demo
+Flash Layer Demo
+Rollup Launchpad Demo
+FlashGPT Demo
+Implementation Status
+Development Status
+Community & Support
+Community
+Support
+Powered by GitBook
+Overview
+What is AltLayer?
+AltLayer is an open and decentralised protocol for rollups. With AltLayer, we bring together a novel idea of 
+Restaked rollup
+ which takes existing rollups (spun from any rollup stack such as OP Stack, Arbitrum Orbit, ZKStack, Polygon CDK, etc.) and provides them with enhanced security, decentralisation, interoperability and crypto-economic fast finality.
+Restaked rollups combines the ease of spinning up rollups using rollup stacks such as OP Stack, Arbitrum Orbit, ZKStack by ZKSync, Polygon CDK and others with the power of EigenLayer's restaking mechanism to bootstrap network security and build a decentralised network. 
+Restaked rollups are essentially a set of three vertically integrated 
+Actively Validated Services
+ (AVSes) created on-demand for a given rollup that works with any underlying rollup stack. These AVSes in conjunction offer three key services to rollups in particular to app-specific rollups:
+Verification of rollups' state correctness
+Faster finality 
+Decentralised Sequencing 
+The above services are provided via three modular components called:
+VITAL (AVS for decentralised verification of rollupâs state)
+MACH (AVS for fast finality)
+SQUAD (AVS for decentralised sequencing)
+Built on top of this protocol, AltLayer offers a versatile, 
+no-code Rollups-as-a-Service (RaaS) launchpad
+ that allows not only developers but also those with little to no coding experience to spin up a customised rollup within 2 minutes with only a few simple clicks. The RaaS product is designed for a multi-chain and a multi-VM world and hence will have factory support for EVM as well as WASM. It also supports different rollup SDKs such as OP Stack, Arbitrum Orbit, Polygon zkEVM, ZKSync's ZKStack and Starkware, different shared sequencing services such as Espresso and Radius as well as different DA layers such as Celestia EigenLayer and Avail among many other modular services at different layers of the rollup stack.
+In addition to this, a key innovation that AltLayer brings to the rollup design space is the idea of 
+ephemeral rollups
+. With ephemeral rollups, a dApp developer expecting an increase in demand for his application could: 1) quickly spin up a fast and scalable application-tailored rollup secured by a Layer 1, 2) use the rollup for as long as needed, and then 3) dispose of the rollup by doing an âend-of-lifeâ settlement on the Layer 1. Ephemeral rollups are a highly resource-optimised rollup that gives developers the best of an application-specific rollup and a general purpose Layer 1. Under the RaaS umbrella, AltLayer offers both ephemeral as well as persistent rollups. 
+
+AltLayer protocol can save considerable capital and years of development work for teams and encourage innovation and rapid experimentation while being fully open and permissionless.
+Why AltLayer?
+We believe in a world of thousands of rollups, some designed for general-purpose usage such as Arbitrum One, Optimism Mainnet, ZKSync etc., while others designed for application-specific usecases, built using heterogenous and modular tech stacks. For instance, one rollup could be built using Arbitrum Orbit, while using Arbitrum One as the DA and the settlement layer, while another could be built using ZK Stack using Celestia as the DA layer and Ethereum as the settlement layer. 
+In this world of heterogeneity, there is a need to have a universal and neutral protocol that these rollups can tap into for different essential needs that include but are not limited to:
+Decentralised Verification for Instant Withdrawals as well as Security
+Faster Finality & Cross-Rollup Interoperability
+Flexible and Decentralised Sequencing
+Problem 1 (Why  Decentralised Verification?): 
+Optimistic rollups are secure under the assumption that there is at least one honest party that checks that the state committed by the rollup operators on Ethereum indeed corresponds to the correct execution of the state transition function on a set of transactions and the previously validated state. 
+Many app-specific rollups however may not have an ecosystem as mature as that of popular general-purpose rollups and as a result there may not be enough ecosystem participants with the implicit incentive to validate the network. 
+Moreover, there is an emergent category of using an optimistic pattern in L1 Ethereum smart contracts - where someone commits to the output of the computation â and then can be fraud proven. Another example would be ephemeral rollups introduced by AltLayer, where rollup sequencers commit the state of the rollup to Ethereum at the time of settlement where the state represents the result of an off-chain computation on a rollup for a certain application such as a Dark Forest. With these on-demand systems, having a decentralised network of verifiers that can detect and challenge a rollupâs state becomes extremely important.
+Verification is not just critical for the security of a rollup system but it is also equally important to ensure interoperability. In fact, underpinning any cross-domain messaging is the need to be able to verify the state of a system to ensure that a follow-up action can be taken on another independent system.
+Problem 2 (Why Faster Finality?)
+Ethereum is the most decentralized network with almost 
+1M validators
+. Itâs also the network with the 
+most liquidity
+ so it is not surprising that Ethereum is the settlement layer of choice for most rollups today. However, Ethereum as a network is not the fastest of all to finalize and settle transactions as it takes about 13 minutes for a transaction to be finalized.
+Given the time it takes for a transaction to be finalized, app-specific rollups that are designed to serve latency-sensitive applications such as games and social apps often end up relying on the promise provided by the sequencer that at some point in the future, it will post transactions on-chain. 
+This could be acceptable in scenarios where the rollup sequencer is operated by a trusted party, but, the sequencerâs promise is certainly not worth much when there is no trust in the entity operating the sequencer. Moreover, as these centralised sequencers have no economic stake, the soft finality guarantee offered by them has no economic backing. 
+Moreover, as the finality guarantees provided by the sequencer are not strong, the receipt generated by the sequencer is not enough for interoperability. For example, for a burn on rollup A and mint on rollup B style cross-rollup message, rollup B needs to have strong guarantees that the sequencer for rollup A has indeed burnt a certain number of tokens on the rollup A. 
+Problem 3 (Why Decentralised Sequencing?)
+Most rollups today operate with centralised sequencers operated by the entity that developed the protocol. Even though it is not ideal to have a single sequencer operate a rollup, having a centralised sequencer is somewhat acceptable for a well-established general-purpose rollup as there is some trust in the entity running the sequencer to not engage in activities that would undermine its reputation. This off-protocol trust, however, cannot be extended to the long-tail of app-specific rollups potentially operated by potentially anonymous developers with no prior reputation.
+Another issue related to centralised sequencing is related to RaaS providers. Although RaaS providers offer an immensely useful service and can help save substantial financial and manpower resources for teams planning to launch a rollup. Their business model however heavily relies on the existence of centralised sequencing and execution. Most if not all RaaS providers charge a portion of the sequencing revenue and as a result, for business viability reasons, they are encouraged to lock their clients for as long as possible. Vendor locking comes with platform risks where a popular RaaS provider may unilaterally decide to dictate the fee model or extract arbitrary MEV to maximise its profits.  
+Moreover, the centralised sequencer/executor model in which most RaaS providers operate today is not ideal as they present a closed environment which in principle is against the ethos of openness, transparent, and decentralised web3.
+AltLayer aims to address these problems by building a set of AVSes to serve each rollup and yet give flexibility to dApp builders in deciding how to select AVS operators, how to reward them rules that the operators need to follow and set a corresponding slashing rule in case they do not follow the protocol.
+Next
+VITAL for Decentralised Verification
+Last updated 
+1 month ago
+On this page
+ 
+What is AltLayer?
+Why AltLayer?

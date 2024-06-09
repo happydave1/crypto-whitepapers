@@ -1,0 +1,164 @@
+Preface | Highstreet Whitepaper
+Highstreet Whitepaper
+Search
+Ctrl
+â+âK
+Welcome to Highstreet!
+ð¤
+Preface
+â¹ï¸
+Disclaimer
+ð®
+Intro to Highstreet World
+ðºï¸
+Roadmap & Milestones
+Highstreet World
+ð¥ï¸
+Platforms
+ð
+Our Universe
+ðï¸
+Freshmint Island
+ð
+Highstreet City
+ð«
+Highstreet Campus
+ð¨
+FOMO Eden
+ð¢
+The Solarium
+ð¾
+Animoca Archipelago
+Animoca RVs
+ð
+Highstreet Land
+ð
+AVAX Alps
+ðï¸
+Binance Beach
+ð¹ï¸
+Game Features
+ð
+Exploration
+ð¢
+Solera Express
+ð¹
+Solarboards
+âï¸
+Combat
+ð¾
+Monsters
+ð²
+Highstreet City Monsters
+ð¦
+Night Bandit
+ð
+Rat Dawg
+ð
+Shroomingo
+ð¸
+PomPom
+ð¤
+ADA Maintenance Bot
+ð
+Mushie
+ð
+City Drake
+ð²
+BB Drake
+ð§­
+Game Mechanics
+â¬ï¸
+Level Progression
+ðï¸
+Key Items
+ð§¤
+CPG (Crystal Powered Gauntlet)
+ð
+QuackPack
+ð 
+Highstreet Homes
+ð²
+Highstreet Pets
+ð«
+Social
+ð
+Limited Events
+ð¤
+Branded Events
+ECONOMY
+ð³
+HIGH Token and StreetCred
+ðµ
+In Game Economy
+ðª
+A Tale of Two Tokens
+ð§âð«
+Currency Visualization
+Additional Information
+ð
+Key Terms
+Powered by GitBook
+ð¤
+Preface
+Highstreet
+ is a decentralized Metaverse and MMORPG where brands, both traditional and crypto, can use our platform to seamlessly integrate and build their presence in 
+Highstreet World
+.
+ 
+From day one, 
+Highstreet
+ has striven for interoperability, partnering with major thought leaders to integrate with our "metaverse as a service" layer.
+Beyond crypto projects, brands like 
+Balenciaga
+ and 
+LVMH
+ are extending their reach as well, to virtual worlds in order to expand to new markets. With the rise in popularity of NFTs, many brands are further tapping into the on-chain industry 
+Adidas
+ with their very own Bored Ape, and even 
+Harvey Nichols
+ with their own NFT drops. It is without a doubt that the future of retail and commerce is entertainment.
+However brands are not equipped to build and develop full-scale games, and this is the opportunity 
+Highstreet
+ is seizing to define the next generation of shopping. With 
+Highstreet Marketplace
+, both established and new brands can leverage 
+Highstreet
+ and seamlessly establish virtual storefronts both on Web3 and within the Metaverse. 
+Highstreet World
+ itself is an open-world MMORPG experience where the vast majority of in-game items are products by real brands.
+Iâm so proud to showcase our vision to you and hope this whitepaper gets you as excited about what weâre building as we are.
+These signals are all around us transmitting and sharing information about us through a data highway that together forms an infrastructure we know today as the the internet, or Web2. Although these applications empowered us with superhuman abilities that monumentally enhanced our productivity and in turn quality of life, they can still be improved upon. 
+Humans exist in three dimensions, yet we've grown accustomed to interacting with and manipulating data through two-dimensional screens. This transition often results in the loss of valuable information and experiences.
+The Metaverse leverages immersive technologies such as Game Engines and AR/VR Headsets to provide a more natural and holistic way to visualize the internet.
+At Highstreet, we wholeheartedly embrace this concept of human-machine interaction and integrate it into our commerce-centered MMORPG. Our vision for Highstreet World is to create an alternative to the real world where players can choose to reside.
+In pursuit of this vision, we have placed a strong emphasis on Virtual Reality, commerce, and the concept of Phygital, blending the physical and digital realms.
+We understand that the current capabilities of Virtual Reality may seem somewhat limited. However, the rapid advancements in headset technology, including their shrinking size, are being complemented by the concurrent development of a wide range of peripheral devices such as haptic feedback suits and omnidirectional treadmills. Based on this progress, we hold the belief that within the next five years, Mixed Reality devices will become commonplace in households, with at least one device in many homes.
+Commerce is the backbone of every healthy economy, in order for Highstreet World to be sustainable, progression through the game must be tied to trade, and as such the mechanism in which in-game assets are created and obtained must be meticulously designed from day one. 
+Phygital products, the combination of physical and digital items is one of the elements that make Highstreet World so unique. While NFTs and digital assets have been blown out of proportion by mainstream media and celebrities, their real benefits are often overlooked. By introducing Physical elements to our in-game assets we establish a mental baseline floor price for the assets making them easier to comprehend and stomach for people who are not ready to fully embrace purely digital assets. 
+Furthermore by establishing a digital twin to a physical product we can provide limitless additional utilities to it elevating its overall value. Finally Phygital gives us the opportunity to invite brands from the real world to participate in our nascent economy. With many marques and maisons already looking into digital assets, this sets the foundation for products to freely flow in and out of Highstreet World, establishing the potential for scale in the future while simultaneously bringing us into Web3. 
+An MMORPG takes much longer to build than any other genre of games, however while analyzing competing Metaverse development companies, it quickly becomes apparent why it is necessary. 
+Digital chat rooms with UGC sandboxes like Horizon Worlds and Decentraland can be quick to spin up, but because the technology for drag and drop game development are still quite limited the resulting experiences often fail to generate user retention and traction with brands. 
+Furthermore without a captivating story and player progression, it is hard to keep players engaged and sustained in disbelief. Thus Highstreetâs core foundation must be an MMORPG.
+Travis Wu, Co-Founder
+About Highstreet
+Highstreet is a commerce-centered metaverse integrating shopping with gaming. While products from brands bring an endless supply of cosmetics, bridging character customizations with real world fashion, an MMORPG backbone further adds utility to them, allowing players to craft unique NFTs to either profit or elevate their gameplay. 
+As Highstreetâs phygital products continue to gain traction both online through E-commerce storefronts like Shopify and offline through various department stores around the world, Highstreetâs Metaverse grows steadily through land sales to brand partners; accumulating new stories to be shared and discovered by players around the world.
+Website
+ | 
+Twitter
+ | 
+Telegram
+ | 
+Discord
+ | 
+Facebook
+ | 
+YouTube
+ | 
+Instagram
+Next
+Disclaimer
+Last updated 
+7 months ago
+On this page

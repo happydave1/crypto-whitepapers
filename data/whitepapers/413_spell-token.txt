@@ -1,0 +1,73 @@
+Introduction | Abracadabra English ð¬ð§ | User's Documentation
+User's Documentation
+Abracadabra English ð¬ð§
+Abracadabra English ð¬ð§
+Abracadabra Spanish ðªð¸
+Abracadabra Turkish ð¹ð·
+Abracadabra Portuguese ð§ð·
+Abracadabra Italiano ð®ð¹
+Abracadabra Chinese ð¨ð³
+Search
+Ctrl
+â+âK
+ð§ââï¸
+Introduction
+Using Abracadabra
+Cauldrons
+Borrow
+Leverage
+GMX V2 Cauldrons
+Deprecated Markets
+Liquidations
+My Positions
+Stake
+sSPELL
+mSPELL
+magicGLP
+magicAPE
+magicLVL
+Tools
+Markets
+Farms
+Swap
+MIM Beaming
+â¨ Blast Gold Points â¨
+MIMSwap
+Swapping assets
+Providing Liquidity
+Tokens
+Tokenomics
+Omnichain MIM
+Our Ecosystem
+Bug Bounties
+Governance
+Our Contracts
+Useful Links
+Marketing Material
+ð¤
+Developers Documentation
+Powered by GitBook
+ð§ââï¸
+Introduction
+Abracadabra.money 
+is a Omnichain DeFi lending platform that works its magic by utilizing interest-bearing tokens as collateral to mint Magic Internet Money, a USD-Denominated stablecoin.
+A lot of assets today are interest-bearing, Abracadabra unlocks the capital of these assets allowing users to take out USD-denominated loans while the collateral keeps earning yield.
+Abracadabra also offers staking strategies allowing non-yielding assets to start earning yield in a very simple and efficient way.
+Abracadabra offers multiple services to its users, each section will explain how these product work. 
+If you still have any questions or issues, feel free to ask us anything on 
+Discord
+ 
+or 
+telegram
+.
+Next
+Cauldrons
+Last updated 
+2 months ago
+On this page
+Borrow MIM
+Leverage with MIM
+Stake - Yield
+Beam MIM - Bridging 
+Security 
+Contract deployment addresses

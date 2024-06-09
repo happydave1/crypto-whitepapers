@@ -1,0 +1,527 @@
+Aragon Legacy Documentation | Aragon Legacy Documentation | Aragon User Documentation
+Aragon Legacy Documentation
+Aragon Legacy Documentation
+ðªð¸ DocumentaciÃ³n de el usuario de Aragon
+ð«ð· Documentation utilisateur Aragon
+ð¯ðµ Aragonã¦ã¼ã¶ã¼åããã­ã¥ã¡ã³ã
+ðµð¹ Aragon DocumentaÃ§Ã£o do utilizador
+ð®ð³ à¤à¤°à¤¾à¤à¥à¤¨ à¤¯à¥à¤à¤° à¤¡à¥à¤à¥à¤¯à¥à¤®à¥à¤à¤à¥à¤¶à¤¨
+ 
+These products have been deprecated and are no longer being maintained. For a better experience and support, please check out our new stack Aragon OSx.
+Search
+Ctrl
+â+âK
+ð·
+Aragon
+Aragon Legacy Documentation
+Aragon Values, Finances, and Legal
+Legal and technical infrastructure
+Financial infrastructure
+Meet your DAO support network
+Learn about DAOs
+What is a DAO?
+Why do we need DAOs?
+What is decentralized autonomous governance?
+What is the AN DAO?
+TAO Voting
+Why use Aragon to build a DAO?
+ð
+Products
+Prerequisites
+Quickstart
+Setting up a Metamask Wallet
+Getting started with Ethereum
+Getting started with Goerli Testnet
+Getting started with Polygon
+Getting started with Mumbai Testnet
+Getting started with Harmony
+Getting started with Harmony testnet
+Getting started with Metis Andromeda
+Getting started with Stardust Testnet
+Getting started with BSC Testnet
+How to sign a transaction?
+Import your seed wallet to Metamask
+Gas Tracker
+Setting up a Frame Wallet
+Setting up a Gnosis Safe MultiSig Wallet
+Aragon Client
+What is Aragon Client
+How to create a DAO
+Templates
+Using the Company Template
+Using the Membership Template
+Use the Reputation template
+How to create a DAO on Polygon
+How to create a DAO on Harmony
+How to navigate your DAO
+Home
+The Apps
+Tokens App
+Voting App
+Finance App
+Agent App
+How to install the Agent App in your DAO
+Using Agent with Frame
+System Setting
+Permissions Setting
+App Center
+Organization Setting
+After you've started a DAO
+How to change the Quorum of your DAO
+Change Quorum using Aragon Console
+Change Quorum using EVMcrispr
+How to create a Legal Wrapper for your DAO with Otoco
+How to Operate your DAO from your Mobile Phone
+How to Brick your DAO ð§±
+Aragon Govern
+What is Aragon Govern?
+How to create a Govern DAO
+Navigate into your Govern DAO
+How to mint and assign DAO tokens to others
+How to deposit funds
+Challenging a transaction
+Reasons for the delay period in the transaction
+Collateral for scheduling or challenging a transaction. Why?
+Acting as a guardian for an Aragon Govern dispute
+Using the Client DAO with the Govern DAO
+Aragon Voice
+What is Aragon Voice?
+Creating a voting proposal
+Creating a voting proposal using your token
+Voting on a proposal
+Aragon Vocdoni
+What is Aragon Vocdoni
+Creating a Vodconi organization
+Accessing your Vocdoni organization
+Navigating your Vocdoni organization
+Creating a voting proposal
+Voting on a proposal (anonymous voting disabled)
+Voting on a proposal (anonymous voting enabled)
+Aragon Court
+What is Aragon Court
+Court Dashboard
+Dispute lifecycle
+Acting as guardian for a dispute
+Glossary
+ð ï¸
+Developers
+Legacy Developer Documentation
+General Tools
+The Basics
+Before starting
+Quick start
+Tech Stack
+App permissions
+Forwarding
+Upgradeability
+Package management
+Templates
+Aragon client
+Human readable transactions
+Guides
+How to create your first custom DAO using Aragon CLI!
+How to use the Agent App
+Installing Aragon Agent from aragonCLI
+Setting and Checking permissions
+Interacting with Aragon Agent
+How to build your first Aragon App!
+How to publish an Aragon App to aragonPM
+How to migrate existing Aragon App to Buidler plugin
+How to change the Quorum of your DAO
+Change Quorum using Aragon Console
+Change Quorum using EVMcrispr
+Deploying Aragon Client in new Chains
+Deployments information
+Harmony testnet
+BSC Tesnet
+Harmony
+Metis stardust
+Metis Andromeda
+How to Brick your DAO ð§±
+How to sign with Web3 providers
+Setting up a Metamask Wallet
+Import your seed phrase into Metamask
+Import your private key into Metamask
+Sign a transaction with Metamask
+Setting up a Frame Wallet
+Sign a Transaction with Frame
+Troubleshooting
+aragonOS
+Introduction
+Motivations
+Developing with aragonOS
+Reference documentation
+Migrating to aragonOS 4 from aragonOS 3
+Reference (aragonOS 3)
+Smart Contract References
+ACL
+ACL
+ACLSyntaxSugar
+ACLHelpers
+IACL
+IACLOracle
+APM
+APMNamehash
+APMRegistry
+APMInternalAppNames
+Repo
+APPS
+AppProxyBase
+AppProxyPinned
+AppProxyUpgradeable
+AppStorage
+AragonApp
+UnsafeAragonApp
+COMMON
+Autopetrified
+ConversionHelpers
+DelegateProxy
+DepositableDelegateProxy
+DepositableStorage
+EtherTokenConstant
+IForwarder
+IForwarderFee
+IVaultRecoverable
+Initializable
+IsContract
+Petrifiable
+ReentrancyGuard
+SafeERC20
+TimeHelpers
+Uint256Helpers
+UnstructuredStorage
+VaultRecoverable
+ENS
+ENSConstants
+ENSSubdomainRegistrar
+EVMSCRIPT
+EVMScriptRegistry
+EVMScriptRunner
+IEVMScriptExecutor
+IEVMScriptRegistry
+EVMScriptRegistryConstants
+ScriptHelpers
+EVMSCRIPT/EXECUTORS
+BaseEVMScriptExecutor
+CallsScript
+FACTORY
+APMRegistryFactory
+AppProxyFactory
+DAOFactory
+ENSFactory
+EVMScriptRegistryFactory
+KERNEL
+IKernel
+IKernelEvents
+Kernel
+KernelAppIds
+KernelNamespaceConstants
+KernelProxy
+KernelStorage
+aragonCLI
+Introduction
+Main commands
+DAO commands
+APM commands
+IPFS commands
+Global configuration
+aragonPM
+Introduction
+Architecture
+Reference documentation
+aragonAPI
+Introduction
+Javascript
+Quick Start
+App API
+React API
+Wrapper
+Providers
+Architecture of apps
+Background Scripts
+aragonUI
+Getting started
+How to upgrade
+BASE
+Spacing
+Colors
+Text styles
+Icons
+Main
+ACTIONS
+Button
+ContextMenu
+NAVIGATION
+Tabs
+Pagination
+BackButton
+Link
+Header
+STRUCTURE
+Bar
+Box
+Card
+Split
+DataView
+Table
+EmptyStateCard
+IdentityBadge
+TransactionBadge
+Tag
+Accordion
+Timer
+TokenAmount
+EthIdenticon
+TransactionProgress
+DATA ENTRY
+AutoComplete
+DateRangePicker
+DropDown
+Switch
+Radio
+CheckBox
+Slider
+TextInput
+SearchInput
+AddressField
+RadioGroup
+RadioList
+TextCopy
+Field
+VISUALIZATION
+CircleGraph
+LineChart
+Distribution
+FEEDBACK
+Info
+ProgressBar
+LoadingRing
+Toast
+SyncIndicator
+FloatIndicator
+OVERLAYS
+Help
+Popover
+Modal
+SidePanel
+ADVANCES
+ButtonBase
+FocusVisible
+PublicUrl
+Redraw
+RedrawFromDate
+Root
+RootPortal
+Viewport
+aragonDS
+Guidelines
+Layout
+Color
+Iconography
+Typography
+Illustrations
+Components
+Overview
+Aragon Connect
+Guides
+Aragon Basics
+Getting started
+Usage with React
+Advanced
+Custom Subgraph queries
+Writing an App Subgraph
+Writing an App Connector
+Connectors
+Organizations
+Tokens app
+Voting app
+Finance app
+API reference
+connect()
+App
+Connectors
+Organization
+Permission
+Repo
+Role
+TransactionIntent
+TransactionPath
+TransactionRequest
+Types
+Errors
+App Center
+App Center
+Preparing Assets
+Submitting Your App to the App Center
+Product Tools
+Aragon Govern
+README
+Introduction
+Concepts and background
+Govern Core concepts
+ERC3000
+Developers
+Getting started
+Govern.js API
+Historical deployments
+GraphQL API
+Smart contracts breakdown
+Deployments
+Mainnet
+Rinkeby
+Packages
+ERC 3k
+Govern Console
+Govern contract utils
+Types
+govern-create
+Govern Server
+govern-subgraph
+govern-token
+govern.js
+Aragon Vocdoni
+Aragon Client Glossary
+THE ANT TOKEN
+Aragon Network Token
+About ANT
+Historical token sale
+ANTv1
+Non-standard behaviours and gotchas
+About the MiniMe token
+The initial token sale flow
+ANTv2
+Upgrade portal
+Troubleshooting
+Contract interaction
+Migrating on-chain liquidity
+Developers
+Quick start
+Integrating ANT
+Historical deployments
+Security policy
+â¼ï¸
+FAQ
+Products
+Aragon Client
+Where is my DAO?
+DAO creation taking a long time to confirm
+DAO is taking a long time to load
+Failed DAO creation transaction
+Why do I see a Blue Screen?
+An unexpected error has occurred
+App does not appear in Firefox
+Receiving funds directly to the Agent or Vault address
+How to Recover Funds accidentally sent to an Aragon App address
+Depositing EURS in the Finance app
+Which templates are available on the Ethereum Network?
+Which templates are available on the Polygon Network?
+Which templates are available on the Harmony Network?
+Which templates are available on the Metis Andromeda Network?
+How to delete a DAO
+Aragon Govern
+Which was the wallet address used to create the Aragon Govern DAO?
+Where are my DAO tokens?
+How to delete a DAO
+How can I transfer funds to the Aragon Govern DAO?
+Aragon Vocdoni
+Is Vocdoni easy to use?
+Is Vocdoni anonymous?
+Is Vocdoni free?
+Is my data safe with Vocdoni?
+As an Organization, what can I do with Vocdoni?
+Aragon Court
+What is the current duration of the different stages of a dispute?
+Dispute - Which fees need to be paid to create a dispute?
+Dispute - Do I need to put collateral to create a dispute?
+Appeals - How much money is needed to appeal a dispute? And to confirm the appeal? What is it for?
+Appeals - If I have tokens staked or activated, can I lose them if I appeal a dispute?
+Appeals - What happens to the collateral put up
+Voting - Is a majority needed to win a vote?
+Voting - What happens if there is a tie?
+Voting - What does "Refuse to vote" mean? What happens if it's the most voted option?
+Voting - Another guardian tried to collude. Can I punish this guardian?
+Voting - What's the penalty for leaked votes?
+Governance - Which parameters of Court can be changed? How?
+Governance - Do parameter changes affect ongoing disputes?
+Technical - Where is the Court "hosted"?
+Technical - Where can I find the source code and technical documentation for Aragon Court?
+ANJ conversion - What date will the lock-up period end?
+ANJ conversion - If I have not staked my $ANJ, do I still get the lockup period price?
+ANJ conversion - Will I get the 0.044 conversion if I convert after September 5th 2021?
+ANJ conversion - How much will it cost to be a Guardian in Aragon Court with $ANT?
+I can't see my tokens in the Dashboard
+I activated my tokens but I can't see my probability of being drafted
+Miscellaneous
+Metamask wallet transaction alert
+Is Aragon open source?
+Where can I browse through the DAOs created on Aragon?
+How to migrate from "old" DAI to "new" DAI
+Security notice for organizations created before Aragon 0.8
+General troubleshooting tips
+ANT Token
+What can I do with ANT?
+Who holds ANT?
+Who are the biggest ANT holders?
+Long-term holding ANT - What benefits?
+Can I delegate my network votes to somebody else?
+Can I do flash loans with ANT?
+Is there an ANT options market?
+Are you planning to launch new network tokens?
+My wallet isn't available on the Upgrade Portal
+How can connect my Ledger to the Upgrade Portal?
+I accidentally sent my "old" ANT to an exchange
+ANJ conversion - What is the minimum number of $ANJ I need to participate in the 0.044 conversion?
+ANJ conversion - What is the conversion rate ANJ to ANT v2?
+Powered by GitBook
+Aragon Legacy Documentation
+The products and developer tools in this documentation are Aragon Legacy Products & Tools and are no longer being maintained. For a better experience and support 
+check out our newest Aragon Products and OSx
+ 
+here
+.
+Next
+Aragon Values, Finances, and Legal
+Last updated 
+1 year ago
+On this page
+Was this helpful?
+Welcome to the 
+ 
+English
+ user and developers documentation for Aragon's 
+legacy products
+.
+Para la versiÃ³n de la documentaciÃ³n de usuario en 
+ 
+espaÃ±ol
+ vaya 
+.
+Pour la version 
+ 
+franÃ§aise
+ de la documentation utilisateur, cliquez 
+.
+ 
+à¤¹à¤¿à¤à¤¦à¥
+ à¤¯à¥à¤à¤¼à¤° à¤¡à¤¾à¤à¥à¤¯à¤®à¥à¤¨à¥à¤à¥à¤¶à¤¨ à¤µà¤°à¥à¤¶à¤¨ à¤à¥ à¤²à¤¿à¤ 
+ à¤à¤¾à¤à¤à¥¤.
+ 
+æ¥æ¬
+ã¦ã¼ã¶ã¼åãèª¬ææ¸ã¯
+.
+Para a versÃ£o 
+ 
+portuguesa
+ da documentaÃ§Ã£o do utilizador, vÃ¡ 
+.
+ð¬ð§
+ðªð¸
+ð«ð·
+ð®ð³
+ð¯ðµ
+ðµð¹
+aquÃ­
+ici
+à¤¯à¤¹à¤¾à¤
+ãã¡ã
+aqui

@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+Celo Documentation | Celo Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+Need Testnet tokens? â Request from 
+Faucet
+.
+Docs
+What is Celo
+Developers
+Validators
+More
+Holder
+CLI
+Protocol
+Integrations
+Tutorials
+DApps
+Community
+English
+English
+Help us translate
+Support
+View the Forum
+Leave Feedback
+Search
+Build For MiniPay â Sign Up For Developer Updates
+Build on MiniPay
+Learn How to Build with Celo
+Get started with Celo Composer CLI
+Learn more
+Learn smart contract development with us
+Learn more
+Explore Providers and Frameworks
+thirdweb
+Infura
+QuickNode
+Hardhat
+Lava
+Start Your Journey
+Faucet
+Fund your Testnet Account.
+Celo Scan
+Explore transactions on Celo Network.
+Celo Bridge
+How to bridge assets accross chains.
+Wallets
+Overview of ecosystem wallets.
+Celo Libraries & SDKs
+Search our vast range of libraries and SDKs.
+Deploy
+How to build and deploy a dApp.
+Browse our Docs by Category
+Understanding Celo
+What is Celo?
+Learn the basics about our Layer 1 approach
+Architecture
+Overview of our stack and core contracts
+Whitepapers
+Dive in to understand our protocol and social impact
+Protocol
+Learn about our protocol and its relationship to Ethereum
+Developer Tools
+ContractKit
+Explore Contractkit usage and features
+RainbowKit-celo
+Add a wallet connection to dapps using Rainbowkit
+Celo CLI
+Interact with Celo Blockchain and its core smart contract
+Build with Celo
+Celo composer
+Build and deploy your dapp in under 5 minutes
+Migrate to Celo
+Review the compatibility of Celo and Ethereum
+Oracles
+Check out our on-chain Oracles
+New to Web3?
+Start here! Understand the anatomy of a dApp (Web2 to Web3)
+Validators
+Run a Validator
+Secure the network by running a validator
+Node and Services
+Connect to nodes and services
+Join Our Ecosystem
+Receive Funding to Build Your Blockchain Projects
+Learn more
+Celo dApp Launch Checklist
+A comprehensive guide to assist you in launching dapps on Celo.
+Contribute
+Our community includes a group of contributors that help develop, write, translate and improve Celo. Anyone is welcome to join the community and contribute their skills to help empower other community members and grow the Celo ecosystem.
+Ambassadors
+Celo Ambassadors is a community driven initiative helping grow and support the Celo ecosystem of developers, designers, dreamers, and doers around the world.
+Connect with our community
+Join and connect with our team and community of doers on discord. its a space where you can share and immerse yourself in a wealth of knowledge and information.
+Docs
+Home
+Docs GitHub
+Community
+Contributors
+Forum
+Discord
+Twitter
+Reddit
+Celo Signal Mailing List
+Celo Signal Calendar
+Community Calendar
+Ecosystem
+Celo Foundation
+Medium Blog
+The Celo
+Celo Hub
+Careers
+Copyright Â© 2022 Celo Foundation, Inc. Built with Docusaurus.
+
+
+

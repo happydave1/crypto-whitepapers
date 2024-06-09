@@ -1,0 +1,133 @@
+ApeX Pro | ApeX Pro
+ApeX Pro
+Search
+Ctrl
+â+âK
+ApeX Pro
+ð Litepaper
+ð¦
+Start here
+Accounts & Wallets
+Connecting Your Wallet
+Unable to Connect Your Wallet?
+Supported Wallets on ApeX Pro
+MPC Wallets
+Creating an Account
+Deposits and Withdrawals
+Non-Ethereum Deposits and Withdrawals
+MPC Wallet Deposits & Withdrawals
+Trading Perpetual Contracts
+Perpetual Contracts
+Open Interest & Leverage
+Contract Specs
+Last Price, Index Price & Oracle Price
+Trading Fees
+Funding Fees
+Order Types
+Take-Profit & Stop-Loss
+Contract Liquidations
+Governance Token & Allocation
+APEX Token
+Trade-to-Earn Round 1
+BANA Token
+BANA Distribution
+Buy & Burn Pool
+Trade-to-Earn Round 2
+About $BANANA Reward Tokens
+$BANANA Allocation
+Smart Liquidity Pool (SLP)
+Example
+Staking Program: Revenue Sharing Incentives
+Staking 2.0
+How Are Staking Rewards Calculated?
+Example: N1
+Example: N2
+Staking 3.0
+How Are Staking Rewards Calculated?
+Example: N1
+Example: N2
+Leaderboard
+Get Started
+ApeX Grid Bot
+How to Get Started With ApeX Grid Bot
+Customizing Your ApeX Grid Bot
+ApeX Telegram Bot
+What is a Bot Key?
+Bot Key Generation
+ApeX Bot Setup
+API Documentation
+â
+FAQs
+ApeX Protocol FAQs
+Who's the team behind ApeX?
+When did ApeX Pro launch?
+Is your platform safe? Are your smart contracts audited?
+Platform FAQs
+How do I create an ApeX Pro account?
+Is a mobile-web version of ApeX Pro available?
+Where can I download the ApeX Pro app?
+What wallets does ApeX Pro support?
+Can Bybit users connect their wallets to ApeX Pro?
+Will there be more trading pairs in the future?
+What are the trading fees?
+How do I switch to testnet?
+StarkWare-Related FAQs
+What is Ethereum?
+What is Layer 2?
+What are ZK rollups?
+Who is StarkWare?
+What is StarkEx?
+What is a Stark Key?
+Are my funds safe on Layer 2?
+Regarding Deposits
+Token FAQs
+How can I use APEX?
+Where can I get APEX?
+Was there a private sale for the APEX token?
+Is there a staking program for APEX?
+What is the price of APEX?
+What is esAPEX? How is it related to APEX?
+Where can I vest my esAPEX  tokens?
+How can I get BANANA and what can BANANA be used for?
+Will BANANA be listed on any exchange in the future? Where can I sell BANANA?
+What are the tokenomics of the project?
+Others
+ð¡
+ABOUT
+Terms of Service
+Privacy Policy
+Customer Service Guide
+Official Links
+Homepage
+Twitter
+Discord
+Telegram
+API Docs
+ApeX Mobile App
+App Store
+Google Play
+Powered by GitBook
+ApeX Pro
+ApeX Pro is a non-custodial trading platform that delivers limitless cross-margined perpetual contracts to its metacommunity under a new social trading framework. 
+It is primed to deliver limitless access to the perpetual swaps market with its order book model, as it remains committed to the promises of not just speed and efficiency, but also security with transparency on traders' assets.
+With the integration of StarkWare's Layer 2 scalability engine StarkEx and Validium, ApeX Pro offers cross-margined perpetual contracts with multi-chain support, low fees, deep liquidity and maximum security. 
+Why StarkExï¼
+StarkEx is a Layer 2 scalability engine developed by StarkWare powered by STARK-proofs, a form of zero-knowledge proof. Leveraging StarkEx's use of cryptographic proofs in validating transactions and also Validium, ApeX Pro is poised to provide faster transaction processing speeds and some of the lowest gas fees across the DeFi sphere. Engineered for higher liquidity and greater network interoperability, users can access non-custodial trading on ETH, and ERC-20 and EVM-compatible tokens.
+Why Order Book?
+ApeX Pro offers an optimal combination of security and transparency one would usually see in a decentralized exchange (DEX), and the speed and usability users are used to seeing on centralized exchanges (CEXs).
+ 
+The order book model helps bridge the gap between users who are used to utilizing order books with their trades, but now on a permissionless trading platform.
+Core Value Propositions
+Maximum Security
+On-chain data availability and integrity can be ensured with StarkWare's STARK proofs, a form of ZK rollup technology that will help safeguard a fully non-custodial protocol. Built on the Ethereum network, this Layer 2 architecture publishes zero-knowledge proofs directly to Ethereum smart contracts for verification. Transactions are also uniquely packaged for publishing on-chain for traders concerned about data privacy as only balance charges will be made visible.
+Preserving Privacy
+The underlying, upgraded protocol will increase ApeX Pro's trade settlement capacity, while fortifying the secure validations of every transaction on the trading platform, all without compromising the privacy of a trader with respect to their personal transaction data and activities.
+Lower Fees, Greater Leverage & Instant Settlement
+Amplified earnings are now possible as trades can be executed at up to 50x leverage, at the lowest costs with lesser starting capital and optimized trade sizes. Trading on ApeX Pro feels every bit as fast as trading on a centralized exchange.
+Multi-Chain Support
+Open to ETH, ERC-20 tokens and also tokens from EVM-compatible chains; cross-chain deposits and withdrawals are supported on ApeX Pro.
+Next
+ð Litepaper
+Last updated 
+3 months ago
+On this page

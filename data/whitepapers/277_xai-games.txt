@@ -1,0 +1,202 @@
+Welcome to Xai | Xai Network
+Xai Network
+Search
+Ctrl
+â+âK
+About Xai
+Welcome to Xai
+Xai Introduction
+Xai Blockchain
+Xai Foundation
+Xai Token
+Blockchain Gaming
+Current Limitations
+The Future of Gaming
+Gaming Evolved
+Ex Populus Partnership
+Offchain Labs Partnership
+Vanguard League
+FAQ
+Important Links
+Xai Protocol
+Xai Basic Concepts
+AnyTrust: Revolutionizing Blockchain Infrastructure
+Reducing Costs through Trust Assumptions
+Keysets for Flexibility
+Data Availability Certificates (DACerts)
+Dual Data Posting Mechanisms
+Data Availability Servers (DAS)
+Sequencer-Committee Interaction
+XAI Tokenomics
+XAI Tokenâs Utility & Purpose
+esXAI Tokenâs Utility & Purpose
+The Redemption Process
+Initial Allocation of XAI
+XAI & esXAI Emissions & Burning
+Network Rewards
+Sentry Key Pricing Tiers
+Sentry Nodes Explained
+How do Sentry Nodes Work
+Who Can Operate A Sentry
+Referee Smart Contract
+Submission of Assertions
+Claiming Rewards
+Creating Assertion Hash and Checking Payout
+Challenger Component
+Key (NFT-based)
+Sentry Download and Operation
+Sentry Wallet Functionality
+Licensing Impact
+Sentry Node Hardware Requirements
+Sentry Node Utility
+Accruing Node Rewards
+Sentry Node Purchase & Setup
+Step 1: Purchase a Sentry Key
+Option 1: Buy Node Key via the website
+Option 2: Buy Node Key via Xai Sentry Node desktop app
+Option 3: Buy Node Key via Xai Sentry Node CLI (command line interface)
+How to view the price of a Key via the CLI
+Option 4: Buy Node Key via Node License Contract on Arbiscan
+Step 2: Download & Run the Xai Sentry Node
+Step 3: Complete Requirements to Accrue esXAI
+Step 3a: Set Up & Fund the Sentry Wallet
+How to Obtain Arbitrum ETH
+How to import your wallet as the Sentry Wallet in the desktop app
+Step 3b: Start the Sentry Wallet (a.k.a Operator)
+How to create a wallet using the CLI
+Step 3c: Assign Keys to the Sentry Wallet
+Step 4: Complete KYC (or KYB) to Claim esXAI
+How to interpret a Pending KYC status
+Common Troubleshooting Steps
+How do I run a Xai Node on VPS?
+Step 1: Choose a VPS
+Step 2: Log in to a server
+Step 3: Set up Xai Sentry Node
+Step 4: Set up a Screen
+Step 5: Start Xai Sentry Node
+Step 6: Monitor your Node via Screen
+Step 7: Updating your node
+How do I prevent others from using my Sentry Wallet or Operator?
+Why don't I see the KYC link on the desktop app?
+How do I know my Node is running in the CLI?
+How do I KYC if I'm using the CLI?
+How can I see my rewards?
+Crashing, inconsistent Emissions / missing revert data errors
+According to BlockPass, my KYC is approved, but the desktop app still says I am not approved
+I see "Transaction in progress" message after assigning my wallet. Did my wallet not get assigned?
+How do I delegate my Keys to another user's operator?
+Why did my Accrued esXAI balance decrease?
+What are the legitimate contracts owned & operated by Xai Foundation?
+Why do I get an error for challenge 2012?
+How To Videos
+Desktop Client
+Download & Install Xai Node Desktop Client
+Import & Start Your Sentry Wallet
+Assign Wallets Containing Keys to the Sentry Wallet
+Fund Sentry Wallet with Arbitrum One ETH
+Submit KYC
+Claim Node Rewards after Passing KYC
+Command Line Interface (CLI)
+Download & Install Xai Node CLI
+Boot Operator & Interpret Status Logs
+Add Custom Operator
+Track Accrued esXAI
+KYC When Using CLI
+Protocol Roadmap
+Stage 1: August - December 2023
+Stage 2: January - March 2024
+Stage 3: April - July 2024
+Staking Explained
+Staking v1 and v2
+Staking Pool Guide
+Create a Pool
+Stake esXAI
+Stake Sentry Keys
+Generating Rewards
+Unstaking
+Staking Rewards & Tiers
+Time Cooldown
+Gas Optimizations
+Build on Xai
+Xai Chains & Parameters
+Connect to Xai Mainnet
+Bridge to Xai Mainnet
+Connect to Xai Testnet (Sepolia)
+Bridge to Xai Testnet
+RPC endpoints and providers
+Ankr
+How to run a full node for Xai chain
+Marketplace
+Reservoir
+Bridge
+Gas.zip
+Relay
+Block Explorers
+How to get $XAI
+Centralized Exchanges
+Decentralized Exchanges
+Camelot
+Xai Gaming Dev Resources
+Build with thirdweb
+Overview
+Connect
+Contracts
+Wallets
+Account Abstraction
+SDKs
+Engine
+Web3 APIs
+Build with Sequence
+Subgraph
+Xai Odyssey
+XAI Token Claim
+Claim Details
+Xai Odyssey - Quick Start
+Add Xai Testnet to your wallet
+Discord
+Zealy
+FAQs
+Galxe
+Bridging Stage
+Minting Xai Quest Token
+Step 1: Obtain testnet ETH on Goerli
+Step 2: Obtain testnet ETH on Arbitrum Goerli
+Step 3: Obtain testnet ETH on Xai Testnet
+Step 4: Mint Xai Quest Token
+Minting Stage
+Minting Vanguard NFT
+Web3 Warriors Stage
+Playing Web3 Warriors
+Withdrawing NFTs for Galxe
+Viewing Web3 Warriors NFTs
+Game Deployment Stage
+FAQs
+Leaderboard
+Introduction to the Xai Odyssey
+â
+Why Participate?
+âï¸
+Join Vanguard League
+ðº
+Xai Vanguard Path
+ð£ï¸
+Odyssey Roadmap
+â´ï¸
+Vanguard Points & Discord Roles
+Vanguard NFT Drop
+Arbitrum
+thirdweb
+Creator Portal
+Web3 Warriors (W3W) Game
+Final Form
+Card Sets
+Card System
+Where to Get Cards
+â
+FAQ
+Xai Odyssey Support
+Play Games on Xai
+Connect your wallet to Xai
+Xai Games Catalog
+Powered by GitBook
+ 

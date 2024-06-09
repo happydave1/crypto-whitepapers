@@ -1,0 +1,72 @@
+Introduction | Illuvium Whitepaper
+Illuvium Whitepaper
+Search
+Ctrl
+â+âK
+Introduction
+Fusion of DeFi and Gaming
+Seamless Onboarding
+Liquidity Mining Program
+Game Objects as NFTs
+Interoperability through NFTs
+Immutable X
+Game Overview
+Illuvium: Overworld
+Illuvium: Zero
+Illuvium: Arena
+Illuvium: Beyond
+Illuvials
+Affinities
+Classes
+Fusion
+Finishes
+Companion Drones
+Configurations
+Upgrades
+The IlluviDex
+Sales
+Trading
+Echoes
+Repository
+Game Economy
+Expansion
+Additional Sets
+Additional Regions
+Additional Games
+Collaborations
+Game and Backend Technology
+Game Engines
+Backend
+DAO Governance
+Illuvinati Council
+Council Vote Election
+Quadratic Voting and Sybil Protection
+Proposals
+Defining an ICCP
+Defining an IIP
+Council Epoch
+Council Stipend
+Supermajority
+Technical Specification
+Configurable Council Values (Via ICCP)
+Tokenomics
+Historical Token Sales
+Balancer Smart Pool Distribution
+Treasury
+Vault
+Yield Farming
+Distributions
+Marketing
+DeFi
+Mainstream
+Roadmap
+Powered by GitBook
+Introduction
+Whitepaper V3.4
+Welcome to Illuvium, an enthralling series of fully decentralised RPG and collection games set in a fragmented world of beauty and wonder. Explore the vast landscape, hunt dangerous creatures, and capture them for battles in the Arenas or trade on the exchange. The interconnected games allow your assets to be utilised in various ways across the series.
+Illuvium is built as a fully decentralised protocol and offers players a triple-A blockchain gaming experience. Stakers can vote on various aspects of the game and its tokenomics, giving them the power to shape the project's future. Additionally, they receive regular yields and distributions of the gameâs revenue.
+Next
+Fusion of DeFi and Gaming
+Last updated 
+1 year ago
+On this page

@@ -1,0 +1,403 @@
+Coin98 Labs | English | Coin98 Finance
+Coin98 Finance
+English
+English
+Chinese
+Japansese
+Thai
+VN
+French
+Spanish
+Turkish
+Portuguese
+Indonesia
+Korean
+Russian
+Search
+Ctrl
+â+âK
+Coin98 Labs
+Products
+Coin98 Super Wallet
+Mobile
+Beginner's Guide
+How to download and install Coin98 Super Wallet
+General Settings
+How to Create a MultiChain Wallet
+How to create an Aura Wallet on Coin98 Super Wallet
+How to rename/remove Wallet
+How to connect Ledger Nano X/S on Coin98 Super App
+How to manage wallets
+How to manage digital assets
+How to store NFTs on Coin98 Super App
+Advanced Settings
+How to perform KYC Verification on Coin98 Super Wallet
+How to use Token Issuer on Coin98 Super App
+How to use NFT Issuer
+How to unwrap Wrapped SOL (wSOL) to SOL
+How to Active/Inactive Blockchain
+How to migrate KYC data from your email account to OneID
+How to use Seed Phrase Recovery Tool
+How to turn on Biometric Authentication and strengthen security settings
+How to automatically update Coin98 Super App
+How to create a portfolio on Coin98
+Portfolio tracking on Coin98 Super App
+How to use Coin98 Staking natively on Coin98 Super Wallet
+How to use Cloud Sync on the Coin98 Super App
+Wallet Approval
+How to customize your home widget on Coin98 Super App
+How to buy cryptocurrency by fiat on Coin98 Super App?
+How to use Active Screen on Coin98 Super App
+How to use Faucet on Coin98 Super App
+How to manage blockchains on Coin98 Super App
+How to use Watch-only Wallet
+How to use Clear Clipboard on Coin98 Super Wallet?
+DeFi
+How to trade natively on Coin98 Super App
+How to use multichain dApp browser on Coin98 Super App
+Extension
+Beginner's Guide
+How to install Coin98 Extension on Google Chrome
+How to create a new wallet on Coin98 Extension
+How to create an Aura wallet on Coin98 Extension
+How to add Custom Network on Coin98 Extension
+How to trade natively on Coin98 Extension
+How to buy cryptocurrency by fiat on Coin98 Extension
+How to connect Ledger Nano X/S on Coin98 Extension
+How to connect Trezor One on Coin98 Extension
+How to rename/remove Wallet
+How to choose active wallet
+How to synchronize Coin98 Super Wallet with Coin98 Extension
+How to use multi-send to send tokens to multiple addresses in a single transaction
+How to create password on Coin98 Extension
+How to change your Coin98 Extension wallet password
+How to show your Seed Phrase/ Private Key
+How to lock and unlock your Coin98 Extension
+How to reset your Coin98 Extension
+How to unwrap Wrapped SOL (wSOL) to SOL
+How to store NFTs on Coin98 Extension Wallet
+How to switch Current Network on Coin98 Extension
+How to Override Wallet
+How to perform KYC Verification on Extension
+DeFi
+Web Wallet
+FAQs
+How to convert C98 BEP20 or ERC20 to C98 SPL
+Can I get back the money when I sent C98 to the contract address?
+Why did I recover a wallet but my balance shows 0 and the addresses are changed?
+Why did I have to pay gas fees for a failed transaction?
+Do I have to backup every time my Wallet updates?
+How To Transfer Coins From Binance Exchange To Coin98 Super App and Vice Versa
+Why did my transaction fail?
+Does Coin98 Super App hold my funds?
+How to connect your account from an exchange platform to Coin98 Super App
+What is gas setting
+What is slippage tolerance
+What is Transaction Deadline
+What is Unlimited approval?
+Why can't I send USDT to other wallets?
+How to restore your ERC20 tokens from the BEP20 wallet
+What is the difference between Private Key and Passphrase?
+What is inverse rate
+I can't find an answer for my question. Where do I find an answer?
+Balances Not Loading or Showing on my wallet
+Switch to Coin98 Wallet
+How to import Multi-chain wallets to Coin98
+How to switch a single-chain wallet to another chain wallet
+Social Wallet
+How to create a Social Wallet
+How to restore a Social Wallet
+How to manage a Social Wallet
+How to use a Social Wallet
+How to upgrade a social wallet to Ramper Core V2 on Coin98 Super Wallet
+Zen Card
+User Guides
+How to Create a Zen Card Wallet
+How to Restore a Zen Card Wallet
+How to Redeem Zen Card
+How to Migrate Hot Wallets to Zen Card
+How to Manage Zen Card
+How to Use Zen Card
+FAQs
+Legal
+PRIVACY POLICY
+TERMS OF USE
+SpaceGate
+How to convert tokens on SpaceGate?
+FAQs
+Coin98 Vault
+How to use Coin98 Vault on Coin98 Super Wallet
+How to use Coin98 Vault V2 with Coin98 Extension wallet
+How to use Coin98 Vault with Coin98 Extension
+Coin98 Exchange
+How to trade on Coin98 Exchange
+FAQs
+Is Coin98 Exchange safe?
+Why did my transaction fail?
+What are liquidity sources on Coin98 Exchange?
+Which token I can swap on Coin98 Exchange?
+How do I deposit or withdraw my tokens to and from Coin98 Exchange?
+Are there any service fees on Coin98 Exchange?
+Coin98 Portfolio
+How to use Coin98 Portfolio
+Coin98 Markets
+How to use Coin98 Markets
+Coin98 Terminals
+Token Issuer
+How to use Token Issuer
+Multisender
+How to use
+Solana Migration
+Wallet Approval
+Coin98 Token
+Why is the C98 token issued on Ethereum, BNB Chain, Solana, and Viction?
+How can I get Coin98 (C98) Token?
+Where to trade C98
+Where can I store my C98
+Coin98 Dollar
+Price Stability
+CUSD Standards
+How can I get CUSD?
+CUSD on BNB Smart Chain
+CUSD on Ethereum
+CUSD on Solana
+Where can I store CUSD?
+What does CUSD capture for C98 Holders?
+Coin98 Staking
+How to use Coin98 Staking
+Fixed Rate Staking
+Coin98 Isolated Pool on Solend
+How to deposit on Coin98 Isolated Pool
+How to borrow on Coin98 Isolated Pool
+ð¡
+FAQs
+When can users withdraw their funds? Will the profit be lost if they withdraw the funds
+How is the profit calculated and distributed?
+Single Chain Wallet
+Ancient8 Wallet
+Terms of Service
+Privacy Policy
+Developer Guide
+Bitcoin Wallet
+Audits
+Coin98 Token
+Coin98 Staking
+Coin98 Vault
+Coin98 Dollar
+ð
+BUG BOUNTY
+Developer Guide
+Coin98 Adapter
+Setup Coin98 Adapter for Next.js
+Setup Coin98 Adapter for React
+Hooks
+useWallet
+useWalletModal
+Example
+Coin98 Connect Integration
+Bitcoin Dapps Integration
+Ethereum DApps Integration
+EthereumPoW DApps Integration
+BNB Chain DApps Integration
+Kucoin Chain DApps Integration
+Solana DApps Integration
+Near DApps Integration
+Cosmos DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Secret Network DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+KAVA DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Persistence DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Terra DApps Integration
+Terra Station Override
+Ronin DApps Integration
+Arbitrum DApps Integration
+Optimism DApps Integration
+Boba Network DApps Integration
+Harmony DApps Integration
+Klaytn DApps Integration
+Fantom DApps Integration
+Celo DApps Integration
+Gnosis Chain DApps Integration
+GateChain DApps Integration
+Polygon DApps Integration
+Viction DApps Integration
+Avalanche DApps Integration
+OKExChain DApps Integration
+Heco DApps Integration
+Aurora DApps Integration
+Cronos DApps Integration
+Bittorrent DApps Integration
+PlatON Network DApps Integration
+Moonbeam DApps Integration
+Kardia DApps Integration
+Aptos Dapps Integration
+Sui DApps Integration
+Sei DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Osmosis DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Injective DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Oasis network DApps Integration
+Evmos DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Juno network DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Agoric DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Archway (Testnet) DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Stargaze DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Umee DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Stride DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Deeplink
+Kujira DApps Integration
+Keplr Override
+Basic API
+Use with CosmJs
+Use with SecretJS
+Suggest Chain
+Mantle DApps Integration
+DApps Integration
+EVM-compatible DApps Integration
+Legal
+Terms of Service
+Privacy Policy
+AML Policy
+Launchpad Policy
+CUSD Issuance Policy
+Coin98 Links and Communities
+Official Coin98 Links
+Official Communities
+BRAND ASSETS & GUIDLINES
+Brand Assets & Guidelines
+Powered by GitBook
+Coin98 Labs
+Open Infrastructure Financial Services Builder
+What is Coin98 Labs?
+Coin98 Labs is an Open Infrastructure Financial Services builder focusing on creating and developing an ecosystem of DeFi protocols, applications, NFTs on multiple blockchains. Our mission is to fulfill untapped demand and enhance in-demand utilities in the DeFi space, helping people to access DeFi services effortlessly.
+An Ecosystem of Open Infrastructure Financial Services products
+Our inspiration for product development arises merely from the particular needs of the team. Once a product comes into being and is launched, we would constantly listen to the community's feedback for improvements and iterations.
+Our two product development strategies:
+Maximizing the user experiences of existing products
+Exploring untapped demands with in-depth research & Building innovative products to satisfy them.
+Above all, our product suite always focuses on cross-chain interoperability and user-friendliness to get DeFi closer to massive adoption.
+Coin98 Super App
+Coin98 is the #1 crypto super app designed to seamlessly connect a billion users to the crypto world safely and securely. We offer users across the globe a comprehensive and trusted ecosystem of essential services including but not limited to a non-custodial, multi-chain NFT & cryptocurrency wallet, built-in DEXs, Cross-chain Bridge & DApp Browser, a powerful Terminal, attractive Earn, Gift & Campaign, and Others.
+ Coin98 Super App is the core component of future multichain protocols/applications, serving as one entry to access numerous DeFi services across separate blockchains. We have laid a solid foundation for bolstering our suite of products by having iterations on the wallet.
+Coin98 Super App has acquired more than 1,000,000+ users worldwide, supporting multiple blockchains, available on mobile, browser extension, and website.
+We believe multi-chain and cross-chain will be the future of blockchain. Therefore, Coin98 Super App is the first product we decided to develop as a non-custodial wallet with an advanced multi-chain wallet engine. Coin98 Super App, as the core of our suite of products, facilitates our users to interact with DeFi protocols on various blockchains in the most convenient way.
+Coin98 Exchange
+Coin98 Exchange is a decentralized exchange, providing users with liquidity from various sources, across multiple blockchains. Coin98 Exchange powers instant and secure swap for a seamless experience with the best price and slippage.
+Together with Coin98 Super App, Coin98 Exchange is the next-gen product of Coin98 Labs in our continued efforts to fulfill the mission of optimizing user experiences and driving DeFi mass adoption. Coin98 Exchange is an all-in-one DeFi platform that offers many services on multiple blockchains. It allows users to swap, stake, lend, borrow, earn crypto, and access a variety of DeFi services in one place, at ease. Coin98 Exchange aims to be the gateway from Traditional Finance (TradFi) to Decentralized Finance (DeFi).
+Coin98 Portfolio
+Coin98 Portfolio assists you in managing your portfolios through wallet connection without the need of importing your Private Keys. Coin98 Portfolio currently supports 11+ blockchains in total, including Solana, Ethereum, BSC, HECO, Avalanche C-Chain, Tron, TomoChain, Near, Polkadot, Kusama, Celo.
+This is a special feature of Coin98 Portfolio compared to other competitors in the market, allowing you to view the total value, as well as the proportions and statistics of your assets with an intuitive graph.
+Coin98 Markets
+Coin98 Markets is a website that helps users to get updates of the real-time prices, as well as view the detailed information of a Token Metric from any project. More specifically, you can access the home page or the community page of a project, or filter the coins/tokens based on their Market Cap, Trading Volume, etc.
+Coin98 Terminals
+With the simple strategy of making the TraFi (traditional finance) necessary services available in the DeFi world, Coin98 Exchange Ecosystem also offers users a Powerful DeFi Toolbox named Coin98 Terminals with some outstanding tools:
+Token Issuer.
+Multi-send.
+Wallet Approval.
+Solana Migration.
+Solana Claim.
+Blockchain Explorers.
+Multi-sig (Coming soon).
+Coin98 Staking: The Staking and Earning function.
+Coin98 Staking is the latest release of the Coin98 Labs to fulfill our product suite and reward for C98 holders. It will also be a simple and secure way for users to earn passive income while involved in the Coin98 Ecosystem. 
+Coin98 Staking offers fixed interest rates based on your staking plans. There are three different packages with suitable staking periods and amounts of tokens for users to engage. 
+After staking ends, users can unstake and harvest earnings directly to their wallets. Notably, stakers are unable to unstake in the first 15 days. If you unstake before the expiration date, you will only earn a fixed 2.0% floating interest rate, no matter what types of staking plans you chose.
+Planned & under development projects
+Coin98 Lend & Borrow: The Coin98 Lending & Borrowing platform.
+Coin98 Mega Farm: The Farming (Liquidity Providing) platform of DeFi .
+Coin98 NFT Marketplace: The NFT buying & selling platform.
+Coin98 Derivatives: The Coin98 derivative trading platform.
+At this moment, we are still heading down for the building. Eventually, the community will figure out a better picture for all the DeFi stacks we are nurturing.
+DeFi is the century's innovation, which will undoubtedly change how global finance works in the future. Coin98 Labs is proud to be a special part of the journey of making DeFi accessible to everyone, regardless of their knowledge and familiarity with blockchain.
+Follow us
+Website
+ |
+ Twitter
+ |
+ Telegram
+ |
+ Blog
+  |
+ 
+Discord
+Next
+Coin98 Super Wallet
+Last updated 
+2 months ago
+On this page
+An Ecosystem of Open Infrastructure Financial Services products
+Coin98 Super App
+Coin98 Exchange
+Coin98 Portfolio
+Coin98 Markets
+Coin98 Terminals
+Coin98 Staking: The Staking and Earning function.
+Planned & under development projects

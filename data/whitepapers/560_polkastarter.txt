@@ -1,0 +1,45 @@
+Home | Polkastarter Documentation
+ 
+Home
+ 
+Docs
+ 
+About
+Search
+Ctrl
+â+âK
+Home
+History of Polkastarter
+Key Features
+What Problem is Polkastarter solving?
+What is a Fixed Swap Pool?
+What are the benefits of Fixed Swaps?
+Polkastarterâs NFT Sales Platform
+Polkastarter Gaming
+What is the POLS Token Utility?
+What are the Tokenomics?
+polkastarter-js
+Introduction
+API
+Powered by GitBook
+Home
+Polkastarter is a decentralized fundraising platform empowering Web3 projects to launch and raise funds through multi-chain token pools whilst significantly growing their communities.
+The platform enables investors to secure early access to IDOs, NFTs and Gaming Web3 innovation. 
+The Polkastarter team aims to continue building the leading decentralized fundraising platform that allows users to make well-informed decisions and participate in high potential IDOs, NFT sales and Gaming projects, while allowing companies to successfully fundraise and kickstart their projects as well as benefit from Polkastarter's growing experience and network.
+How can projects use Polkastarter?
+Polkastarter allows projects of all kinds to raise funds by setting up a swap pool with a fixed purchase price for tokens. Fixed swap pools have numerous advantages for token sale investors compared to traditional fundraising models like ICOs, IEOs and IDOs (Initial DEX Offerings), the main one being that they will maintain the token price throughout the sale until the initial supply runs out.
+In order to launch your project on Polkastarter, please fill out 
+an IDO application
+.
+
+Startups and projects can raise funds on Polkastarterâs interoperable and decentralized infrastructure.
+This technology can also have other applications outside of fundraising, such as:
+Closed OTC deals with password protection 
+Discounted sales with allowlisted addresses 
+Investment syndicates 
+Crowdfunding
+Next
+History of Polkastarter
+Last updated 
+1 year ago
+On this page

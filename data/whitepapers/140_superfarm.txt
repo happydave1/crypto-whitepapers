@@ -1,0 +1,87 @@
+INTRODUCTION | SuperVerse Docs
+SuperVerse Docs
+Search
+Ctrl
+â+âK
+INTRODUCTION
+SuperVerse MetaPaper
+GAMING. UNITED.
+INNOVATION
+DISTRIBUTION
+UNIFICATION
+PHASES
+PHASE I: DECENTRALIZATION
+PHASE II: INTEGRATION
+PHASE III: EVOLUTION
+IMPOSTORS
+Why Social Deduction?
+Future Game Modes
+UGC Sandbox
+Milestones Achieved
+GENESIS SEASON
+GOVERNANCE
+SuperVerse DAO Governance
+DAO Fund Allocation
+Proposal Process
+Voting
+Reference Guide
+DAO Proposals Passed
+SVIP-1
+SVIP-2
+SVIP-3
+SUPER TOKENOMICS
+Transparency Report
+BSC MIGRATION
+How to Swap & Bridge Guide
+DAO STAKING
+DAO STAKER
+Staking Mechanism
+How to Stake & Unstake SUPER
+NFT BOOSTS
+NFT Boosts Recalibration Methodology
+Recalibration Equation
+How to Stake & Unstake NFTs
+GEM CONVERSION
+GEM Conversion Guide
+Powered by GitBook
+INTRODUCTION
+ALL THE BEST GAMES, ONE TOKEN.
+ð¨ There is NO new Token, 
+$SUPER
+ ERC20 remains THE token of the SuperVerse and existing SUPER holders need not touch their assets, your funds are SAFU!
+NOTE: A Living Document
+This metapaper is a living document and will be continually updated as new information is available. The purpose of this paper is to outline the initial vision, provide the details that are available today, generate discussion and feedback and continually refine every aspect of the SuperVerse.
+â ï¸ 
+WARNING:
+ Beware of scams as we update naming & branding across exchanges, token sites and block explorers. Only follow official sources for updates & remember, no one from the team will ever DM first.
+Please note: 
+Our staking interface helps estimate rewards and draft blockchain transactions for you to review and execute at your discretion. See our Staking Terms for more. Staking rewards estimates are based on current information from the public DAO Staker contract. Estimates are based on the total value of Pooled Assets and Rewards available and may change block-by-block. You may use our Interface to draft requests to stake or unstake $SUPER, EllioTrades NFTs, or SuperFarm Genesis NFTs to and from the DAO Staker at anytime, but you must review any transaction in your Wallet for accuracy before choosing to sign any transaction. Only you can review and authorize transactions and any transaction or âgasâ fees your Wallet may assess.
+SUPERVERSE OFFICIAL LINKS:
+
+
+Website
+
+
+Twitter
+
+
+Telegram Community
+
+
+Telegram Announcements
+
+
+Snapshot.org
+
+
+Documentation
+
+
+$SUPER Contract
+Next
+GAMING. UNITED.
+Last updated 
+4 months ago
+On this page
+ALL THE BEST GAMES, ONE TOKEN.
+NOTE: A Living Document

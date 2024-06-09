@@ -1,0 +1,117 @@
+Aptos Whitepaper: Safe, Scalable, and Upgradeable Web3 Infrastructure | Aptos
+Discover
+Use Cases
+Â 
+Real-world deployments of our blockchainÂ technology
+Ecosystem Projects
+Â 
+Discover what people are building onÂ Aptos
+Blog
+Â 
+Keep up-to-date on the latest AptosÂ news
+Aptos Whitepaper
+Â 
+Understand the fundamental principles ofÂ Aptos
+Build
+Developer Docs
+Â 
+Dive into technical specs for building onÂ Aptos
+Grants
+Â 
+Want to innovate on Aptos? Apply for aÂ grant
+Governance
+Â 
+Guide the future of Aptos by voting onÂ AIPs
+Node Operations
+Â 
+Learn how to run, monitor and manage nodes onÂ Aptos
+Connect
+Events
+Â 
+Meet up with the global AptosÂ community
+Discord
+Â 
+Engage in global and local AptosÂ discussions
+Discussion Forum
+Â 
+Interact with fellow developers onÂ Aptos
+Get Started
+Aptos Whitepaper
+Safe, Scalable, and Upgradeable Web3 Infrastructure
+An introductory paper to Aptos, outlining a more accessible and efficient blockchain ecosystem designed for unparalleled accessibility and efficiency.
+Read the Full Whitepaper
+abstract
+The rise of blockchains as a new Internet infrastructure has led to developers deploying tens of thousands of decentralized applications at rapidly growing rates.
+Unfortunately, blockchain usage is not yet ubiquitous due to frequent outages, high costs, low throughput limits, and numerous security concerns. To enable mass adoption in the web3 era, blockchain infrastructure needs to follow the path of cloud infrastructure as a trusted, scalable, cost-efficient, and continually improving platform for building widely-used applications.
+We present the Aptos blockchain, designed with scalability, safety, reliability, and upgradeability as key principles, to address these challenges. The Aptos blockchain has been developed over the past three years by over 350+ developers across the globe. It offers new and novel innovations in consensus, smart contract design, system security, performance, and decentralization. The combination of these technologies will provide a fundamental building block to bring web3 to the masses:
+First, the Aptos blockchain natively integrates and internally uses the Move language for fast and secure transaction execution. The Move prover, a formal verifier for smart contracts written in the Move language, provides additional safeguards for contract invariants and behavior. This focus on security allows developers to better protect their software from malicious entities.
+Second, the Aptos data model enables flexible key management and hybrid custodial options. This, alongside transaction transparency prior to signing and practical light client protocols, provides a safer and more trustworthy user experience.
+Third, to achieve high throughput and low latency, the Aptos blockchain leverages a pipelined and modular approach for the key stages of transaction processing. Specifically, transaction dissemination, block metadata ordering, parallel transaction execution, batch storage, and ledger certification all operate concurrently. This approach fully leverages all available physical resources, improves hardware efficiency, and enables highly parallel execution.
+Fourth, unlike other parallel execution engines that break transaction atomicity by requiring upfront knowledge of the data to be read and written, the Aptos blockchain does not put such limitations on developers. It can efficiently support atomicity with arbitrarily complex transactions, enabling higher throughput and lower latency for real-world applications and simplifying development.
+Fifth, the Aptos modular architecture design supports client flexibility and optimizes for frequent and instant upgrades. Moreover, to rapidly deploy new technology innovations and support new web3 use cases, the Aptos blockchain provides embedded on-chain change management protocols.
+Finally, the Aptos blockchain is experimenting with future initiatives to scale beyond individual validator performance: its modular design and parallel execution engine support internal sharding of a validator and homogeneous state sharding provides the potential for horizontal throughput scalability without adding additional complexity for node operators.
+Full Aptos Whitepaper
+English
+Original version
+íêµ­ì´
+Korean translation
+æ¥æ¬èª
+Japanese translation
+Subscribe for Updates
+Aptos
+Network
+Â 
+Foundation
+Â 
+Network Numbers
+Â 
+Press
+Â 
+Blog
+Â 
+Brand
+Â 
+Careers
+Â 
+Developers
+Developer Docs
+Â 
+Aptos on Github
+Â 
+Community
+Events
+Â 
+Forum
+Â 
+Governance
+Â 
+Regional Communities
+Â 
+Ecosystem
+Grants
+Â 
+Projects
+Â 
+Jobs
+Â 
+Explorers
+Â 
+Node Operations
+Â 
+Use Cases
+Â 
+Resources
+Get Started
+Â 
+Aptos Assistant
+Â 
+Aptos Whitepaper
+Â 
+Glossary
+Â 
+Â© 
+2024
+ 
+Aptos Foundation
+Privacy
+Terms

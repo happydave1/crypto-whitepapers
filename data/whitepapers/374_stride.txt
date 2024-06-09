@@ -1,0 +1,551 @@
+Stride: Liquid staking for Cosmos blockchains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Content
+Log In
+Guides
+v
+1.0
+Log In
+Moon (Dark Mode)
+Sun (Light Mode)
+v
+1.0
+Guides
+Loadingâ¦
+Search
+What is Stride?
+Stride: Liquid staking for Cosmos blockchains
+Stride's Technical Architecture
+Community
+Getting Involved
+Ambassador Program
+Support Lab
+Getting Started
+All Users: Start Here
+What is Cosmos?
+What is (Liquid) Staking?
+App Tutorials
+Liquid Staking on Stride
+Providing Liquidity on Osmosis
+Borrowing against stTokens on Umee
+Unstaking Your Tokens
+Validators & Developers
+Getting Started as a Developer
+Setting Up a Validator
+Additional Topics
+Readings: ICS + ICA
+Host-Chain Delegations
+For Partners
+Query Stride's Redemption Rate
+Integrate Liquid Staking
+BRANDING RESOURCES
+Branding Resources
+Modules
+Module Overviews
+StakeIBC
+Records
+Claim
+Icacallbacks
+Interchainquery
+Epochs
+Mint
+Powered byÂ 
+Stride: Liquid staking for Cosmos blockchains
+Suggest Edits
+
+
+
+
+Support
+ | 
+Twitter
+ | 
+Discord
+ | 
+Website
+
+
+
+
+
+
+ Looking for support with liquid staking? ð 
+https://support.stride.zone/
+
+
+
+
+Stride is a blockchain ("zone") that provides liquidity for staked tokens. You can liquid stake your tokens from any Cosmos chain using Stride. Using Stride, you can earn 
+both
+ staking 
+and
+ DeFi yields across the Cosmos IBC ecosystem. 
+
+
+Read our 
+"Meet Stride" blog post
+ to learn Stride's origin story. 
+
+
+Currently, Stride supports liquid staking for: Cosmos Hub (
+stATOM
+), Osmosis (
+stOSMO
+), Celestia (
+stTIA
+), dYdX (
+stDYDX
+), Injective (
+stINJ
+), Stargaze (
+stSTARS
+), Evmos (
+stEVMOS
+), Terra 2 (
+stLUNA
+), Umee (
+stUMEE
+), Juno (
+stJUNO
+), Comdex (
+stCMDX
+), and Sommelier (
+stSOMM
+).
+
+
+
+
+Users receive staked tokens immediately when they liquid stake. Rewards accumulate in real time to staked token holders. These staked tokens can be freely traded, and can be redeemed with Stride at any time to receive back native tokens plus staking rewards.
+
+
+On the backend, Stride permissionlessly stakes these tokens on the host chain and compounds user rewards. Users continue to earn staking yield, and can earn additional yield by lending, LPing, and more. 
+
+
+Users can always redeem from Stride. When they redeem, Stride initiates unbonding on the host zone. Once the unbonding period elapses, users receive native tokens in their wallets.
+
+
+The process to onboard new chains is simple; anyone can propose onboarding a new chain through a governance vote, which will automatically onboard the new chain if passed. 
+
+
+Stride plans to rapidly expand reach throughout the Cosmos ecosystem. The chains and tokens that we plan to onboard in the next 12 months year are:
+
+
+Agoric, (
+stBLD
+), Dymension (
+stDYM
+),  Axelar (
+stAXL
+), Akash (
+stAKT
+), Secret (
+stSCRT
+), Kava (
+stKAVA
+), Oasis (
+stROSE
+), Regen (
+stREGEN
+), Sommelier (
+stSOMM
+), Band (
+stBAND
+), , Kujira (
+stKUJI
+), E-Money (
+stNGM
+), Crypto.Org (
+stCRO
+), Sifchain (
+stEROWAN
+), Crescent Network (
+stCRE
+), MediBloc (
+stMED
+), Persistence (
+stXPRT
+), Iris (
+stIRIS
+), AssetMantle (
+stMNTL
+), Sentinel (
+stDVPN
+), BitSong (
+stBTSG
+), Cheqd (
+stCHEQ
+), Chihuahua (
+stHUAHUA
+), KiChain (
+stXKI
+), Ixo (
+stIXO
+), Microtick (
+stTICK
+), Fetch.Ai (
+stFET
+), Konstellation (
+stDARC
+), Desmos (
+stDSM
+), Bitcanna (
+stBCNA
+), Lum Network (
+stLUM
+), Bostrom (
+stBOOT
+), Likecoin (
+stLIKE
+), Dig Chain (
+stDIG
+), RiZON (
+stATOLO
+), OmniFlix (
+stFLIX
+), Decentr (
+stDEC
+), Vidulum (
+stVDL
+), Altered Carbon (
+stACB
+), Shentu (
+stCTK
+), and others. 
+
+
+Many more tokens will launch in the cosmos ecosystem over the coming months and years. Stride plans to support all IBCv3-compatible tokens as âstâ-Tokens.
+
+
+Stride
+ is built using Cosmos SDK and Tendermint and created with 
+Ignite
+. Under the hood, Stride leverages:
+
+
+
+
+Inter-Blockchain Communication protocol
+
+
+Interchain Accounts
+ 
+
+
+Interchain Queries
+
+
+Updated
+ 
+4 months ago
+ 
+Whatâs Next
+Welcome to Stride
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

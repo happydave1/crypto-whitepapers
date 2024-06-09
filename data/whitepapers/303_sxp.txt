@@ -1,0 +1,879 @@
+
+
+ 
+Whitepaper - Solar Documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solar Documentation 
+ 
+ 
+ 
+ Whitepaper 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Initializing search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ solar-network/docs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ Core 
+ 
+ 
+ 
+ Exchange Integration 
+ 
+ 
+ 
+ API 
+ 
+ 
+ 
+ SDK 
+ 
+ 
+ 
+ Wallets 
+ 
+ 
+ 
+ Brand 
+ 
+ 
+ 
+ Project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solar Documentation 
+ 
+ 
+ 
+ 
+ 
+ 
+ solar-network/docs 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ Core 
+ 
+ 
+ 
+ 
+ Core 
+ 
+ 
+ 
+ Welcome to Solar Core 
+ 
+ 
+ 
+ 
+ Installation 
+ 
+ 
+ 
+ 
+ Installation 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ Requirements 
+ 
+ 
+ 
+ Database Variables 
+ 
+ 
+ 
+ Installation Steps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transactions 
+ 
+ 
+ 
+ 
+ Transactions 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ Understanding the Lifecycle 
+ 
+ 
+ 
+ Understanding the Nonce 
+ 
+ 
+ 
+ 
+ Types 
+ 
+ 
+ 
+ 
+ Types 
+ 
+ 
+ 
+ Transfer 
+ 
+ 
+ 
+ Second Signature Registration 
+ 
+ 
+ 
+ Vote 
+ 
+ 
+ 
+ Delegate Registration 
+ 
+ 
+ 
+ IPFS 
+ 
+ 
+ 
+ Delegate Resignation 
+ 
+ 
+ 
+ 
+ HTLC 
+ 
+ 
+ 
+ 
+ HTLC 
+ 
+ 
+ 
+ Lock 
+ 
+ 
+ 
+ Claim 
+ 
+ 
+ 
+ Refund 
+ 
+ 
+ 
+ 
+ 
+ 
+ Burn 
+ 
+ 
+ 
+ 
+ Deprecated 
+ 
+ 
+ 
+ 
+ Deprecated 
+ 
+ 
+ 
+ Transfer (Legacy) 
+ 
+ 
+ 
+ Vote (Legacy) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Core Updates 
+ 
+ 
+ 
+ 
+ Core Updates 
+ 
+ 
+ 
+ 4.3.1 
+ 
+ 
+ 
+ 4.3.0 
+ 
+ 
+ 
+ 4.2.1 
+ 
+ 
+ 
+ 4.2.0 
+ 
+ 
+ 
+ 4.1.3 
+ 
+ 
+ 
+ 4.1.2 
+ 
+ 
+ 
+ 4.1.1 
+ 
+ 
+ 
+ 4.0.1 
+ 
+ 
+ 
+ 3.3.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exchange Integration 
+ 
+ 
+ 
+ 
+ Exchange Integration 
+ 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ Welcome to Solar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Core Node Introduction 
+ 
+ 
+ 
+ 
+ Core Node Introduction 
+ 
+ 
+ 
+ Requirements 
+ 
+ 
+ 
+ Installation Steps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public API 
+ 
+ 
+ 
+ 
+ Public API 
+ 
+ 
+ 
+ Public API Guide 
+ 
+ 
+ 
+ Rate Limits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ API 
+ 
+ 
+ 
+ 
+ Public REST-API 
+ 
+ 
+ 
+ 
+ Public REST-API 
+ 
+ 
+ 
+ Getting Started 
+ 
+ 
+ 
+ Endpoints 
+ 
+ 
+ 
+ Modify API Response 
+ 
+ 
+ 
+ Troubleshooting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEBHOOK API 
+ 
+ 
+ 
+ 
+ WEBHOOK API 
+ 
+ 
+ 
+ Getting Started 
+ 
+ 
+ 
+ Usage 
+ 
+ 
+ 
+ Endpoints 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SDK 
+ 
+ 
+ 
+ 
+ SDK 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ 
+ Typescript 
+ 
+ 
+ 
+ 
+ Typescript 
+ 
+ 
+ 
+ Installation 
+ 
+ 
+ 
+ Complementary Examples 
+ 
+ 
+ 
+ 
+ Crypto 
+ 
+ 
+ 
+ 
+ Crypto 
+ 
+ 
+ 
+ Getting Started 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Examples 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Client 
+ 
+ 
+ 
+ 
+ Client 
+ 
+ 
+ 
+ Getting Started 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Examples 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Python 
+ 
+ 
+ 
+ 
+ Python 
+ 
+ 
+ 
+ Getting Started 
+ 
+ 
+ 
+ 
+ Client 
+ 
+ 
+ 
+ 
+ Client 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ Installation 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Examples 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Crypto 
+ 
+ 
+ 
+ 
+ Crypto 
+ 
+ 
+ 
+ Getting Started 
+ 
+ 
+ 
+ API Documentation 
+ 
+ 
+ 
+ Examples 
+ 
+ 
+ 
+ 
+ 
+ 
+ Complementary Examples 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wallets 
+ 
+ 
+ 
+ 
+ Wallets 
+ 
+ 
+ 
+ 
+ Desktop Wallet 
+ 
+ 
+ 
+ 
+ Desktop Wallet 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ An Introduction to SXP Rewards (Staking) 
+ 
+ 
+ 
+ 
+ User Guides 
+ 
+ 
+ 
+ 
+ User Guides 
+ 
+ 
+ 
+ How to Add a Contact? 
+ 
+ 
+ 
+ How to Create or Import a Wallet? 
+ 
+ 
+ 
+ How to Register or Resign a Block Producer? 
+ 
+ 
+ 
+ How to Register a Second Mnemonic? 
+ 
+ 
+ 
+ How to Send an SXP Transfer? 
+ 
+ 
+ 
+ How to Sign and Verify Messages? 
+ 
+ 
+ 
+ How to Vote for Block Producers in the Desktop Wallet? 
+ 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ 
+ 
+ 
+ Troubleshooting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brand 
+ 
+ 
+ 
+ 
+ Brand 
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Project 
+ 
+ 
+ 
+ 
+ Project 
+ 
+ 
+ 
+ Solar 
+ 
+ 
+ 
+ 
+ Whitepaper 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Whitepaper
+ 
+ 
+Solar Whitepaper V2 (July 2023)
+ 
+The following whitepaper refers to goals and mission statements made by the Solar Blockchain Foundation.
+ 
+Click on the link below to view or download the whitepaper.
+ 
+ 
+English Whitepaper - July 2023
+ 
+Vietnamese Whitepaper - July 2023
+ 
+ 
+ 
+Tip
+ 
+If you wish to translate the whitepaper into your native language, please open a pull request in our 
+GitHub repository
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to top 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Previous 
+ Solar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright Â© 2016 - 2022 solar.org 
+ Made with 
+ Material for MkDocs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

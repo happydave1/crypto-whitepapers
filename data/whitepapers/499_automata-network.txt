@@ -1,0 +1,88 @@
+Lightpaper | Automata Docs
+Automata Docs
+Search
+Ctrl
+â+âK
+Understanding Automata
+What is Automata?
+TEE Coprocessor
+Proof of Machinehood
+Optimistic Attestation
+Zero Knowledge Proof
+Modular Trust
+Key terms
+TEE Overview
+TEE Prover
+Multi-Prover AVS (EigenLayer)
+Operator guide
+Installation
+Deposit strategies
+Opt in to run AVS
+FAQ
+TEE Compile
+Getting Started
+Vendorizing
+Attestation Report
+TEE Builder
+Block Builder Architecture
+Stateless Executor
+Verifiable Random Function
+Why Automata VRF
+How does Automata VRF work
+Attestation
+Build with PoM
+Introduction
+Smart contract libraries
+Attestations on Verax
+Frequently asked questions
+Attestation module
+Machine Attestation
+Intel SGX
+AWS Nitro Enclaves
+Miscellaneous
+Device Attestation
+Yubikey
+Andriod
+Apple
+Windows
+FIDO U2F Authenticator
+WebAuthn Attestation
+WebAuthn Attestation Types
+Attestation Statements & Privacy Impacts
+Backed by PoM
+1RPC
+L2Faucet
+Frequently asked questions
+Protocol
+App-Specific Rollup
+Testnet
+Bridge
+Bridging Native Tokens from L1 to L2
+Bridging ERC20 Tokens from L1 to L2
+Bridging ERC721 Tokens from L1 to L2
+Bridging Native Tokens from L2 to L1
+Bridging ERC20 Tokens from L2 to L1
+Bridging ERC721 Tokens from L2 to L1
+Explorer
+Specification
+Attestation
+Attestor
+Smart Contract
+Research
+Account Abstraction
+Decentralized Randomness
+Maximal Extractable Value
+Reproducible Build
+Lightpaper
+Powered by GitBook
+Lightpaper
+Previous
+Reproducible Build
+Last updated 
+1 month ago
+On this page
+Was this helpful?
+ 
+366KB
+lightpaper.pdf
+pdf

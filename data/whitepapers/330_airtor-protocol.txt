@@ -1,0 +1,79 @@
+Welcome | ATOR | For Anonymity at Scale
+ATOR | For Anonymity at Scale
+Search
+Ctrl
+â+âK
+ð½
+Welcome
+â©
+The Network
+The Anon Network
+Service Interface
+â¹ï¸
+The Protocol
+The ATOR Protocol
+Validation
+Distribution
+â¸ï¸
+The Hardware
+Introducing our Relay
+Specifications
+First Hardware Presale
+âï¸
+Roadmap
+ð
+On-Chain
+Token Distribution
+ERC20 Addresses
+Acquiring Tokens
+ð
+Resources
+Relay Education
+Whitepapers
+Links
+Powered by GitBook
+ð½
+Welcome
+For Anonymity at Scale
+Building our own network
+Our project has recently accelerated its own timelines, making  Phase II - Ecosystem - the new sole focus for the protocol. Much of our documentation is being live updated to reflect this. 
+As part of this transition, ATOR will also be rebranding. 
+Stay tuned!
+Introduction
+ATOR is building the world's largest decentralized network for internet privacy, leveraging a globally distributed set of relays that earn ATOR for contributing their bandwidth, computing power and services. The ATOR token will administer a superfast onion-routing network that hosts a marketplace of dedicated services built within it
+The ATOR Network: An onion-routing privacy network that is built to be truly open; there will be no centralized control by directory authorities; all non-malicious developers, relays and participants will be able to utilize the network unhindered. In addition, the protocol will facilitate onboarding mainstream web services anonymously, from storage and endpoints to private directory authorities for online services.
+The ATOR Protocol: The ATOR Protocol will be the crucial component that underpins our network - allowing all relays in our network to be rewarded with the ATOR token in real time for contributing bandwidth. Coupled with our education, hardware and tokenomics, the protocol is the flywheel that will see ATOR scale to command a global DePIN network of incentivized relays. In addition, the token distribution layer will be the backbone to ATOR's marketplace of services built directly into the network.
+ATOR Relay Hardware: A low-powered computing device, capable of operating as a relay within the ATOR network, which enables non-technical users to contribute their bandwidth and computing power and receive the ATOR token passively. The ATOR Relay will also be capable of routing your home internet traffic through the ATOR network, and access anonymous services built directly in the network. As a result, the new network will be the first of its kind in that it will provide end to end encryption with users essentially accessing the web through a decentralized VPN.
+ATOR Services Interface: The ATOR Network will be designed for services built directly within the network - rather than requiring exit nodes to proxy traffic through, services will be hosted directly on relays within in the network, and be easily located, distributed and paid for through our Arweave token protocol. The ATOR Router will enable users to seamlessly interact with services such as streaming, messaging, and marketplaces, providing an enhanced anonymous internet experience.
+Our accelerated approach to building our own network will usher in a new paradigm of web browsing, creating an anonymous, free, and open layer of the internet inclusive to everyone.
+Vision
+We consider internet autonomy a fundamental right but, across the world, internet users have grown accustomed to unconsented collection, censorship and monetization of their data. The incumbent internet services that we rely on were built for centralized control, and to take back our rights, we need to take back that control. To be autonomous and, importantly, anonymous on the internet, we cannot rely purely on the guidelines put up by a single entity. Be it for communication, computation, or simply browsing, a correctly structured and provisioned decentralized solution beats out a centralized one, every time. And thatâs why weâre here.
+Get Started 
+Frequent Links
+Website: 
+https://ator.io 
+Docs: 
+https://docs.ator.io
+ 
+Twitter: 
+https://twitter.com/atorprotocol
+ 
+Announcements: 
+https://t.me/atorprotocol 
+Official Discussion: 
+https://t.me/atorofficialportal 
+Discord:
+ https://discord.gg/ator
+Token Address (Ethereum Mainnet) 
+Copy
+0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce 
+Copy
+Note: Donât invest unless youâre prepared to lose all the money you invest. This is a high-risk investment and you are unlikely to be protected if something goes wrong. The ATOR token does not provide any claims or membership rights in any company, organization or body. 
+Next
+The Anon Network
+Last updated 
+2 months ago
+On this page
+Introduction
+Vision
+Get Started 

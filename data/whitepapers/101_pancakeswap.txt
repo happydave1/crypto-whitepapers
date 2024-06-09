@@ -1,0 +1,327 @@
+Developers | English | PancakeSwap
+PancakeSwap
+English
+English
+ä¸­æ
+EspaÃ±ol
+Portuguese/Brazilian
+Ð ÑÑÑÐºÐ¸Ð¹
+Vietnamese
+Turkish
+French
+æ¥æ¬èª
+Italian
+Ask or Search
+Ctrl
+â+âK
+PancakeSwap Intro
+Get Started (BSC)
+Create a Wallet
+Get BEP20 Tokens
+Using PancakeSwap without Centralized Exchanges
+Connect Your Wallet to PancakeSwap
+Get Started (Aptos)
+Create a Wallet
+Get Aptos Coins
+CAKE Bridging Guide
+Connect Your Wallet to PancakeSwap
+Aptos FAQ
+V3/V2 Migration
+How to migrate
+How v3 APR is calculated
+FAQ
+V2 Migration
+Migrate Your Stakings
+MasterChef v2
+List of Farms
+CAKE Syrup Pool
+Audits
+Roadmap
+Click Here for Help
+Troubleshooting Errors
+General FAQ
+What is an Approval Transaction?
+Fixing Stuck Pending Transactions on MetaMask
+Binance Academy Guide
+Products
+ð
+Exchange
+Token Swaps
+How to Trade
+Fees and Routes
+Liquidity Pools
+How to Add/Remove Liquidity
+FAQ
+Market Maker Integration
+Smart Router (V2)
+How to trade using Smart Router
+Zap (V2)
+Stableswap
+How to StableSwap
+Limit Orders and Twap
+How to use Limit Orders
+How to use TWAP
+FAQ
+ð
+Yield Farming
+How to Use Farms
+APR/ROI/IL Calculator
+FAQ
+Farming on Aptos
+FAQ
+Crosschain Farming
+FAQ
+bCAKE
+How to use the new bCAKE
+Migration Guide
+FAQ
+V2 (deprecated)
+How to use bCAKE?
+ð·
+veCAKE
+What is veCAKE?
+How to get veCAKE?
+Migrate from CAKE Pool
+Gauges Voting
+FAQ
+Earn CAKE Weekly
+FAQ
+Bribes (Vote Incentives)
+veCAKE Managers
+Incentivizing Liquidity
+FAQ
+ð¯
+Syrup Pools - Stake CAKE
+Syrup Pools
+Syrup Pool FAQ & Troubleshooting
+CAKE Syrup Pool
+How to use the Flexible Staking option
+How to use the Fixed-Term Staking option
+CAKE Syrup Pool FAQ
+ð§ââï¸
+Farm Auctions
+ð¹
+Revenue Sharing
+How to participate?
+FAQ
+ðï¸
+IFO (Initial Farm Offering)
+How to Participate in an IFO
+iCAKE
+Contract Details
+ð
+Bridging
+Between EVMs
+Between EVM and Aptos
+FAQ
+Wormhole Bridge Guide
+Wormhole Bridge FAQ
+ð¤
+Simple Staking
+How to start Simple Staking
+FAQ
+Terms & Conditions
+ð§
+Liquid Staking Integration
+How To Liquid Stake
+WBETH
+WBETH FAQ
+SnBNB
+SnBNB FAQ
+ðª
+Perpetual Trading
+What is Perpetual Trading?
+Perpetual Trading V2
+How can I use it?
+Dumb Mode
+Dumb Mode Guide
+Degen Mode
+Degen Mode Dynamic Fee
+MADBTCUSD
+MADBTCUSD FAQ
+Perpetuals V2 Glossary
+Forex
+Perpetual Trading FAQ
+Arbitrum
+ALP Syrup Pool (Arbitrum)
+ALP Buying & Selling Fees
+Trading Rewards Program
+Arbitrum
+Supported Chains, Modes & Markets
+Perpetual Trading V1
+Perpetuals V1 Glossary
+How can I use it?
+V1 Perpetual Trading FAQ
+ð®
+Gaming Platform
+ð
+Brand Kit
+ð
+Pancake Mayor
+ð¡ï¸
+Pancake Protectors
+FAQ
+ð§
+Trading Reward
+How to Participate
+Top Traders Campaign
+CAKE Stakers Campaign
+FAQ
+ð®
+Prediction
+How to Use Prediction
+Prediction FAQ
+Prediction Troubleshooting
+ðï¸
+Lottery
+How to Play Lottery
+Lottery FAQ
+ð¯
+Pottery
+How to Play Pottery
+Pottery FAQ
+ð¼ï¸
+NFT
+ð¼ï¸
+NFT Profile System
+How to Set Up an NFT Profile
+Teams
+ð³
+Buy Crypto
+ð
+PancakeSwap Mini-Program
+How to Use PancakeSwap Mini-Program?
+Mini-Program FAQ
+âï¸
+PancakeSwap CEDEFI Integration
+ð
+Analytics (Info)
+Analytics
+ð¥ï¸
+PancakeSwap Private RPC
+ð
+Notifications
+PancakeSwap v4
+v4 FAQ
+ð¸
+Options
+Options Primer
+CLAMM Options
+FAQ
+Governance & Tokenomics
+CAKE Tokenomics
+Controlling CAKE supply
+Governance
+How to Vote
+How to Vote with SafePal Wallet
+veCAKE
+Ecosystem & Partnerships
+Affiliate Program
+Dashboard & Link
+Commission Structure and Payment
+Program Rules & Guidelines
+Terms & Conditions
+Ambassador Program
+ð¥Community Moderation Page
+ðCommunity Translation Page
+â FAQs Page
+Brand & Logos
+ð¼
+Business Partnerships
+â½
+veCAKE / Gauges
+ð§âð¾
+Initial Farm Offerings - IFOs
+ð¥
+Syrup Pools and Farms
+ð¼ï¸
+NFT Marketplace
+â
+Commonly Asked Business Partnerships Questions
+Developers
+Contributing
+Codebase Overview
+Bug Bounty
+Smart Contracts (EVM)
+veCAKE and Gauge Voting
+PancakeSwap Exchange
+v3 contracts
+PancakeV3Factory
+SmartRouterV3
+V3SwapRouter
+V2SwapRouter
+StableSwapRouter
+NonfungiblePositionManager
+PancakeV3Pool
+v2 contracts
+Factory v2
+Router v2
+Stable Swap
+Stableswap Router
+StableSwap Pools
+MasterChef
+MasterChef V3
+Syrup Pools
+SmartChefInitializable
+PoolDeployer
+CAKE Syrup Pool (deprecated)
+IFO
+Prediction
+Lottery
+Lottery Contract
+Pottery
+Farm Booster (bCAKE)
+IFO Commit Limit (iCAKE)
+Cross Chain Farming
+Cross Chain CAKE Bridging
+Market Maker Pool
+Smart Contracts (Aptos)
+PancakeSwap Exchange
+v2
+Swap Core V2
+Router v2
+MasterChef
+Syrup Pools
+IFO
+Utils
+API
+Subgraph
+Private RPC
+Team
+The Kitchen Team
+Become a Chef
+Developer Relations and Community Manager
+Solidity Engineer (Contract)
+Frontend Engineer (Contract)
+Product Designer (UX/I)
+Business Development Manager
+Frontend Engineer
+Solidity Engineer
+DevOps Engineer
+Contact Us
+Customer Support
+Social Accounts & Communities
+Token Distribution (ð§)
+Archive
+Old Tokenomics
+CAKE Tokenomics v1
+Controlling CAKE supply v1
+How to Use Farms with BscScan
+Powered by GitBook
+Developers
+The 
+developers sections are old
+ and 
+wonât be updated
+. Go to 
+https://developer.pancakeswap.finance/
+ for the updated developer docs which includes v4.
+Previous
+Commonly Asked Business Partnerships Questions
+Next
+Contributing
+Last updated 
+2 months ago
+On this page
+Was this helpful?
+ 

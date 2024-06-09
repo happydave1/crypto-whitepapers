@@ -1,0 +1,116 @@
+Introduction | Docs
+Search
+Ctrl
+â+âK
+Learn
+Introduction
+Tech Overview
+Network Overview
+SSV Token
+Governance
+Protocol Overview
+Tokenomics
+Fees
+Payments
+Liquidations
+SSV Specs
+P2P Specs
+Operators
+Operator Onboarding
+Update Fee
+Offboarding
+Verified Operators
+Permissioned Operators
+Stakers
+Validators
+Validator Onboarding
+Update Operators
+Validator Offboarding
+Validator Rewards
+Clusters
+Cluster Balance
+Reactivation
+Performance
+Statuses
+Glossary
+Developers
+Get Started
+Tools
+SSV Keys SDK
+SSV Scanner SDK
+SSV DKG Client
+Generate Key Shares
+SSV API
+SSV Subgraph
+Smart Contracts
+SSVNetwork
+SSVNetworkViews
+Troubleshooting
+Testnet
+Integration Guides
+Staking Pools
+Initialization Stage
+Operation Stage
+Maintenance Stage
+Staking Services
+Native Restaking
+Security
+Validator user guides
+Validator management
+Creating a new validator
+Distributing a validator
+Run a Distributed Key Generation ceremony
+Setting fee recipient address
+Cluster management
+Adding validator to existing cluster
+Depositing SSV
+Withdrawing SSV
+Re-activating a cluster
+Exiting a validator
+Removing a validator
+Tools
+SSV-Keys CLI
+SSV Scanner CLI
+Operator user guides
+Running a Node
+Node setup
+Configuring MEV
+Maintenance
+Monitoring
+Troubleshooting
+Enabling DKG
+Node Configuration Reference
+Node migration
+DKG operator migration
+Operator Management
+Registering an Operator
+Updating Operator fees
+Withdrawing earnings
+Configuring a permissioned Operator
+Setting Operator metadata
+Removing an Operator
+Liquidator Bot
+Installation
+Powered by GitBook
+Introduction
+What is ssv.network
+ssv.network is a fully decentralized, open-source ETH staking network, based on Secret Shared Validator (SSV) technology.
+SSV is also known as DVT, or Distributed Validator Technology, as it provides an open and simple infrastructure for splitting and distributing a validator key into multiple KeyShares, for the purpose of running an Ethereum validator across multiple non-trusting nodes.
+Running an Ethereum validator on ssv.network achieves active-active redundancy, introduces new levels of validator key security, and benefits the Ethereum network, staking pools, staking services and solo stakers.
+Benefits of ssv.network
+Active-Active Redundancy & Fault Tolerance
+In order for a validator to earn ETH rewards by signing data transactions, it must remain online and available. In the current Ethereum staking ecosystem, due to strict protocol rules, a validator must run on one node only and this presents a single point of failure. By splitting the validator key into multiple KeyShares and distributing those KeyShares to multiple nodes, if one node goes offline for routine maintenance or because of a problem, fault tolerance is achieved and the other nodes holding the rest of the KeyShares will respond to keep the validator operating. This results in a slashing-free, decentralized staking environment.
+Non-Custodial & Secure ETH Staking
+SSV allows the validator key to be generated, split into multiple KeyShares for distribution to non-trusting nodes, and then securely stored offline. Once the KeyShares are distributed to their respective nodes, they will operate the validator and sign data on behalf of the offline validator key. This offers a highly secure staking solution for users as they never have to hand over their validator key to any operators.
+Decentralization & Diversity
+Independent operators, located all over the world, provide the infrastructure for ssv.network and are responsible for maintaining its overall health. Each operator is free to choose the validator client(s) software they will run and their hardware infrastructure, while stakers are free to choose the independent operators that will run their validator(s). This increases the overall health of the Ethereum blockchain and further eliminates single points of failure and risk for stakers by allowing validators to run on multiple clients.
+Next
+Tech Overview
+Last updated 
+1 month ago
+On this page
+What is ssv.network
+Benefits of ssv.network
+Was this helpful?
+Edit on GitHub
+ 

@@ -1,0 +1,281 @@
+Kujira Empowers Everyone | Kujira Docs
+Search
+Ctrl
+â+âK
+Introduction
+Kujira Empowers Everyone
+Ecosystem
+Where Everyone Can Be a Whale
+Grown-Up DeFi (GUD)
+Why Kujira
+User and Developer Experience
+Values
+Principles
+Sustainability
+Meet Team Kujira
+Kujira Ecosystem
+Our Products
+Wider Ecosystem
+Kujira Roadmap
+How to Participate
+Moving Funds to Kujira
+Shipping Lane
+Security
+Media Coverage
+Links
+dApps & Infrastructure
+Basics
+Welcome to Kujira (Landing Page)
+BLUE (Central Hub)
+Dashboard
+Wallet
+Swap
+IBC / Bridge
+Mint
+Stake
+Govern
+Developer
+Product Guides
+How to Send Tokens
+How to Convert balances to KUJI
+How to Swap tokens
+How to Bridge tokens
+How to use IBC
+How to Mint USK
+How to Stake KUJI
+How to Redelegate KUJI
+How to Unstake KUJI
+How to Check the Status of Governance Proposals and/or Vote
+How to Nominate a Candidate for the Senate
+How to View Information on Senate Candidates
+BOW (Liquidity Engine)
+Dashboard
+Pools
+Featured Pools
+All Liquidity Pools
+Pool Overview
+Provide to a Pool
+Leveraged Liquidity
+Stake LP with a Pool
+Swap
+Stake USK
+Overview
+Stake / Unstake
+Rewards
+Product Guides
+How to View LP positions
+How to Add Liquidity
+How to Remove Liquidity
+How to Provide Incentives
+How to Check the Reward Schedule of a Pool
+FIN (DEX)
+Overview
+How to Use FIN
+Search and Filter by View
+Price Chart and Charting Tools
+Orderbook status and Recent Trades
+Personal Order Activity
+Spot and Margin Trade UI
+Isolated FIN Margin
+Listing tokens on FIN
+Coingecko API
+Product Guides
+How to Buy KUJI Using axlUSDC
+How to Sell ATOM for USK
+How to List a New Pair
+How to Toggle View to see Certain Pairs
+How to Save Favourite Pairs
+How to Check Unclaimed Orders
+How to Navigate to BOW Pools
+How to Look at Your History
+FINDER (Explorer)
+Product Guides
+How to View a Wallet's Balance
+How to Bookmark Wallets for Tracking
+How to View and Manage Bookmarked Wallets
+GHOST (Money Market)
+Basics
+Dashboard
+Borrow
+Lend
+ORCA (Liquidations)
+Basics
+Lending Markets
+Analytics
+USK Lending Markets
+Isolated FIN Margin
+xAsset Lending Markets
+How to Integrate ORCA
+Product Guides
+How to Bid on Collateral
+How to View Active Bids on Collateral
+How to View the Analytics on a Liquidation Market
+PILOT (Launchpad)
+POD (Cross-chain Staking)
+Product Guides
+How to Stake any Cosmos Layer 1 Token
+How to Redelegate any Cosmos L1 Token
+How to Unstake any Cosmos L1 Token
+Pond (Developer Toolkit)
+(Retired) SENATE (Grant Oversight)
+Senators
+Constitution
+Treasury
+Contacting the Senate
+Past Senate Proposals
+Past Senate Meetings
+Transparency
+Sonar (Native Wallet)
+Basics
+Setup
+Create a wallet
+Fund your wallet
+Customize your settings
+Using Sonar
+Mobile
+Home
+Swap
+Launch
+Trade
+Mint
+Borrow
+Liquidate
+Launch (PILOT)
+Buy gift cards with Bidali
+Fin orders (dashboard)
+Mint & manage USK positions (dash)
+Borrow on GHOST (dashboard)
+Stake
+Send/Receive
+Desktop
+USK (Stablecoin)
+Basics
+Technical Specifics
+Use Cases
+Transparency
+How to Mint USK
+Developers
+Developer Kickstart Page
+Smart Contracts
+Token Factory
+Price Oracle
+Scheduler
+Entropy Beacon
+Indexers
+SubQuery
+Core Module Accounts
+List of Tokens
+dApp Front Ends
+FIN
+Contacting the Team
+Tokenomics
+KUJI Token
+Staking KUJI
+Staking Tiers and Symbols on BLUE, FIN, and ORCA
+KUJI Sustainability
+Kujira Governance
+Lending and Borrowing KUJI
+Buying Kujira NFTs
+Validators
+Run a Node
+Create a validator
+Oracle Price Feeder
+Tips
+Cosmovisor Setup
+Community Tooling
+Staking Rewards
+Genesis Validator Allocation
+Governance
+Staking
+Staking Overview
+Redelegate
+Unbond
+Slashing
+Staking UI
+Vote on Proposals
+Submit a Governance Proposal
+(Retired) The Kujira Senate
+Treasury
+Discord Governance Forum
+Capybara Labs
+Smart Stake
+Our Venture-Builder Program
+Overview
+Community
+Kujira Amplifier
+Kujira Communities
+Kuji Kast
+Kujira News
+Kujira Support
+Support Ticket System
+Cosmobot
+Kujira Social Media
+Discord
+Telegram
+Twitter
+WinkHUB
+Medium
+Reddit
+Instagram
+YouTube
+Help Center
+Kujira Classroom
+FAQ
+Handy Tools
+Glossary
+Common Error Messages
+Brand Assets
+Colors
+Logo Options
+Kujira Brand
+Native Token Logos
+Product Logos
+Legacy Logos
+Fonts
+Powered by GitBook
+ 
+Kujira Empowers Everyone
+Sustainable Sovereign Layer 1 Ecosystem
+The Kujira blockchain
+Kujira
+ is a decentralized ecosystem revolutionizing FinTech to provide sustainable solutions for web 3 protocols, builders, and users.
+An innovation hub of revenue-generating products with great user experience, Kujira allows retail investors to access opportunities previously only available to the wealthy and elite.
+Our vision
+Our mission is to build a range of easy-to-use, cost-effective financial tools.
+Our products suit anyone: novice enthusiasts, seasoned retail investors, and even institutions.
+We aim to allow you to generate income regardless of market direction.
+Furthermore, we are inclusive of all blockchains and networks.
+Key features
+A 
+layer 1
+ blockchain ecosystem: 
+sovereign
+, 
+sustainable
+, and 
+decentralized
+Sustainable FinTech solutions for web 3
+ protocols, builders, and users
+A range of 
+innovative
+, 
+user-friendly
+, and 
+revenue-generating
+ products
+Built for every level of crypto experience
+ (including the general public)
+You do not need to risk more than you can afford to lose
+Access to financial opportunities
+ previously exclusive to the wealthy and elite
+People can generate income in any market environment
+Inclusive of every blockchain and network
+Next
+Ecosystem
+Last updated 
+2 months ago
+On this page
+Edit on GitHub
+The Kujira blockchain
+Our vision
+Key features

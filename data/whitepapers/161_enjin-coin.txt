@@ -1,0 +1,1732 @@
+Quick Start Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Content
+Testnet Tools
+Mainnet Tools
+Documentation
+Discussions
+Changelog
+API Reference
+Testnet Tools
+Mainnet Tools
+Blockchain Console
+Service Status
+Blockchain Console
+Service Status
+Moon (Dark Mode)
+Sun (Light Mode)
+Documentation
+Discussions
+Changelog
+API Reference
+Loadingâ¦
+Search
+Tutorials
+Quick Start Guide
+Using Enjin Coin
+Using the Enjin Platform
+Using the Enjin API
+Using the Wallet Daemon
+Managing Tokens
+Creating Collections
+Creating Tokens
+Adding Metadata
+Minting Tokens
+Transferring Tokens
+Create QR Drops
+Freezing & Thawing
+Burning / Destroying Tokens and Collections
+Fetching Token Holders
+Transfer / Accept collection ownership
+Managing Users
+Connecting User Wallets
+Using WalletConnect
+Verifying Wallets
+Reading Wallets
+Using Managed Wallets
+Using Fuel Tanks
+Advanced Mechanics
+TokenID Structure
+Metadata Standard
+Enforced Rarity
+Brand Integration NFTs
+Going Open-Source
+Self Hosting
+Local Installation
+Cloud Installation
+Cloud Hosting
+Platform Installation
+Installing Additional Packages
+Setting up the UI
+Setting up the Decoder
+Running the Workers
+Running a Websocket Server
+Setting up Redis
+Updating the Platform
+Restarting the Platform
+Keeping the Platform Running
+Running the Wallet Daemon
+Troubleshooting
+Checklist
+FAQ
+Chain State
+Events
+Laravel Horizon
+Extending the Platform
+Enjin Integrations
+Software Development Kits (SDKs)
+Getting Started
+GraphQL Requests
+Platform Events
+Enjin Discord Bot
+API FUNCTIONS
+Queries (Read)
+Transactions
+Collections
+Tokens
+Wallets
+Fuel Tanks
+Marketplace
+Beam
+Mutations (Write)
+Transactions
+Collections
+Tokens
+Wallets
+Fuel Tanks
+Marketplace
+Beam
+Websocket Events
+Arguments
+Components
+Enjin Ecosystem
+Enjin Coin
+Enjin Platform
+Enjin Relaychain
+Validator Staking
+Staking Integration Guide
+Creating Nomination Pools
+Joining Nomination Pools
+Stake Exchange Pallet
+Running a Validator
+Running Relaychain Nodes
+Enjin Matrixchain
+MultiToken Pallet
+Fuel Tanks Pallet
+Marketplace Pallet
+Collator Staking Pallet
+Running Matrixchain Nodes
+Enjin Blockchain Nodes
+Running a Node
+Building from Source
+Enjin Wallet
+Mobile Wallet
+NFT.io Marketplace
+Enjin Beam
+Best Practices
+Economy Management
+Long-Term Viability
+Fairness and Equality
+Community Collaboration
+Expansion & Extensibility
+Punishment Sinks
+User Acquisition
+Unique Collectibles
+Real-World Value
+Giveaways & Promotions
+Network Effects
+Brand Partnerships
+User Retention
+Rewards & Incentives
+Network Effects
+Legacy & Provenance
+Cross-Promotions
+Monetization
+Game Item Sales
+Microtransactions
+Subscriptions
+Royalties
+In-Game Marketplaces
+UGC Marketplaces
+Tokenized Ads
+Security & Privacy
+Security Fundamentals
+Immutable Asset Ownership
+Real-Value Transactions
+Anonymity and Privacy
+Scalability
+Powered byÂ 
+Quick Start Guide
+Integrate Enjin Blockchain in 2 hours.
+Suggest Edits
+
+
+This guide is designed to provide incremental, contextual insights, getting you comfortable with the Enjin Platform as you build a fully functional proof-of-concept over the next two hours. 
+
+
+Your proof of concept will:
+
+
+
+
+Automatically sign your app's on-chain transactions.
+
+
+Seamlessly onboard users into your on-chain economy.
+
+
+Mint NFTs on demand.
+
+
+Send NFTs, ENJ, and other currencies to your users.
+
+
+Receive ENJ, NFTs, and other currencies from your users.
+
+
+
+
+Following this guide ensures your operations are fully automated and optimized, so your MVP can scale with you as you grow.
+
+
+ð
+This guide will take you through building an MVP on 
+Enjin Mainnet
+. However, you are encouraged to begin with the 
+Canary Testnet
+ if you prefer.
+
+
+
+
+
+
+
+
+
+
+
+
+Create a Platform Account
+
+
+
+
+
+
+
+
+
+
+Skip the quick start guide
+
+
+If you'd like to dive deeper, just follow the natural flow of the documentation to learn everything you need to know about the Enjin Ecosystem.
+
+
+→
+
+
+
+
+
+
+
+
+
+
+Create an Enjin Platform account
+
+
+You will need an API token to interact with the Enjin Platform and Daemon Wallet
+
+
+Step 1. Sign up to 
+Platform.Enjin.io
+.
+
+
+Step 2. Go to the Settings Page.
+
+
+Step 3. Click "Create API Token".
+
+
+Step 4. Save Your "API Token" in a secure location like a Keychain or 
+Dashlane
+.
+
+
+You now possess the API Token necessary to configure your wallet daemon and execute queries and mutations through the Enjin API.
+
+
+
+
+Set up your secure Daemon Wallet
+
+
+The wallet daemon serves as an automated mechanism for signing on-chain transactions on behalf of your app. It is crucial to set up a secure environment for this tool and grant access exclusively to individuals or entities you trust. 
+
+
+âï¸
+Unauthorized access to your Wallet Daemon could result in the unauthorized transfer of tokens from your wallet.
+
+
+Step 1. Create a Droplet on 
+Digital Ocean
+.
+
+
+Recommended Specs:
+
+
+
+
+Minimum 4 GB Memory
+
+
+Minimum 25 GB Disk
+
+
+Minimum LON1 - Ubuntu 23.10 x64
+
+
+
+
+Estimated Cost:
+ $24 per month
+
+
+Step 2. Connect to your droplet via your SSH terminal.
+
+
+Step 3. Set up your Wallet Daemon.
+
+
+a. Download the Docker installation script.
+
+
+Run this command in your SSH terminal: 
+
+
+Shell
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+
+
+b. Execute the Docker installation script.
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+sudo sh ./get-docker.sh
+
+
+
+c. Clone the Enjin Platform Repository.
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+git clone https://github.com/enjin/wallet-daemon.git
+
+
+
+d. Go to the "Platform" folder.
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+cd  wallet-daemon
+
+
+
+e. Open the .env environment file.
+
+
+Run this command in your SSH terminal:: 
+
+
+Shell
+sudo nano .env
+
+
+
+f. Edit the .env environment file.
+
+
+Shell
+PLATFORM_KEY={platform api token}  
+KEY_PASS={enter secure password}  
+CONFIG_FILE=/opt/app/config.json  
+
+
+
+g. Open the Daemon Configuration.
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+sudo nano config.json
+
+
+
+h. Edit the Daemon Configuration.
+
+
+JSON
+{  
+  "node": "wss://rpc.matrix.blockchain.enjin.io:443",  
+  "api": "https://platform.enjin.io:443/graphql",  
+  "master_key": "/opt/app/storage"  
+}
+
+
+
+Step 4. Build from the Docker File.
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+docker compose build --no-cache
+
+
+
+Step 5. Start the Daemon.
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+docker compose up -d
+
+
+
+Your Wallet Daemon can now automatically authorize all token transfers associated with your app.
+
+
+Step 6. Open your seed phrase directory
+
+
+Once the docker script has executed, your terminal will show 
+Container wallet-daemon-daemon-1 Started
+
+
+Then, run this command in your SSH terminal:
+
+
+Shell
+cd store
+
+
+
+Step 7. List the files in the seed phrase directory
+
+
+Run this command in your SSH terminal:
+
+
+Shell
+ls
+
+
+
+Step 8. Open the seed phrase file
+
+
+Once the list script has executed, your terminal will show your seed phrase file, e.g.
+
+
+Response
+624344940d0d9c7385d010933383234817f8375647c73e22020l89d8244285a502784ba6
+
+
+
+Then, run this command in your SSH terminal
+
+
+Shell
+nano 624344940d0d9c7385d010933383234817f8375647c73e22020l89d8244285a502784ba6
+
+
+
+Step 8. Save your seed phrase into your 
+Enjin Wallet
+
+
+a. Download the 
+Enjin Wallet
+
+
+b. Go to Settings > Wallets > Add Wallet > Import Wallet.
+
+
+c. Import your seed phrase.
+
+
+âï¸
+Please store your seed phrase securely.
+Unauthorized access to your seed phrase could result in the unauthorized transfer of tokens from your wallet.
+
+
+ð
+Find out more about the Wallet Daemon in the 
+Getting Started
+ section.
+
+
+
+
+Set Up Managed Wallets
+
+
+Managed wallets will play a pivotal role in the widespread adoption of Web3 gaming in the years to come, because they offer a seamless entry point for mainstream gamers by enabling them to engage with your app and begin acquiring NFTs without the initial barrier of setting up a non-custodial wallet.
+
+
+Additionally, managed wallets enable the creation of a transparent ecosystem, as all transactionsâboth incoming and outgoingâcan be meticulously tracked on the blockchain. This visibility ensures that every exchange of assets through these wallets is open for analysis, reinforcing the integrity of your economy.
+
+
+Managed wallets empower you to dynamically adjust players' inventories by removing or transferring items in response to specific in-game activities, such as item loss or trades between players. 
+
+
+Moreover, managed wallets streamline the process for players to deposit tokens into your app. By simply transferring tokens to a managed wallet associated with their unique user identifier (UUID), players can effortlessly interact with your game's economy.
+
+
+Step 1. Open the 
+GraphiQL Playground
+ or connect via cURL, postman.
+
+
+The Enjin API, built on GraphQL, enables the creation of highly optimized operations that precisely send and receive the data required. This functionality can be visualized and executed through the 
+GraphiQL Playground
+.
+
+
+Enjin's GraphiQL Playground enables you to:
+
+
+
+
+Explore a full list of Enjin Platform operations.
+
+
+Write operations using an intuitive interface.
+
+
+View responses and test your operations before coding them.
+
+
+
+
+ð
+To integrate with the Enjin API via an external application, use the following endpoint: 
+https://platform.enjin.io/graphql
+.
+
+
+Step 2. Create a managed wallet.
+
+
+We strongly advise implementing a managed wallet for your app and for each of your users.
+
+
+When setting up a managed wallet for an individual user, it's crucial to link it directly to their UUID.
+
+
+Execute the 
+CreateWallet
+ mutation, specifying either your app's UUID or your user's UUID as the 
+externalId
+ to associate the wallet with:
+
+
+GraphQL
+cURL
+C#
+mutation CreateWallet {
+  CreateWallet(externalId: "EnjExcavators_UUID") #Specify the app's UUID
+}
+
+curl 
+	--location 'https://platform.enjin.io/graphql' \
+	--header 'Content-Type: application/json' \
+	--header 'Authorization: Bearer your_api_token' \
+	--data '{"query":"mutation CreateWallet {  CreateWallet(externalId: \"EnjExcavators_UUID\")}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token");
+var content = new StringContent("{\"query\":\"mutation CreateWallet {\\r\\n  CreateWallet(externalId: \\\"EnjExcavators_UUID\\\")\\r\\n}\\r\\n\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+
+
+Response
+{
+  "data": {
+    "CreateWallet": true
+  }
+}
+
+
+
+Step 3. Query the managed wallet.
+
+
+Execute the 
+GetWallet
+ query, using either your app's UUID or your user's UUID as the 
+externalId
+ for the wallet you wish to retrieve:
+
+
+GraphQL
+cURL
+C#
+query GetWallet {
+  GetWallet( externalId:"EnjExcavators_UUID") { #Specify the app's UUID
+    account {
+      address
+    }
+  }
+}
+
+curl --location 'https://platform.enjin.io/graphql' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer your_api_token' \ enjin_platform_cloud_session=zRBzXTjd3GX2tD2i4auuVK0wHgYLIJND5RXFzgta' \
+--data '{"query":"query GetWallet {\r\n  GetWallet( externalId:\"EnjExcavators_UUID\") {    \r\n    account {\r\n      address\r\n    }\r\n  }\r\n}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token");
+var content = new StringContent("{\"query\":\"query GetWallet {\\r\\n  GetWallet( externalId:\\\"EnjExcavators_UUID\\\") {    \\r\\n    account {\\r\\n      address\\r\\n    }\\r\\n  }\\r\\n}\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+
+
+Response
+{
+  "data": {
+    "GetWallet": {
+      "account": {
+        "address": "efQTjrL8Z5LNSV9RnxhhVe4KxF1yyAePdQCYvKWW9oWfn6KCc"
+      }
+    }
+  }
+}
+
+
+
+Use this process to establish managed wallets for your app and its users, facilitating the transfer of tokens between managed wallets in accordance with your game design requirements.
+
+
+ð
+Find out more about managed wallets in the 
+Managing Users
+ section.
+
+
+
+
+Send and receive ENJ between managed wallets
+
+
+Managed wallets simplify the process of accepting payments in ENJ, as well as issuing refunds, distributing rewards, and executing trades using ENJ.
+
+
+Step 1. Send ENJ from your app's managed wallet to a user's managed wallet.
+
+
+Utilize this mutation to process refunds, allocate rewards, and carry out ENJ transactions.
+
+
+Execute the 
+TransferBalance
+ mutation, setting your user's managed wallet as the 
+destination_address
+ and your own wallet as the 
+origin_address
+:
+
+
+GraphQL
+cURL
+C#
+mutation TransferBalance {
+  TransferBalance(
+    amount: "in_gwei", 
+    recipient: "destination_address", 
+    signingAccount: "origin_address") {
+    id
+    state
+  }
+}
+
+curl --location 'https://platform.enjin.io/graphql' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer your_api_token' \
+--data '{"query":"mutation TransferBalance {\r\n  TransferBalance(\r\n    amount: \"in_gwei\", \r\n    recipient: \"destination_address\", \r\n    signingAccount: \"origin_address\") {\r\n    id\r\n    state\r\n  }\r\n}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token");
+var content = new StringContent("{\"query\":\"mutation TransferBalance {\\r\\n  TransferBalance(\\r\\n    amount: \\\"in_gwei\\\", \\r\\n    recipient: \\\"destination_address\\\", \\r\\n    signingAccount: \\\"origin_address\\\") {\\r\\n    id\\r\\n    state\\r\\n  }\\r\\n}\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+
+
+Response
+{
+  "data": {
+    "TransferBalance": {
+      "state": "PENDING",
+      "id": 536081
+    }
+  }
+}
+
+
+
+Step 2. Transfer ENJ from a user's managed wallet to your app's managed wallet.
+
+
+Utilize the 
+TransferBalance
+ mutation, as demonstrated in 
+Step 1
+, to move ENJ from your user's managed wallet to yours. 
+
+
+This approach is highly effective for handling micro-payments or enabling trades. 
+
+
+In this instance, designate your managed wallet as the 
+destination_address
+ and the user's wallet as the 
+origin_address
+.
+
+
+Step 3. Receiving ENJ from a user's non-custodial wallet.
+
+
+a. Provide the user with the managed wallet address.
+
+
+Display the address of the user's managed wallet within your app or game UI. 
+
+
+Simplify the transfer process by adding a click-to-copy button and displaying a QR code, enabling users to easily copy or scan their managed wallet address into their Wallet app.
+
+
+b. Instruct the user to transfer ENJ.
+
+
+Request that the user sends ENJ from their non-custodial wallet to the provided address of their managed wallet. 
+
+
+Offer clear instructions or guidance on how to complete this transfer.
+
+
+c. Implement a "refresh wallet" button.
+
+
+Integrate a "Refresh Wallet" button or into your app or game UI. 
+
+
+This button should be placed in a prominent location, enabling the user to easily update their wallet information after making the transfer.
+
+
+d. Query their managed wallet to update their balance.
+
+
+When the user initiates the "Refresh Wallet" action, your app should perform a query to the user's managed wallet. 
+
+
+This query checks for any changes in the wallet's balance, reflecting the recent transfer of ENJ. 
+
+
+Update the displayed balance accordingly to provide immediate feedback to the user regarding the transaction's success.
+
+
+GraphQL
+cURL
+C#
+query GetWallet {
+  GetWallet(externalId: "Nick_Franklin") { #Specify the user's UUID
+    account {
+      address
+    }
+    balances {
+      free
+    }
+  }
+}
+
+curl --location 'https://platform.enjin.io/graphql' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer your_api_token' \ enjin_platform_cloud_session=JbIZChhaZzmZC4YBX8Uxy4mgEebEcSxtCzemlPz2' \
+--data '{"query":"query GetWallet {\r\n  GetWallet( externalId:\"Nick_Franklin\") {    \r\n    account {\r\n      address\r\n    }\r\n    balances {\r\n      free\r\n    }\r\n  }\r\n}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token");
+var content = new StringContent("{\"query\":\"query GetWallet {\\r\\n  GetWallet( externalId:\\\"Nick_Franklin\\\") {    \\r\\n    account {\\r\\n      address\\r\\n    }\\r\\n  }\\r\\n}\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+
+
+Response
+{
+  "data": {
+    "GetWallet": {
+      "account": {
+        "address": "efQTjrL8Z5LNSV9RnxhhVe4KxF1yyAePdQCYvKWW9oWfn6KCc"
+      },
+      "balances": {
+        "free": "2000000000000000000"
+      }
+    }
+  }
+}
+
+
+
+You can now use these operations to receive ENJ from a user, transfer it between the user's managed wallet and your app's wallet, return it to the user, and, if necessary, move it between users.
+
+
+ð
+Find out more about ENJ in the 
+Getting Started
+ section.
+
+
+
+
+Create a collection
+
+
+A collection refers to a grouping of tokens presented as a unified set on marketplaces. 
+
+
+Tokens within a collection share common trading volume and floor price statistics. Therefore, if there are tokens requiring individual floor prices, they should be minted into separate collections. 
+
+
+Typically, aiming for collections with high trading volume and floor price is desirable. Thus, unless there's a need to maintain distinct floor prices for specific high-value tokens to prevent them from being affected by more common tokens, it's advisable to consolidate tokens into a minimal number of collections.
+
+
+Step 1. Go to the 
+Collections
+ page in the 
+Enjin Platform
+.
+
+
+Step 2. Click "
+Create Collection
+".
+
+
+Step 3. Customize your collection.
+
+
+You can customize your collection's Mint Policy, Market Policy, Explicit Currencies (on option to delegate a token for Royalties), and Attributes.
+
+
+
+
+Mint Policy - The rules pertaining to token supply and number of tokens available to be minted in the future.
+
+
+Market Policy - Determines the rules which tokens in this collection must follow when interacting with the on-chain marketplace.
+
+
+Explicit Royalty Currencies - Choose which currencies are required to pay marketplace royalties for the tokens in this collection.
+
+
+Attributes - Set the collection details which are details stored in pairs, like a title and its content. Certain attributes, such as 
+name
+ and 
+description
+, have special roles that are understood by many platforms, wallets and marketplaces.
+
+
+
+
+Once you're satisfied with the options, click on the "Create" button at the bottom right corner to create the request.
+
+
+ð
+Find out more about Collections in the 
+Managing Tokens
+ section.
+
+
+Create a token
+
+
+Step 1. Go to the 
+Tokens
+ page in the 
+Enjin Platform
+.
+
+
+Step 2. Click "
+Create Token
+".
+
+
+Step 3. Customize your token.
+
+
+From here, you can customize your token's Mint Policy, Market Policy, Cap (optional), Explicit Royalty Currencies (optional), and Attributes.
+
+
+
+
+Create Token Section - Basic token options. Make sure to select the Collection ID you wish to mint the token in, the token ID, and the recipient in the corresponding fields.
+
+
+Cap - The token cap (if required).
+
+
+Token Royalty Settings - The market behavior for the token.
+
+
+Attributes - Set the token details which are details stored in pairs, like a title and its content. Certain attributes, such as the 
+URI
+, 
+name
+, and 
+description
+ have special roles that are understood by many platforms, wallets and marketplaces. If you're new, simply link to a JSON file that lists all the token's details. Make sure to check out the Managing Metadata page.
+
+
+
+
+Once you're satisfied with the options, click on the "Create" button at the bottom right corner to create the request.
+
+
+Mint, send, and receive tokens and NFTs between managed wallets
+
+
+Managed wallets streamline the token minting process, enabling transparent distribution to users without the requiring them to create a non-custodial wallet first.
+
+
+They also empower dynamic adjustments to players' inventories, allowing for item removal or transfer based on in-game activities like item loss or player trades.
+
+
+Furthermore, managed wallets simplify the token deposit process for players, facilitating the transfer of externally stored tokens into the app.
+
+
+Step 1. Mint a token to a user's managed wallet.
+
+
+Use this mutation to reward users for engaging with your game or app by directly minting tokens into their managed wallets.
+
+
+GraphQL
+cURL
+C#
+mutation BatchMint {
+  BatchMint(
+    collectionId: "7154" #Specify the collection ID
+    recipients: [
+      {
+        account: "destination_address" #The recipient of the mint
+        mintParams: { 
+          amount:1 #Amount to mint
+          tokenId: {integer: 6533} #Token ID to mint
+        }
+      }
+    ]
+  ) {
+    id
+    method
+    state
+  }
+}
+
+curl --location 'https://platform.enjin.io/graphql' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer your_api_token' \ enjin_platform_cloud_session=kTktD1CFLPmaxRcMqV3ruyjvMEzBWQUnfICvAaSI' \
+--data '{"query":"mutation BatchMint {\r\n  BatchMint(\r\n    collectionId: \"7154\" #Specify the collection ID\r\n    recipients: [\r\n      {\r\n        account: \"destination_address\" #The recipient of the mint\r\n        mintParams: { \r\n          amount:1 #Amount to mint\r\n          tokenId: {integer: 6533} #Token ID to mint\r\n        }\r\n      }\r\n    ]\r\n  ) {\r\n    id\r\n    method\r\n    state\r\n  }\r\n}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token"); enjin_platform_cloud_session=kTktD1CFLPmaxRcMqV3ruyjvMEzBWQUnfICvAaSI");
+var content = new StringContent("{\"query\":\"mutation BatchMint {\\r\\n  BatchMint(\\r\\n    collectionId: \\\"7154\\\" #Specify the collection ID\\r\\n    recipients: [\\r\\n      {\\r\\n        account: \\\"destination_address\\\" #The recipient of the mint\\r\\n        mintParams: { \\r\\n          amount:1 #Amount to mint\\r\\n          tokenId: {integer: 6533} #Token ID to mint\\r\\n        }\\r\\n      }\\r\\n    ]\\r\\n  ) {\\r\\n    id\\r\\n    method\\r\\n    state\\r\\n  }\\r\\n}\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+
+
+Step 2. Send a token from your app's managed wallet to a user's managed wallet.
+
+
+Utilize this mutation to send tokens to your users or to initiate trades.
+
+
+GraphQL
+cURL
+C#
+mutation SimpleTransferToken{
+  SimpleTransferToken(
+    collectionId: 36105 #Specify the collection ID
+    recipient: "destination_address", 
+    signingAccount: "origin_address",
+    params: {
+      tokenId: {integer: 0} #Specify the token ID
+      amount: 1 #Choose the transfer amount
+    }
+  ){
+    id
+    method
+    state
+  }
+}
+
+curl --location 'https://platform.enjin.io/graphql' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer your_api_token' \ enjin_platform_cloud_session=kTktD1CFLPmaxRcMqV3ruyjvMEzBWQUnfICvAaSI' \
+--data '{"query":"mutation SimpleTransferToken{\r\n  SimpleTransferToken(\r\n    collectionId: 36105 #Specify the collection ID\r\n    recipient: \"destination_address\", \r\n    signingAccount: \"origin_address\",\r\n    params: {\r\n      tokenId: {integer: 0} #Specify the token ID\r\n      amount: 1 #Choose the transfer amount\r\n    }\r\n  ){\r\n    id\r\n    method\r\n    state\r\n  }\r\n}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token"); enjin_platform_cloud_session=kTktD1CFLPmaxRcMqV3ruyjvMEzBWQUnfICvAaSI");
+var content = new StringContent("{\"query\":\"mutation SimpleTransferToken{\\r\\n  SimpleTransferToken(\\r\\n    collectionId: 36105 #Specify the collection ID\\r\\n    recipient: \\\"destination_address\\\", \\r\\n    signingAccount: \\\"origin_address\\\",\\r\\n    params: {\\r\\n      tokenId: {integer: 0} #Specify the token ID\\r\\n      amount: 1 #Choose the transfer amount\\r\\n    }\\r\\n  ){\\r\\n    id\\r\\n    method\\r\\n    state\\r\\n  }\\r\\n}\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync());
+
+
+
+Step 3. Receive a token from a user's managed wallet to your app's managed wallet.
+
+
+Utilize this mutation to deduct tokens from your users' inventories or to initiate trades.
+
+
+Utilize the 
+SimpleTransferToken
+ mutation, as demonstrated in 
+Step 1
+, to move tokens from your user's managed wallet to yours. 
+
+
+In this instance, designate your managed wallet as the 
+destination_address
+ and the user's wallet as the 
+origin_address
+.
+
+
+Step 4. Receiving Tokens from a User's non-custodial wallet.
+
+
+a. Provide the user with the managed wallet address.
+
+
+Display the address of the user's managed wallet within your app or game UI. 
+
+
+Simplify the transfer process by adding a click-to-copy button and displaying a QR code, enabling users to easily copy or scan their managed wallet address into their Wallet app.
+
+
+b. Instruct the user to transfer the required tokens.
+
+
+Request that the user sends tokens from their non-custodial wallet to the provided address of their managed wallet. 
+
+
+Offer clear instructions or guidance on how to complete this transfer.
+
+
+c. Implement a "refresh wallet" button.
+
+
+Integrate a "Refresh Wallet" button or into your app or game UI. 
+
+
+This button should be placed in a prominent location, enabling the user to easily update their wallet information after making the transfer.
+
+
+d. Query their managed wallet to update their balance.
+
+
+When the user initiates the "Refresh Wallet" action, your app should perform a query to the user's managed wallet. 
+
+
+This query checks for any changes in the wallet's balance, reflecting the recent transfer of tokens. 
+
+
+Update the displayed balance accordingly to provide immediate feedback to the user regarding the transaction's success.
+
+
+GraphQL
+cURL
+C#
+query GetWallet {
+  GetWallet(externalId: "Nick_Franklin"){ #Specify the user's UUID
+    tokenAccounts{
+      edges{
+        node{
+          balance
+          token{
+            tokenId
+            collection{
+              collectionId
+            }
+            attributes{
+              key
+              value
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+curl --location 'https://platform.enjin.io/graphql' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer your_api_token' \ enjin_platform_cloud_session=kTktD1CFLPmaxRcMqV3ruyjvMEzBWQUnfICvAaSI' \
+--data '{"query":"query GetWallet {\r\n  GetWallet(externalId: \"Nick_Franklin\"){ #Specify the user'\''s UUID\r\n    tokenAccounts{\r\n      edges{\r\n        node{\r\n          balance\r\n          token{\r\n            tokenId\r\n            collection{\r\n              collectionId\r\n            }\r\n            attributes{\r\n              key\r\n              value\r\n            }\r\n          }\r\n        }\r\n      }\r\n    }\r\n  }\r\n}","variables":{}}'
+
+var client = new HttpClient();
+var request = new HttpRequestMessage(HttpMethod.Post, "https://platform.enjin.io/graphql");
+request.Headers.Add("Authorization", "Bearer your_api_token"); enjin_platform_cloud_session=kTktD1CFLPmaxRcMqV3ruyjvMEzBWQUnfICvAaSI");
+var content = new StringContent("{\"query\":\"query GetWallet {\\r\\n  GetWallet(externalId: \\\"Nick_Franklin\\\"){ #Specify the user's UUID\\r\\n    tokenAccounts{\\r\\n      edges{\\r\\n        node{\\r\\n          balance\\r\\n          token{\\r\\n            tokenId\\r\\n            collection{\\r\\n              collectionId\\r\\n            }\\r\\n            attributes{\\r\\n              key\\r\\n              value\\r\\n            }\\r\\n          }\\r\\n        }\\r\\n      }\\r\\n    }\\r\\n  }\\r\\n}\",\"variables\":{}}", null, "application/json");
+request.Content = content;
+var response = await client.SendAsync(request);
+response.EnsureSuccessStatusCode();
+Console.WriteLine(await response.Content.ReadAsStringAsync())
+
+
+
+Response
+{
+  "data": {
+    "GetWallet": {
+      "tokenAccounts": {
+        "edges": [
+          {
+            "node": {
+              "balance": "1",
+              "token": {
+                "tokenId": "106338239662793274425543839176105918464",
+                "collection": {
+                  "collectionId": "2967"
+                },
+                "attributes": [
+                  {
+                    "key": "Name",
+                    "value": "Aeonclipse Key"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "balance": "1",
+              "token": {
+                "tokenId": "107002853660685728525072975374659354626",
+                "collection": {
+                  "collectionId": "2967"
+                },
+                "attributes": [
+                  {
+                    "key": "Name",
+                    "value": "Epochrome Sword"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "balance": "6",
+              "token": {
+                "tokenId": "1070028536606857285066262313009498093681",
+                "collection": {
+                  "collectionId": "2967"
+                },
+                "attributes": [
+                  {
+                    "key": "name",
+                    "value": "Mike"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+
+f. Managing grouped NFTs.
+
+
+Enjin Blockchain provides the flexibility to customize token IDs, facilitating easier management and categorization.
+
+
+For instance, consider this group of NFTs named the 
+Pegasoid Steed
+. While each NFT possesses a unique token ID, they often share identical utility, which is why they belong to the same NFT Group.
+
+
+When minting these items for the first time on Enjin Blockchain, labeling them as 
+Pegasoid-682
+, 
+Pegasoid-683
+, 
+Pegasoid-684
+, etc., would be the simplest categorization method.
+
+
+However, since these tokens were migrated from Ethereum where they existed as ERC-1155's, their token IDs have been converted from their original HEX format 
+50800000000006E500000000000002AA
+ into decimal 
+107002853660685760327259758449926341290
+.
+
+
+You can still convert them back to ERC-1155 format anytime by converting the token ID to HEX to obtain their 32-character reference: 
+50800000000006E500000000000002AA
+.
+
+
+From there you can split the HEX ID in half to group them together:
+
+
+
+
+Take the first 16 characters as the Group ID: 
+50800000000006E5
+
+
+Take the last 16 characters as the Group index: 
+00000000000002AA
+
+
+Convert the token index hex back to decimal to get the NFT number, in this case it's #682.
+
+
+
+
+Here are some examples of popular ERC-1155 tokens taken from Enjin's Multiverse Collection.
+
+
+Item Name
+Token Id
+Group ID
+Group Index
+NFT Number
+Aeonclipse Key
+106338239662793274425543839176105918464
+50000000000000f9
+0000000000000000
+N/A (Fungible)
+APG-M55
+107002853660685728561966463522078458759
+508000000000002B
+0000000000000387
+# 903
+Archspire
+106338239662793273447866403269499682816
+50000000000000c4
+0000000000000000
+N/A (Fungible)
+Epochrome Sword
+107002853660685728525072975374659354626
+5080000000000029
+0000000000000002
+# 2
+Forgehammer
+107002853660685728543519719448368909321
+0000000000000C09
+0000000000000003
+# 3081
+Mike
+107002853660685728506626231300949809368
+5080000000000028
+00000000000018D8
+# 6360
+Oindrasdain
+107002853660685728488179487227240254752
+5080000000000027
+0000000000000D20
+# 3360
+Pegasoid Steed
+107002853660685760327259758449926341290
+50800000000006e5
+00000000000002AA
+# 682
+Shadowsong
+107002853660685728617306695743207113450
+508000000000002e
+00000000000002EA
+# 746
+Soulshift Armor
+107002853660685728598859951669497561717
+508000000000002d
+0000000000000275
+# 629
+Starbow
+107002853660685760308813014376216789552
+50800000000006e4
+0000000000000230
+# 560
+Stormwall
+107002853660685728580413207595788009475
+508000000000002c
+0000000000000270
+# 624
+The Mask of U'thuchul
+107002853660685751233014930111117393999
+50800000000004f8
+000000000000004F
+# 79
+Wanderer's Elixir
+107002853660685751251461674184826946411
+50800000000004f9
+000000000000036B
+# 875
+Tramyarus Quarter
+106338239662793367710728619925308440576
+50000000000014ba
+0000000000000000
+N/A (Fungible)
+
+
+ð
+Find out more about Tokens & NFTs in the 
+Managing Tokens
+ and 
+Advanced Tutorials
+ sections.
+
+
+Summary
+
+
+If you have successfully followed these steps, you now have all the necessary operations to build a fully functional proof of concept capable of receiving ENJ, NFTs, and currencies, as well as sending ENJ, NFTs, and currencies. With this setup, you can provide your users with an entirely seamless onboarding experience.
+
+
+Should you have any further questions or require assistance, please don't hesitate to ask in the 
+Discussions
+ section of our docs. We are eager to help, and our mission is to make blockchain integration as straightforward as possible for you.
+
+
+ð
+Co-Authored by 
+Nick Franklin from Kepithor Studios
+Nick is the Founder of 
+Enj Excavators
+ and 
+Kingdom Karnage
+ and has been one of the most experienced developers in Web3 gaming since joining the Enjin Ecosystem in 2018.
+Reach out to Nick on 
+Telegram
+ or 
+Discord
+ for partnership and collaboration opportunities.
+Updated
+ 
+3 months ago
+ 
+Table of Contents
+
+
+Create an Enjin Platform account
+
+
+Set up your secure Daemon Wallet
+
+
+Set Up Managed Wallets
+
+
+Send and receive ENJ between managed wallets
+
+
+Create a collection
+
+
+Create a token
+
+
+Mint, send, and receive tokens and NFTs between managed wallets
+
+
+Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

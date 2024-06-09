@@ -1,0 +1,171 @@
+AIDOGE | ArbDoge AI
+ArbDoge AI
+Search
+Ctrl
+â+âK
+Introduction
+How to Start
+Tokenomics
+AIDOGE
+AICODE
+Products
+Vault
+NFT
+NFT Traits
+NFT Rewards Hub
+Launchpad
+DAO
+Others
+FAQ
+Transparency
+AICODE Inflation Statistics
+Social Media
+Brand
+Terms of Use
+Privacy Policy
+Powered by GitBook
+AIDOGE
+Token Introduction
+AIDOGE is the key to the ArbDoge AI ecosystem.
+Contract Address
+0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b
+Basic Function
+It has strong deflationary properties and can earn passive income through staking, following the application and value route.
+Applications
+AICODE Mining
+AI NFTS
+...
+
+Total Supply
+210,000,000,000,000,000 tokens.
+Distribution Method
+In the first stage of ArbDoge AI's "Call to AIDOGE" campaign, 100% of AIDOGE tokens will be distributed to the community for free. 
+95% of the total amount of AIDOGE will go directly into the airdrop pool and will be claimed by users who are eligible for the ARB airdrop. (See the table below for the number of AIDOGE to be claimed)
+5% of the total amount of AIDOGE will be rewarded to the inviters while stocks last.
+Any unclaimed tokens will be included in future usage plans: protocol long-term development, early supporters, long-term community supporters, and burning.
+Claiming Method
+Users who qualify for the ARB airdrop can claim AIDOGE by logging into their wallet on the official website. It will be first come, first served. The amount of tokens to be claimed for each user will decrease in each interval based on the total token supply, as follows:
+Number of people
+Total token amount 
+Token amount per user 
+1
+31257
+40384044000000000
+1292000000000
+2
+31257
+32307235200000000
+1033600000000
+3
+31257
+25845788160000000
+826880000000
+4
+31257
+20676630528000000
+661504000000
+5
+31257
+16541304422400000
+529203200000
+6
+31257
+13233043537920000
+423362560000
+7
+31257
+10586434830336000
+338690048000
+8
+31257
+8469147864268800
+270952038400
+9
+31257
+6775318291415040
+216761630720
+10
+31257
+5420254633132030
+173409304576
+11
+31257
+4336203704855260
+138727443608
+12
+31257
+3469012047000000
+110981954928
+13
+31257
+2775170372135090
+88785563942
+14
+31257
+2220136297720580
+71028451154
+15
+31257
+1776109038170210
+56822760923
+16
+31257
+1420887231523890
+45458208770
+17
+31257
+1136709784437690
+36366566991
+18
+31257
+909367827525144
+29093253592
+19
+31257
+727494262032618
+23274602874
+20
+31257
+581995409619843
+18619682299
+Invitation Rewards
+Anyone can generate their own unique link and invite friends who qualify for the ARB airdrop to claim the AIDOGE airdrop. The inviter can receive an additional reward of 10% of the claimed amount by the invitee. The reward will be automatically transferred to the wallet address after a successful invitation.
+Tax Burn
+8% of each transaction will be allocated as the tax burn, distributed as follows:
+Proportion
+Uses
+Introduction
+1%
+Burn
+Transfer to a black hole address and permanently destroyed.
+0.7%
+Earn
+Converted to AIDOGE and deposited into the Pool, distributed proportionally to users who stake AIDOGE in this pool.
+3%
+Temporary Deposit
+Deposit $ARB in this address: 0xa67b4Bf837B77da3D11AA1bb0b7bCdDE995279D8
+1%
+Refill Camelot's Liquidity Pool
+Deposit into the AIDOGE/ETH trading pair on the Camelot exchange to increase trading depth.
+0.8%
+Flexible Funds
+Converted to ARB for flexible utilization (Before the full launch of the AIFI product, this portion of $ARB will be allocated to $AICODE holders)
+1.5%
+Development
+/
+Previous
+How to Start
+Next
+AICODE
+Last updated 
+10 months ago
+On this page
+Token Introduction
+Contract Address
+Basic Function
+Applications
+Total Supply
+Distribution Method
+Claiming Method
+Invitation Rewards
+Tax Burn

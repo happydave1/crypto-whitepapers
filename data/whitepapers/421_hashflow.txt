@@ -1,0 +1,60 @@
+What is Hashflow? | Hashflow
+Hashflow
+ 
+Home
+ 
+Launch App
+Search
+Ctrl
+â+âK
+Hashflow
+What is Hashflow?
+DEX Aggregator
+DEX Aggregator FAQ
+Native Cross-Chain Swaps
+Native Cross-Chain Swaps FAQ
+Buying Crypto via MoonPay
+MoonPay Integration FAQ
+Protocol Fees & RevShare
+Protocol Fees & RevShare FAQ
+HFT & Governance
+Background
+Allocation and Distribution
+Release Schedule
+Community Incentives
+Rewards Timeline
+NFT Holders Rewards
+Trading Rewards
+Market Making Rewards
+Community Treasury
+Company
+Team
+Prioritization Roadmap
+Brand & Logos
+Official Links
+Market Making
+Getting Started - API v3
+How To Guides
+Taker
+Getting Started - API v3
+Powered by GitBook
+What is Hashflow?
+Hashflow is a DEX Aggregator that offers deep liquidity across the leading blockchains. Leveraging an intent-based Smart Order Routing (SOR) architecture, Hashflow 
+offers traders the best prices, access to over $8B in liquidity, and the ability to trade every token both interchain and cross-chain
+. Since launching in April 2021, Hashflow has cleared over $18B in total trade volume. 
+See the following articles to learn more about Hashflow:
+page
+DEX Aggregator
+page
+Native Cross-Chain Swaps
+page
+Buying Crypto via MoonPay
+page
+Protocol Fees & RevShare
+Next
+DEX Aggregator
+Last updated 
+3 months ago
+On this page
+Was this helpful?
+Hashflow 2.0 Trading App

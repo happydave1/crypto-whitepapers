@@ -1,0 +1,133 @@
+Meet WOOFi | Main | WOOFi Docs
+Main
+Main
+Dev docs
+ 
+Buy WOO
+ 
+Launch app
+Perps
+Swap
+Earn
+Stake
+ 
+Follow us
+X
+Substack
+Discord
+Farcaster
+DeBank
+ 
+Analytics
+Dune
+DeFiLlama
+DappRadar
+Ask or Search
+Ctrl
+â+âK
+ð
+Meet WOOFi
+ð¯
+Core Features
+Synthetic proactive market maker
+Cross-chain swaps
+Supercharger earn vaults
+WOO staking
+Perpetual futures
+ð
+User guides
+Get Started
+Swap
+Cross-chain swap
+Stake
+How to migrate from staking v1 to v2
+Earn
+Pro (perpetual futures)
+Glossary
+Trading basics
+Order types
+Trading Fees
+API broker onboarding
+Affiliate program
+FAQs
+Cross-chain swaps
+Supercharger vaults
+Staking
+Pro (Perpetual futures)
+ð
+WOOOOOOOOO !!!!!
+What is WOO
+Why should I hold WOO
+ð¨âð»
+For developers
+Security
+Dev Docs
+GitHub
+Additional Resources
+Brand Kit
+Legacy
+ðª
+[ended] ARB STIP distribution
+ð¤
+[ended] Binance Web3 Wallet airdrop
+legal
+Terms of Use
+Powered by GitBook
+ð
+Meet WOOFi
+https://fi.woo.org
+WOOFi is a unique decentralized exchange that bridges the deep liquidity of centralized exchanges on chain. This enables DeFi traders to swap with size and maximize their profits through the lowest swap fees and minimal slippage. 
+In addition to this, WOOFi has four other core components:
+âï¸âï¸ 
+Cross-chain swaps
+Move any asset quickly and seamlessly across 11 supported chains with minimum slippage
+ð°ð¤ 
+Revenue sharing
+Stake WOO tokens and earn 80% of all swap fees in WOO or USDC
+â¡ï¸ð² 
+Supercharged yields
+Lend assets to WOOFi's liquidity manager and earn leading single-sided yield, free of impermanent loss
+ðð Perpetual futures
+Trade perpetual futures with WOOFi Pro's order book, enjoy a CeFi style trading experience while keeping self-custody
+Key milestones ð¥
+$14B+ total trading volume (Top 10 daily volume on 
+DeFiLlama
+)
+650K unique monthly active wallets (Top 5 on 
+DappRadar
+)
+4.2M+ cross-chain swaps executed
+$3.5M+ protocol fees distributed to WOO stakers
+Chains supported include Ethereum, Arbitrum, Optimism, Polygon PoS, Polygon zkEVM, zkSync Era, Linea, Base, Avalanche C-chain, BNB Chain, Mantle and Fantom
+Quick links ð
+â­ï¸ 
+Launch app
+ðª 
+Perpetual futures
+ð 
+User guides
+â 
+FAQs
+ð 
+DeFiLlama
+, 
+DappRadar
+, 
+Dune Dashboards
+ð¢ 
+Twitter
+, 
+Substack
+, 
+Discord
+, 
+Lens
+ð ï¸ 
+Developer docs
+ð 
+Audits & bug bounties
+Next
+Synthetic proactive market maker
+Last updated 
+3 days ago
+Was this helpful?

@@ -1,0 +1,119 @@
+Welcome to Marinade | English | Marinade.Finance
+English
+English
+Ask or Search
+Ctrl
+â+âK
+ð
+Welcome to Marinade
+ð ï¸
+Marinade DAO
+Contributors
+ð¨âð³
+The MNDE token
+MNDE Directed stake
+Liquidity Mining
+Retroactive Rewards
+ð³ï¸
+MNDE Governance
+ð
+Marinade Stats
+ð
+Official Links
+ðï¸
+Changelog
+Getting started
+What is mSOL?
+What is Marinade Native?
+FAQ
+Glossary
+Marinade Protocol
+Introduction
+Liquid Staking
+Marinade Native
+Protocol Overview
+mSOL Token
+Unstake Liquidity Pool
+Bot operations
+Protected Staking Rewards
+Delegation Strategy
+Security
+Audits
+Multisig governance
+Legal
+Risks
+Disclaimer
+Marinade Products
+Directed Stake
+mTransactions
+developers
+Marinade Ts/Js SDK
+Marinade Rust SDK
+Anchor IDL
+Bug Bounty
+Contracts & Tokens Addresses
+Delegation Strategy API
+Marinade Stats API
+Snapshots API
+Mint your NFT project in mSOL
+Stake to Marinade via SPL governance
+Partnerships
+Become our Partner
+Marinade Press Kit
+Referral program
+Powered by GitBook
+ð
+Welcome to Marinade
+The best place to stake your SOL.
+What is Marinade?
+Marinade is a stake automation platform that monitors all Solana validators and delegates to 100+ of the best-performing ones. Optimize your SOL staking rewards by using Marinade's automated strategy designed by the core team. Users of Marinade can choose between staking natively or liquid stake SOL for mSOL, a liquid staking token. Either option stakes your SOL with the same set of high-performance validators. 
+Liquid staking utilizes a smart contract that gives the staker mSOL ("marinated SOL"). These tokens can be used as collateral throughout Solana DeFi. 
+When liquid staking SOL for mSOL, the price of mSOL goes up relative to SOL each epoch with Solana inflation rewards being accrued into the underlying staked SOL in the Marinade stake pool. 
+When using Marinade Native, there is no interaction with the liquid staking smart contract and you do not receive mSOL. Your SOL staking rewards are compounded into your stake account each epoch. 
+You can withdraw your SOL by unstaking and waiting for the unlock period (1-2 epochs) or, if liquid staking, immediately for a small fee (see our 
+FAQ
+). 
+You don't need to unstake your staked SOL in order to stake with Marinade. The Marinade dApp enables users to redelegate their SOL stakes instantly to the pool of validators and start receiving rewards from Marinade's native or liquid stake. 
+You can also directly exchange between mSOL and SOL on secondary markets at the current market rate. 
+Marinade also enables you to tokenize your existing stake. If you are already delegating to a single validator, you own one or multiple stake accounts that can also be converted to mSOL to be made liquid. 
+What are the benefits of staking SOL?
+Blockchains use consensus protocols in order to validate transactions in a secure and decentralized way. You can find a good explanation of staking in the 
+Solana documentation
+. 
+When you stake your SOL tokens to a validator, you are contributing to the decentralization and performance of Solana. In return for staking your SOL with a validator, you receive rewards in SOL each epoch (2-3 days). 
+For the decentralization and the security of the Solana blockchain, we need as much SOL as possible staked to efficient validators. With the growing number of use cases for SOL in DeFi, a fair amount of SOL is still not staked and used daily in DeFi. 
+Marinade lets you stake your SOL in exchange for mSOL, a liquid staking token that you can use as collateral in DeFi while still accruing the SOL staking rewards. The SOL that you are staking with Marinade is spread among more than 100 validators. Validators are chosen by our 
+transparent, permissionless formula
+ and automatically rebalanced every epoch.
+What's so special about mSOL?
+Let's highlight the main benefits of staking your SOL to mSOL with Marinade:
+Open-sourced, permissionless delegation formula to over 100 validators 
+Full control over your tokens and associated accounts
+Unlock your stake, receive a tokenized version of your position, and use it in DeFi
+Stake and delayed unstake with no charge
+6% performance fee on your rewards
+Native Solana community and contributor-driven governance
+What's so special about Marinade Native?
+Fully non-custodial solution, you conserve ownership of your SOL tokens at all time
+No smart contract risk: this staking solution does not use any smart contract
+Automatically managed and rebalanced staking position for no fee 
+Open-sourced, permissionless delegation formula with more than 150 validators
+Stake and delayed unstake with no fee
+Native Solana community and contributor-driven governance
+What can you do with Marinade?
+Stake SOL (and unstake anytime) or become a liquidity provider to the 
+SOL-mSOL pool
+.
+Explore additional DeFi opportunities on top of staking rewards using your tokenized stake positions.
+Grow your position in the Marinade DAO and participate in governance. 
+Next
+Marinade DAO
+Last updated 
+1 month ago
+On this page
+Was this helpful?
+What is Marinade?
+What are the benefits of staking SOL?
+What's so special about mSOL?
+What's so special about Marinade Native?
+What can you do with Marinade?

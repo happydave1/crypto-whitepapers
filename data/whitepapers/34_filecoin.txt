@@ -1,0 +1,252 @@
+Welcome to Filecoin Docs | Filecoin Docs
+Filecoin Docs
+ 
+Basics
+ 
+Storage providers
+ 
+Nodes
+ 
+Networks
+ 
+Smart contracts
+ 
+Reference
+Ask or Search
+Ctrl
+â+âK
+Welcome to Filecoin Docs
+Basics
+What is Filecoin
+Crypto-economics
+Blockchain
+Storage model
+Storage market
+Retrieval market
+Programming on Filecoin
+Networks
+The blockchain
+Actors
+Addresses
+Blocks and tipsets
+Consensus
+Drand
+Proofs
+Assets
+The FIL token
+Wallets
+Metamask setup
+Get FIL
+Transfer FIL
+Interplanetary consensus
+How storage works
+Filecoin plus
+Storage onramps
+Filecoin and IPFS
+How retrieval works
+Basic retrieval
+Serving retrievals
+Saturn
+Project and community
+Chat and discussion forums
+Filecoin compared to
+Filecoin FAQs
+Related projects
+Social media
+The Filecoin project
+Ways to contribute
+Storage providers
+Basics
+Quickstart guide
+Filecoin economics
+Storage proving
+FIL collateral
+Block rewards
+Slashing
+Committed capacity
+Filecoin deals
+Storage deals
+Verified deals
+Filecoin programs and tools
+Snap deals
+Charging for data
+Auxiliary services
+Return-on-investment
+Architecture
+Software components
+Storage provider automation
+Sealing pipeline
+Sealing rate
+Sealing-as-a-service
+Network indexer
+Infrastructure
+Storage
+Network
+Backup and disaster recovery
+Reference architectures
+Skills
+Linux
+Network
+Security
+Storage
+Sales
+Industry
+Nodes
+Implementations
+Lotus
+Venus
+Full-nodes
+Pre-requisites
+Basic setup
+Node providers
+Lite-nodes
+Spin up a lite-node
+Smart contracts
+Fundamentals
+The Filecoin Virtual Machine
+Filecoin EVM runtime
+ERC-20 quickstart
+Roadmap
+Support
+FAQs
+Filecoin EVM-runtime
+Actor types
+Address types
+FILForwarder
+Difference with Ethereum
+How gas works
+Precompiles
+Programmatic storage
+Aggregated deal-making
+Direct deal-making
+Data replication, renewal and repair (RaaS)
+RaaS interfaces
+Developing contracts
+Get test tokens
+Remix
+Hardhat
+Foundry
+Solidity libraries
+Call built-in actors
+Filecoin.sol
+Direct deal-making with Client contract
+Using RaaS
+Verify a contract
+Best practices
+Advanced
+Wrapped FIL
+Oracles
+Cross-chain bridges
+Aggregated deal-making
+Networks
+Mainnet
+Explorers
+RPCs
+Network performance
+Calibration
+Explorers
+RPCs
+Local testnet
+Get test tokens
+Deprecated networks
+Reference
+General
+Glossary
+Specifications
+Tools
+Exchanges
+Exchange integration
+Built-in actors
+Protocol API
+Filecoin.sol
+JSON-RPC
+Auth
+Chain
+Client
+Create
+Eth
+Gas
+I
+Log
+Market
+Miner
+Mpool
+Msig
+Net
+Node
+Paych
+Raft
+Start
+State
+Sync
+Wallet
+Web3
+Builder Cookbook
+Overview
+Table of Contents
+Data Storage
+Store Data
+Retrieve Data
+Privacy & Access Control
+dApps
+Chain-Data Query
+Oracles
+Cross-Chain Bridges
+Decentralized Database
+Powered by GitBook
+ 
+Basics
+Overview
+Crypto-economics
+Storage model
+Reference
+Developers
+The FVM
+EVM-runtime
+Quickstart
+Transfer FIL
+Contact
+GitHub
+Slack
+Twitter
+Welcome to Filecoin Docs
+Filecoin is a peer-to-peer network that allows anyone to store and retrieve data on the internet. Built-in economic incentives ensure that files are stored and retrieved reliably and continuously.
+This is the new Filecoin documentation site, hosted by
+ 
+GitBook
+.
+This site 
+docs.filecoin.io
+ will continue to be updated, while 
+legacy-docs.filecoin.io
+ will serve as a historical entity only and will receive no further updates. DNS for the legacy site will be removed on 
+2023-09-30
+. However, copies of the site may remain available 
+over IPFS
+.
+Checkout the Filecoin blog for more information â
+Choose your own adventure
+Want to understand the fundamental concepts of Filecoin, but aren't sure where to start? The Basics section is the perfect place to begin your journey!
+Eager to build on top of the Filecoin network but aren't sure how to begin? Head over to the Developers section to find examples and guides to help build your project!
+Starting up a provider node on the Filecoin network can be a daunting task. Head over to the Provider section to find out everything you need to know.
+Want to store large amount of data on the Filecoin network? There are plenty of storage options that you can choose from! Check out the Store section for more information!
+Next
+What is Filecoin
+Last updated 
+3 months ago
+On this page
+Was this helpful?
+Edit on GitHub
+Export as PDF
+ Learn the basics
+ Build with Filecoin
+ Become a provider
+ Store data
+ð¡
+ð§
+ðï¸
+ð
+Filecoin Virtual Machine
+The Filecoin Virtual Machine is here, allowing developers to build applications and smart-contracts that utilize the Filecoin storage network! Find out how you can leverage the worlds fastest growing storage network
+Looking For Lotus?
+Lotus is the reference implementation of the Filecoin protocol, developed and maintained by Protocol Labs. It allows users to participate in the Filecoin network, by enabling them to earn the FIL token, provide storage, and retrieve stored files.

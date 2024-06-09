@@ -1,0 +1,266 @@
+Introduction â Drift Protocol 
+Drift Protocol v2
+Contributing to Drift Protocol
+Contributing to Drift Protocol
+Contact â
+Contact â
+ (opens in a new tab)
+GitHub
+GitHub
+ (opens in a new tab)
+Discord
+Discord
+ (opens in a new tab)
+ð¾ Welcome to Drift Protocol
+ð About Drift v2
+Understanding Drift Protocol
+Drift AMM
+Decentralized Orderbook
+Keepers
+Keepers & Decentralized Orderbook FAQ
+Keeper Incentives
+Just-in-Time (JIT) Auctions
+Just-in-Time (JIT) Auctions FAQ
+Revenue Pool
+Optimizations
+Program/Vault Addresses
+ðð» Getting Started
+Wallet Setup
+ Phantom
+MetaMask
+Bot Wallet
+Wallet FAQ
+Passwordless and Social Login
+Cross-collateral deposits
+Managing Subaccount
+Delegated Accounts
+Versioned Transactions
+Withdraw and Close Account
+ð Trading
+Market Specs
+Prelaunch Markets
+Perpetuals Trading
+What are Perpetual Futures?
+Funding Rates
+What is Spot Margin Trading?
+Spot FAQ
+Margin
+Order Types
+All Order Types
+Advanced Orders FAQ
+Health Breakdown
+Auction Parameters
+Trading Fees
+Fee Pool
+Versioned Transactions
+Block Conditions
+Oracles
+ð¸ Profit & Loss (P&L)
+Introduction to Profit & Loss
+Accounting and Settlement
+What is unsettled P&L?
+P&L Pool
+ð Liquidations
+What is Liquidation?
+Liquidators
+ð¦ Lend & Borrow
+What is lending and borrowing?
+Supply & Borrow APY
+Borrow Interest Rate
+Lend & Borrow FAQ
+ð¦ Market Makers
+Market Maker Participation
+Maker Rebate Fees
+ðï¸ Insurance Fund
+Introduction to Insurance Fund
+Insurance Fund Staking
+ð Backstop AMM Liquidity
+Backstop AMM Liquidity (BAL)
+Backstop AMM Liquidity (BAL) Technical Explainer
+Liquidity Provider FAQ
+ðª API
+ð SDK Documentation
+ð¤ Tutorial Bots
+Keeper Bots
+Tutorial: Order Matching Bot
+Tutorial: Order Trigger Bot
+Tutorial: Order Liquidation Bot
+Trading Bots
+Tutorial: JIT Maker Bot
+RPC Providers
+Troubleshooting
+â³ Historical Data
+Historical Data v1
+Historical Data v2
+Historical Data Glossary
+ð Referral Link
+ð Drift Draw
+Overview
+Parameters
+âï¸ Risk and Safety
+Delisting Process
+Protocol Guard Rails
+Risk Parameters
+ð Security
+Audits
+Bug Bounty
+Risks
+ð¤ Glossary
+LEGAL
+Legal and Regulations
+Terms of Use
+Disclaimer
+Privacy Policy
+Competition Terms
+Light
+On This Page
+ð Trade
+ð¸ Earn
+ð¤ Build
+Question? Give us feedback â
+ (opens in a new tab)
+Edit this page
+ð¾ Welcome to Drift Protocol
+Introduction
+
+
+Drift Protocol is a decentralised exchange, open-sourced and built on the 
+Solana blockchain
+ (opens in a new tab)
+.
+
+
+
+
+ð Trade
+
+
+Focus on the strategy, and let Drift take care of your position:
+
+
+
+
+Perpetual Futures / Swaps
+ - Trade the hottest perp markets with up to 10x leverage.
+
+
+Spot Trading
+ - Trade assets with up to 5x leverage.
+
+
+Swap Tokens
+ (opens in a new tab)
+ - Swap any pair with up to 5x leverage.
+
+
+
+
+Drift was designed with a goal to be 
+capital efficient but also protective of your assets.
+
+
+We achieved that by setting up sophisticated 
+cross-margined risk engine
+ - a system of tools with an extensive protection from over-extending risk. For instance:
+
+
+
+
+In the lend/borrow markets, you can also use collateral for perpetual futures and trade more efficiently with spot assets.
+
+
+Every token you deposit can earn you more through borrowing and also act as a collateral for perpetual swaps.
+
+
+Borrowers can only borrow if they have more collateral than needed, following multiple safety measures for extra protection.
+
+
+
+
+Place an order.
+ (opens in a new tab)
+
+
+ð¸ Earn
+
+
+
+
+Lend/Borrow
+ - Earn yield on your deposits through lending.
+
+
+Insurance Fund Staking
+ - Stake your assets into a vault and earn yield from exchange fees.
+
+
+Market Maker Rewards
+ - Opt-in only market-making Alpha Program.
+
+
+(Advanced) Backstop AMM Liquidity (BAL)
+ - Provide liquidity with leverage and earn yield.
+
+
+
+
+Earn yield.
+ (opens in a new tab)
+
+
+ð¤ Build
+
+
+
+
+API Documentation
+ (opens in a new tab)
+ - Interact with the protocol programatically.
+
+
+SDKs
+ - Language bindings in 
+Typescript
+ (opens in a new tab)
+ and 
+Python
+ (opens in a new tab)
+.
+
+
+Tutorials
+ - Build a 
+Keeper bot
+ or 
+JIT Trading bot
+.
+
+
+Drift Gateway
+ (opens in a new tab)
+ - Self hosted API gateway to easily interact with Drift V2 Protocol
+
+
+
+
+Drift Protocol is 
+open-source
+ (opens in a new tab)
+ and contributions are welcome. Our support is available at all times on 
+Discord
+ (opens in a new tab)
+.
+
+
+Build a bot.
+
+
+ð¡ Contracts are audited by Trail of Bits, read 
+report
+ (opens in a new tab)
+.
+Understanding Drift Protocol
+Light
+Â© 
+2024
+ Drift Protocol

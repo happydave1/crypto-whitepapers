@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+1inch Network | Leading high capital efficient DeFi protocols
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+1inch Network Docs
+Protocols
+Aggregation Protocol
+Fusion Swap
+Limit Order Protocol
+Spot Price Aggregator
+RabbitHole
+Governance
+Open Source
+Limit order contract
+Multicall
+EIP-2612 utils library
+Cumulative merkle drop
+Developer links
+Grants Program
+Bug bounty
+NPM
+GitHub
+Search
+Documentation Portal
+Protocols
+Aggregation Protocol V6
+The 1inch Aggregation Protocol facilitates cost-efficient and secure swap transactions across multiple liquidity sources
+Introduction
+Dune analytics
+Smart contract v5
+Smart contract v6
+API
+Swagger
+Limit Order Protocol V4
+The 1inch Limit Order Protocol facilitates the most innovative and flexible limit order swap opportunities in DeFi
+Introduction
+Dune analytics
+Smart contract
+API
+Swagger
+Spot price aggregator
+The 1inch spot price aggregator is a set of smart contracts that extract price data for tokens traded on DEXes from the blockchain
+Introduction
+Github
+Smart contract
+1inch Fusion mode
+1inch Fusion Mode offer users a way to execute swaps without gas spend and risks of being front-run.
+Introduction
+How to become a resolver
+Resolverâs setup script example
+Contract interaction
+Developer links
+Grants program
+Incentivizing individual developers and teams to build on the 1inch Network's protocols and contribute to protocol evolution.
+Â 
+Read more
+Apply for Grant
+Bug bounty program
+Offering monetary rewards to "white hats" for successfully discovering and reporting vulnerabilities or bugs in 1inch Network protocols and products.
+Â 
+Report a Bug
+Educational resources
+A collection of educational resources for developers, including guides, tutorials, and articles.
+Â 
+View Articles
+1inch dApp
+An entry point to the 1inch Network's tech. The 1inch dApp is #1 DeFi aggregator, offering access to the most liquidity and the best token swap rates on various DEXes, with unique features, including partial fill, the Chi gas token and the ability to find the best swap paths across multiple liquidity sources.
+Launch dApp
+Protocols
+Liquidity Protocol
+Aggregation Protocol
+Limit Order Protocol
+Governance
+1inch DAO
+1INCH token
+Forum
+Support
+Help center
+API
+Press room
+Terms of use
+Privacy policy
+Subscribe to 1inch newsletter
+Get the latest news and updates
+Subscribe
+Â© 
+2024
+ 1inch, All Rights Reserved.
+ENS: 1inch.eth
+BUIDL @ETHNewYork 2019
+
+
+
+
+
+
+
