@@ -9,7 +9,22 @@ def get_top_cryptocurrencies(n=5):
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
 
-    # TESTING: print out the html content of response (which should be html of the website)
-    print(response.text) #works!
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-get_top_cryptocurrencies(0)
+    cryptos = []
+    rows = soup.select('table.sc-ae0cff98-3.ipWPGi.cmc-table tbody tr')
+    for i, row in enumerate(rows[:n]):
+        tds = row.select('td')
+        name_td = tds[2]
+        divs = name_td.select('div')
+        name_div = divs[3]
+        ps = name_div.select('p')
+        name_p = ps[0]
+        cryptocurrency_name = name_p.text
+        cryptos.append(cryptocurrency_name)
+        print("got " + cryptocurrency_name)
+    
+    return cryptos
+    
+
+print(get_top_cryptocurrencies(90))
