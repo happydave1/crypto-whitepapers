@@ -1,0 +1,339 @@
+CORNUCOPIAS | COPIWiki
+Ask or Search
+Ctrl
+â+âK
+ð
+CORNUCOPIAS
+ð®
+GAMEPLAY
+About the game
+Artwork
+Cornucopias Game World
+Cornucopias Land
+Play-and-Earn
+Build-and-Earn
+Learn-and-Earn
+Stake-and-Earn
+Stake-and-Earn - Token Staking
+Stake-and-Earn - Properties
+NFT Staking
+Host-and-Earn
+$COPI Tokenomics
+Token Economy
+Reward Distribution
+In-game Rewards
+Token Metrics
+Business Model
+ð£ï¸
+Road Map
+Gameplay - PC
+The Origin Story
+User Interface
+Character Needs System
+Character Creator
+Crafting
+Inventory
+Saving Location
+Clothing
+Cloud Gates
+Custom Domes
+Custom Dome - Standard Templates
+Custom Dome Template - Project/Company HQ
+Custom Dome Template - Nightclub Experience
+Custom Dome Template - Theatre/Stage - Live Audience Experience
+Custom Dome Template - Festival Experience
+Custom Dome Template - NFT Art Gallery Experience
+Custom Dome Template - Global Expo Events
+Custom Dome Template - Business Meetings
+Custom Dome Template - Educational Centers
+Custom Dome - Game Templates - PVP
+Racing - Bubblejett & Javelin
+Custom Dome - Building Kits & Gameplay Kits
+Custom Dome - Community Built Asset Marketplace
+Custom Dome - Motion Capture/Custom Avatars
+Custom Dome - Rent out your Space
+Custom Dome - Size your Event
+Custom Dome - Tickets and Merchandise
+Custom Dome - Green Screen
+Mega Domes
+Equipment
+Armor
+Melee Weapons
+Ranged Weapons
+Swords
+Tools
+Friends List
+Guilds
+Quest and challenges
+Resources
+Wood
+Metal
+Rock
+Plants
+Crops
+Livestock
+Fish
+Seasons
+Non-Player Characters
+NPC - Abigale Nelson
+NPC - Alfonso "Carl" Rosso
+NPC - Clyde the Horse
+NPC - Farmer Joe
+NPC - The Old Guard (OG)
+Themed Zones
+Sectors
+Solace - Zone 1
+Esperanza - Zone 2
+Fortune - Zone 3
+Land Sector - Districts
+District - Land Plots
+Land Plot - Influence Sphere
+Land Plot - Property Rentals
+Property Rentals - Farmhouse
+Property Rentals - Hotels
+Land Plot - Utility
+Buildings, Utility & Vehicles
+Building Maintenance
+Land Plot - Farming
+Farming - Animals
+Farming - Crops
+District - Leagues and Leader board
+District - Merchants
+District - Season Evolution
+District - Town Hall
+District - Workshops
+Tailors
+Blacksmith
+Carpenter
+Brickworks
+Kitchen
+Metalworks
+Tannery
+Transport
+Flying Vehicles
+Flying Vehicle - Fuel
+Flying Vehicle - Renting
+Public Transport
+Mega Dome - Calido Valley
+Calido Valley Resort
+Calido Valley Pavilion
+Calido Valley Raceway
+Gameplay - eSports Racing League
+Gameplay - Mobile
+Game Launcher
+City - Life
+Community
+Blog
+COPICafe
+COPICafe - Latest Episodes
+COPICafe - Episodes 80 - 89
+COPICafe - Episodes 70 - 79
+COPICafe - Episodes 60 - 69
+COPICafe - Episodes 50 - 59
+COPICafe - Episodes 40 - 49
+COPICafe - Episodes 30 - 39
+COPICafe - Episodes 20 - 29
+COPICafe - Episodes 10 - 19
+COPICafe - Episodes 1 - 9
+Cornucopias Universe
+Short Recap of COPICafe Latest Episodes
+Short Recap of COPICafe 80 - 89
+Short Recap of COPICafe 70 - 79
+Short Recap of COPICafe 60 - 68
+Short Recap of COPICafe 50 - 56
+COPI Q-Wiki
+COPILeaks
+COPIShop
+COPIWatch
+COPIWiki
+Discord
+Corn Points
+Dev Shorts
+Social Media
+Video Specials
+Live Streams
+Status Updates
+Status Updates - 2024
+January 2024
+Status Updates - 2023
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+February 2023
+January 2023
+Status Updates - 2022
+December 2022
+November 2022
+Cardano Summit 2022
+Crypto A.M. Summit and Awards 2022
+October 2022
+cNFTCon 2022
+RareBloom 2022
+Web3Expo 2022
+September 2022
+August 2022
+July 2022
+June 2022
+Consensus 2022
+Manchester Workshops 2022
+May 2022
+April 2022
+March 2022
+ð
+BLOCKCHAIN
+Blockchain Wallet
+Cardano World
+COPI Stake Pool
+COPIC Stake Pool
+Cornucopias Token - $COPI
+Cryptocurrency Exchanges
+CEX - Centralized Exchange
+Gate.io
+DEX - Decentralized Exchange
+Minswap
+PancakeSwap
+TokensFarm
+VyFinance
+Uniswap
+Marketplace
+Cross Chain NFTs
+NFTs
+NFT - Bobblehead Series
+NFT - Character Clothing
+NFT - Collectors Club
+NFT - Custom Domes
+NFT - Flying Vehicles
+Atmos
+Bubblejett
+Bubblejett Sprinter 2022
+Bubblejett Sprinter OG Custom 2022
+Bubblejett Bonanza OG Custom 2023
+Core Dynamics
+Core Dynamics Astro IV
+Genesis
+GTi
+GTi Javelin 2022
+$1m NFT Giveaway
+Spirra
+Valkyrie
+Valley Raceworx
+Valley Raceworx T1
+Valley Raceworx T3
+NFT - NFT2Tree Series
+NFT2Tree Series 1
+NFT2Tree Series 2
+NFT2Tree Series 3
+NFT - Partner Collaborations
+NFT - Renting
+NFT - Themed Zones 1-3
+NFT - Seasonal Tenant Key
+ð§âð¤âð§
+THE COMPANY
+COMPLIANCE
+LEGALS
+COPIWiki - Language and Dictionaries
+Players Safety
+Founders
+Governance
+Partners
+Partner Network
+Partners - Blockchain
+Blockchain Wallets
+GeroWallet
+Dega
+DripDropz
+Grow Your Stake
+Influencers
+Cardano Chats
+Cheeky Crypto
+Crypto Crow
+Launchpads
+Partners - Learn-and-Earn
+European Business University (EBU)
+Partners - Metaverse
+Netwrk
+Veritree
+Partners - Strategic / Technology
+ChainPort
+Cudos
+Derp Birds
+Meld
+Singularity
+Tingo
+Technology
+Agile Methodology
+APIs
+COPI Nodes
+COPI File Node
+COPI Game Node
+COPI Data Node
+Cross Chain Technology
+BASE Chain
+Cardano Blockchain
+Game Devices
+PC Desktop
+Public Testing
+Mobile Phone Devices
+Mobile Tablet Devices
+Games Consoles
+Smart TV
+Microsoft .Net Framework
+Unreal Engine 5 (UE5)
+Visions and Values
+ð
+LINKS
+Cornucopias Link Tree
+Cornucopias Website
+Powered by GitBook
+ð
+CORNUCOPIAS
+A Blockchain-based MMO RPG built on UE5
+About the Game
+Cornucopias Gameplay - PC
+Cornucopias Gameplay - eSports Racing League
+Cornucopias Game Launcher
+$COPI Tokenomics
+NFTs
+Community
+Status Updates
+Link Tree
+Public Testing Requirements
+DISCLAIMER
+The COPIWiki is a
+ 
+"living document" and was built to help newcomers and veterans learn about all kinds of aspects of the Cornucopias metaverse.
+As a living document the content will evolve and some inaccuracies or out-of-date content may be present. We will do our best to correct this as soon as we become aware of it.
+That is not to say that the information is not valuable and accurate in the COPIWiki. However, 
+Cornucopias cannot guarantee the accuracy of the information found here.
+  The content of any given article may have recently been changed and links may have been broken or are no longer applicable. 
+It may also be the case that multiple entries need updating and you are viewing a partial update of a series of documents.
+None of the contributors, sponsors, administrators, or anyone else connected with the COPIWiki in any way whatsoever can be responsible for the appearance of any inaccurate or libelous information or for your use of the information contained in or linked from these web pages.
+Nothing mentioned in this document should be construed as a guarantee by Cornucopias. The details provided are intended to be purely informational and nothing in this document should be considered financial advice or used to inform financial or investment decisions.â
+No contract; limited license
+Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and the owners or users of this site, the owners of the servers upon which it is housed. 
+You are granted a limited license to copy anything from this site; it does not create or imply any contractual or extracontractual liability on the part of COPIWiki or any of its agents, members, organizers or other users.
+There is 
+no agreement or understanding between you and Cornucopias 
+regarding your use of this information beyond the 
+GNU Free Documentation License
+ (GFDL); neither is anyone at Cornucopias responsible should someone change, edit, modify or remove any information within the COPIWiki.
+Jurisdiction and legality of content
+Publication of information found in COPIWiki may be in violation of the laws of the country or jurisdiction from where you are viewing this information. The COPIWiki is stored on servers in the United States of America, and is maintained in reference to the protections afforded under local and federal law. Laws in your country or jurisdiction may not protect or allow the same kinds of speech or distribution. Cornucopias does not encourage the violation of any laws, and cannot be responsible for any violations of such laws, should you link to this domain or use, reproduce or republish the information contained herein.
+Also see the 
+Compliance Section
+.
+Next
+About the game
+Last updated 
+1 month ago
+On this page
+DISCLAIMER
+No contract; limited license
+Jurisdiction and legality of content

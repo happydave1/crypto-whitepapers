@@ -1,0 +1,271 @@
+What is APX Finance? | APX Finance
+APX Finance
+Search
+Ctrl
+â+âK
+ð
+What is APX Finance?
+ð
+Brand Logo & Guidelines
+Welcome
+ð
+$APX Token & Contracts
+â¡
+Allocation
+ð¥
+Token Burn
+ð²
+Tax
+ð
+ALP Liquidity Pool
+ð¡
+How to buy ALP?
+ð¡
+How to stake/unstake?
+ð¡
+How to sell?
+ð¡
+Fees for buying and selling ALP
+ð¡
+Rewards Distribution Rules
+â¼ï¸
+Risk
+âï¸
+Trading on V2
+â
+How does it work?
+â¬ï¸
+How to interact directly with the contract
+ð¤
+Powered by Binance Oracle and Chainlink
+ð¸
+Degen Trading Mode
+ð°
+Dynamic close fee for Degen Mode
+ð¢
+MAD perpetual contracts
+ð¢
+MADBTCUSD
+Index Details
+ð¢
+MADETHUSD
+Index Details
+ð¢
+MADCAKEUSD
+Index Details
+ð
+Dumb Mode
+How to place orders
+ð
+DEGEN Inscriptions Airdrop
+ð
+Forex
+ð¥
+APX V2 Referral
+ð
+APX Testnet Walk through [Inactive]
+ð¡
+FAQ
+ð¡
+Connect wallet
+ð¡
+Opening a position
+ð¡
+How to place stop orders?
+ð¡
+Position management
+ð¡
+One click close all position feature
+ð¡
+V2 Fees & Slippage
+ð¡
+Order Types
+ð¹
+Video Tutorials (V2)
+ð
+Trading on V1
+ð¡
+Pre-Launch Markets
+ð°
+Wallet Connection
+ð¡
+How to start trading on APX V1?
+ð¸
+Deposit & Withdrawal
+ðª
+Margin Mode & Leverage
+â¬ï¸
+Position Mode
+ð»
+Order Types
+TP/SL orders (Strategy Order)
+Trailing Stop Order
+ð
+Closing Positions
+ð
+Grid Trading
+ð¾
+Set-up Your Grid Trading Strategy
+ð¾
+Futures Grid Trading Auto Parameters Guide
+ð¾
+Long/Short Grid Trading introduction
+ð¡
+Lite Mode
+â
+FAQ
+â
+Multi-Assets Mode
+â
+How to Adjust the Margin Balance in Cross/Isolated Margin Modes
+â
+How to Calculate the Cost of Opening a USDâ-M Perpetual Futures Contract Position
+â
+Mark Price in USDâ-M Perpetual Futures Contracts
+â
+Funding Rate
+â
+Auto-Deleveraging (ADL)
+â
+APX Futures Liquidation Protocol
+â
+Delisting Process of A Futures Contract
+â
+APX DEX Referral Guidelines
+â
+How to Whitelist APX Emailsï¼
+ð¹
+Video Tutorial (V1)
+Features & Tutorials
+â¹ï¸
+General
+ð¡
+What is Gas Fee?
+ð¡
+How to switch network?
+ð¡
+How to change language
+ð¡
+How to bind your social media account to receive notifications
+ð¥ï¸
+All about APX Web
+ð¡
+How to Connect Your Wallet? (Web version)
+ð¡
+How to find your DEX UID? (Web)
+âï¸
+Permissionless DEX Engine
+Features and benefits of permissionless solution
+FAQs
+ð¾
+Trading
+ð¡
+How to Buy Crypto on APX DEX via BANXA
+ð¡
+How to check your balance (V1)
+ð¡
+How to use Multi-Assets Mode
+ð¡
+How-to Guide: Use BONUSUSD to trade crypto futures on APX V1
+Programs
+ð°
+$100,000 Binance Web3 Wallet Trading Campaign Tutorial
+ðª
+Strategic Partnership with Lista DAO - Cosmic Adventure Challenge
+ð
+V2 Trading Rewards
+âï¸
+Retroactive Mining Rewards
+APX DAO
+ð¨âð
+How To Participate?
+ð«
+DAO Staking
+ð«
+Get Voting Power
+â¡
+Staking Rewards & Repurchased Tokens
+â¡
+Trading Benefits
+â¡
+Penalty Fee
+ð
+Governance
+ð¡ï¸
+Temperature Check
+ð¤
+Standards for raising DAO proposals
+API
+ð±ï¸
+Create API
+ð¾
+API Documentation
+Community
+ð
+Social Media & Communities
+About Us
+ðºï¸
+Roadmap
+ð
+2023 Roadmap
+ð
+2022 Milestones
+ð
+2021-2022 Roadmap
+ð
+Audit Reports
+APX Team
+Privacy Policy
+Terms of Use
+Restriction
+Powered by GitBook
+ð
+What is APX Finance?
+Introduction
+APX is the foremost decentralized exchange for crypto derivatives on major blockchains like BNB Chain and Arbitrum. Offering both order book and on-chain perpetuals, APX empowers traders and stakers with unparalleled opportunities. Elevate trading with up to 1001x leverage, zero slippage and competitive fees. Amplify liquidity provider (LP) returns with the highest yield among perpetual trading platforms with majority-stablecoin LP pools.
+V1: 
+http://apxfinance.link/tradev1
+ 
+V2: 
+http://apxfinance.link/tradev2
+V1 Order Book Perp (BNB Chain, Ethereum, Arbitrum, zkSync, Base, Manta)
+Adopting an "off-chain transaction matching + on-chain fund settlement and custody" model, APX V1 Order Book Perp achieves high transaction performance and fast response speeds while ensuring the safety of usersâ funds. Trade over 95 markets with up to 250x leverage and enjoy competitive fees of 0.02% maker, 0.07% taker.
+Users connect their decentralized wallets to the exchange before signing and verifying the connection through a Web3 interface. They can then transfer (ERC-20/BEP-20) tokens into the smart contract for fund custody and settlement. Once the off-chain ledger is recorded, users can use the funds to trade derivatives off-chain and the PnL will be accounted for in the ledger. After settlement, users can withdraw the funds by calling the smart contract (except for the margin occupied by open positions and pending orders).
+For more, go to: 
+Trading on V1
+V2 On-Chain Perp (BNB Chain, Arbitrum, opBNB, Base)
+Utilizing a fully on-chain liquidity model, APX V2 On-Chain Perp achieves more transparent trades with minimal slippage. The ALP pool provides liquidity for all V2 trading pairs to maximize capital efficiency. V2 employs a dual-oracle model consisting of Binance Oracle and Chainlink for the most accurate pricing. 
+Trade over 30 crypto and forex markets with up to 250x leverage and low fees while earning trading rewards. Trade with up to 1001x leverage, 0 slippage and 0 open fee specially under Degen Mode. For price prediction time-bound bets, trade in APX Dumb Mode with 60s/5min/10min expiry.
+For more, go to: 
+Trading on V2
+Permissionless DEX Engine
+The 
+Permissionless DEX Engine
+ is a permissionless SDK broker solution for any project looking to launch their own on-chain perp DEX. It currently supports BNB Chain and Arbitrum networks. 
+With a core offering of oracle-based perpetual futures (V2), Permissionless DEX Engine partners integrate APX's robust trading infrastructure to enjoy deep liquidity via the ALP pool and high leverage of up to 1001x. Partners also earn commission on trading fees among other benefits:
+Customizable domain
+Native DEX experience 
+Liquidity sharing
+New token use case
+Dedicated client support
+Platform Advantages
+Dual Product Offering 
+Choose between V1 order book perp or V2 on-chain perp and trade the widest selection in the market.
+High Leverage 
+Trade with up to 250x leverage for classic perps and up to 1001x leverage under Degen Mode.
+Minimal Slippage
+Enjoy tight spreads and deep liquidity for V1's order book. Reap the benefits of 0.01% slippage for V2 classic mode and 0 slippage for Degen Mode.
+Reduced Fees
+Benefit from minimal trading fees for more profits. Enjoy low-cost trading with V2 trading rewards.
+Earn Yield 
+Stake ALP to earn platform fees and staking rewards. Stake $APX in DAO to get more $APX.
+Next
+Brand Logo & Guidelines
+Last updated 
+1 month ago
+On this page
+Introduction
+V1 Order Book Perp (BNB Chain, Ethereum, Arbitrum, zkSync, Base, Manta)
+V2 On-Chain Perp (BNB Chain, Arbitrum, opBNB, Base)
+Permissionless DEX Engine
+Platform Advantages

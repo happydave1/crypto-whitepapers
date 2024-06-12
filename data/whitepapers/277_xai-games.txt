@@ -148,6 +148,10 @@ Engine
 Web3 APIs
 Build with Sequence
 Subgraph
+Xai Vanguard: Genesis
+Getting Started
+Chapter 01: Onboarding
+Chapter 02: Minting
 Xai Odyssey
 XAI Token Claim
 Claim Details

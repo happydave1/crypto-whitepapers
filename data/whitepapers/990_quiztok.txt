@@ -1,0 +1,91 @@
+1. Overview | QTcon_ENG
+QTcon_ENG
+Search
+Ctrl
+â+âK
+1. Overview
+2. Background
+2.1 Quiztok background
+2.2 Value of quiz contents
+2.3 Improvement for more productive mobile environments
+2.4 Current status and tasks of advertising and media markets
+2.5 Necessity for a âQuizâ+âCommunicationâ+âAdvertisingâ+âRewardsâ combined platform
+3. Quiztok! Quiz Mining Platform
+3.1 Ecosystem
+3.2 Quiz creators
+3.2.1. Quiz Creator
+3.2.2. Quiz players
+3.2.3 Quiz curators
+3.2.4. Advertisers
+3.2.5. Sponsors, Donators
+3.3 Rewards
+3.3.1 QTCON reward systems
+3.3.2 Quiz rewards
+3.3.3 Curation rewards
+3.3.4 Advertising rewards
+3.3.5. Sponsoring & Donation rewards
+3.3.6 Reward algorithms
+3.4. Targeted Advertising
+3.4.1. User tendency analysis and targeted advertising utilization
+3.4.2. Targeted advertising utilization
+3.5. Technologie
+3.5.1. Quiz mining
+3.5.2 Architecture
+3.5.3. System configuration
+3.5.4 A reward pool
+3.6. Use Case
+3.6.1.  Quiz content platform services combined with advertisements
+3.6.2 Quiz services that users create and consume quizzes
+3.6.3. Donation
+3.6.4 Connection between users and sponsoring companies
+4. Marketing analysis
+5. Why Blockchain?
+5.1 The block chain ideology and QTCON
+5.2 Reasons for using the block chain system
+5.3 Value of QTCON
+6. Schedules for Plans
+6.1 Present stage
+6.2. milestone
+7. Quiztok Token(QTCON)
+7.1 Plans for QTCON issuance
+7.2 Plans for fund management
+7.3 History of QTCON issuance
+7.4 QTCON Lock-up & Release Plan
+8. Team
+9. Risk announcements and protection tools for investors
+10. Subjects of exemption
+App Link
+App Store
+Google Play
+Powered by GitBook
+1. Overview
+Mobile Quiz Platform QUIZTOK 
+Quiztok is based on blockchain quiz reward platform
+Everyone can create and play the quiz in everywhere. 
+Google Play 
+https://play.google.com/store/apps/details?id=com.quiztok.quiztok1 
+App Store 
+https://apps.apple.com/kr/app/quiztok/id1477730559
+A knowledge sharing platform based on quiz contents.
+âIn Quiztok, we ask and answer questions.â
+âIn Quiztok, we ask questions we want to know.â
+âIn Quiztok, we share what we know with each other.â
+ 
+Quiztok filters, refines and compresses scattered knowledge and information in forms of quiz contents. Itâs a knowledge sharing platform where everyone can share their questions and answers.
+Also, Quiztok is a knowledge sharing platform where everyone can ask and answer questions to one another and learn from each other.
+For quiz creators, a quiz is a tool to deliver compressed knowledge to others. Quiz players can solve and share refined knowledge created by quiz creators.
+ 
+Quiztok provides quiz creators, quiz players and quiz curators QTCON as rewards to realize practical value of sharing knowledge.      
+A decentralized knowledge sharing platform based on the block chain system
+Quiztok is a decentralized knowledge sharing platform where users become creators, players of quizzes and consumers of advertising contents based on the block chain system. 
+Also, we provide decentralized Ad systems that users can pay QTCON to upload their Ads on quizzes.
+At the end, participants share rewards based on their activities as content creators and consumers, Ad creators and consumers.
+ 
+Next
+2. Background
+Last updated 
+9 months ago
+On this page
+Mobile Quiz Platform QUIZTOK 
+A knowledge sharing platform based on quiz contents.
+A decentralized knowledge sharing platform based on the block chain system

@@ -1,0 +1,148 @@
+Introducing Kava Lend, the worldâs first cross-chain money market. | by Brian Kerr | Medium
+Open in app
+Sign up
+Sign in
+Write
+Sign up
+Sign in
+Introducing Kava Lend, the worldâs first cross-chain money market.
+September 18th, 2020 â Today we announce the launch of Kava Lend, the worldâs first cross-chain money market.
+Brian Kerr
+Â·
+Follow
+5 min read
+Â·
+Sep 18, 2020
+--
+6
+Listen
+Share
+What is Kava Lend?
+Kava Lend is the worldâs first cross-chain money market that enables you to earn more with your digital assets. With Lend you will now be able to lend, borrow, and earn with assets like BTC, XRP, BNB, BUSD, KAVA, and USDX.
+It is the first of what will be many applications that utilize the Kava Platformâs security, price feed module, and cross-chain functionality to provide open and decentralized financial services to the world.
+How does Kava Lend Work?
+There are three major activities that you can participate in using Kava Lend:
+Supply â 
+You can safely supply your digital assets and earn interest.
+Borrow â 
+You can use your digital assets as collateral to borrow others.
+Earn â 
+Suppliers and borrowers earn HARD tokens, the governance token of the application.
+How Kava Lend is Built
+Kava Lend is an application built on the Kava Platform. As such, it leverages Kavaâs existing validators for security, bridges for cross-chain asset transfer, and partner services such as Chainlink oracles for price-reference data.
+Version 1 of the Kava Lend ships with support for supply-side deposits and HARD incentives for BTC, XRP, BNB, BUSD, USDX. Version 2 ships with borrow functionality and borrow-side incentives for those assets plus expanded functionality of on-chain governance.
+Initial Assets â BTC, BNB, BUSD, USDX, XRP, and HARD.
+As a part of the Kava Ecosystem, Kava Lend has access to any asset on the Kava Platform. In the Kava-4 âGatewayâ mainnet upgrade, the BEP3 Bridge was expanded to support BTC, XRP, BUSD, and others, making these assets available for use in Kava Lend money markets along with native Kava assets like KAVA, HARD, SWP, and USDX.
+Open Integrations
+Built as an open and permissionless application, Kava Lend is accessible by anyone, anytime, anywhere in the world. Exchanges, Fintech apps, and financial institutions can integrate Lendâs money market products and provide earning and borrowing opportunities directly to their users.
+Kava Lend Governance
+As seen in all decentralized money market applications today, a governance token is necessary for proper decentralization and to ensure the ongoing evolution of the application. To compete in the current environment itâs also critical to have incentives to bootstrap liquidity and incentivize user participation.
+The HARD token â decentralized governance and incentives.
+The HARD token primary role is to give holders a voice in the platform. Collectively, HARD holders are responsible for managing key parameters of the protocol such as what assets are to be offered, how rewards are distributed amongst assets, as well as set any platform fees, etc.
+HARD tokens will also be used to incentivize early participants giving them a voice in the ongoing evolution and management of the application.
+KAVA Tokens and Compensation
+In designing Kava Lend, it was carefully evaluated if the KAVA token could also be used to govern the application. Three major items prevented this:
+The evolution of Kava Lend needs to be driven by the participants that use it. We believe that a fair distribution to users is necessary for long-term success. The users of Kava Lend money markets may or may not be the same as those that hold KAVA today, giving reason to not conflate the governance of the Kava Platform with that of the application.
+Having supplier and borrower incentives is a must in todayâs yield-oriented DeFi market. If we used the KAVA token for incentives on Kava Lend, we would need to inflate KAVA upwards of 50% supply. Given that not all KAVA holders would be participants on Kava Lend, inflating KAVA would meaningfully dilute existing KAVA holders to a degree that is not acceptable.
+Lastly, the KAVA token needs to be preserved as a reserve asset responsible for recapitalizing the lending platform. Conflating its value with multiple use cases creates a cascade of problems and can potentially undermine its value as a reserve asset.
+HARD Compensation for KAVA Stakers
+Kava Lend and any other applications that utilize the Kava Platformâs security should in theory compensate KAVA stakers directly for that security and cross-chain infrastructure. As such, we felt it was appropriate that HARD tokens should be distributed continuously, pro-rata, amongst KAVA stakers.
+HARD Distribution
+A detailed release schedule can be found on 
+this spreadsheet
+There will be a max supply of 200M HARD tokens. The distribution of HARD tokens will be as follows:
+40% â Incentives for Suppliers & Borrowers
+25% â Treasury
+20% â Kava Stakers
+10% â Team
+5% â IEO
+Note: To achieve a fair distribution there will not be any seed or private sale of the HARD tokens.
+What the Community is Saying
+âKava Lend is a logical addition to the DeFi ecosystem taking shape around Kava. We think the choice it brings to investors to lend and borrow assets, not well supported by existing platforms, is really exciting â as is the ability for Kava stakers to earn HARD tokens and participate in the new platformâs governance. The Kava community is one of the most active in crypto so we look forward to joining with them to support HARDâS launch and future growth.â â Richard Galvin, Digital Asset Capital Management
+Kavaâs shift from âDeFi applicationâ to âapplication platformâ means that KAVA token holders get exposure to every new idea and implementation in the ecosystem. This is exciting and something we havenât yet seen in the blockchain space. â Michael Anderson, Framework Ventures
+âKava Lend is the first money lego to be built on Kavaâs cross-chain DeFi ecosystem. Leveraging Kavaâs infrastructure not only allows the application to tap into Kavaâs security, cross-chain features and price feeds, but also Kavaâs community, which has been very supportive over the past year. We canât wait to see what other money legos will start to be built and stack on one another â all without the crazy gas fees of course.â â Michael Ng, StakeWithUs
+Harvest
+Kava
+Defi
+Announcements
+Product
+--
+--
+6
+Follow
+Written by 
+Brian Kerr
+729 Followers
+Co-founder of Kava â Connecting All Things Crypto , a Tennis Enthusiast and Serial Entrepreneur.
+Follow
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

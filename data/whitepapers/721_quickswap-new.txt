@@ -1,0 +1,168 @@
+What is Quickswap? | Quickswap Documentation
+Quickswap Documentation
+Ask or Search
+Ctrl
+â+âK
+ð
+What is Quickswap?
+Overview
+â»ï¸
+Quickswap AMM
+ð¨âð©âð§âð¦
+Ecosystem Participants
+â¨
+Key Features
+ð
+Swap
+ð¦
+Pools
+ð¨âð¾
+Farms
+ð¤
+Bonds
+âï¸
+Perps
+ð²
+Dragon's Lair
+ðï¸
+Governance
+ðºï¸
+Roadmap
+ð²
+Social Media
+ð
+Contracts & Addresses
+Tokens
+ðª
+QUICK
+ðª
+DD
+Networks & Wallets
+âï¸
+Supported Chains
+ð³
+Supported Wallets
+How To Guides
+ð
+How To Swap
+â¹ï¸
+dLIMIT Guide
+â¹ï¸
+dTWAP Guide
+ð§
+LP (Liquidity Providing)
+ð©âð¾
+Farm
+ð¥©
+Stake
+ð»
+Technical Reference
+ð©âð»
+API
+API Overview
+Entities
+Queries
+ð
+Smart Contracts
+2ï¸â£
+V2
+Factory
+Pair
+Pair (ERC-20)
+Library
+Router02
+Router01
+Common Errors
+3ï¸â£
+V3
+Position Manager
+Factory
+Pool Deployer
+Quoter
+V3 Migrator
+Farming Center
+Limit Farming
+Pool
+Audits
+â¨ï¸
+SDK
+Getting Started
+Token
+Pair
+Route
+Trade
+Fractions
+Fetcher
+Other Exports
+â
+Guides
+Interface Integration
+Using the API
+Query Parameters
+Iframe Integration
+Javascript SDK
+SDK Quick start
+Fetching Data
+Pricing
+Trading
+Pair Addresses
+Smart Contract Integration
+Smart Contract Quick Start
+Implement A Swap
+Providing Liquidity
+Building An Oracle
+Flash Swaps
+V2 Pair Addresses
+Supporting Meta Transactions
+V3 Pool Addresses
+ð
+Subgraphs
+â¹ï¸
+Glossary
+ð
+Core Concepts
+Swaps
+Pools
+Flash Swaps
+Oracles
+âï¸
+Advanced Topics
+Fees
+Pricing
+Understanding Returns
+Security
+Math
+Research
+Powered by GitBook
+ð
+What is Quickswap?
+Overview
+QuickSwap is the leading DEX with deployments on:
+Polygon PoS
+Polygon zkEVM
+Dogechain
+Manta Pacific
+Immutable zkEVM
+Astar zkEVM
+X Layer
+Users can swap, LP, farm, stake, and trade perpetual swaps at fast speeds with extremely low transaction fees. Home to the DragonFi ecosystem, QuickSwap aims to provide a comprehensive suite of products and services that extend beyond just DeFi, including a decentralised Perpetual Exchange, Gaming Hub, and more.
+Origins
+QuickSwap was created to solve the high gas fees & slow transaction times associated with using DEXs (decentralised exchanges) on other networks such as Ethereum.
+Launching in October 2021, QuickSwap is supported by some of the industryâs most prominent thought leaders in the fields of Ethereum token & contract standards and Layer 2 scaling. It was kickstarted by a team of professionals who are experts in blockchain:
+Nick Mudge is an Ethereum contract programmer, code reviewer, security auditor, standards author, and web developer with over 6 years of active blockchain programming experience. Nick participated in the discussions that developed the ERC721 standard and is the author of 
+EIP-2535 Diamond Standard
+, in addition to 
+ERC1538
+ and 
+ERC998
+ Ethereum contract standards
+Sameep Singhania is the Co-Founder and Director of the blockchain development and consulting company Ginete Technologies. He is an experienced blockchain developer who has devoted the past two years of his life to assisting businesses explore synergies with, and integrate, blockchain. Sameep is focused on facilitating widespread adoption of decentralised technologies
+Roc Zacharias is also the Co-Founder of QuickSwap and serves as CEO of Lunar Digital Assets, a blockchain marketing firm. He's also a core contributor to the Dogechain project & has played an instrumental role in driving QuickSwap's growth & adoption.
+Next
+Quickswap AMM
+Last updated 
+1 month ago
+On this page
+Overview
+Origins
+ 

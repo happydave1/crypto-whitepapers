@@ -1,0 +1,118 @@
+What is Across? | V3 Developer Docs | Across Docs
+Across Docs
+V3 Developer Docs
+V2 Developer Docs
+User Docs
+V3 Developer Docs
+Search
+Ctrl
+â+âK
+ð
+Introduction
+What is Across?
+Quickstart Guide
+Products
+Developer Notes
+Migration from V2 to V3
+Migration to CCTP
+Migration Guide for Relayers
+Migration Guide for API Users
+ð§ 
+Concepts
+What are Cross-chain Intents?
+Intents Architecture in Across
+Intent Lifecycle in Across
+Canonical Asset Maximalism
+ð
+Integration Guides
+Across Bridge Integration
+Across+ Integration
+Across Settlement Integration
+ð ï¸
+Reference
+API
+SDK
+Contracts
+Mainnet (Chain ID: 1)
+Arbitrum (Chain ID: 42161)
+Optimism (Chain ID: 10)
+Base (Chain ID: 8453)
+zkSync (Chain ID: 324)
+Linea (Chain ID: 59144)
+Polygon (Chain ID: 137)
+Mode (Chain ID: 34443)
+Selected Contract Functions
+Supported Chains
+Fees in the System
+Actors in the System
+Security Model and Verification
+Disputing Root Bundles
+Validating Root Bundles
+Tracking Events
+ð
+Relayers
+Running a Relayer
+ð
+Resources
+Release Notes
+Developer Support
+Bug Bounty
+Audits
+New Chain Requests
+Powered by GitBook
+What is Across?
+Across is an interoperability protocol powered by intents. It is the only cross-chain intents protocol in production today, enabling the fastest and lowest-cost interoperability solution without security tradeoffs. Before diving into the technical details, its critical to understand why and where existing interoperability solutions fall short and why Across' intents-based architecture is needed. 
+Introduction
+The arrival of rollups and L2s scaled Ethereum but damaged end user UX in every way except price. Developers building on L2s must choose which silo they want to build on. Users must become experts in the interoperability tooling landscape simply to use dapps. This fragmentation will continue as more rollups and app-chains come online.
+Across' thesis is that an 
+intents-based
+ design paradigm is the solution to the interoperability challenges developers and users face today.
+Interoperability by Passing Messages
+Any interoperability discussion starts with the most fundamental challenge of token bridging: how can assets be sent from Chain A to Chain B? The naive answer is to âsend a messageâ between the chains. Years of R&D have been invested in this approach, but it faces a problem: it is 
+nearly impossible
+ to send messages cheaply, quickly and securely. Every message-passing protocol today has unique trust assumptions, can only ever be as fast as the finality of chains it connects and has deep implementation complexity. 
+What if there was another way?
+Interoperability with Intents
+Intents introduce a third party, a relayer (alternatively named filler, or solver), that does the job of delivering assets / executing user transactions quickly.
+An intent is a type of order where a user specifies an 
+outcome
+ instead of an 
+execution path
+. In practice, intents manifest as a combination of a cross-chain limit order and an action to execute, all encoded within a standardized order structure. Relayers compete on cost and speed to fill these orders, which can include onchain actions as well as assets. Relayers deliver 
+very quickly
+, without any messages.
+From the userâs perspective, interoperability is solved. Their desired outcome is achieved. 
+Closing the Loop: Settlement
+Intents architecture enables filling user orders extremely quickly, but how do relayers get paid for performing this service? User funds are escrowed in the settlement protocol, and are only released to the relayer once the protocol has verified that the user intent was âfulfilled.â
+By using an intents-based architecture, the urgent part (filling user orders) is decoupled from the complex part (message verification). The trade-off is relayers must loan funds for the duration between filling user orders and verification, but the benefits of slow settlement far outweigh this cost.
+The Future of Interoperability is Intents
+Message-passing is nearly impossible to do cheaply, quickly, and securely.
+Intents-based solutions with relayers can fill users instantly.
+Slower verification allows for cheap and secure settlement.
+Across' Intents Architecture
+Across' intent-based architecture can be distilled into a 3-layered system:
+Request for Quote Mechanism
+: Users express their desired outcomes without specifying the technical steps to achieve them.
+Network of Competitive Relayers
+: A decentralized network of 3rd parties compete to fulfill these orders.
+Settlement Layer
+: Escrows user input funds, performs verification, and repays relayers upon successful completion of the intent.
+Across intents-based architecture underpins our suite of products for end-users and developers:
+Across Bridge: 
+An end-user bridge dapp offering the lowest fees and fastest speeds of any cross-chain asset bridge.
+Across+: 
+A framework offering bridge abstraction to promote user onboarding and liquidity defragmentation by bundling bridge + protocol actions within dapps.
+Across Settlement: 
+A production-ready, modular settlement layer for cross-chain intents, providing the most optimized settlement system and enabling existing single-chain intent-like order flow to expand cross-chain. 
+Welcome to the developer documentation for Across â where we're building the future of interoperability through intents. 
+Next
+Quickstart Guide
+Last updated 
+2 months ago
+On this page
+Introduction
+Interoperability by Passing Messages
+Interoperability with Intents
+Closing the Loop: Settlement
+The Future of Interoperability is Intents
+Across' Intents Architecture

@@ -1,0 +1,74 @@
+What is Beta Finance? | Beta Finance
+Beta Finance
+Search
+Ctrl
+â+âK
+What is Beta Finance?
+Getting Started
+Overview
+Lending
+Borrowing
+Shorting
+Refilling and Repaying
+Managing Positions
+Permissionless Money Market Creation
+Risk Framework
+Supported Collaterals
+Risk Parameters
+Methodology
+Liquidity Risks
+For Developers
+Protocol Overview
+Deployed Contracts
+Resources
+Security & Audits
+OMNI: Upcoming Changes
+BETA Tokenomics
+FAQ
+Powered by GitBook
+What is Beta Finance?
+Welcome to Beta Finance
+Beta Finance
+ is the permissionless money market for borrowing, lending, and shorting crypto assets. This means that anyone at anytime is able to create a money market for any crypto asset. The protocol is live 
+here
+.
+For information on the upcoming changes to the protocol, please see 
+OMNI: Upcoming Changes
+.
+ð¨âð¾ Lenders
+Lenders are able to now earn risk-free yield (as high as 1000+%) on not only popular assets, but also the long tail of crypto assets, including yield farmed tokens, that exist today! Easily deposit your tokens on Beta into the token's money market, or create it yourself if it's not there yet.
+ð¤ Borrowers
+Borrowers are able to borrow crypto assets by supplying ETH and/or Stablecoin as collateral. This gives users flexibility when interacting with other protocols that requires using assets they currently do not have without losing their current positions.
+ð Traders
+Traders are able to short sell any crypto asset by using their ETH and/or Stablecoin as collateral. Beta provides an integrated "1-Click" Short that makes initiating and managing short positions simple.
+ð§¨ Liquidators
+Liquidators are able to earn a premium bounty reward for monitoring and liquidating under-collateralized positions.
+Why we built Beta Finance
+Shorting is a counter balancing force to price volatility and critical piece of financial infrastructure missing in DeFi. Rather than allow volatility to persist as the norm and depend on liquidation cascades for price corrections, we wanted to enable DeFi users to have the ability to act as an opposing force to price volatility by providing an simple and seamless experience to short assets. 
+Additionally, currently >99% of actively traded crypto assets are neglected by popular money market protocols, leaving these token holders with few or no options to earn additional yield on their tokens. As DeFi grows larger and larger, we wanted a money market protocol that could scale with it, where users were able to create money markets immediately. 
+Project mission and vision
+Our mission is to offset the volatility in DeFi today by developing critical infrastructure and user tooling to facilitate market efficiency. We stand by the DeFi ethos of "Open Finance For All" and seek to re-define finance by providing a foundational block in DeFi that future projects will be built upon.
+Stay Connected
+Connect with us on social media to stay up to date with all our 
+Medium
+Discord
+Twitter
+Telegram (
+community
+) (
+announcements
+)
+Next
+Overview
+Last updated 
+1 year ago
+On this page
+Was this helpful?
+Welcome to Beta Finance
+ð¨âð¾ Lenders
+ð¤ Borrowers
+ð Traders
+ð§¨ Liquidators
+Why we built Beta Finance
+Project mission and vision
+Stay Connected

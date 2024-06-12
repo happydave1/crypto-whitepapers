@@ -1,0 +1,88 @@
+FON Smart Chain
+FON Smart Chain
+English
+English
+ç®ä½ä¸­æ
+Search
+Ctrl
+â+âK
+ð§¿
+Introduce
+ð§¶
+Tutorial
+ð¡ï¸
+Security Audit Report
+ð«
+Cross-chain bridges and wallets
+â¡
+Cross-chain bridge
+ð°
+Wallet
+ð
+Key management
+ð°
+Third-Party Wallet Tutorial
+1ï¸â£
+Metamask
+2ï¸â£
+TokenPocket
+3ï¸â£
+Bitkeep
+4ï¸â£
+Ave.ai
+ð
+Core idea
+ð
+Consensus engine
+â±ï¸
+Develop
+ð¢
+RPC
+ð
+FSC Browser
+ð§
+Run full node
+ð
+Validator
+Create a validator
+Run validator
+ð
+Validate contracts at FONSCAN
+ð¾
+Logos
+â
+ScanApi
+RPC API Endpoints
+Account
+Block
+Contract
+Logs
+Stats
+Token
+Transaction
+ETH RPC API
+ð
+White Paper
+Background overview
+Introduction to FON smart chain
+Design Principles
+Application target
+Advantages of implementation
+Ecological sector overview
+RosSwap
+Time Farm
+HieSwap
+Myth NFT
+Token economy
+Economic model
+Staking and governance
+Circulation example
+FSC technology systemFSC will
+Proof of Stake
+Cross-chain mechanism
+Repeater
+Hard forks, specifications and dispute resolution
+Risk assessment and decision-making
+Disclaimer
+Powered by GitBook
+ 

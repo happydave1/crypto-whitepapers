@@ -1,0 +1,101 @@
+ParaSwap API v5 | Developer Docs
+Developer Docs
+ 
+ParaSwap
+ 
+User Documentation
+Search
+Ctrl
+â+âK
+API
+ParaSwap API v5
+Get Rate for a Token Pair
+Build Parameters for Transaction
+Get Tokens List
+V4 to V5 Migration
+V4 Docs
+Try it (Open API Specification)
+Examples
+Limit Orders
+Introduction
+Contracts
+On chain Data Structure
+Data structure in our centralized system
+API References
+Fungible tokens
+Create a limit order
+Create a p2p limit order
+Get limit orders by maker
+Get limit orders by taker
+Get Pairs
+Get Orderbook
+Fill a limit order
+Cancel a limit order
+NFT
+Create an order
+Create a p2p order
+Get NFT orders by maker
+Get NFT orders by taker
+Get Pairs
+Get orderbook
+Fill a limit order
+Cancel a limit order
+SDK
+Typescript
+Python
+AugustusRFQ API Specification
+Smart Contracts
+Augustus Swapper
+Subgraphs
+Security
+Augustus V6.1
+Augustus RFQ
+Augustus V5
+Support
+Powered by GitBook
+ParaSwap API v5
+Introduction to ParaSwap API version 5
+ParaSwap P5 has been released! See what's new here: 
+https://twitter.com/paraswap/status/1433045723298291714
+If you are switching from ParaSwap API 
+v4
+ to 
+v5
+, we highly recommend you check out the 
+migration docs
+ that highlights all the important changes.
+ParaSwap's goal is to deliver the best market prices by aggregating over multiple decentralized exchanges, market makers, and lending protocols.
+ParaSwap API allows users to fetch optimal prices to swap from one token to another and then build transaction data that can be used to execute transactions on-chain.  Currently, ParaSwap only supports EVM-based networks (Ethereum, BSC, Polygon, etc) and tokens following ERC20 standard. 
+Before you get deeper into the docs, here is a quick overview of the general flow you will use to interact with the ParaSwap API. Let's take the example of you wanting to swap 10 ETH to DAI. 
+First, you should call 
+/prices
+ endpoint (detailed documentation 
+here
+) using an HTTP query like 
+GET https://apiv5.paraswap.io/prices/?srcToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE&destToken=0x6b175474e89094c44da98b954eedeac495271d0f&amount=10000000000000000000&srcDecimals=18&destDecimals=18&side=SELL&network=1
+. This will return the optimal prices using ParaSwap's Hopper Algorithm. 
+If you are satisfied with the price, you can call the
+ /transactions
+ endpoint (detailed documentation 
+here
+). This will return a transaction object.
+You should then give the appropriate allowance to the 
+tokenTransferProxy
+ for the source token.  You can find the address of 
+tokenTransferProxy
+ in the payload returned in the price endpoint. You can skip this step if a high enough allowance was already given. 
+You can finally use this transaction data to execute the swaps on-chain by sending it to the provider. 
+Check out the following pages to understand the ParaSwap v5 API. To try out all API endpoints, visit the 
+Open-API documentation
+ of ParaSwap v5.
+Developers can also use our JS/TS SDK for web and Node.js integrations 
+https://github.com/paraswap/paraswap-sdk
+If you want to do some swaps, you can directly use our UI.
+Next
+Get Rate for a Token Pair
+Last updated 
+15 days ago
+On this page
+Export as PDF
+ParaSwap.io
+Live example of ParaSwap aggregation algorithm

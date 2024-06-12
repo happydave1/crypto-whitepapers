@@ -1,0 +1,95 @@
+OMG Network Documentation | OMG Network Docs
+OMG Network Docs
+ 
+Docs
+ 
+APIs
+ 
+Environments
+ 
+Product
+Search
+Ctrl
+â+âK
+OMG Network Documentation
+Table of Contents
+Network
+Getting Started
+Retrieve Balances
+Deposit Funds
+Make a Transfer
+Make an Atomic Swap
+Make a Fee Relay Transfer
+Start a Standard Exit
+Start an In-flight Exit
+Process an Exit
+Manage UTXO
+Challenge an Exit
+Use Cases
+Community Points Engine
+Exchange Use Case
+Wallet Use Case
+Wallet
+Web Wallet Quick Start
+Contracts
+MoreVP Technical Overview
+Plasma Proposition
+Smart Contract Administrative Accounts
+Watcher
+How to Run a Watcher
+How to Manage a VPS
+How to Manage a Watcher
+Security
+Bug Bounty Program
+Plasma Contracts Audits
+3rd-Party
+MetaMask
+MultiBaas by Curvegrid
+Concepts
+Blockchain Design
+Byzantine Conditions
+Network Architecture
+Challenge Period
+Exit Bonds
+Fees
+Resources
+Glossary
+FAQ
+Environments
+API References
+Release Notes
+Migration Guides
+Introducing v0.3 (ODP Edition) Â· OMG Network
+v0.4 Â· OMG Network
+Powered by GitBook
+OMG Network Documentation
+Welcome to the OMG Network Documentation Site
+What is the OMG Network?
+The OMG Network is a decentralized, public network that allows high throughput, low-cost peer-to-peer transactions. With the OMG Network, anyone can transact value across geographies, asset classes, and applications.
+The OMG Network leverages Layer-2 Plasma architecture to provide high throughput and strong safety guarantees for third parties who wish to build scalable, decentralized payment apps on the Ethereum Network.
+The OMG Network allows you to access, manage, and transact with digital assets that are kept securely on the blockchain.
+Try it out
+Depending on your needs, you may want to start with one of the following documents:
+Getting Started
+ â an introduction to code samples and network features.
+APIs
+ â REST APIs of the OMG Network.
+Web Wallet Quickstart
+ â a user guide to work with the OMG Network's Web Wallet.
+Environments
+ â the up-to-date network configurations for available environments.
+Bug Bounty
+ â a bug bounty program.
+Blockchain Design
+ â a blockchain design used to implement the OMG Network.
+For more information about the benefits of the OMG Network, see the 
+OMG Network website
+.
+Next
+Table of Contents
+Last updated 
+3 years ago
+On this page
+What is the OMG Network?
+Try it out
+Was this helpful?

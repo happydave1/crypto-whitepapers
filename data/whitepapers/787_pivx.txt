@@ -1,0 +1,931 @@
+
+
+
+
+
+
+
+
+
+
+PIVX White Paper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+
+
+Wallets
+
+
+Participate
+
+
+Resources
+
+
+News
+
+
+About
+
+
+
+
+
+
+EN
+English
+ 
+
+
+$
+0.33
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHIELD Protection
+
+
+Advanced Proof of Stake
+
+
+Cold Staking
+
+
+Masternodes
+
+
+Decentralized Governance
+
+
+Sustainable Economics
+
+
+Roadmap 2024
+
+
+
+
+
+
+
+
+
+
+Join PIVX Community
+
+
+Exchanges
+
+
+SHIELD Tipping
+
+
+Governance Proposals
+
+
+Sports Ambassadors
+
+
+Merchant Integration
+
+
+
+
+
+
+
+
+
+
+Block Explorer
+
+
+Statistics
+
+
+White Papers
+
+
+Forums
+
+
+User Guides
+
+
+Support
+
+
+Regulatory Info
+
+
+
+
+
+
+
+
+
+
+Coin Specs
+
+
+Why PIVX
+
+
+About PIVX
+
+
+Team
+
+
+Press Room
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BTC
+Bitcoin
+                                                            
+LTC
+Litecoin
+                                                            
+ETH
+Ethereum
+                                                            
+BNB
+Binance Coin
+                                                            
+USD
+US Dollar
+                                                            
+AED
+UAE Dirham
+                                                            
+ARS
+Argentine Peso
+                                                            
+AUD
+Australian Dollar
+                                                            
+BDT
+Bangladeshi Taka
+                                                            
+BHD
+Bahraini Dinar
+                                                            
+BMD
+Bermudan Dollar
+                                                            
+BRL
+Brazilian Real
+                                                            
+CAD
+Canadian Dollar
+                                                            
+CHF
+Swiss Franc
+                                                            
+CLP
+Chilean Peso
+                                                            
+CNY
+Chinese Yuan
+                                                            
+CZK
+Czech Koruna
+                                                            
+DKK
+Danish Krone
+                                                            
+EUR
+Euro
+                                                            
+GBP
+British Pound
+                                                            
+HKD
+Hong Kong Dollar
+                                                            
+HUF
+Hungarian Forint
+                                                            
+IDR
+Indonesian Rupiah
+                                                            
+ILS
+Israeli New Shekel
+                                                            
+INR
+Indian Rupee
+                                                            
+JPY
+Japanese Yen
+                                                            
+KRW
+South Korean Won
+                                                            
+KWD
+Kuwaiti Dinar
+                                                            
+LKR
+Sri Lankan Rupee
+                                                            
+MMK
+Myanmar Kyat
+                                                            
+MXN
+Mexican Peso
+                                                            
+MYR
+Malaysian Ringgit
+                                                            
+NOK
+Norwegian Krone
+                                                            
+NZD
+New Zealand Dollar
+                                                            
+PHP
+Philippine Peso
+                                                            
+PKR
+Pakistani Rupee
+                                                            
+PLN
+Polish Zloty
+                                                            
+RUB
+Russian Ruble
+                                                            
+SAR
+Saudi Riyal
+                                                            
+SEK
+Swedish Krona
+                                                            
+SGD
+Singapore Dollar
+                                                            
+THB
+Thai Baht
+                                                            
+TRY
+Turkish Lira
+                                                            
+TWD
+New Taiwan Dollar
+                                                            
+UAH
+Ukrainian Hryvnia
+                                                            
+VEF
+Venezuelan BolÃ­var
+                                                            
+VND
+Vietnamese Dong
+                                                            
+ZAR
+South African Rand
+                                                            
+XAG
+Silver Ounce
+                                                            
+XAU
+Gold Ounce
+                                                            
+
+
+
+
+
+
+
+
+EN
+English
+RU
+Ð ÑÑÑÐºÐ¸Ð¹
+DE
+Deutsch
+ZH
+ä¸­æ
+ES
+EspaÃ±ol
+PT
+PortuguÃªs
+KR
+íêµ­ì´
+FR
+FranÃ§ais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+
+
+SHIELD Protection
+
+
+Advanced Proof of Stake
+
+
+Cold Staking
+
+
+Masternodes
+
+
+Decentralized Governance
+
+
+Sustainable Economics
+
+
+Roadmap 2024
+
+
+
+
+
+
+Wallets
+
+
+Participate
+
+
+Join PIVX Community
+
+
+Exchanges
+
+
+SHIELD Tipping
+
+
+Governance Proposals
+
+
+Sports Ambassadors
+
+
+Merchant Integration
+
+
+
+
+
+
+Resources
+
+
+Block Explorer
+
+
+Statistics
+
+
+White Papers
+
+
+Forums
+
+
+User Guides
+
+
+Support
+
+
+
+
+
+
+News
+
+
+About
+
+
+Coin Specs
+
+
+Why PIVX
+
+
+About PIVX
+
+
+Team
+
+
+Press Room
+
+
+Foundation
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIVX 
+White Papers
+
+
+Here are some academic documents about PIVX, including its monetary policy and other information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIVX Economics 
+Whitepaper
+
+
+Academic information about PIVX Coin Economics, which includes its monetary policy and economic forces that drive the coin.
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIVX White Papers 
+Archives
+
+
+Below you will find archived PIVX Non-technical White Paper that is outdated and contains data about previous versions.
+
+
+
+
+Version 2.0, 2021
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Development 
+Roadmap
+
+
+The development roadmap has detailed information about the upcoming and future developments for PIVX. Keep in mind that the goals listed in the roadmap might change depending on what the community thinks is important.
+
+
+
+
+
+
+
+
+View PIVX Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIVX is an open-source and decentralized peer-to-peer currency featuring advanced user data protection features, community governance mechanisms, Proof of Stake consensus algorithm, and multi-purpose Masternodes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIVX
+
+
+Get PIV
+
+
+SHIELD Protection
+
+
+Advanced PoS
+
+
+Cold Staking
+
+
+Masternodes
+
+
+Governance
+
+
+Economics
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+Wallets
+
+
+Coin Specs
+
+
+Block Explorer
+
+
+Statistics
+
+
+Proposals
+
+
+News
+
+
+Roadmap 2024
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+Guides
+
+
+Forum
+
+
+Why PIVX
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+Misc
+
+
+Regulatory Info
+
+
+Avoiding Scams
+
+
+Terms of Use
+
+
+Press Room
+
+
+Risk Disclosure
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2019-2024 PIVX Community
+
+
+
+
+
+
+Created by PIVX Community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

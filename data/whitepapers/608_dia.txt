@@ -1,0 +1,239 @@
+Quickstart | DIA Documentation
+ 
+Website
+ 
+DIA App
+Token Price Feeds
+NFT Price Feeds
+Data Sources
+Randomness
+Oracle Builder
+ 
+Request integration
+Ask or Search
+Ctrl
+â+âK
+Introduction
+ð
+Quickstart
+âï¸
+DIA technical structure
+Data sourcing
+Data computation
+Data delivery methods
+Integrated L1/L2 networks
+Kadena Price Oracles
+ð¥ï¸
+Data offering preview
+â¹ï¸
+Intro to DIA oracles
+Oracle structures
+EVM Oracle
+WASM Oracle
+Polkadot Offchain Worker
+Solana Oracle
+NEAR Request Oracle
+Access the Oracle
+Asset Specific Value Calling Convention
+Oracle funding
+Request an oracle
+Products
+ðª
+Token price feeds
+Request a price oracle
+Access the Oracle
+Demo price oracles
+Oracle Data Sources
+Access API Endpoints
+RestAPI Endpoints
+API Request Samples
+GraphQL Endpoint
+GraphQL Request Samples
+Data sources
+CEXes Data
+DEXes Data
+Cross-Chain Bridge Data
+Assets Data Points
+Pricing methodologies
+IR: Interquartile Range Filter
+MAIR: Moving Average with Interquartile Range Filter
+VWAP: Volume Weighted Average Price
+VWAPIR: Volume Weighted Average Price with Interquartile Range Filter
+ð¨
+NFT floor price feeds
+Request an NFT oracle
+Access the oracle
+Demo NFT oracle
+Access API Endpoints
+Pricing methodologies
+FP: Floor Price
+MAFP: Moving Average Floor Price
+Max Weekly Drawdown
+Data sources
+ð²
+Randomness
+Request a random oracle
+Access the oracle
+Access WASM random oracle
+Demo randomness oracles
+Data source
+FAQ Randomness
+ð§
+Liquid Staked Token Feeds
+Request an LST oracle
+Pricing methodology
+Data sources
+ðï¸
+TradFi feeds
+Request a TradFi oracle
+Access API Endpoints
+3rd Party Data Aggregation
+ECB Foreign Exchange Data
+ð¤
+Discord NFT Sales Tracker (Beta)
+Install and run the bot
+ð¥ï¸
+DIA Oracle Builder (beta)
+How-to guide
+Integration requests
+FAQ
+Video tutorials
+Oracle Tracking Bot
+Support
+ð¾
+Speak to our product and dev team on Discord
+ð²
+Talk to our integrations team via Telegram
+ð
+Request custom data delivery via Forum
+Contribute
+ð§
+Product development
+ð
+Security Bounty Program
+ð§âð»
+Tutorial for Integrations
+Development Cluster Stack
+DIA TestâSpace with Docker Compose
+DIA TestâSpace with Minikube
+Add a new exchange scraper
+Add a new foreign scraper
+Add a new liquidity scraper
+Additional notes
+Extra
+ð
+Research
+Return Rates in Crypto Farming
+Crypto Volatility Index
+Compounded Rates
+Polkadot Medianizer
+ð
+Contributor Covenant Code of Conduct
+ð¤
+Licence Agreement
+â¹ï¸
+Disclaimer
+GitHub
+Discord
+Twitter
+Forum
+Powered by GitBook
+ 
+ð
+Quickstart
+Get a high-level overview of DIA and find direct link-outs to the most frequently used sections.
+What is DIA? 
+DIA is a cross-chain data and oracle platform, specializing in the sourcing and delivery of customizable data feeds both on-chain and off-chain.
+DIAâs architecture focuses on transparency, customisability, and scalability. By collecting billions of raw trading data ticks directly from 80+ sources including Centralized Exchanges (CEXs) and decentralized Exchanges (DEXs), it enables full transparency customization control throughout the entire value stack, to fuel any web3 or web2 use case.
+DIA aggregates an array of assets covering over 20,000 assets and can source and deliver any publicly accessible data feed, eliminating the dependency on opaque and pre-aggregated data from third parties.
+DIA's data offering comprises cryptocurrency prices, NFT floor prices, fair value feeds for liquid-staked tokens, and random number generation, among others. All of DIAâs feeds can be accessed via web2 and web3 rails, including REST APIs, GraphQL, or blockchain oracles on 35+ blockchain networks.
+Links: 
+Homepage
+ | 
+App
+ | 
+Forum
+ | 
+Github
+ | 
+Twitter
+ | 
+Discord
+ | 
+Telegram
+ | 
+Blog
+Learn more about DIA
+Deep dive into DIAâs architecture from the sourcing raw data to the delivery of feeds and everything in between:
+Build your own oracle
+DIA's data products
+DIA currently provides data feeds for the following product categories:
+Talk to us
+DIAâs core team is available for general and technical support across a number of channels.
+Request a custom oracle or API
+Want to build a custom feed to integrate into your app or smart contract? 
+Technical support
+Need help with technical or product-related questions? 
+Contribute
+DIA enables contributions by its community across a range of topics from bug bounties to web3 development. Browse current and past bounties here and learn more about how to contribute here.
+Last updated 
+2 months ago
+On this page
+âï¸
+page
+DIA technical structure
+ð¥ï¸
+page
+Data offering preview
+â¹ï¸
+page
+Intro to DIA oracles
+ð²
+page
+Talk to our integrations team via Telegram
+ð¾
+page
+Speak to our product and dev team on Discord
+ð§
+page
+Product development
+ð
+page
+Security Bounty Program
+ð§âð»
+page
+Tutorial for Integrations
+What is DIA? 
+Learn more about DIA
+Build your own oracle
+DIA's data products
+Talk to us
+Request a custom oracle or API
+Technical support
+Contribute
+DIA Oracle Builder
+Deploy, manage, and monitor custom price oracles instantly and autonomously
+, enabling more flexibility and control for smart contract developers.
+Token price feeds
+DIA token price feeds provide smart contract real-time price information 
+3k+ cryptocurrencies
+, transparently sourced from 80+ trusted, high volume DEXs and CEXs..
+NFT price feeds
+DIA NFT floor price feeds provide smart contract real-time price information of 
+20k+ NFT collections
+, transparently sourced from multitple, cross-chain NFT marketplaces.
+Randomness
+DIA xRandom provides smart contracts with unpredictable and 
+unbiased random numbers
+, facilitating the development of Web3 use cases.
+LST feeds
+LST price feeds
+, calculated through on-chain collateral ratio checks on LSD protocols, replacing reliance on low liquidity and low-frequency markets.
+TradFi feeds
+Customisable price oracles for 
+20,000+ traditional financial assets
+ such as stock, commodities, and more.
+NFT sales tracker
+A free-to-use 
+NFT sales tracking tool for Discord-driven communities
+. Delivering notifications according to parameters such as price threshold, collection address, etc.

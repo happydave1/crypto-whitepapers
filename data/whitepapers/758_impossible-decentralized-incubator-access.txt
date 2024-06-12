@@ -1,0 +1,84 @@
+Welcome to Impossible Finance | English | Impossible Finance Docs
+Impossible Finance Docs
+English
+English
+Ask or Search
+Ctrl
+â+âK
+Start here
+ð
+Welcome to Impossible Finance
+â¨
+Our Features
+ð¶
+Get Started
+Create & connect a Wallet
+Wallet Suggestions
+Get IDIA Tokens
+Verify (KYC) your Wallet
+Launchpad
+ð¦
+Launchpad Overview
+The FCFS mechanism
+The 3 IDO Periods
+The 3 Sale Cards
+The 2 Tokens - IDIA & vIDIA
+Vesting & vIDIA Rewards - Overview
+How to vest vIDIA - Step by step
+How to claim vIDIA rewards
+vIDIA FAQs
+Launchpad Contract V4
+Buyback Program
+Example of Buyback Program at work
+ð¤
+How to participate in an IDO - Step-by-step
+â
+Launchpad FAQ
+ð¹ï¸
+Ronin Launchpad
+How to Participate in the Ronin Launchpad
+How to Purchase Whitelist Allocation
+Node Sale
+How to participate in a Whitelist Node Sale
+Community
+ðï¸
+ImpossiBulls Program
+ð£ï¸
+Feedback Platform
+Contact Us
+ð¤
+Business & Marketing Partnerships
+ð
+Customer Support
+ð
+Socials & Dev Links
+Launchpad Tech
+Launchpad Staking Contract
+Launchpad Sale Contract
+Swap
+Swap Overview
+Swap Math
+Powered by GitBook
+ð
+Welcome to Impossible Finance
+Glad to have you here!
+What is Impossible Finance?
+Impossible Finance
+ is the go-to crypto investment platform that empowers you with high-quality, fair and accessible crypto opportunities
+What do we do?
+For Users
+If you are a user, we aim to help you learn & invest in new & high quality crypto projects using our Launchpad product.
+For Projects
+If you are a project, we aim to provide you guidance & insights, easing the complex process of starting your own crypto project & launching an IDO. 
+Intro Video
+Got 2 minutes? Check out a video overview of our product 
+Next
+Our Features
+Last updated 
+1 month ago
+On this page
+What is Impossible Finance?
+What do we do?
+Intro Video
+Was this helpful?
+Edit on GitHub

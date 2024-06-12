@@ -1,0 +1,145 @@
+Whitepaper and Research | Viction
+Viction
+Search
+Ctrl
+â+âK
+Getting Started
+General
+Overview
+Viction public chain
+PoSV Consensus
+Blockchain Platform Comparison
+How to Connect to Viction Network
+Viction Wallet
+User Guide
+Authentication
+How to create a new wallet
+How to restore a wallet?
+Wallet settings
+Send & Receive Tokens
+Add custom token
+Manage Tokens
+Send NFT
+General settings
+Developer Guide
+Privacy Policy
+Term and Services
+Coin98 Super Wallet
+Metamask
+Ledger
+Staking
+Staking Requirements
+Staking Rewards
+How to stake on Viction Wallet
+Developer Guide
+Smart Contract Development
+Solidity
+A Simple Smart Contract
+Solidity by Example
+IDEs and Tools
+Remix
+Ethers.js
+web3.js
+thirdweb CLI
+Smart Contract Verification
+Hardhat
+Foundry
+VRRF
+Standards & Specification
+VRC25 Specification
+VRC725 Specification
+Build a Dapp on Viction
+Setup Environment
+Write the Smart Contract
+Interacting with the Dapp in a browser
+How to Migrate Dapps from Ethereum
+Integration
+Exchange/Wallet integration
+VIC ZeroGas integration
+VRC25 Exchange/Wallet integration
+Viction Staking Governance
+Deploy on Viction
+Viction Mainnet
+Viction Testnet
+CLI Commands
+Viction Private Testnet Setup
+Masternode
+Requirements
+Run a Full Node
+Binary
+Create a Viction Masternode
+Tmn
+Docker
+Apply Your Node
+Viction Slashing Mechanism
+Chain Data Snapshots
+Viction Bridge
+Spacegate
+Arken Bridge
+Hyperlane
+FAQ
+APIs
+General
+Viction
+Ecosystem
+VIC - Economics
+Contact & Support
+Masternodes and Voting
+Masternodes
+Voter
+Products
+VicScan (Explorer)
+VicMaster
+VicStats
+VicIssuer
+How to Verify & Publish Contract Source Code on VicScan
+Viction Wallet
+Viction Data Availability Network
+How to Vote for Viction Saigon Network Upgrade Proposal
+Whitepaper and Research
+Legal
+Terms of Use
+Privacy Policy
+Archive
+TOMOE
+How to Deploy a VRC25 Token on Viction
+How to deploy an ICO smart contract on Viction
+How to deploy an NFT token
+An Example of Building a Dapp on Viction
+Migrate Ethereum Dapp to Viction
+TomoMasterDAO
+Introduction
+Governance model
+On-Chain vs Off-Chain Voting
+Board
+Proposals
+Voting and Outcome
+Tokenomics
+How to utilize and trade tDAO
+Proposal guidelines for TomoMasterDAO
+Old Viction Testnet
+Powered by GitBook
+Whitepaper and Research
+In this page, we gather all of the Viction product's papers which help explain issue of blockchain industry and present the in-depth solution from our experts.
+Technical Paper
+Economics Paper
+Sharding Proposal
+Previous
+How to Vote for Viction Saigon Network Upgrade Proposal
+Next
+Legal
+Last updated 
+3 months ago
+On this page
+Technical Paper
+Economics Paper
+Sharding Proposal
+699KB
+technical-whitepaper-1.0.pdf
+pdf
+117KB
+TomoChain Economics Paper.pdf
+pdf
+746KB
+TomoChain sharding proposal.pdf
+pdf

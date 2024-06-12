@@ -122,8 +122,6 @@
 
 
 
-
-
 GitHub - maticnetwork/whitepaper: Matic whitepaper
 
 
@@ -1509,7 +1507,7 @@ Fork
           Star
 
  
-228
+229
 
 
  
@@ -1553,7 +1551,7 @@ Fork
 
 
 
-228
+229
 
           stars
 
@@ -2009,6 +2007,8 @@ This commit does not belong to any branch on this repository, and may belong to 
 
 
  
+
+
 
 
 
@@ -3418,7 +3418,7 @@ Stars
 
 
 
-228
+229
 
       stars
 

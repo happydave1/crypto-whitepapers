@@ -1,0 +1,49 @@
+1. INTRODUCTION | English | ELYSIA Whitepaper v2.1
+ELYSIA Whitepaper v2.1
+English
+íêµ­ì´
+English
+Search
+Ctrl
+â+âK
+ð
+1. INTRODUCTION
+ð¨
+2. Problem
+2.1 Traditional Finance
+2.2 Crypto Finance
+2.3 The connection between traditional finance and crypto finance
+ð
+3. SOLUTION
+3.1 RWA Tokenization elements
+3.2 Token Economy
+ðââï¸
+4. Governance
+4.1 Overview
+Participants
+Online DAO
+Offline DAO
+Ecosystem
+Overview
+Tokenization
+Distribution
+Liquidation
+Price Oracle
+Roadmap
+Potential Value
+Realization plan
+Disclaimer
+Powered by GitBook
+ð
+1. INTRODUCTION
+What is ELYSIA
+1.1What is ELYSIA?
+ELYSIA is a project designed to bridge the gap between traditional financial assets, such as real estate and the world of cryptocurrencies. Typically, these two sectors have developed separately. Traditional assets are controlled by central authorities (like governments), making them more straightforward to manage and regulate. Cryptocurrencies, however, operate on a decentralized system thanks to blockchain technology, offering freedom and transparency.
+While both markets have their strengths and weaknesses, ELYSIA believes that by connecting them, we can create a new, more efficient market. The ELYSIA Protocol aims to digitize real-world assets using blockchain, making them compatible with the crypto financial system. This means turning something like a building or a share in a company into a digital form that can be traded and understood within the cryptocurrency world.
+To make this happen, ELYSIA is working on a few key areas. Firstly, ensuring that the digitization of real assets makes sense legally and logically. Also by tackling the challenge of integrating real-world assets with blockchain technology, which includes sorting out how decisions are made and rewards are distributed in this new system. A big part of this is creating contracts that can exist both in the real world and on the blockchain.
+The success of ELYSIA relies on the collaboration of experts from various fields. As this is a groundbreaking market, new strategies, and risk management plans are vital. ELYSIA invites everyone to contribute to this evolving project. This whitepaper is an invitation to join us at the forefront of blending the traditional financial market with the emerging world of cryptocurrencies. We're excited to share our journey and progress in the updated 2.1 White Paper.
+Next
+2.1 Traditional Finance
+Last updated 
+5 months ago
+On this page

@@ -1,0 +1,171 @@
+The Harvest Finance Launch ð. Harvest automatically farms the highestâ¦ | by Harvest Finance | Harvest Finance | Medium
+Open in app
+Sign up
+Sign in
+Write
+Sign up
+Sign in
+The Harvest Finance Launch ð
+Harvest automatically farms the 
+highest yields in DeFi.
+Harvest Finance
+Â·
+Follow
+Published in
+Harvest Finance
+Â·
+4 min read
+Â·
+Aug 29, 2020
+--
+1
+Listen
+Share
+ð¥ Bread For The People ð¨âð¾ð©ð»âð¾
+ð 
+In the last few months, yield farming has become an unstoppable force. Humble farmers from all over the world have been tilling their crops to help feed themselves. Some get ample harvest, but many donât!
+Farmers are a diverse bunch, they have varying degrees of expertise and experience, and farming can prove to be very cumbersome for those farmers who lack access to skills, knowledge, tools and information.
+The history of agriculture has been marked by technological advancements that allowed human populations to scale by maximizing the available yield through better tools and crop selection.
+As you can see in the image above, we evolved from using primitive tools like the yoke to advanced machines like the tractor, which allowed humans to maximize yield and scale our population to billions. ð¾
+With that, we present 
+Harvest
+ ð
+, a tool that helps farmers of all shapes and sizes get automatic exposure to the highest yield available across select decentralized finance protocols.
+We hope this will make yield farming more accessible and help create a sustainable community-governed farming cooperative that only has one goal in mind: 
+#BreadForThePeople.
+ ð¥ð¨âð¾ð©ð»âð¾
+ð Protocol Design
+Harvest automatically farms the highest yielding assets and distributes the profits among the people. ð¿
+The harvesting strategies are flexible and future-proof. A majority of the past and upcoming assets can be farmed through Harvest. New crops with standard implementation can be farmed for you as they see the light of the world. Non-standard crops will be farmed as soon as respective strategies get developed.
+Harvestâs clean and consistent design allows outside developers to easily add to it and receive rewards for their efforts. There is no time to waste while weeds are growing. ð±
+The governance cannot drain staked assets or farmed crops from the farming strategies. Your beans will always be safe. ð§º
+ð Protocol Incentives
+In addition to the yields from harvesting, the protocol provides incentives to its users for making deposits. Users of Harvest receive $FARM ð.
+Protocol profits are distributed to the holders of $FARM which aligns incentives for Harvest users to govern and hold a stake in its continuous success.
+ð¨âð¾ Token Distribution
+Total $FARM supply: 5,000,000 FARM distributed over 4 years
+Circulating supply at launch: 0 FARM
+FARM is bootstrapped and has no VCs or investors
+Emissions happen as rewards are farmed:
+70% for liquidity providers from incentive pools
+10% rewards to operational treasury
+20% rewards to team for building Harvest
+ð©ð»âð¾ FARM holders receive the 5% fee from Harvest operations.
+ð¸ Reward Distribution
+Through our automated yield farming, users will receive rewards depending on which pool they enter, which are automatically harvested into the base pool asset. In addition to the yields and rewards from harvesting, the protocol provides incentives to its users for making deposits. Users of Harvest receive $FARM ð. Through adding new pools and strategies, we will be able to keep expanding the list of reward assets.
+Protocol Emissions for Bootstrapping Period:
+Week 1: 57569.1
+Week 2: 51676.2
+Week 3: 41250.3
+Week 4: 30824.4
+Total for first 4 weeks: 181,320 (3.63% of supply)
+After week 4: constant emission of 23555 FARM per week for 4 years
+ðï¸ How You Can Participate
+Harvest will launch in the next few days and will be available to all yield farmers who would like to use the protocol and participate in our cooperative.
+The countdown clock has begun on 
+https://harvest.finance/
+The deposit page will open on Monday Aug 31st, at 7pm UTC.
+FARM rewards for incentive pools begin on Tuesday Sep 1st, at 7pm UTC. Be sure to stake before that for maximum FARM yields ð.
+#BreadForThePeople
+ ð¥ð¨âð¾ð©ð»âð¾
+ð± Discord and Twitter
+Join our Discord discussion at 
+https://discord.gg/UZvqBjZ
+Donât miss an update by following us at 
+https://twitter.com/harvest_finance
+Check out our Github 
+https://github.com/harvest-finance/harvest
+âï¸Acknowledgements
+Thanks to:
+The many people who helped out with this project, including providing comments and helpful suggestions for the early iterations of this product.
+Weeb
+, who has created one of the most useful public goods at 
+https://yieldfarming.info/
+Andre Cronje
+, who provided inspiration in that a lone developer can build so much useful DeFi infrastructure so quickly. Heâs a great example of what is possible in the world of DeFi where barriers to entry have been greatly reduced, and software, creativity, and value are so closely interlinked.
+The community for participating in this farming cooperative with us, thank you!
+--
+--
+1
+Follow
+Written by 
+Harvest Finance
+1.4K Followers
+Â·
+Editor for 
+Harvest Finance
+Harvest automatically farms the highest yield available from the latest DeFi protocols.
+Follow
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

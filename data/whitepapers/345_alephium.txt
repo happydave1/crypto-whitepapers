@@ -122,8 +122,6 @@
 
 
 
-
-
 GitHub - alephium/white-paper: A scalable blockchain platform supporting native cross-shard transactions
 
 
@@ -2009,6 +2007,8 @@ This commit does not belong to any branch on this repository, and may belong to 
 
 
  
+
+
 
 
 

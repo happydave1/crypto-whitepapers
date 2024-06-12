@@ -1,0 +1,121 @@
+What is Enzyme? | Enzyme User Docs (v4)
+ 
+General Spec (v4)
+Search
+Ctrl
+â+âK
+What is Enzyme?
+Use-Cases
+User Types
+Strategies, Networks & Integrations
+Background
+FAQ
+Security
+BUILDING SMART VAULTS
+Set Up and Configure Your Vault
+Vault Types
+Vault Basics
+Fees
+Deposits
+Share Transfers
+Redemptions
+Asset Management
+Review
+Seed
+Customise Vault Settings
+Profile
+Assets
+Fees
+Policies
+Reconfigure your Vault
+Change Owner
+Migrate your Vault
+Trade & Interact with DeFi
+Trade
+DeFi Protocols
+Aave V2
+Aave V3
+Aura
+Balancer
+Compound V2
+Compound V3
+Convex
+Curve
+Delegated Voting
+Idle
+Kiln
+Lido
+Liquity
+Maple
+Morpho
+Pendle V2
+Spark
+Stakewise V3
+Swell
+The Graph
+Uniswap V2
+Uniswap V3
+Yearn
+Borrow, Rewards & Airdrops
+Vault Menu
+Signaling an Upgrade
+Vaults for DAOs & Organisations
+Gnosis Safe - Ethereum
+Gnosis Safe - Polygon
+Add Gnosis Safe Wallet To Your Enzyme Account
+Delegate Trading
+Account
+Protocol Access
+Insurance
+Risks and Nuances
+DEPOSITING INTO SMART VAULTS
+Browsing the Enzyme Universe
+Browsing the Investor Launchpad
+Browsing Vault Information
+Making an Investment
+Depositing Into Diva Vaults
+Depositing Into Swell Vault
+Monitoring Your Vaults
+Redeeming
+Insurance
+Risks and Nuances
+Developers
+Subgraphs
+Contracts
+Mainnet
+Polygon
+Enhanced Features
+Fee Splitter
+Fiat On-Ramp
+Whitelabel App
+Governance
+Enzyme Governance
+TOKENOMICS
+Powered by GitBook
+What is Enzyme?
+Safeguard operations and streamline the management of digital assets
+Enzyme is an easy-to-use on-chain asset management system that enables access to digital assets and DeFi from one simple, unified app. It provides a front-to-back execution and order management system, which provides fully automated reporting, risk management, administration, governance and operations.
+Managing crypto and DeFi assets without purpose-built smart-contract permissions and controls in place creates operational risks to a business. Enzyme comes with a robust suite of programmable risk management and governance tools to protect your assets.
+Full trade lifecycle support for crypto and DeFi
+Establish trading roles within your organisation and grant smart-contract enforced permissions 
+Define individual trading or P&L stop-loss limits which are automatically enforced
+Configurable and automated KYC capability Verifiable NAV reporting in real-time
+Moreover, Enzyme maintains sophisticated on-chain data pipelines that ensures data is auditable and trustworthy. This enables a radically new future based on the principles of transparency and auditability. 
+A real-time reporting and performance dashboard with key performance and risk metrics
+Verifiable NAV reporting in real time
+Reports that provide easily readable and provable data on all transactions at any point in history
+page
+Use-Cases
+page
+Strategies, Networks & Integrations
+page
+User Types
+page
+Background
+page
+Security
+Next
+Use-Cases
+Last updated 
+1 month ago
+On this page

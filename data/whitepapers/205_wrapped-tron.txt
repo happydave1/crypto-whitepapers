@@ -181,12 +181,6 @@ Getting Started
 
 
 
-
-
-
-
-
-
 Jump to Content
 Guides
 API Reference
@@ -487,7 +481,7 @@ here
  for integration with TRON.
 Updated
  
-15 days ago
+1 day ago
  
 Table of Contents
 
@@ -532,12 +526,6 @@ For Super Representatives and Voters
 
 
 Exchange/Wallet integrate with the TRON network
-
-
-
-
-
-
 
 
 

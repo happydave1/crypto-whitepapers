@@ -1,0 +1,77 @@
+Introduction | Hunt Town
+Hunt Town
+Search
+Ctrl
+â+âK
+Introduction
+Information
+To-do list
+Hunt Town Website
+Building NFT Minting Page
+Hunt Town
+Builders Ecosystem
+Town Hall Contract
+Minting a Building NFT
+BUILD Point
+Burning a Building NFT
+Hunt Town Discord
+Weekly Raffle
+Building NFT Verification Guide
+ð¡ï¸
+Security Audit by BEOSIN
+Hunt Town Tools
+ð 
+Mint Club
+ð¢
+Dixel Club
+ðµ
+Neverlose Money
+âª
+Nomadtask
+ðº
+LOL Hunt
+ð£
+Steemhunt
+HUNT Token
+Terms
+Hunt Town Github
+Twitter
+OpenSea - HUNT Building
+Powered by GitBook
+Introduction
+What is 
+Hunt Town
+?
+Hunt Town
+ is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products. This is a Web3 builders private guild for people who are involved in creating/operating apps, services, tools, platforms, communities, or any type of projects that are based on the Web3 ecosystem.
+By creating a Web3 builders guild, Hunt Town is creating an engine to empower the buildersâ activities and projects. Their co-building actions via Hunt Town are powered by the 
+Town Hall Contract
+ and 
+BUILD Point system
+.
+Website - 
+https://hunt.town/
+Why do we need this?
+Being a founder or a member of a Web3 project is a challenging task due to the lack of industrial level experience and legal support on the Web3 system. Itâs like constructing a road when you can only see five metres ahead of you on a foggy morning.
+What if we could create a private guild for Web3 builders where they could co-work, help each other, share resources, and form cross-teams for each of their projects? What if we could shape a non-legally mandated association of Web3 builders who are involved in the acts of creating/operating apps, services, tools, platforms, communities, or any type of projects that are based on the Web3 ecosystem?
+Thatâs what weâre creating! A Web3 builders guild with a simple but adjusted ownership model with the combination of fungible and non-fungible tokens.
+A Building that helps you BUILD
+Hunt Town is a private guild that requires a Building NFT, minted by locking up 1,000 HUNT tokens. The HUNT tokens are just a binding token that is locked in the Building NFT, it's not a payment for funding the team or the project. Once the one-year lock-up period finishes, you can get the locked-up HUNT tokens back by burning the Building NFT.
+With the Building NFT you own, you will be able to co-work with other Web3 builders to build your own Web3 project or participate in other projects too. Being an active guild member can give you chances to:
+Earn BUILD points that can maximise your building activities in the Hunt Town guild. 
+Have better access to Hunt Town tools such as Dixel Club (
+https://dixelclub.com/
+) and Mint Club (
+https://mint.club/
+). 
+Collect more Building NFTs that contain more HUNT tokens and give you more power to utilise Hunt Town guild.
+This guild system is designed to combine the interactions of different projects on different blockchain platforms in the Hunt Town guild to create unified value in the community without requiring a complicated token bridge/platform.
+This is a bold and exciting move to bring Web3 to the forefront. So letâs jump into Hunt Town right away!
+Next
+Information
+Last updated 
+1 year ago
+On this page
+What is Hunt Town?
+Why do we need this?
+A Building that helps you BUILD

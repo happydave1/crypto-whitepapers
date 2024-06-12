@@ -1,0 +1,59 @@
+What is DIMO | DIMO
+DIMO
+ 
+Website
+ 
+Discord
+ 
+Documentation
+ 
+Support
+Ask or Search
+Ctrl
+â+âK
+Overview
+What is DIMO
+What's at stake
+The master plan
+Get involved
+The $DIMO Token
+$DIMO explained
+Earning $DIMO
+User Ownership
+Token Details & Distribution
+Powered by GitBook
+What is DIMO
+DIMO 
+(pronounced "Dee-Moe") makes every car on earth smart and programmable. It's an open platform built to connect every car on the planet and modernize the entire transportation industry. It opens access to vehicle data, connectivity, and commerce.
+Drivers and fleets
+ access innovative apps, services, and rewards for their cars. Car that are 2008 or newer in a supported region can connect today 
+here
+.
+Developers and enterprises
+ build next gen mobility products with unmatched connectivity, distribution, and control. Developer docs are 
+here
+.
+You may be asking, "
+what does a smart and programmable car do
+"? When cars have universal digital identity and are accessible and secure online, we'll see: an AI car mechanic in your pocket; a smart parking garage that sends directions to your car to park autonomously and pay for itself; a fully automated and onchain DMV; apps that alert you if your kid is driving past curfew or gets in an accident; a 
+global digital marketplace
+ to buy and finance cars in seconds; a self-driving Ford vehicle telling the self-driving Toyota behind it that it's seeing a slowdown and is about to apply brakes; a full vehicle health history that helps you know the used car you're buying isn't about to fall apart; and so much more.
+Recently made possible by advances in cryptography, blockchain, cellular networks, and automotive tech, DIMO enables any business to build and integrate with the next generation of mobility applications without typical SaaS platform risk.
+At the 
+protocol layer
+, DIMO uses the the Ethereum Virtual Machine (aka blockchain), cryptography, open source software and hardware to establish vehicle identity, permissions to access data and controls, rewards, and more. The blockchain allows DIMO to offer openness, privacy, security, and performance guarantees that were previously impossible.
+Nodes
+ store offchain data on behalf of users and run a client that ensures data is only shared with those the user authorizes. Nodes also provide value added services that make it easier for apps to build on DIMO without having to interact directly with the blockchain.
+Apps and services 
+pay nodes to access vehicles that have been shared with them, allowing them to build novel products.
+Next
+What's at stake
+Last updated 
+2 months ago
+On this page
+Was this helpful?
+For more technical details on the protocol, check out 
+. For developer documentation, see 
+.
+DIMO Developer Platform
+Technical Details

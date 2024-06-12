@@ -1,0 +1,108 @@
+Orange | Orange Crypto
+Orange Crypto
+ 
+Website
+ 
+Docs
+ 
+X
+ 
+Telegram
+ 
+Discord
+Search
+Ctrl
+â+âK
+Orange
+Pitch Deck
+GTM Overview
+Orange Connect
+Orange Wallet
+Features
+Security
+Security Audit
+FAQs
+Installing Orange Wallet
+Creating a New Wallet
+Restoring an Existing Wallet
+Navigating the Orange Wallet
+Adding a New Coin
+Sending an Asset
+Receiving an Asset
+Swapping an Asset
+Orange Bridge
+Beta Testing Orange Bridge
+Orange Bot
+Orange Marketcap
+APIs
+Orange Explorer
+Orange Indexer
+APIs
+BRC-20 Tokens
+Inscriptions
+Statistics
+Satoshis
+Orange Rewards
+FAQs
+Orange Governance
+Orange Token
+Utility
+Tokenomics
+Liquidity
+Team
+Partners
+FAQs
+Links
+General Knowledge Base
+Bitcoin 101
+BRC-20 Standard
+Bitcoin Wallet Addresses
+Glossary
+Legal
+Terms of Service
+Privacy Policy
+Offering Agreement
+Disclaimer
+Corporate Registration
+Powered by GitBook
+Orange
+Orange is an ecosystem of decentralized finance (DeFi) products and services that help consumers and businesses manage Bitcoin and other metaprotocols including Ordinals, BRC20s, RUNES, Stacks, etc. It is powered by the Orange token.
+Orange Wallet 
+Orange Wallet is a software wallet in a browser extension that helps you access and manage your Bitcoin, BRC20, Stacks, and Ordinals NFTs. Orange is integrated with the Orange Assistant and artificial intelligence to access information and insights regarding the blockchain industry. Besides being easy to use, the Orange is completely decentralized, non-custodial, and anonymous. It is your gateway to access the Bitcoin blockchain without involvement from any third party. Only you can access your private key, your Bitcoin is stored on the blockchain, and no personal information is ever collected in the decentralized application (DAPP). The Orange wallet supports storing multiple protocols, including BRC20, Ordinals, Stacks, and the native Bitcoin protocol.
+Orange Connect
+ 
+Orange Connect is a streamlined JavaScript library designed to facilitate the integration of Orange Wallet functionalities into decentralized applications (DAPPS).
+Orange Bridge
+ 
+Orange Bridge is a cross-chain bridge that enables interoperability across the Bitcoin ecosystem and other blockchain networks.
+Orange Swap 
+Orange Swap is a non-custodial decentralized exchange that helps you easily swap between Bitcoin, BRC20, Stacks, and Ordinals NFTs.
+
+Orange Marketcap
+ 
+Orange Marketcap is a market aggregator for data and statistics on Bitcoin, BRC20, Stacks, Ordinals, and more.
+Orange Explorer
+ 
+Orange Explorer is a dedicated Bitcoin blockchain explorer focusing on all transactions within the world's premier blockchain.
+Orange Assistant 
+Orange Assistant is a large language model-based chatbot that uses artificial intelligence to quickly access information, insights, and answers about the entire crypto industry.
+Orange Bot
+ 
+Orange Bot, powered by Orange Assistant technology (NLP and AI), is an advanced chatbot assistant designed for Telegram and Discord, offering specialized support in finance and cryptocurrency, including accessing Orange-related information, fetching market data, and simplifying crypto transactions.
+Orange Indexer
+ 
+Orange Indexer is a catalog of APIs for developers to extracts, store, and index transaction data from the Bitcoin blockchain and Bitcoin meta-protocols.
+Next
+Pitch Deck
+Last updated 
+1 day ago
+On this page
+Orange Wallet 
+Orange Connect 
+Orange Bridge 
+Orange Swap 
+Orange Marketcap 
+Orange Explorer 
+Orange Assistant 
+Orange Bot 
+Orange Indexer 

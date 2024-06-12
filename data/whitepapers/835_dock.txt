@@ -1,0 +1,207 @@
+Dock Overview | Dock Documentation portal
+Dock Documentation portal
+ 
+Website
+ 
+Dock Certs
+Ask or Search
+Ctrl
+â+âK
+ð
+Dock Overview
+Decentralized identity explained
+Roadmap
+Subscription Plans & Billing
+ð³ï¸
+Dock Certs
+Create an Organization Profile (DID)
+Issue Verifiable Credentials
+Verify Credentials
+Create a Schema
+Create a Design
+Team Management
+Inviting a Team Member
+Removing a team member
+Changing team member roles
+Revoking Credentials
+Downloading and Deleting Credentials
+Creating API keys and Webhook endpoints
+Transaction History
+Custom branded distribution emails
+Ecosystem Tools
+Ecosystem set up
+Ecosystem example
+Dock Certs Release Notes
+Release Notes v.1.32.0 May 08, 2024
+Release Notes v.1.31.0 May 01, 2024
+Release Notes v1.30.0 Apr 24, 2024
+Release Notes v1.29.0 Apr 18, 2024
+Release Notes v1.28.0 Apr 14, 2024
+Release Notes v1.27.0 Apr 04, 2024
+Release Notes v1.26.1 Mar 22, 2024
+Release Notes v1.26.0 Mar 19, 2024
+Release Notes v1.25.0 March 07, 2024
+Release Notes v1.24.0 Feb 22, 2024
+Release Notes v1.23.0 Feb 09, 2024
+ð³
+Dock Wallet
+Create and Manage DIDs in the Dock Wallet
+Dock Wallet Release Notes
+Release Notes v.0.4.25 May 16, 2024
+Release Notes v.0.4.24 May 10, 2024
+Release Notes v.0.4.23 May 02, 2024
+Release Notes v0.4.22 Apr 25, 2024
+Release Notes v0.4.21 Apr 18, 2024
+Release Notes v0.4.20 Apr 15, 2024
+Release Notes v0.4.19 Apr 03, 2024
+ð
+Developer Documentation
+System Architecture
+Architectural Overview
+Supported Standards
+Revocation
+The Dock Certs API
+Example Use Case
+Getting Started
+Webhooks
+Dock Postman Collection
+Dock Swagger UI
+DIDs
+Profiles
+Credentials
+Presentations
+Registries
+Revocation Status
+Credential Schemas
+Anchors
+Jobs
+Verify
+Sub-Accounts
+Messaging
+Schemas
+White label wallet
+Configuration
+Enabling and Disabling Features
+Customizing the Styling
+Configuring for Android Builds
+Configuring iOS Builds
+Publishing in App Stores
+Android Build Testing and Publishing
+iOS Build Testing and Publishing
+Wallet SDK
+Biometric Plugin
+Ecosystem Tools
+ðª
+DOCK Token
+Token Utility
+Emission Rewards
+How to Buy DOCK
+How to Store DOCK
+How to Stake DOCK
+Staking process
+Account setup for staking
+How to stake on Dock
+How to unbond and rebond
+How to redistribute stake to other validators
+How to claim staking rewards
+What is the staking yield on Dock?
+Send DOCK tokens from the browser wallet
+Sub Identities
+Dock Token Migration
+ð¥
+Open Source Community
+Code of Conduct
+Consensus
+Governance
+Responsibilities
+Rewards and slashing
+Elections and voting
+Proposals
+Council Membership
+Council Proposals
+Technical Committee
+Building a node
+Blockchain Validators
+Becoming a validator
+Deployment
+Monitoring
+Account Setup
+Key generation
+Identity Setup
+Identity verification
+Registrars
+Bonding
+Session Keys
+Operations
+Blockchain SDK
+Trust Registry
+Trust Registry JSON-RPC API
+Trust Registry SDK interaction
+âï¸
+Support
+System Status
+Discord
+Support Services
+Security Policy
+Powered by GitBook
+ð
+Dock Overview
+Dockâs Reusable Digital Identity platform
+ enables companies to turn verified ID data into trusted Reusable Digital ID Credentials, instantly verify their authenticity and get paid when they are verified by third parties. It comprises an API, a Web App, an ID wallet and a dedicated blockchain. Dock has been a leader in decentralized digital identity technology since 2017 and trusted by organizations in diverse sectors, including healthcare, finance, and education.
+Products
+Dock âCerts API 
+Dockâs API easily integrates with your system and data sources, simplifying the creation, verification and management of Verifiable Credentials. No blockchain or cryptography knowledge is required.
+Dock Certs Web App
+: A user-friendly platformâ that enables you to issue, verify, manage, and revoke fraud-proof Verifiable Credentials as well create and manage Decentralized Identifiers (DIDs).
+ID Wallet
+ SDK and White Label: Build ID Wallet capabilities inside your existing app with Dockâs powerful Wallet SDK, enabling users to effortlessly store, manage and share their Verifiable Credentials without having to download an extra app. If you donât have an existing app, Dockâs White Label ID Wallet is the best option when development speed is a priority. Try the 
+Dock Wallet
+ for free.
+Dock SDK 
+contains a Javascript library and tooling to interact for working with Verifiable Credentials, DIDs, Claim Deduction and more. Built with PolkadotJS, for use with the 
+Dock Substrate Node
+ or our public main/test networks.
+What can you do with Dock?
+Create and manage decentralized identifiers (DIDs)
+Create DIDs on the Dock or Polygon Blockchain using 
+did:dock
+ or 
+did:polygonid
+ methods or a non-registry based DID using the 
+did:key
+ method.
+Issue zero-knowledge-proof verifiable credentials
+Issue credentials that are reusable, verifiable and secure against fraud. Protect your users privacy and improve your data minimization practices by issuing zero-knowledge-proof credentials.
+Instantly verify credentials
+Create Verification Requests and send Verification QR Codes to your users. Theyâll scan them with their Digital ID Wallet app and youâll receive instant confirmation of the credentialsâ authenticity.
+Launch your Digital ID Ecosystem
+Dockâs user-friendly web dashboard and API allow you to invite and manage trusted issuers and verifiers. Simplify the process of identifying which issuers and verifiers are trustworthy within a particular ecosystem.
+Embed an ID Wallet into your app
+Build ID wallet capabilities inside your existing app with Dockâs powerful Wallet SDK. Users can manage and share their Verifiable Credentials without having to download an extra app.
+Utilize the Dock Blockchain
+The Dock blockchain acts as an immutable registry of all credential issuers. This ensures that Verifiable Credentials are always available for verification without ever needing to contact the issuers, and the list of trusted issuers and verifiers is reliable and auditable.
+Interoperability
+Dock believes that credentials are most useful when they are interoperable across service providers. Our W3C compliant credential format is designed for maximum interoperability. Our anonymous credential format adheres to many W3C standards, but are designed for maximum privacy protection. We also leverage standards from OpenID, IETF, DIF, and related organizations.
+Get Started
+Begin your journey with digital identity by signing up and start issuing verifiable credentials.
+Next
+Decentralized identity explained
+Last updated 
+2 months ago
+On this page
+Products
+What can you do with Dock?
+Interoperability
+Get Started
+Was this helpful?
+Edit on GitHub
+ 
+Dock API
+Dock
+ 
+Certs
+Dock Wallet
+Dock SDK
+Sign up
+Issue Verifiable Credentials
+See API docs

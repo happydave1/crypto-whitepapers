@@ -1,0 +1,297 @@
+Numbers Protocol | Numbers Protocol
+Numbers Protocol
+Search
+Ctrl
+â+âK
+ð
+Introduction
+Numbers Protocol
+Defining Web3 Assets
+Assetization Process
+Numbers ID (Nid)
+Non-Fungible Tokens
+Commit
+AssetTree
+integrityCid
+digitalSourceType
+miningPreference
+nftRecord
+Commit and AssetTree example
+Glossary
+Solution Stack
+Use Cases
+Roadmap & Milestones
+Principles & Standards
+Whitepaper
+NUM Token
+Get NUM
+Bridge to Multiple Chains
+Stake NUM
+Liquidity Providers
+NUM Utility
+Token Allocation
+Deflationary Token Economy
+Audit Report
+Distribution and Other Activities
+Manage your NUM in Cold Wallet
+ð ï¸
+Developer Tools
+NumbersDAO
+Roles & Responsibilities
+Become A DAO Member
+Governance & Voting Rules - v2.0
+[Deprecated] Governance Rules v1.0
+Weekly Summary
+2023
+13 Jan 2023
+20 Jan 2023
+27 Jan 2023
+3 Feb 2023
+10 Feb 2023
+17 Feb 2023
+24 Feb 2023
+3 Mar 2023
+10 March 2023
+17 Mar 2023
+24 Mar 2023
+31 Mar 2023
+7 Apr 2023
+14 Apr 2023
+21 Apr 2023
+28 Apr 2023
+5 May 2023
+12 May 2023
+19 May 2023
+26 May 2023
+2 June 2023
+9 June 2023
+16 June 2023
+23 June 2023
+30 June 2023
+7 July 2023
+14 July 2023
+21 July 2023
+28 July 2023
+4 Aug 2023
+11 Aug 2023
+18 Aug 2023
+25 Aug 2023
+01 Sep 2023
+08 Sep 2023
+15 Sep 2023
+22 Sep 2023
+29 Sep 2023
+6 Oct 2023
+13 Oct 2023
+20 Oct 2023
+27 Oct 2023
+3 Nov 2023
+10 Nov 2023
+17 Nov 2023
+24 Nov 2023
+1 Dec 2023
+8 Dec 2023
+15 Dec 2023
+22 Dec 2023
+29 Dec 2023
+2024
+5 Jan 2024
+12 Jan 2024
+19 Jan 2024
+26 Jan 2024
+2 Feb 2024
+9 Feb 2024
+16 Feb 2024
+23 Feb 2024
+1 Mar 2024
+8 Mar 2024
+15 Mar 2024
+22 Mar 2024
+29 Mar 2024
+5 Apr 2024
+12 Apr 2024
+19 Apr 2024
+26 Apr 2024
+3 May 2024
+10 May 2024
+17 May 2024
+24 May 2024
+31 May 2024
+7 June 2024
+Community Wiki
+FAQ
+What is provenance and how does it work?
+What is C2PA and why do we need it?
+What's the role of Numbers in AI?
+What's the difference between Numbers and NFT
+What's the difference between Numbers and C2PA
+How can Numbers assist songwriters and artists?
+Why Numbers needs its own blockchain?
+Does Numbers support other blockchain?
+How is the Nid generated?
+Should I mint NFT or commit with "license-to" action?
+Environmental impact of Numbers Mainnet
+How do I get or bridge Mainnet/BEP-20/ERC-20 NUM?
+What is Numbers Protocol's role in the AI space?
+Partnership Programs
+Creative Origins
+Creative Innovators
+Provenance Pioneers
+ð
+Applications
+User Tutorials
+Numbers Search Engine
+Support Status
+Search UI Interface
+Asset Profile
+Advanced Search & URL Parameters
+Capture
+ð ï¸
+Developers
+Numbers Blockchain
+Testnet (Snow)
+Testnet Launch PR
+Mainnet (Jade)
+Contract Overview
+Commit Contract
+How Commit Contract Works
+assetTree File
+On-chain Commit Logs
+When Should You Use Commit Contract?
+NFT Contract
+Initial Asset Registration
+Search Engine API
+Asset Search
+NFT Search
+Theft Detection
+Support Status
+Nit - Git for Media Files
+Getting Started
+Nit Bubble Plugin
+Read Asset History
+Read commits with Asset Profile
+Embed social media into asset profile
+Read commits via API
+Read commits via nit module
+Read commits via Bubble plugin
+Get the merged AssetTree
+Commit Asset History
+Support Status
+Commit via API
+Commit via Nit module
+Commit via Bubble plugin
+More Tools
+[NUM] Fetch NUM balance
+[NUM] Transfer NUM from Custodial Wallet
+[NUM] Check Staked Amount
+[IPFS] Cat metadata from Nid/Cid
+[IPFS] Create Metadata on IPFS
+[IPFS] Check Nid/Cid on IPFS
+[IPFS] Unpin Nid/Cid from IPFS
+XMP parser
+Working With Us
+Job Opportunity
+Numbers Dev Team
+Developer Guideline
+Solidity
+C2PA
+Permission Protected
+Old Dev Blogs
+Powered by GitBook
+Numbers Protocol
+About
+Provenance
+ is key to the success of establishing trust and credibility in the online space and is also one of the most important factors leading to the success of monetization of digital media. Without provenance, it can be difficult to determine the reliability of the information or the value of digital assets. 
+In the centralized internet, trust is often established through recognized intermediaries like search engines, social media platforms, and news organizations. However, this centralized model has faced criticism as instances of censorship and biased content moderation challenge the idea of a free and open web. However, in a 
+decentralized, user-owned and controlled internet
+, individuals and organizations are able to verify the authenticity of the information and assets they encounter.
+Numbers Protocol is the 
+Decentralized Provenance Standard
+. It secures digital media provenance through a decentralized ecosystem and blockchain technology, similar to a version control system like Git. Numbers creates immutable birth records of digital content and tracks changes made, allowing for collaboration and management. The 
+Numbers Mainnet
+ functions as a decentralized Github, storing data related to assets, such as provenance, ownership, and historical records, securely and transparently.
+In the future of AI, provenance ensured by Numbers Protocol can help to provide references of where the data came from and how it should be used. This is important in building trust between individuals and organizations that collect and use personal data, identifying whether the content is generated by AI or not. The 
+Assetization Process
+ further helps users of Numbers Protocol build user-owned and user-controlled content datasets. With proper consent, the registered digital content and their provenance metadata can be used by AI models or other variety of purposes.
+Our long-term vision is to establish a transparent, fair, and authentic digital media ecosystem that promotes accountability and ensures the safe and secure use of digital content.
+Website
+GitHub
+This video provides a high-level overview of Numbers Protocol and how it works. More use cases for understanding how Numbers Protocol is making changes can be found 
+here
+.
+Project History
+Founded in 2019, it has been our long-standing goal to address critical issues in the digital media space, namely misinformation, copyright and royalty distribution. Our use cases include Reuters coverage of the 2020 US Presidential election, climate-change photo collections, cataloging and preserving war crime evidence in Ukraine, and supporting artists and creators to monetize their creative work with better controls. 
+Numbers Protocol is an innovative and flexible solution that can be adopted on all EVM-compatible blockchains (see here for the 
+supported blockchain networks
+). The currently supported blockchains can be found in our 
+dev document
+. However, in order to deliver consistent and dependable services, the need for a dedicated blockchain became apparent. This led to the development of Numbers Mainnet.
+Launched in December 2022, the 
+Numbers Mainnet
+ is a major milestone in our mission to revolutionize the digital media content industry. It is the first blockchain dedicated to ensuring the provenance of digital media, offering improved efficiency, enhanced stability, and reduced costs. Numbers Mainnet is more than just a technological advancement; it is a symbol of our dedication to authenticity in the digital media content space.
+The Numbers Mainnet was preceded by the launch of its native token, 
+NUM
+, in 2021. NUM not only secures the essential funding for the construction and smooth operation of the Numbers Mainnet, but also enables the creation of a 
+DAO
+ for the future management of the network.
+Our Thesis
+We stand on the threshold of a digital era, marked by the daily generation of 2.5 quintillion bytes of data according to 
+a report by Domo
+, we find ourselves in need of a robust infrastructure that can keep pace with the explosive growth of digital content. The traditional systems that served well for physical commerce are found lacking when applied to the new frontier of digital commerce. The Web2 Internet has many problems and doesn't have a clear, organized system to help the rapidly growing digital content economy.
+To understand the requirements for a flourishing digital content economy, we can look at the essential components of successful selling on a website:
+Inventory
+: A place where the product is stored.
+Product Identification System
+: Such as SKU, UPC, or GTIN, describe the universal properties and provenance of products.
+Payment
+: Systems to support order transactions.
+Product
+: The actual item sold to the customer.
+These elements must be translated and adapted to the digital content economy, demanding a new set of innovations.
+Shortcomings of Web2
+Web2's limitations are hindering the growth of the digital content economy:
+Inefficient Storage
+: Web2 servers are centralized, without a universal protocol, leading to multiple copies of content, increased cost and reduced performance.
+Lack of Content Identification System
+: With every Web2 server defining its own identifiers, exchanging content or verifying content provenance becomes challenging.
+Expensive Global Payment System
+: The current setup is not economical for lower-priced goods, and credit card systems are inaccessible in certain regions.
+Unclear Product Definition
+: It is hard to define the shipment or products and is also difficult to bundle products or create higher values.
+The Promise of Web3
+Web3, the next generation of the internet, offers a way forward with significant advantages:
+Decentralized Storage
+: The decentralized economy allows more efficient access to content stored on the decentralized storage with a unified URL, reducing costs and enhancing performance.
+Crypto Payments
+: By offering alternatives to traditional fiat or credit card systems, crypto payments enable more inclusive transactions, especially for smaller payments.
+NFTs for Ownership and Distribution
+: NFTs facilitate the creation, purchase, and ownership of digital licenses, revolutionizing how products are defined and transferred.
+However, a crucial piece of the puzzle remains missing: an identification system that defines the provenance of digital content, universal and immutable. This gap makes it hard for us to check if something is real or to know who has the right to sell products and where to find them.
+Numbers Protocol: Decentralized Provenance Standard
+Numbers Protocol fills a significant gap by offering a universal system to identify digital content.  This system not only verifies the authenticity of content but also tracks its origin, supporting the growth of the digital world's economy. By utilizing existing standards like IPTC and C2PA, and creating new ones such as 
+EIP-7053
+, Numbers Protocol ensures the provenance of digital content through immutable records securely housed on the blockchain.
+The Numbers network is composed of three key elements that together define the digital content landscape:
+URL Pointing
+: Direct links to the storage location of content files ensure accessibility.
+Immutable Provenance Records
+: Unalterable logs offer an authoritative history of content origin and changes.
+Content Verification
+: Comprehensive mechanisms to authenticate both the content and its entire history.
+Numbers Protocol not only enhances content traceability but also augments its accessibility. By ensuring that both the digital content files and their descriptive metadata can be accessed through an open protocol, Numbers opens doors to new opportunities in the digital content future. Content creators and creativity-tool platforms can transform digital content into Web3 assets with ease. This transformation allows for easier monetization through Non-Fungible Tokens (NFTs), bundling as distinct products, sharing in immersive virtual reality spaces like the Metaverse, or even licensing to sophisticated AI systems. With traceability and provenance securely established, the potential applications of digital content are expanded, enriching both creators and users alike.
+Building a Future for Digital Content Economy
+The transition from Web2 to Web3 is not just a technological shift but a fundamental rethinking of how we interact with and monetize digital content. With the growing daily influx of data and the clear inadequacies of existing systems, the adoption of new technologies like Numbers Protocol is essential. By embracing Web3 and developing tools that mirror the needs of the new digital economy, we are laying the groundwork for a more equitable, efficient, and thriving digital world. The future of digital content is being built today, and it is our responsibility to ensure it is robust, accessible, and innovative.
+
+Next
+Defining Web3 Assets
+Last updated 
+2 months ago
+On this page
+About
+Project History
+Our Thesis
+Shortcomings of Web2
+The Promise of Web3
+Numbers Protocol: Decentralized Provenance Standard
+Building a Future for Digital Content Economy
+Overview of Numbers Protocol

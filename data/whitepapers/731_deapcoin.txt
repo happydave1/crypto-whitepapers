@@ -1,0 +1,86 @@
+Introduction & Platform overview | Whitepaper
+Whitepaper
+Search
+Ctrl
+â+âK
+Introduction & Platform overview
+Game Overview
+JobTribes
+PlayMining Puzzleï¼The service has ended. ï¼
+Lucky Farmer
+Cookin' Burger
+Graffiti Racerï¼Inactiveï¼
+Menya Dragon Ramen
+BouncyBunny
+HERO SPIRAL
+GOAL SEEKERS
+SOUL Fusersï¼Inactiveï¼
+KAMIYAGURA
+Others
+Tokenomics - $DEAPcoin
+Token supply and allocation schedule (DEP)
+Community
+PlayMining Media
+Third-party development
+Key Metrics
+Technology
+Roadmap and completed milestones
+Our Team
+Key Partners
+NFT Overview
+Disclaimer
+Powered by GitBook
+Introduction & Platform overview
+What is PlayMining?
+PlayMining is the leading NFT game platform of the global GameFi (Game-based Decentralized Finance) industry. Launching on May 26th, 2020 as the world's first Play to Earn token economy, the service now has over 2 million players from 100 countries. 
+*Axie Infinity began distributing SLP July 9th of the same year. 
+PlayMining was born with the goal of building a system that protects the rights and benefits of global creators from Japan and abroad, while creating all-new entertainment content. Since 2018 we have succeeded in creating NFTs from the all-new original artwork of over 100 creators, including some of Japan's most famous manga artists. Between April 2020 and December 2021, creators have made over 1 billion yen in PlayMining earnings, fulfilling our goal of protecting their rights and benefits. PlayMining is made of "Three services, each with their own unique function" and "Three elements, bonding the parts together".
+A. Three Services, Each With Their Own Unique Function
+1). PlayMining Gamesï¼
+1). PlayMining Gamesï¼ Starting with our flagship title JobTribes, a highly popular card battle game which has over 50,000 MAU(Monthly Active Users), we provide 4 playable games as of February 2022. 
+Launched Games: 
+ã»Trading Card Battle Game "JobTribes" 
+ã»Puzzle Game "PlayMining PuzzleÃJobTribes" (Service finished)
+ã»Coin Pusher Game "Lucky Farmer"
+ã»Multi-task Cooking Game "Cookin' Burger!" 
+ã»Coloring and Racing Game "Graffiti Racer" 
+The above games are all off-chain HTML5 browser-based applications, functioning as NFT games through an API that calls upon NFT data from the blockchain. This characteristic makes third-party entry more accessible for existent game developers, paving the path for further enrichment of gaming content.
+2). PlayMining 
+NFTï¼
+A NFT marketplace focusing on in-game items. Deals happen through ERC721 standard NFTs. Unique in offering an assortment of products from the top artists of Japanese pop culture. With over 100 pieces of riginal artwork from popular creators alone, the total profits shared through NFT trading since April 2020 exceed 1 billion yen.
+3). 
+PlayMining Vaultï¼
+PlayMining Vault creates an incentive structure that grants DEPs and NFTs to users who contribute to PlayMining's economics. Currently, DEP staking is open and multiple vault functions will be added in the future. These functions will allow users who do not play the game to increase their DEP and earn new NFTs.
+B. Three Elements that bonds the services together
+1). PlayMining Tokensï¼
+The PlayMining economy plans to issue multiple game tokens, as an addition to the DEP(DEAPcoin) currently in circulation. 
+ã»DEP(DEAPcoin)ï¼Play to Earn reward tokens, also used as payment for the purchase of NFTs. ERC20 standard.  
+ã»GameTokensï¼Each game has its own WhitePaper and issues "game tokens" whenever goals such as in-game purchase revenue and user count are met. Each game token not only enlivens the communicatons between users in communities, but also has many other functions.
+2). PlayMining Chain
+NFTs in the PlayMining economy are traded through a sidechain of the Etheruem Network known as the "PlayMining Chain". With regards to NFT management, we have made the protection of creator rights and payment a priority, making use of the benefits of the private chain system. At the same time, in order to maximize the intrinsic benefit of autonomous decentralization that the blockchain entails, we are in the process of connecting to the L1 public chain protocol. We have already connected to the BSC(BNB Smart Chain) and DEP can be converted into B-DEP (BEP20). We plan to launch a Dapps of the BSC for trading BEP721 standard NFTs in the first quarter of 2022.
+3). PlayMining Verse
+Through Game and the NFT marketplace, we have realized the protection of creator rights and shared profits from user play and purchase activity. In a way, this can be seen as "the indirect interaction of users and creators (through gaming)". PlayMining Verse, planned for launch in 2022, will be "a place that directly connects creators and users". The main concept is "Creator Nations" designed by the creators themselves. Fans of creators will be able to become citizens under their favorite creators by purchasing "Land NFT"s. These Land NFTs expressing th worldview of the creators will also be usable as "Profile-Picture NFT(PFP NFT)"s.
+The progression phases of PlayMining Verse will be told like episodes of a grand fantasy tale.
+Episode I Creator Nations And Their Citizens
+Episode II Creator Nations And The Legendary Dragons
+Episode III Creator Nations And The Infinite Worlds
+Episode IV Creator Nations And The Secrets Of The Beyond
+PlayMining's Mission
+âLet's give the world the best and most game-changing entertainment content they've ever seen!â were founder Naoto "Goro" Yoshida's clear and heartfelt words that gave birth to PlayMining. We began with the protection of content creator rights that has progressed swimmingly through the "Game" branch. The next step is to utilize the token economy and build a completely new economy where creators and fans interact. PlayMining Verse, where creators and fans connect on a whole new level, accelerates the creative activity of artists and financial support of fans through token economy systems such as Land NFT. That vibrant interaction is where "the best and most game-changing entertainment content" will be born. This sentiment will come back to the Game branch, in turn fascinating even more users.
+PlayMining's Vision
+With "A World Where Having Fun Pays For Your Life" as our motto, PlayMining was the global pioneer of the Play to Earn concept. Through Play to Earn, we made gaming an economic activity, building a world where you could truly play to pay your bills. The new Scholarship System born within Play to Earn gaming has led to new "in-game employment" and given the underprivileged the foundations on which to build sustainable lifestyles. PlayMining intends to create over 500,000 jobs by the end of 2022. This is entertainment business PlayMining's other side as an ESG firm. In addition, with the keyword "Study to Earn," we will promote the elimination of educational disparities around the world by utilizing gamification.PlayMining's vision is to create a system that enables self-realization for all people, regardless of wealth, and ultimately returns value to the society. This is the vision of PlayMining.
+Next
+Game Overview
+Last updated 
+6 months ago
+On this page
+Was this helpful?
+What is PlayMining?
+A. Three Services, Each With Their Own Unique Function
+B. Three Elements that bonds the services together
+PlayMining's Mission
+PlayMining's Vision
+PlayMining VERSE -Phase 1-
+PlayMining VERSE -Phase 2-
+Creator economy created by PlayMining
+Approach to ESG

@@ -1,0 +1,176 @@
+Welcome! | Taraxa Project
+Taraxa Project
+ 
+Website
+ 
+Explorer
+ 
+Community Site
+Search
+Ctrl
+â+âK
+ð
+Welcome!
+ðµ
+Wallet
+Metamask
+Ledger
+Taraxa's Network Connection Details
+ð±
+Become a Validator
+âï¸
+Set up validator node
+ð©
+Register node via community site
+âï¸
+Register node directly on-chain
+ð£
+Solicit delegation
+ð ï¸
+Node upgrade & reset
+ð°
+Staking
+ð©
+Staking via community site
+âï¸
+Staking directly on-chain
+ðºï¸
+Roadmap
+Develop on Taraxa
+ð
+Start building on Taraxa!
+ð
+Connecting to Taraxa
+ð
+Smart Contracts
+Remix
+ð§
+Testnet faucet
+ð©
+Taraxa RPC Specs
+Node Operations
+âï¸
+Deploy A Node
+Digital Ocean
+AWS
+Alibaba Cloud
+Scaleway
+Vultr
+Linode
+Azure
+Hetzner
+GitHub is blocked
+ðª¶
+Lite Consensus Node (beta)
+âºï¸
+Upgrade a Node
+â¬ï¸
+Upgrade Node
+ð
+Reset Node
+ð
+Syncing From Snapshot
+ð¬
+Node's Public Address
+ðï¸
+Node's VRF Key
+ð
+Node Proof of Ownership
+â
+Node Operations FAQ
+ð¢
+Node Release Notes
+âï¸
+Install A Local Node
+Windows
+Mac
+Linux
+Digital Ocean
+AWS
+Alibaba Cloud
+Scaleway
+Vultr
+Linode
+Azure
+Hetzner
+GitHub is blocked
+FAQ
+ð­
+Vision
+1ï¸
+Layer-1 Tech
+ðª
+TARA Token
+ð±
+Mainnet
+ð
+Exchange Integration
+Whitepaper
+Abstract
+Intro: Scaling the World
+Taraxa Architecture
+Economic Model
+Governance
+Further Reading
+NATIVE TOKEN CONVERSION
+ð¡
+Introduction
+ðï¸
+Conversion Status
+â
+Conversion FAQ
+âï¸
+Mock Conversion
+ð
+Exchange Submission
+Social Listening
+ð¶
+Echo Network
+ð£
+Hype App
+Governance
+â¹ï¸
+Introduction
+â¡
+Voting Guide
+Powered by GitBook
+ð
+Welcome!
+Thanks for dropping by the Taraxa Project!
+Taraxa is the next-gen Layer-1
+Taraxa is an EVM-compatible smart contract platform based on t-Graph consensus utilizing blockDAG, with many world-first technical innovations. 
+Founded by two Stanford Engineers in 2018, Taraxa launched its mainnet on April 3, 2023 and has since consistently built up awareness and market traction, gaining widespread recognition for its innovations on top of the next-gen blockDAG architecture, 
+First Native EVM Integration in blockDAG
+First PoS blockDAG
+First Dynamic blockDAG Proposal Rate
+First True Finality in blockDAG
+These innovations give Taraxa unsurpassed throughput at scale without security or decentralization tradeoffs, paving the way for the next infrastructural upgrade from blockchain to blockDAG. 
+Taraxaâs vibrant community has been building DeFi and social analytics dApps organically during the bear market as the development team continues to focus on driving awareness, adoption, building demonstrative dApps, and rounding out necessary infrastructure tech such as cross-chain bridging. 
+Solving real-world problems
+It is our firm belief that technologies are meant to solve real world problems, and cannot be developed in isolation. The applications we build, will build, and will enable our community to build, will (and do) have concrete functionality implications to how the public ledger infrastructural layer is designed and implemented. To this end, the application and the ledger need to be tightly coupled to create the most optimized outcomes.
+This is why we created Taraxa. 
+Join the ecosystem! 
+For users, check out, 
+Get started with 
+creating a wallet for Taraxa
+ 
+Stake your TARA
+Network explorer
+ 
+Our most recent 
+development roadmap
+For developers, check out, 
+Building on Taraxa
+Becoming a Validator
+ 
+Taraxa's 
+technical architecture
+Next
+Wallet
+Last updated 
+9 months ago
+On this page
+Taraxa is the next-gen Layer-1
+Solving real-world problems
+Join the ecosystem! 
+Was this helpful?

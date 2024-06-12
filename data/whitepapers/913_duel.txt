@@ -1,0 +1,258 @@
+PRISM - Whitepaper | PRISM - Whitepaper
+PRISM - Whitepaper
+Search
+Ctrl
+â+âK
+PRISM - Whitepaper
+Disclaimer
+Powered by GitBook
+PRISM - Whitepaper
+GameGPT by PRISM | Dec 10th, 2023
+Table of Contents
+Abstract
+Introducing GameGPT by PRISM
+â¢ 
+Sunsetting RAIN
+Platform Overview
+â¢ 
+Challenges
+â¢ 
+Survivor
+â¢ 
+Arcade
+Game Economy
+â¢ 
+Revenue
+â¢ 
+Token Reward Sharing
+Tokenomics
+â¢ 
+RAIN-to-DUEL conversion
+â¢ 
+Staking
+â¢ 
+Token Distribution
+â¢ 
+Vesting
+â¢ 
+Emission Schedule
+Roadmap
+Abstract
+This whitepaper brings to light the strategic direction of PRISM and unveils its ecosystem developments. We dive deep into GameGPT platform, the suite of gaming tools underneath it. Co-announced with GameGPT is the token conversion of RAIN to DUEL, the token that will power the all-new GameGPT platform. In-depth breakdowns of each live gaming product we have (challenges, survivor and arcade) are given and we illustrate the entire game economy featuring DUEL. Full tokenomics on DUEL is shared as well as the roadmap to build each component of GameGPT.
+Introducing GameGPT by PRISM
+Since the beginning , weâve been committed to one mission: unlocking access to the world of blockchain gaming through one global platform.
+Today marks the next step in making that a reality. Introducing 
+GameGPT by PRISM
+, the next evolution of PRISM gamer-focused platform, poised to unveil a groundbreaking suite of on-chain gaming tools and experiences. Scheduled for a January 2024 release date, the next chapter of PRISM is developing GameGPT to be the Google Suite of blockchain games. Where Google has a suite of products like Google Chrome, Google Docs and Google Mail, PRISM seeks to build the Gamer Suite via its GameGPT platform.
+Arcade
+Play our own blockchain mini games with the click of a button. No more tedious token and wallet set ups. Just what blockchain gaming should be - fun.
+Challenge
+Compete in 1v1 or group challenges and wager against others on the top web2 and web3 game titles. Even make your own challenge with your own rules.
+Develop
+Weâre putting the power in gamersâ hands, and open-sourcing the AI tools we use to to build games. Create your own game to host in Arcade.
+Swap
+Powered by our new DUEL token, Prism will provide a seamless and easy swap system for your digital assets.
+Wallet
+Weâre saying goodbye to the cumbersome setup of wallet transfers and links. Gamers can easily pay and play with 1-click secure payments right from Prism.
+Sunsetting RAIN
+At some period after the conversion event, the RAIN token will be deprecated and no longer supported. In an effort to support its vision of a decentralized token ecosystem, Rainmaker or the PRISM team will not delist the token or pull liquidity from the liquidity pools on the current decentralized exchanges. However, without any dedicated market-making, demand drivers, or further support, the RAIN token is expected to become illiquid over time. RAIN tokens that are not converted to DUEL during the conversion window will forfeit their ability to be redeemed for DUEL. After this period, any unclaimed DUEL will be held by the platform for future use.
+Platform Overview
+DUEL
+ 
+will now stand at the center of our gaming products on PRISM as its primary utility token
+. In this section we will cover the GameGPT Challenges product, which comprises the Challenges game mode and survivor game mode. Then shed light on our newest product GameGPT Arcade.
+Challenges: Product Breakdown
+The Challenges game mode 
+currently live
+ is for our users who wish to participate in skills-based wagers for some of the most popular multiplayer games. All challenges are user generated, users are guided through our fully customizable challenge creator tool, afterwards they can set an challenge reward, who is eligible to join, how the reward are distributed among winners and even if theyâd like to collect a creator reward for hosting the challenge, they can do so. A 10% fee goes to GameGPT for all challenges and to date there has been 2698 challenges completed across our 52,250 registered users. Letâs take a look at some key features.
+
+Choose from hundreds of challenge objectives
+
+
+Our Challenge creator tool pulls right into the game publisherâs API and allows you to build a challenge around in-game objectives youâve never though of before. For League of Legends alone there are over 120+ objectives spanning from pentakills to dodged skillshots to LP gained. Challenge your friends with DUEL or keep it a strictly for fun challenge only.
+
+Host your own challenges and get rewarded from creating fun challenges
+
+There are many settings you can use in our challenge creator tool, but one of the most recent features weâve added that weâve receive praise for is the ability to set a creator reward. In the same window you set an entry fee, users can set a creator reward to take a % of the total prize pool for hosting the challenge. This feature alone has contributed significantly to our growth as now dozens of gaming Discord server owners use our tool as a path to get the creator reward while keeping their community engaged.
+
+New Game Integrations
+
+
+Currently on only League of Legends, our team has built the infrastructure to be able to integrate new games much faster for challenges and survivor game modes (now 1-2 weeks). After looking through the API documentation of our favorite games, weâve opted to integrate the follow games by yearâs end:
+Valorant
+TFT
+DOTA 2
+ 
+After this sprint, we have our sights set on other shooters, BRs and strategy games such as CS2, Apex Legends, Fortnite, Call of Duty: MW3 and chess.com.
+Challenges: Token Integration
+The Challenge game mode allows two or more parties to wager on outcomes in their own gameplay. This feature is applicable in various game formats, including 1v1 matchups or group competitions. Our challenge creation tool is fully customizable, but an example of a challenge could be âget the most kills in the next 2 gamesâ. In this example, suppose it were a 1v1, the winner would be given the wagered funds held in escrow. Another type of challenge might be a battle royale style game in which a group of individuals are formed into teams that challenge other teams. The winning team earns the pot (less the rake) and the winnings are distributed to that team or in pro-rata amounts to each team member.
+Each game will be designed with a programmatic trigger that provides the outcome of the challenge to the escrow contract, releasing the held funds to the winner(s). Some challenges may integrate NFTs or other in-game objects, items, powerups, and enhancements to increase the odds of success in a challenge. Your experience and winnings in one game may help with your challenges in another. Duel relies exclusively on its currency DUEL to enable a low-cost blockchain-based escrow system to ensure the fair payout of wagered funds. The platform takes a certain portion of the pot as a rake for hosting the challenge.
+This flow chart illustrates the wagering feature and how DUEL enters escrow
+This flow chart now illustrates how value flows to the winner(s) from escrow
+Survivor: Product and Token Breakdown
+The objective of the 
+currently live
+ Survivor game mode is simple. Users at sign in will create a cute âporoâ which they will name and choose a skin for. After doing this, they will be face with a series of 20 challenges over 20 consecutive games (if they successfully complete each challenge). The objective is to progress through each of the 20 levels without failing. If this happends, your poro get to Valhalla (our poro hall of fame) and is anointed with a unique skin. A failure to complete any challenge will use a 
+â¤ï¸ï¸ 
+and when your poro expends its last heart, your poro will meet its tragic end, respawning at the nearest checkpoint with only 1 
+â¤ï¸ï¸.
+Here are some key features of the survivor game mode:
+
+World Creation
+Within survivor there are different âworldsâ a player can join and each corresponds to different types of challenges. They function as filters for players who only want to play survivor with a certain match type in League of Legends or as a way to choose a âeasyâ, âmediumâ or âhardâ difficulty.
+The most interesting thing of note however is almost all assets involved in world creation is made through generative AI. From our world selection page above, to the world progression page below and the challenges detail page not pictured. Our team currently creates worlds ourselves, but soon, like challenges, we will create a âworld creator toolâ much like the challenge creator tool that allows for UGC world creation.
+Items and Consumables - Token Integration
+Unlike Challenges, Survivor is not a âplay-and-earnâ type of game. The simple enjoyment of progressing through levels while being strategic with your gameplay so your furry companion can stay by your side is the main driver. Users, if they need a boost, can also purchase items which boost their score over a certain threshold to not fail a level or instead buy hearts to have a buffer if a game doesnât go as planned and the challenge is failed. Although a completely different path to monetization, weâre thoroughly impressed on how often out users pay for such items throughout their gameplay.
+DUEL will serve as the replacement of âRCâ in todayâs version of Survivor and whether users buy DUEL natively using their crypto wallet or whether they pay using credit card and we transfer to DUEL for them, the one-way value flow of in-game purchases remain.
+New Game Integrations
+Like challenges, the path to scalability of our survivor product depends on making survivor worlds user-generated. With this source of evergreen content, our Survivor team can be freed to improve up the âworld creator toolâ which makes the UGC while also integrating new games. Currently only on League of Legends, the survivor game mode also benefits from the infrastructure overhaul our team built that will allow the challenge game mode to integrate games faster, thus the following games will be included by yearâs end:
+Valorant
+TFT
+DOTA 2
+ 
+After this sprint, we have our sights set on other shooters, BRs and strategy games such as CS2, Apex Legends, Fortnite, Call of Duty: MW3 and chess.com.
+Arcade: 
+Product Breakdown
+The Arcade game mode coming to the GameGPT platform is something weâre beyond excited for. It marks the first step towards our own first-party games and gives us more control of the gaming experience for all of our users. The go to market strategy is to our arcade to launch as a suite of browser-based games playable on desktop and mobile. As the world shifts to a short-form content society, the game types which are positioned for the most growth are those that are:
+âPick-up-and-playâ in nature
+Tight core game loops that keep todayâs fleeting attention
+An perpetual source of novel game experiences
+History repeats as we go back to the future for the next-phase of gaming, the arcade.
+A sneak peek into our first 3 titles
+â
+Silent Strike
+" is an electrifying arcade-style mobile game that transforms players into the ultimate stealthy sniper. This game is our third game coming to arcade and should be launched by December 8th, 2023. Set in a vibrant, high-stakes world, this game challenges you to take on covert missions where precision and patience are key. As the game progresses, the levels get increasingly complex, demanding more strategic planning and quicker reflexes. Players must navigate through bustling cityscapes, dense forests, and secret enemy bases, all while remaining undetected.
+"
+Limitless Lanes
+" is a high-octane arcade-style mobile game that blends the thrill of racing with the addictive nature of an endless runner. If you go to our Arcade beta, you can play Limitless Lanes right now! As players, you're thrust into the driver's seat of a sleek car, racing against time through an ever-changing urban landscape. The game is a test of reflexes and agility, demanding quick lane switches and strategic maneuvers to dodge relentless traffic and unexpected obstacles.
+"
+Merge Master
+" is a mesmerizing arcade-style mobile game that takes the addictive gameplay of "2048" to a whole new level. This game is also already launched on the Arcade beta, you can try out this mobile game classic today. In this captivating puzzle game, players slide numbered tiles across a sleek, neon-lit grid, combining them to form higher numbers and unlocking the ultimate goal: The infamous â2048â tile.
+Arcade Creator Program
+One of our most exciting new features weâre building in tandem with our arcade game mode is the creator program. From asset creation to Unity logic, weâve engineered most of workflow to incorporate AI tools to help us bring our first 3 games to life. With aims to release this feature at the mid-point of 2024, we will build an AI toolkit that accompanies the creator program and lowers the barrier of entry to building a game in Arcade.
+A creator program wouldnât be complete without ample monetization for our creators. When you choose to host your game in arcade you can receive up to 80% of the collected sales associated with your game.
+Retro IP Integration
+Another energetic initiative that we are close to the finish line with for arcade is to bring in REAL retro arcade games into the platform. Proposing a revenue share model, weâve been prospecting some of the most nostalgic arcade IP. From classic 2D fighting games (think Killer Instinct) to even more vintage Pinball machine brands, we have big plans for partnership arcade IP. Some major updates on this initiative should drop before the beginning of the year.
+Arcade: Token Integration
+Duel utilizes a free play mode for exploratory and casual gamers that requires no web3 wallet connection, or the use of DUEL to play. Free play, however, demonstrates the ability to earn tokens, providing the same in-game earnings cues as token-enabled play, including a token earnings counter and simulated wallet experience. However, these tokens cannot be cashed out, and at the conclusion of gameplay, are reset to zero. Free play typically offers limited levels and features
+Game Economy
+Current and upcoming gaming products on GameGPT will have various forms of gameplay available for users. Free and paid options are available and describe below:
+Free Gaming on GameGPT
+Challenges - Users can create challenges w/o entry fees for friendly competitions
+Survivor - This game mode has always been free-to-play if you donât pay for in-game consumables or skins
+Arcade - A majority of our games will have free version in arcade, but they may be subject to watching ads or limited gameplay options.
+Paid Gaming on GameGPT
+Challenges - All challenges which require entry fees ( wagering)
+Survivor - If users opt to buy consumables
+Arcade - Detailed below
+Arcade Monetization
+Pay-per-game
+Gamers purchase complete game access and have unlimited use of the game.  Game purchases may be in the form of an NFT mint, in which the NFT serves as both the one-time-use game license as well as the gamer's avatar, character, or other in-game plot device for use in the game.  Game licenses whether purchased directly or through an NFT are on a single redemption basis and cannot be re-sold or re-used.
+Subscription
+Avid gamers may alternatively pay a monthly subscription fee to get access to some or all of the games on the platform, depending on the subscription level.  As Duel develops its titles, gamers may find that one game might unlock an NFT powerup that can be used in another game to potentially earn or win more DUEL tokens.  Thus, games are expected to be a platform-integrated experience, enhancing a gamer's potential earnings while driving expanded engagement.  A subscription model might be ideal for such gamers as they can move freely between game titles for one low monthly fee, maximizing their gameplay.
+In-Game Purchases
+Dedicated free gameplay games may also exist, supported by in-game purchases of powerups, enhancements, extra lives, or time whether as in-game items or transferrable NFTs.
+Not play-to-earn
+Duel does not employ play-to-earn mechanics.  Gamers are expected to pay for game access, downloads, or usage, just as they are in web2 mobile and desktop gaming.  Freemium model games will also exist, supported with in-game purchases using DUEL.  However, Duel does reward gamers with DUEL tokens through bonuses, loot boxes, competitions, and other incentives.  Thus, Duel is more likened to a play-and-earn model, where incentives are designed as a sustainable and recurring model, supported, in part, by the usage fees described above.
+Revenue
+Current gaming products on GameGPT will earn fees and revenues from the following activities on the platform:
+Sponsors & Advertisers
+The platform earns revenue from advertisers who promote their goods, games, and services on the platform.  Ad fees can be paid in DUEL at a 10% discount or optionally in fiat or other crypto, without a discount. The platform also earns from Sponsors who wish to contribute to tournaments, challenges, or other events in exchange for visibility of their product or services.
+Gamers
+The platform earns revenue from game license purchases and/or downloads, or the sales of digital items, objects, powerups, enhancements, and/or NFTs for game modes like Arcade and Survivor. For challenges, the platform takes a 10% platform fee on all wagers. Additionally, the platform earns money from subscription fees paid by gamers for game access and incentives on the current platform and upcoming mobile app. These fees can be paid in DUEL at a 10% discount or optionally in fiat or other crypto, without a discount
+Creator Games
+The platform earns revenue from game license purchases and/or downloads of third-party produced games; these fees can be paid in DUEL at a 10% discount or optionally in fiat or other crypto, without a discount
+
+
+Token Reward Sharing
+GameGPT employs a token reward sharing program which is funded by a portion of the platformâs profits. It does so in the following ways:
+Third-Party token reward sharing
+Referral Fees
+A portion of the earnings and rewards paid out to referred parties is shared with the referrer
+Creators
+Up to 80% of collected sales of game license purchases and in-game purchases are paid to a third-party creator for their games; the percentage will vary depending on earning thresholds set by the platform
+Token holder reward sharing
+Token burn using collected fees
+A portion of the purchase, subscription, sponsorship, NFT sales, and other fees paid to the platform in DUEL tokens are burned on a quarterly basis
+Token burn through buybacks
+A portion of the profits earned from fees collected via fiat payments are used to purchase DUEL tokens on the secondary market.  These tokens are then burned.
+Staking replenishment
+A portion of the collected fees in DUEL or market repurchased DUEL are used to contribute to the staking fund
+Tokenomics
+RAIN-to-DUEL conversion 
+Previous participants in Rainmakerâs ecosystem who hold RAIN can convert their tokens into the platformâs new token, DUEL. To reward our loyal community, all RAIN will be converted at at a $10M FDV equivalent to DUEL. This equates to a redeemed value of USD 0.01 per RAIN or a total value of USD 10M FDV.
+Conversion Bonus Timeframe
+However, this conversion value will decrease over time according to the schedule below, providing an incentive for early conversion. The exact date and time frame of the conversion event will be published by the platform on social media.
+Real-time Value Calculation
+Conversion is not based on a blockchain snapshot, but instead involves the simple deposit of RAIN tokens into the RAIN DUEL Conversion Contract for eligibility. Thus, market purchases of RAIN during the conversion period will be eligible for DUEL redemption. Rainmaker will actively market and promote the conversion event to existing token holders through its social media channels, website, launchpads, as well as through direct communications with private sale investors.
+NFT Credits
+Every token holder who swaps will get 3x the value of their RAIN tokens at the time of the swap, in credits (up to a value of USD 1,000) to be used for NFTs on our marketplace (anticipated launch, early-2024). Credits will be tracked on a per wallet basis and the swapped tokens must be present in the wallet to claim the credit.
+Conversion Vesting
+RAIN holders who redeem our new DUEL token during the conversion event are rewarded with a significantly lower
+entry point to the expected market value of the token during launch. To prevent unabated token dumping, only DUEL
+tokens representing a 1:1 value against the price of RAIN at the time of unlock will be available after 1 month from the
+date of conversion. Any bonus tokens awarded in the conversion up to the USD 10M FDV will be locked for a period of
+90 days after the date of conversion based on the schedule below:
+Staking
+LP Staking
+Post-token sale, DUEL is expected to be available on decentralized exchanges. In order to encourage liquidity providers to fund the liquidity pool, the Duel Foundation will enable them to earn additional DUEL tokens by adding liquidity to the pool. Duel will create a staking contract that rewards liquidity providers when LP shares generated from the pool are deposited into the DUEL staking contract. DUEL is paid into the staking pool and earned by LP miners based on their pro-rata share in the staking pool.
+Direct Staking
+DUEL can also be earned by directly staking DUEL tokens into the token staking contract. The staking pool will emit a fixed daily reward to be distributed to all pool participants based on their pro-rata stake. Pro-rata rewards may shrink or grow depending on the poolâs participation. The staking reserve is a finite and exhaustible resource that is expected to incentivize early participants. Should the platform become profitable, the staking reserve may be replenished, in part, by token buybacks.
+Spending Staking Rewards
+Unredeemed DUEL staking rewards can be used to purchase digital items, objects, powerups, enhancements, and/or NFTs at a 20% discount to their listed value. Purchases made using staking rewards are deducted from a userâs reward balance. Only the reward portion of these staked tokens can be spent.
+Bonus
+Duel also enables committed, long-term stakers to earn additional bonus rewards for locking their tokens over increasing intervals of time as per the chart:
+Token Distribution
+Tokens created by the contract will be distributed based on the following:
+Vesting
+Emission schedule
+Tokens distributed by the platform occur over a vesting schedule to ensure the gradual release of tokens into the circulating supply. They occur over the course of 24 months based on the emissions schedule below:
+Emissions assumptions made on Community Incentives for illustration purposes. Actual emissions may vary based on ecosystem growth, gaming and staking participation.
+Roadmap
+Our roadmap is a constantly evolving aspect of Prism. We will continue to share frequent updates on drops and launches on social media, but for a more frequently updated glance of whatâs to come you can go to our 
+dedicated roadmap page
+.
+
+GameGPT - DUEL
+ETH contract address:
+
+https://etherscan.io/token/0x943Af2ece93118B973c95c2F698EE9D15002e604
+
+BSC contract address: 
+
+https://bscscan.com/token/0xa1ED0bD9A4776830c5b7bA004F26427b71152CA5
+
+
+CoinMarketCap link:
+
+https://coinmarketcap.com/currencies/duel/
+
+
+Visit us at: 
+https://gamegpt.gg
+
+Twitter: 
+https://twitter.com/Gamegptofficial
+Next
+Disclaimer
+Last updated 
+5 months ago
+On this page
+Table of Contents
+Abstract
+Introducing GameGPT by PRISM
+Sunsetting RAIN
+Platform Overview
+Challenges: Product Breakdown
+Survivor: Product and Token Breakdown
+Arcade: Product Breakdown
+Game Economy
+Revenue
+Token Reward Sharing
+Tokenomics
+RAIN-to-DUEL conversion 
+Staking
+Token Distribution
+Vesting
+Emission schedule
+Roadmap

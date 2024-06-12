@@ -122,8 +122,6 @@
 
 
 
-
-
 GitHub - UMAprotocol/whitepaper
 
 
@@ -2004,6 +2002,8 @@ This commit does not belong to any branch on this repository, and may belong to 
 
 
  
+
+
 
 
 

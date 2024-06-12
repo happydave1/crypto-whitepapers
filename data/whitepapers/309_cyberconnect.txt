@@ -32,6 +32,9 @@ Chevron Right
 Add Cyber to Metamask
 Bridge assets to Cyber Testnet
 Deploy your first contract
+Tutorials
+Chevron Right
+Deploying a token using Thirdweb
 Contract Addresses
 Chevron Right
 Testnet
@@ -55,11 +58,6 @@ Web3.js
 Reservoir
 Account Abstraction
 Chevron Right
-ZeroDev
-Pimlico
-Alchemy Account Kit
-Particle
-Turnkey
 Support
 FAQ
 Search

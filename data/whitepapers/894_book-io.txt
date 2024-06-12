@@ -1,0 +1,506 @@
+Book.io Whitepaper 2.0. The Path to Decentralize andâ¦ | by BOOK.io | Medium
+Open in app
+Sign up
+Sign in
+Write
+Sign up
+Sign in
+Book.io Whitepaper 2.0
+BOOK.io
+Â·
+Follow
+48 min read
+Â·
+Jun 30, 2023
+--
+2
+Listen
+Share
+The Path to Decentralize and Incentivize Knowledge
+Download PDF Version: 
+bit.ly/44qYn3a
+Version: 2.0 (June 9, 2023)
+By: Joshua Stone
+Contributing Editors: Ben Illian, RJ Regenold
+Abstract
+Consumers lack true ownership of their digital books (eBooks or Audiobooks) since they unknowingly purchase a âlicense to access contentâ rather than the actual content. This means they cannot sell, give away, or lend their books. Retailers, Publishers, and Authors retain the power to alter or remove content without notifying the purchaser. Moreover, if a consumer cancels a centralized service, they lose access to their purchased digital library. The digital book industry is nearly two decades old and both the licensing terms and the technology infrastructure are antiquated. Consumers now seek ownership of their digital assets. Book.io introduces Decentralized Encrypted Assets (DEAs), establishing genuine digital book ownership and revolutionizing the industry for both consumers and creators.
+1. Introduction
+Consumers often encounter a misleading sense of ownership when purchasing digital books. Despite the presence of a seemingly straightforward âBuyâ button, the reality is that they are not actually acquiring ownership of the book itself. Instead, their purchase grants them a license to access and read the bookâs contents. This distinction stems from the prevailing copyright licensing models that were established almost two decades ago, long before the advent of modern Web3 technologies.
+The consequence of this licensing model is that once a digital book is âpurchasedâ it becomes permanently locked on the buyerâs digital bookshelf. It cannot be resold, transferred, lent out, or given away. The lack of ownership means that the book holds no intrinsic value beyond the act of reading or listening to it. This limitation inhibits the ability to treat digital books as tangible assets that can be shared, donated, or repurposed after consumption.
+Whatâs even more disconcerting is that consumers often unwittingly agree to licensing terms that enable books to be removed from their digital bookshelves without their knowledge or consent. Additionally, the contents of any book they âownâ can be altered without any notification. This raises significant concerns about the potential abuse of power when a Centralized Retailer, Publisher, Editor, or Author can manipulate, delete, or change books that consumers believe they rightfully own. Itâs akin to an authoritarian regime controlling information by selectively turning books âonâ or âoffâ at will. Such centralized authority undermines the principles of access and ownership that are crucial for a democratic and knowledge-based society.
+Furthermore, the lack of true ownership becomes evident when consumers unsubscribe from centralized reading services, and in some cases are also unwillingly banned from certain services. In such cases, they lose access to their entire digital library, as they do not genuinely own the books they have accumulated. This situation highlights the vulnerability of relying on centralized platforms for access to digital content where users are at the mercy of service providers.
+It is worth mentioning that similar licensing issues and lack of true ownership also exist in other digital products like music and audio, video, film, movies, TV, gaming, software, etc.
+These limitations and concerns arise from the historical focus on preventing piracy and counterfeiting in the digital book industry. Digital Rights Management (DRM) was initially introduced as a means of encrypting and protecting copyrighted materials. At that time, there were no efficient methods to create unique, trackable digital objects. However, with the rapid advancements in technology, particularly in the realm of Web3, the landscape has shifted.
+Web3 technology, comprising blockchain, decentralized storage, smart contracts, non-fungible tokens (NFTs), and artificial intelligence (AI), presents a transformative opportunity to revolutionize the sale and distribution of digital books. The Web3 ecosystem has been steadily expanding with an estimated 85 million cryptocurrency wallets worldwide. In contrast, more than 1.1 billion individual consumers are expected to âpurchaseâ digital books in 2023 under the old licensing model. This juxtaposition underscores the need for a shift towards a new paradigm where consumers can exercise true ownership over their digital assets.
+However, previous attempts to create Web3-based book solutions have exhibited inherent flaws. One such flawed approach involves uploading unprotected raw source files to decentralized storage and using an NFT to represent shared ownership. Unfortunately, this leaves the source file accessible to anyone with the link, jeopardizing the integrity and exclusivity of the media. Another flawed attempt involves storing a centralized file and using an NFT as a key for access, essentially replicating the current system of licensed content with an upgraded password. This method fails to address the issues of access control and content manipulation that plague the existing Web2 system.
+To overcome these challenges, Book.io has emerged as a pioneer by leveraging the appropriate combination of technologies along with advanced DRM solutions. By employing the blockchain, Book.io has created a groundbreaking system where digital book assets can be fully decentralized and encrypted. Each book is securely stored on the blockchain, ensuring that only verified owners can access its content. This integration of technologies gives rise to an entirely new asset class called âDecentralized Encrypted Assetsâ (DEAs). Unlike static eBooks or Audiobooks, these DEAs can be thought of as âprogrammable booksâ with the ability to introduce unprecedented parameters and interactivity, which were previously unattainable with traditional digital books.
+This shift towards Web3 ownership models extends significant benefits to creators, as well, and particularly authors and publishers. For the first time in history, a secondary digital market has emerged, allowing creators to earn ongoing percentages from sales in multiple global marketplaces. Authors can establish direct-to-consumer connections, facilitated by their ability to verify book ownership. This direct connection empowers authors to control their digital inventory and editions, similar to the print world, thereby enabling the creation of digital collectibles or mass trade editions. Moreover, authors can gain access to rich consumption data and reading analytics, unlocking new avenues for marketing and merchandising that were previously unavailable within the centralized retailer system.
+The right to own the books one purchases is a fundamental aspect that should be upheld. Throughout history, societies have witnessed the dangers and negative implications of centralized authorities controlling information and seizing books from their rightful owners. Books and knowledge should not be subjected to the whims of centralized entities with the ability to manipulate content, access, and ownership at will. It is vital that individuals possess true ownership over the books they acquire, enabling them to sell, transfer, or lend them out once they have finished reading or listening.
+In addition to the ownership aspect, it is worth noting that many books are primarily sold as consumable products, often with little regard for actual readership. The industry becomes fixated on selling more titles rather than encouraging meaningful engagement with the material. Book.io addresses this issue through its innovative Read to Earnâ¢ model, whereby readers have the opportunity to earn native $BOOK tokens based on the amount of content they listen to or read. This is a concept Book.io refers to as âknowledge mining,â incentivizing individuals to actively consume books in order to earn rewards. By incentivizing reading, Book.io aims to bring about a significant societal shift towards increased education. Numerous studies have shown that societies with higher levels of education exhibit lower crime rates and fewer instances of violence. Therefore, by promoting reading and expanding access to digital books, Book.io strives to foster knowledge expansion on a global scale, contributing to a more enlightened and peaceful world.
+In summary, the transition to a Web3 ownership model for digital books addresses the existing limitations and concerns surrounding ownership, access control, and content manipulation. By leveraging blockchain technology, decentralized storage, and advanced DRM solutions, Book.io has created a groundbreaking infrastructure that empowers consumers to truly own their digital assets. Simultaneously, this shift benefits creators by opening up new avenues for revenue generation, direct audience connections, and enhanced marketing opportunities. Ultimately, the right to own the books one purchases is a fundamental principle that should be upheld, ensuring the preservation of knowledge, promoting education, and safeguarding against centralized control.
+2. Background
+Books have played a crucial role in human history, serving as vessels for various forms of human expression, knowledge, and cultural heritage. They have been integral to the development of civilization and have significantly impacted the way we understand ourselves and the world around us.
+Initially, before the advent of written languages, storytelling and the transmission of knowledge primarily relied on oral traditions. People would pass down their narratives, histories, and traditions through spoken words, using various techniques such as songs, poems, and chants. Cave paintings and other forms of visual art also acted as early means of recording stories and events.
+However, with the invention of writing systems, such as cuneiform in ancient Mesopotamia, hieroglyphics in ancient Egypt, and the development of alphabets in different regions, stories and information could be recorded in a more permanent and tangible form. This shift from orality to literacy marked a significant turning point in human history, as it allowed for the accumulation and preservation of knowledge across generations.
+Books emerged as physical objects that contained written narratives, serving as repositories of information, wisdom, and imagination. They became vehicles for the transmission of historical accounts, legends, myths, religious texts, scientific discoveries, philosophical ideas, and much more. Books enabled societies to store and access knowledge that facilitated the growth and evolution of various fields of study, including literature, science, philosophy, and theology.
+Religious texts, such as the Bible, Quran, Torah, and Vedas, have been pivotal in shaping the spiritual and moral fabric of different civilizations, providing guidelines for ethical behavior and offering insights into the nature of existence. These texts, regarded as sacred scriptures, have often been revered and studied by communities throughout history.
+Books have also played a critical role in the advancement of scientific knowledge. Scientists and scholars have used books to document their findings, theories, and experiments, enabling the sharing and dissemination of scientific progress. From ancient works like Aristotleâs âPhysicsâ and Ptolemyâs âAlmagestâ to modern scientific literature, books have been fundamental in the accumulation of knowledge and the development of scientific disciplines.
+Literature, in various forms such as novels, poems, plays, and essays, has served as a means of artistic expression, fostering imagination, empathy, and understanding among individuals. Literary works have reflected societal values, beliefs, and concerns, and have often sparked critical conversations and inspired change.
+Books hold immense significance in human history as vessels for storytelling, oral traditions, and the preservation of knowledge. They have played a crucial role in shaping our civilization by recording historical events, transmitting cultural heritage, storing scientific advancements, and fostering artistic expression. The written word, found within books, has served as a cornerstone of human progress and has contributed to the development and trajectory of our societies.
+The introduction of the printing press in the 15th century marked a significant turning point in human history. Prior to its invention, books and manuscripts were painstakingly produced by hand, making them rare and expensive commodities. The movable type printing press, invented by Johannes Gutenberg, revolutionized the process of book production by allowing for the mass production of books and literature.
+Movable type allowed for greater flexibility and efficiency in printing as individual letters and characters could be rearranged and reused to compose different texts. This innovation led to a significant increase in the production of books, pamphlets, newspapers, and other printed materials.
+Books could now be produced more quickly, efficiently, and at a lower cost. This breakthrough democratized access to knowledge as books became more accessible to a wider range of people. It led to a remarkable expansion in the dissemination of knowledge, thoughts, and ideas, as information could now be replicated and shared more widely than ever before.
+Over the past five centuries, the printing press and the industry surrounding it have experienced continuous growth and evolution. Printed book publishing has a rich history with some of the oldest continuously operating businesses in the world still thriving today. For example, Cambridge University Press, which was granted a Royal Charter by King Henry VIII in 1534, has remained active and successful for nearly five centuries.
+Other printing enterprises, which initially acquired printing presses, have also sustained their operations for extended periods with some experiencing mergers and consolidations. These businesses have adapted to changing technologies, market demands, and publishing trends to stay relevant.
+The rapid emergence of digital books outpaced the traditional paper counterparts, compelling publishers to quickly adapt to digital platforms in order to safeguard their intellectual property (IP) and stay relevant in a fast-evolving market. While initial attempts to establish a commercial digital book market were made in the 1990s, a major disruptive moment occurred in 2007 when Amazon introduced the Kindle reader. This device revolutionized the way people consumed books electronically.
+In 2010, Amazon made an announcement that marked a significant milestone for the industry â eBook sales had surpassed those of hardcover books. By 2011, eBook sales had also eclipsed paperback sales. It is difficult to determine because Amazon, the predominant reseller of books in the U.S., is opaque with reporting data. Estimates are that Amazon controls upward of 80 percent of print book sales and 87 percent of eBook sales in the U.S. Confusing things further, Amazon releases over 1.4MM self-published books through its Kindle Direct Publishing every year, the majority of which lack a registered ISBN, which makes the exact figures impossible to determine.
+This lack of transparency in data also extends to Authors and Publishers that choose to sell books through Amazonâs platform, as they typically only receive reported sales data and revenue, leaving them with no visibility into their market or customers. This lack of information and customer access often fosters a sense of indifference among publishers and authors.
+Furthermore, centralized retailers did not generate substantial profits from book sales alone. Amazon, for instance, only earned an estimated 10 percent of its overall revenue from book sales. Instead, they previously utilized books as loss-leaders, selling them at lower prices to attract new customers and collect valuable consumer data. This data is leveraged for selling higher-margin physical products. As a result, a prevailing sense of indifference and disengagement often enveloped both publishers and authors.
+A criticism of digital book licensing is that it created a paradigm that breaks the laws of supply and demand â it stretches supply to infinity. Retailers can sell an unlimited amount of any digital book, while Authors and Publishers have zero control over their digital inventory. Without digital scarcity, this endless supply causes current digital books to become ubiquitous commodities, ultimately driving average eBook prices under a $4.00 USD price-point (with many priced less than $1.00 USD to stay competitive), which directly and negatively impacts revenue for all Authors and Publishers.
+However, the emergence of blockchain technology can potentially address all of these challenges. Blockchain offers a transparent and decentralized system where information regarding book sales, royalties, and ownership can be securely recorded and accessed by all relevant parties. This enhanced transparency could empower publishers and authors with accurate sales data, enabling them to make informed decisions and negotiate fairer contracts.
+Moreover, blockchain technology has the potential to enable new business models that better align the interests of all stakeholders. For instance, smart contracts make royalty payments automatically, ensuring that authors receive their fair share in a timely manner. Additionally, the immutable nature of blockchain records could help combat issues such as piracy and unauthorized distribution, safeguarding publishersâ intellectual property.
+By embracing blockchain technology, the publishing industry can transition towards a more transparent and equitable ecosystem. This shift will reignite the enthusiasm and motivation of publishers and authors as they regain control over their intellectual property and have access to comprehensive data that informs their decision-making processes. Furthermore, this technology-driven transformation could foster a renewed sense of collaboration and cooperation between publishers, authors, and retailers, paving the way for a thriving digital book market that benefits all parties involved.
+The publishing industry in the United States is largely dominated by five major publishers, commonly referred to as the âBig Five.â These publishers, namely Penguin Random House, HarperCollins, Simon & Schuster, Hachette Book Group, and Macmillan, collectively hold over an estimated 60 percent of the market share.
+Antitrust regulations enforced by the Department of Justice prohibit these major publishers from directly collaborating on the development of new solutions. These regulations are in place to prevent monopolistic practices and maintain fair competition within the industry. However, these regulations inadvertently result in the centralization of power in the hands of a few major resellers, effectively monopolizing the industry from the perspective of customers.
+Due to the rise of digital publishing, eBooks have become a significant segment of the book market. However, the eBook industry is subject to a pricing model known as âAgency Book Pricing.â Under this model, publishers set the retail price of eBooks, and resellers are required to sell the eBooks at the same price across all platforms. The original intention of this requirement was to level the playing field for other retailers, preventing one retailer from undercutting competitors by offering lower prices. However, in practice, it has reinforced the monopoly of large centralized retailers and hindered the emergence of new marketplaces.
+As a result, customers often have limited options when purchasing eBooks, and smaller retailers or new entrants find it challenging to compete with established platforms. This lack of competition can restrict innovation, limit consumer choice, and potentially lead to higher prices.
+Despite the rapid advancement of technology in various industries, digital publishing has witnessed only minor technological progress. While digital books are still relatively new compared to the broader timeline of book publishing history, they have not kept pace with the accelerated advancements seen in other sectors. The existing digital book licensing and digital rights management (DRM) technologies are outdated, built on non-scalable centralized systems.
+Twenty years ago, the digital landscape was vastly different compared to today. Social media giants like Meta were non-existent, and it was unheard of to carry a powerful mini-computer in our pockets with boundless internet connectivity. While Web3 technology has garnered significant focus lately, particularly in relation to cryptocurrencies like Bitcoin and decentralized finance (DeFi) tools, there has been a noticeable lack of applications developed for the digital media that consumers actively purchase in mass on a daily basis â digital books.
+There is a prime opportunity for Web3 technology to radically upgrade the entire digital book market, allowing readers, authors, and publishers to take advantage of the benefits of a blockchain-based infrastructure and digital ownership. Now that the necessary technology exists, significant changes can be implemented to address the existing shortcomings and unlock new possibilities in the ecosystem of digital books.
+3. Opportunity
+The combination of digital books and Web3 technology holds immense promise and offers numerous possibilities across various fields and target groups. With the advent of digital items that can now be uniquely identified, tracked, and treated as individual entities, it becomes feasible to develop DEA eBooks and Audiobooks that can be efficiently transferred on an economic scale. This innovative approach is set to revolutionize the existing digital publishing industry thanks to its unparalleled advancements, leading to a shift from a license-based system to a model based on digital ownership. Such a transition brings forth numerous advantages for all parties involved, including:
+3.1 Readers, Collectors, and Consumers
+Problem:
+Consumers donât actually own the digital books they have âpurchasedâ
+Consumers only purchase a license to view content
+There is no way to resell, transfer, give away, or lend a digital book
+Books are susceptible to being removed without notification or refund
+The contents of books can be changed without notification
+Consumers are locked into centralized systems to continue accessing books
+Book.io & DEA Solution:
+The ability to sell their eBooks or Audiobooks in an open marketplace
+The ability to give their book away to a friend after they have finished reading/listening to it
+The ability to share a digital book, much like a physical book, by lending out the digital books
+The ability to donate used digital books to non-profits
+The ability to purchase collectible editions
+The ability to see the real-time value of all of the digital books they own
+The ability to immutably verify that a book has been read or listened to
+The ability to earn $BOOK tokens in the Read to Earnâ¢ Loyalty Program
+The ability to purchase an enhanced book that contains embedded multi-language support
+The ability to purchase an enhanced book that contains audio, video, or high-resolution images
+The ability to use a book to unlock access to private social channels, book clubs
+The ability to use a book to unlock access to purchase merchandise, ticketing opportunities, etc.
+3.2 Authors & Publishers
+Problem:
+There is no direct-to-consumer access to any digital purchasing audience
+There are no opportunities to take advantage of any secondary royalties in the digital market
+There is no rich data about the reading analytics or habits of consumers
+Current Web3 and NFT solutions do not have DRM and IP protection in place for published content
+Current Web3 solutions make content publicly viewable for anyone to pirate content
+Book.io & DEA Solution:
+The ability to take control of their digital inventory
+The ability to connect directly with their purchasing audience
+The ability to know who owns their books, who has sold their books, and who secondary purchasers are
+The ability to have direct-to-reader marketing access to retarget and merchandise
+The ability to create multi-book campaigns and gamify purchasing
+The ability to give discounts for owning certain titles or combinations
+The ability to receive reading consumption data and analytics about the contents of titles
+The ability to get paid via smart contracts on all secondhand sales opens a completely new revenue stream in perpetuity
+The ability to set the secondary royalty rates for each title
+The ability to use content to grant special access to certain features or groups
+The ability to create book clubs with only verified purchasers and/or verified readers
+The ability to automatically direct a portion of retail and secondary revenue toward non-profits or other beneficiaries
+The ability to transfer Publisher Sales Rights instantly from one Publisher or imprint to another
+The ability to produce unique digital collectible editions of books
+The ability to produce standard trade editions that are also DEAs
+The ability to protect and claw back galley copies of books for review purposes
+The ability to receive either Fiat currency or Cryptocurrency for book purchases
+The ability to have content protected with next-generation DRM security
+The ability to finally securely bundle both eBooks and Print books as a single product (Mint+Printâ¢)
+The ability to have a secure and trackable giveaway promotional system
+The ability to sell digital books in bulk to organizations, governments, and universities
+The ability to earn higher splits for Indie Authors and be paid instantly at the time of purchase
+The ability to monetize social channels and generate viral buzz about new releases
+The ability to source new verified Authors/Illustrators on the platform
+The ability to grow an Authorâs audience and reach a new customer base
+3.3 Organizations, Education, Libraries, Businesses, and Governments
+Problem:
+There is currently no easy way to distribute digital books in bulk, and physical bulk distribution is expensive and not environmentally friendly
+Organizations donât actually own the digital books they have âpurchasedâ and only purchase a license to view content
+There is no way to track if books have been read or even opened
+There is no way to reuse, sell, or donate digital books after they have been read
+Access to digital books is susceptible to being removed without a refund
+The contents of books can be changed without notification
+Organizations are locked into centralized systems to continue accessing books
+Textbook prices are extremely expensive and continually increasing worldwide
+Campus Bookstores pay only a fractional amount of the retail cost to buy and resell used textbooks from students
+Authors and Publishers do not receive royalties from on-campus Bookstore sales
+Some Publishers create ânew editionsâ with minimal changes in order to increase sales and discourage âoutdatedâ editions
+Some Publishers are eliminating all printed textbooks and shifting to only provide digital books
+Students lose access to âpurchasedâ digital books after a semester concludes
+Book.io & DEA Solution:
+The ability to distribute digital books in bulk
+The ability to bundle both digital and physical books together
+The ability to know exactly how much of each book is consumed
+The ability to track individual reading on a person-by-person basis
+The ability to lend out books and programmatically retrieve them
+The ability to have a balance sheet of all digital books as actual assets
+The ability to use books as a promotional item in person or online
+The ability to give books away at events, conferences, classrooms, etc.
+The ability to own digital books and learning materials that never decay
+The ability to easily transfer books between employees, students, etc.
+The ability for Textbook Publishers to receive royalties on secondary sales
+The ability for Textbook Publishers to not have to create minimally changed ânewâ editions
+The ability for Textbook Publishers to reduce waste and lower cost of production
+The ability to reduce a significant part of the cost of higher education
+The ability for students to truly own their digital textbooks
+The ability for students to sell their books in an open market
+The ability for students to keep their books for reference material after courses
+4. Technology
+As a precursor to delving into the technology behind Book.io, it is important to address one principle first, as crypto is a nuanced industry with terms and concepts that can be confusing:
+There are two distinct technologies;
+a) The Decentralized Encrypted Asset (DEA)
+i. This is the actual encrypted eBooks or Audiobooks
+b) The $BOOK Token,
+i. This is the ecosystem utility and loyalty token (Details in Section 5)
+It is important to note that these two items are separate and distinct. Additionally, one $BOOK token is not equal or equivalent to one DEA Book. As DEA Books will be priced in varying amounts according to Authors and Publishers, there is no correlation between an asset being a DEA, and the specific value of a $BOOK token.
+Therefore, the remainder of this section 4, will address the DEA technology and creation of digital book assets â and section 5 will address the $BOOK token.
+4.1. Arenât there already existing eBooks on-chain?
+There have been some attempts at putting books onto a blockchain. However, the first iterations consisted of uploading a publicly viewable file (PDF or EPUB) to a decentralized file storage system like IPFS and then associating an NFTâs metadata to point to that file location. This method is dangerous as the link and metadata are public, and anyone with the file address has access to the book. There is no DRM or IP protection for the content â and most importantly, this cannot be undone or deleted. This essentially means the book has been given away forever. This method would never work for Authors and Publishers because their livelihood depends on selling their content and only having the purchaser able to access and read the content.
+A second way that some attempts to put books on-chain have occurred is to effectively build a duplicate of what exists in Web2 with a consumer account having access to a centralized file to read a book, however using an NFT as the access key to unlock the gated content. The primary issue with this solution is that it is really just equivalent to password sharing on a Kindle. The book file is still centralized and susceptible to removal or editing, and as this would still fall under a content licensing model; ultimately, there is still no true digital ownership. If the centralized system goes down or fails, or if rights change for the book, then all access is lost. The end consumer, while still owning an NFT, has access to nothing but a receipt for a book that no longer exists.
+Book.io believes that Creators and Authors should be paid for their work and earn money on books that are being consumed and traded because it is their livelihood. The Book.io DEAs are unlike any previous attempt at storing books on-chain and instead are true and verifiable ownership of a fully decentralized and encrypted asset.
+4.2. The 3rd Generation of NFTs â Utility
+The first generation of NFTs was very basic and merely had a singular token with a metalink to an image that was stored in decentralized storage. This very quickly evolved into the second generation of NFTs, which focused on collectible digital images and assets. Artists created collections of images, videos, and audio-based files. These assets were all publicly viewable, and effectively they were buying a receipt for the item to show that they had ownership of it. Often these images/asset-based NFTs give consumers access to private social channels or early access to purchase other items â but that is primarily the extent of their functionality.
+Knowing the digital book publishing industry and understanding the digital art market, Book.io created a new way to use the NFT infrastructure and decentralized storage. They developed the ability to have fully decentralized encrypted assets on the chain that only the owner of the asset can have access to its contents.
+While the crypto market is ~85MM wallets worldwide (which there are likely fewer total consumers), there are over 1.1B individual consumers that purchase digital books each year. In fact, digital books are the largest singular digital item that are purchased on a per unit basis. Music and video are primarily subscription streaming services; however, digital books remain a la carte purchases. Additionally, there are over 30MM different book titles. Knowing that some titles sell only hundreds of units, but others sell millions of units, one can conclude that there will soon be billions of digital book DEAs. The path to mass adoption of blockchain is not forcing people to learn blockchain technology but to bring blockchain benefits to the masses in the digital products they already buy.
+This paradigm shift in how digital books can exist as true digital ownership will radically shift the book and publishing market. For digital books to enter the 3rd Generation NFT paradigm, they must integrate encryption principles and DRM (Digital Rights Management) schema to protect a bookâs intellectual property and uniqueness. All Book.io books are completely encrypted and stored in decentralized storage.
+Another significant issue when compared to image-based NFTs is that when a consumer purchases a book DEA, they must have a fulfillment platform. Once you own the digital book, you must be able to read it and access all of its contents. You couldnât do this in a metadata structure primarily because it would exceed protocol block limits (and be slow). However, it can store small chunks of encrypted media on-chain, and then have the contents decrypt and reassemble within the reader and mobile apps.
+4.3. Decentralized Encrypted Assets (DEAs)
+Decentralized Encrypted Assets are a further expansion of blockchain technology beyond the current NFT paradigm. Decentralized Encrypted Assets are sometimes referred to also as âNFT books,â âProgrammable Books,â âSmart NFTs,â or âUtility NFTsâ â however, the most accurate acronym is a âDEA.â The simplest definition of a DEA is that it uses a combination of Web3 technology to produce unique DRM-protected digital assets. Figure 1 breaks down each of the contributing components:
+â¢ Blockchain is used for immutable and trustless recordkeeping
+â¢ Decentralized storage is used to stream content, so there is no single point of failure or centralized content controller
+â¢ Smart Contracts are used to define the rules for how the digital book will work and payout
+â¢ NFTs are used to verify ownership and contain instructions to decrypt the book so that only the person who owns the book can read or listen to it
+â¢ DRM encryption is used, which is much more advanced than any current standard
+â¢ Artificial Intelligence is used in several ways for content, graphics, data processing, and code creation
+4.4. How DEAs Work
+Below, Figure 2 shows the basic construct of a DEA:
+The NFT itself contains an encrypted string that references metadata and links to public and private files, which are all then used to decrypt and reassemble the file and make them viewable within the fulfillment dApp.
+In the following Figure 3, content is ingested into the Book.io system. From there, the files are broken into smaller shards to help load faster and add additional security. Both public metadata and encrypted data are uploaded to decentralized storage, so that books cannot be destroyed. An NFT is generated with an encrypted key file to access a manifest file of all the contents and have the ability to decrypt that particular asset. Finally, the smart contract is programmed to contain the proper royalty/commission structures.
+All the files are stored on decentralized storage and are accessible via a linked DEA that was created. Consumers can then open this DEA within the Book.io Decentralized Application (dApp). The instructions within the NFT fetch the encrypted key file, allowing access to the manifest where all the files are located. This process is handled by a function called the âLibrarian.â The files are pulled down, decrypted, and reassembled. The file is then viewable within the eReader dApp.
+4.5. Digital Rights Management (DRM)
+Digital Rights Management (DRM) is how legal access is granted to digital content and is standard practice within the publishing industry. For DRM to exist, it requires 1) a licensing agreement with the Content/IP Owner and 2) encryption to prevent counterfeiting.
+Most developed countriesâ laws criminalize DRM encryption circumvention (such as the United States Digital Millennium Copyright Act, commonly known as DMCA). However, it is relatively easy to break the DRM encryption in many cases. This has been a problem in the publishing industry for some time and has led to financial losses for Authors and Publishers.
+While DRM standards were effectively in place to prevent file duplication, that is no longer the case when you define DRM within an immutable blockchain where each asset has a unique and verifiable indicator created when it is minted. Through this production method, each eBook/Audiobook has an exact provenance. Further, the eReader dApp verifies that the Policy ID and Asset Fingerprint are whitelisted, which prevents any unauthorized or unlicensed versions from being able to be opened and decrypted and can be tied to a Decentralized Identifier (DID) to further verify that the asset is authentic and from a valid creator.
+Book.io DRM uses a combination of symmetric (AES256) and asymmetric (EdDSA and ECDH) encryption. Each policy id/asset name combination uses a randomly generated key pair (asset key pair) to encrypt all its sharded assets. These assets are stored on a decentralized file system. The asset key pair is then encrypted with another randomly generated key pair (publication key pair). The encrypted asset key pair is stored on the decentralized file system, while the publication key pair is stored with the Librarian, with which will also be decentralized and governed by a DAO.
+4.6. Multi-chain Technology
+Having previously worked with thousands of different Authors and Publishers, the Book.io team already understood that creators would have specific blockchains they would want their content to exist on â instead of forcing all creators onto a single blockchain. So, all of the technology that has been created for DEAs and the dApp eReader was created to be blockchain agnostic and to support multiple blockchains.
+The initial blockchain that Book.io launched on was Cardano because it is a leading Proof-of-Stake blockchain. It was founded by one of the original co-founders of Ethereum and has a high number of active developers. Its primary smart contract language is written in Haskell, a leading functional programming language which the team was very familiar.
+Book.io has now also launched on Ethereum, Polygon (and can support other EVM-based blockchains), and Algorand.
+Unique features of the exact book title and purpose, along with the Creatorâs preference and goals, determine which blockchain(s) is most appropriate for that title to be released.
+Book.io only works with Proof-of-Stake (POS) blockchains for a variety of reasons:
+Unit economics and fee structures:
+ When you consider that the average price of a trade eBook is $8-$12 USD, network fees have to be low. This can vary for certain collectible-only books at higher price points where they can exist on more expensive networks; however, for mass adoption, the fees must be meager.
+Publisher requirements:
+ Multiple large publishers have corporate mandates that any business they conduct that is blockchain-related must be with a POS blockchain because of the environmental impact. They are conscious of the fact that they cut trees down to manufacture paper books; however, they do have replanting and regenerative processes in place and do not want to contribute to what they refer to as âdirty chains,â which may include higher energy-consuming Proof-of-Work (POW) blockchains.
+Speed to finality
+: Mass market adoption demands that blockchains must settle transactions quickly because the average non-crypto consumers expect near instant digital product delivery.
+More broadly, Book.ioâs plan to reach billions of consumers will require a multi-chain approach. Ultimately, end consumers who are not crypto-natives do not care about what blockchain(s) their eBooks/Audiobooks are minted on.
+Currently, the DEA book generator and eReader dApp functions on four different blockchains, providing Authors and Publishers choices and freedom regarding how they create their DEA books. Creating the core DEA and reading technology that is chain-agnostic allows the capacity to onboard other blockchains in the future based on changing Author, Publisher, and Reader needs.
+4.7. Collectibles to Mass Trade Editioning
+When discussing how specific blockchains have different purposes, it is also essential to consider that there is a spectrum of different types of books with different needs. Just as a physical bookstore has a small collectibles section and a large mass trade section, DEA books will be organized in the following manner:
+Non-Fungible eBook/Audiobook:
+ These books are each unique but can vary in their uniqueness. It could be that they are merely numbered and all have the same cover artwork, or it could be that they all have unique covers for every single book in an edition. In this paradigm, an exact number of copies are minted as that edition â just like with print books. For highly collectible editions the total supply might be very low, while for Mass Trade editions the total supply could be very large, yet still uniquely and individually numbered.
+Fungible eBook/Audiobook
+: This is even more similar to printed books, whereby a certain number of books are printed â in this case, minted â that are completely identical. In this instance, books are not numbered, and one book is effectively identical to another book. These could be created within a singular transaction, and thus, they are functionally (and technically) the same, just as a cryptocurrency token is equivalent to others of its type. However, in this example, there is no additional value in the uniqueness of each individual book, but the value is derived solely because there is an exact finite supply of units of that eBook or Audiobook title.
+Supply and Editioning:
+ There are various unique ways to control supply using DEA books. Books could have an exact supply, much like a printed edition of a book. They could also be time-bound, so that an unlimited number of books could be minted within a defined time period. Once that window expired, the number of books minted would represent the supply of books in that edition â everything from very limited to effectively unlimited supplies are possible. Additionally, there can be an automatic or manual election to create multiple editions of books, like in print. If a first edition of a book quickly sold out, a second edition (and so on) could be created at a higher volume with the same or different characteristics. All of these elements could contribute to value, but the primary value is still the contents of the book.
+4.8 Mint + Printâ¢
+The print book industry has been facing an unresolved challenge regarding the creation of a secure bundled product that enables the purchase of both a print edition and a digital book. While this concept is common in other digital media purchases, such as redeemable digital versions of DVD movies or collectible vinyl albums that include MP3 songs, the physical printed book market remains significantly larger than these niche segments. Currently, if a reader buys a book in one format and wishes to read it on a different medium, they must repurchase the book at full price.
+Several factors contribute to the difficulty of implementing a solution within the current system:
+Lack of a secure method for redeeming single digital books
+Centralized retailers lack a financial incentive to collaborate with publishers to find a solution
+Publishers benefit from receiving payment twice for individual sales, discouraging them from seeking a resolution
+Absence of a verification system to confirm a purchaserâs ownership of a digital book, which would enable discounts for purchases in other formats
+To address these challenges, Book.io has developed the Mint + Printâ¢ solution by partnering with Ingram Content Group (refer to Section 8) and collaborating directly with publishers. This solution offers the following advantages:
+DEA-based books, which are single digital objects, can be easily created with trackable and secure DRM redemption paths
+In some cases, digital book sales may boost physical book sales and vice versa, as readers often enjoy different formats for various situations, including physical books, eBooks, or audiobooks
+Publishers stand to earn higher revenue from bundled product sales compared to the limited percentage of readers willing to purchase the same book in multiple formats
+For the first time ever, publishers would be able to know and anonymously identify print book customers
+Verifiable ownership of DEA books enables access to ordering printed versions of books
+Moreover, through Ingramâs print-on-demand service, bespoke collectible books with unique cover art or content can be produced, allowing readers to possess one-of-a-kind books.
+Book.ioâs Mint + Printâ¢ solution tackles the longstanding challenge of securely creating bundled products encompassing both print and digital editions of books. This solution leverages DEA books, fosters potential sales growth across different formats, and offers opportunities for personalized and collectible book printing through collaboration with Ingram Content Group.
+5. Token
+Reading is broken.
+A study by Digital Book World estimated that only 60 percent of books bought are ever opened. A study by Literacy Inc estimates that 50 percent of books started are never read to completion. This would mean that 70 percent of books that are sold are never read.
+â¢ 33% of U.S. high school graduates never read a book after high school
+â¢ 80% of U.S. families have not purchased a book this year
+â¢ 70% of adults have not been in a bookstore in the past five years
+Book.io believes what gets incentivized gets done. However, there has never been an immediate incentive for reading â until now. This is the broad idea behind creating a native ecosystem token.
+Companies like Coca-Cola & Pepsi measure consumption in âshare of throat,â as in what percentage of liquid their consumers drink are the companyâs products instead of anything else. Yet, nothing like this exists in the publishing world because while authors and publishers speculate as to whether or not their books are being read, sadly, the main focus becomes selling more books because there has been no way to track and quantify any actual reading metrics.
+A native $BOOK token combined with blockchain-based transparent analytics will change this radically.
+Prior to the 1400s, the vast majority of the worldâs population was illiterate. With the proliferation of the printing press, this changed some, but reading was still reserved for higher classes. England established the first public libraries in the 1700s, and Benjamin Franklin started the first lending library in America in 1731. However, it wasnât until 1918 that all states required at least elementary education in the United States. John D Rockefeller created the General Education Board and poured money into shaping the school system â however, with the express intent of creating more useful factory workers. He is quoted as saying, âI donât want a nation of thinkers, I want a nation of workers.â A member of his General Education Board, Frederick T Gates, is quoted as saying, âWe shall not try to make these people or any of their children into philosophers or men of learning, or men of science.â
+Much to their dismay, opening up free education did create thinkers who have continued to radically change the world. However, by the stats, people still do not read and continue to expand their intelligence. Additionally, for all the talk about crime statistics, a massively important stat is that the higher the general educational level of any community, the less crime and violent crime exist.
+Throughout the history of books, from the beginning, when access to knowledge was reserved for the elites of the time, then slowly proliferated to become publicly available with the invention of the printing press, then through subsidized state education and public libraries, there has never been a possibility to directly and immediately incentivize reading. Book.io believes a token can be a significant catalyst in increasing reading and changing all society â and especially perhaps in developing and underdeveloped countries.
+5.1. Purpose & Utility
+Having a native token for the Book.io ecosystem has a multitude of benefits. The $BOOK token can be viewed as stored or potential reading energy. Primary uses include:
+5.1.1 Creators
+$BOOK tokens will be used to create DEAs. The system will be dependent on Creators, Authors, and Publishers acquiring and spending $BOOK in order to create DEA digital books for sale
+$BOOK tokens are used to pay certain book royalties to Authors, Publishers and other delegates
+$BOOK tokens are used to access the Reading Analytic Platform by Authors and Publishers
+$BOOK tokens are needed to utilize the Enterprise Advertising Platform by Authors and Publisher wishing to market to their audience
+5.1.2 Readers
+$BOOK tokens will power the Read to Earnâ¢ System (Details in 5.3)
+$BOOK tokens can be used to purchase certain specific new titles
+$BOOK tokens can be used to purchase certain specific titles at a discounted rate
+$BOOK tokens can be used to âtipâ creators by readers
+$BOOK tokens can be earned for lending books from person to person
+$BOOK token rewards can be delegated to other consumers or causes
+$BOOK tokens are used within the Book.io Marketplace and Secondary Marketplace to reduce fees that other 3rd party marketplaces and exchanges charge
+$BOOK tokens are the only acceptable form of payment for certain specific titles
+$BOOK tokens are the only acceptable form of payment for certain specific merchandise
+$BOOK tokens are the only acceptable form of payment for certain specific Mint+Print titles
+$BOOK tokens may be required by certain Authors and Publishers to access exclusive social channels within Book.io
+$BOOK tokens may be used to tip other readers for outstanding reviews
+5.2 $BOOK Economy & Token Recirculation
+Inasmuch as is possible without sacrificing consumer freedom or economic sustainability, the Book.io protocol is designed to be a closed-loop system, whereby the tokens are earned, spent, and used by different parties in a recirculating economy.
+Figure 4 illustrates the recirculation of $BOOK beginning with the requirement by Authors and Publishers to be spent in order to create DEA digital books. Books are then purchased by consumers in either Fiat or Crypto, and in some instances will receive discounts for purchasing with $BOOK. The Author & Publisher can then be paid with $BOOK for selling their work. Consumers will earn $BOOK as they read their books from the Read to Earnâ¢ system. Data from their reading, as well as book ownership, is anonymous and available for Authors and Publishers to learn about how their books are consumed and to market to Readers for new releases that they might be interested in â both of which require $BOOK to access. Additionally, authors who host book clubs can charge a fee in $BOOK to have access if they wish which will allow access to exclusive content, etc. $BOOK can also be a payment method for consumers wishing to loan out their books, and Readers can tip Authors directly in $BOOK.
+5.3 Read To Earnâ¢ Loyalty Program
+The Read to Earn (RTE) system exists to incentivize consumers to read their books by providing a direct and immediate reward for reading. This is also referred to as âreader rewards,â âreader mining,â and âknowledge mining.â This is because the process is similar to the Bitcoin Difficulty Adjustment and solving a problem to be eligible for the block reward. In the Book.io ecosystem, consumers must read in order to compete for a proportional award.
+In the RTE model, consumers receive $BOOK tokens for meaningfully engaging with the platform as a positive reinforcement for reading and not just collecting books. Readers will be incentivized to read through an ever-expanding catalog of quality books, and they will also measurably see a financial benefit that they can use within the Book.io ecosystem.
+Book.io believes that to see positive changes in reading habits, a key piece is to introduce an immediate incentive structure. Meaningful change does not happen in one grandiose gesture but in small, persistent changes that aggregate over time. What gets incentivized gets done. Encouraging people to read, even through a token incentive, will align the immediate goals of people with those of society. Education is a net positive, and society must encourage its development.
+Creating a positive feedback loop through the RTE model will likely prove to be a qualitative advantage over the competing alternatives. All things being equal, when a consumer is presented with the choice of reading a book on a platform they have no control over, or one that gives them complete control over their asset and additionally rewards them for engaging with it, then the choice seems clear.
+The core model is very simple:
+There is an allocated supply of $BOOK dedicated to the RTE model
+This supply will run the course of 50 years
+Every 4-hours a reward is portioned
+Each consumer that has read within that 4-hour time period is rewarded in proportion against all combined readersâ cumulative words read
+A consumer can only earn $BOOK from reading a title a single time
+Over time the system will be transitioned to a DAO, and a certain portion of $BOOK can be programmed in to be collected to continue the RTE program beyond 50 years
+Example:
+In year five of the system, the 4-hour award is 35,910.14 $BOOK.
+If there were 100,000 readers during that particular window who collectively read 87,600,000 million words together (average of 876 words per reader), then:
+Reader A, who read 2,000 words,
+which is 0.002283%,
+receives 0.81986 $BOOK
+Reader B, who read 15,000 words
+which is 0.017123%,
+receives 6.14899 $BOOK
+(Note that an average length book is around 60,000 words.)
+The release of $BOOK during the 50-year period will follow a âhalvingâ cycle much like Bitcoin, whereby in Year 1 the total amount to be divided amongst readers will be 1,258,291,200 $BOOK, with each 4-hour reward being 143,640.547945 $BOOK. In year 50, the total annual reward will be a total of only 75 $BOOK with each 4-hour reward being 0.008562.
+The roadmap towards governance will be to isolate the RTE program into a DAO where Authors, Publishers, and Readers can manage the reward system mechanics and potentially receive a portion of activity (or secondary sales royalties) within the $BOOK ecosystem to continue funding the RTE program indefinitely beyond the initial 50 years.
+5.4 Token Generation
+5.4.1 Supply
+In 2023, it is estimated that over 1.1B people will purchase a digital book. The $BOOK token has a total fixed supply of 10,000,000,000 (10B) tokens. All things being equal this would equate to 9.09 $BOOK per digital reader worldwide. However, the original V1 token that was created in 2021, was minted prior to the Cardano metadata registry having the ability to produce a divisible token and only supported whole number integers. Without the ability to have a divisible token, it would be impossible to support the growing number of readers worldwide. The new V2 token is now divisible to six decimal places and will now support 9.090000 per reader on average. This makes it possible to expand the token in fractional units and support the Read to Earnâ¢ Loyalty Program.
+5.4.2 Version 1 (V1) (2021)
+On June 2, 2021, 10,000,000,000 (10 Billion) $BOOK tokens were minted as native-based Cardano tokens. This was a fixed supply and no more tokens can ever be created.
+The original transaction for this is available for review at: 
+http://bit.ly/3xyxaeu
+The Version 1 token will no longer be supported by Book.io, and will be available to swap to the Version 2 token.
+5.4.3 Version 2 (V2) (2023)
+The V1 token only supported whole integers and needed to be divisible in order to be scalable to work with the Read to Earn system over time.
+On June 9, 2023, a fixed supply of 10,000,000,000.000000 (10 Billion) divisible $BOOK tokens were minted as a native-based Cardano token to replace the original $BOOK token.
+The original transaction for this is available for review at: 
+http://bit.ly/3XuDvWx
+5.5 Tokenomics
+$BOOK tokens are allocated as follows:
+5.6 Token Circulating Supply
+$BOOK tokens from the Token Sale, as well as $BOOK released from the Read to Earn Programâ¢ provides an estimation of total circulating supply by year:
+Initial Token Release: 2,168,750,000 21.69%
+6. Roadmap
+Detailed and more recently updated roadmap data can be found at:
+https://book.io/roadmap/
+The Book.io ecosystem is a groundbreaking blockchain solution for developing decentralized eBooks & Audiobooks. It has been built with the rigor of high-assurance formal development methods and aims to continue to achieve the scalability, interoperability, and sustainability needed for expanded publishing applications.
+Book.io is designed to be the platform of choice for both large-scale Publisher technology solutions and Independent Authors â with the focus and mission being to supply the best reading, purchasing, and reselling economy of the future. To create the Book.io ecosystem, multiple prerequisite phases exist to enter the publishing market. Some of these tasks could come via the acquisition of existing contracts and/or technology.
+6.1 Phase 1: Genesis (Complete)
+Team Formation
+Initial Fundraising
+Product Roadmap Creation
+Technical Roadmap Creation
+Initial Token Generation
+Author Partnerships
+Publisher Partnerships
+6.2 Phase 2: Foundation (Complete)
+Infrastructure for DEA books: This is the setup of the technology environment for the platform to exist on.
+DRM encryption
+Initial SmartContracts
+NFT Gating for V1 Book Club Functionality
+6.3 Phase 3: Decentralized Encrypted Asset (DEA) Launch (Complete)
+Fully Decentralized Encrypted DEA eBooks (First Decentralized Encrypted Assets â DEAs): This was the first official release of completely decentralized encrypted assets. This is the first major milestone in creating a completely decentralized platform. The book itself and all associated assets for the EPUB file are 100% decentralized and stored on-chain in encrypted shards with manifest files that are used to reassemble and decrypt the book, audio, video, etc. More about this is located in the Technology section of this white paper.
+Anonymous Browser-based Open eReader dApp: The initial release of the eReader was a browser-based dApp. This application does not store eBooks in any centralized database â it merely filters any CIP-30 connected wallet to display any Book DEA contained in the wallet and allows the book to be opened and read anonymously.
+Initial Retail Marketplace: Books will be sold directly from the Book.io marketplace for the initial sale, while secondary sales will occur on 3rd party marketplaces to start.
+6.4 Phase 4: More Book DEAs + $BOOK Token (Complete)
+Continued Book Releases: Expand the number of titles and DEAs that are minted. This expansion of the book catalogue will occur from the Book.io internal publishing unit, working directly with Publishers, and working with Independent Authors.
+Mobile Apps: Both iOS and Android reading apps that allow you to connect a wallet and read.
+Multi-Chain Support: Integrate with several top blockchains and continue building a framework that is blockchain agnostic to empower creators to mint the DEAs to the blockchains that make the most sense for them.
+Self-Directed Wallets: To have a more seamless Web2 experience, a consumer can generate an account that creates a wallet for them in the background â this is needed to reach a non-crypto native audience. This will allow for a more normal digital book purchasing experience. However, retain âadvancedâ functionality for crypto-native consumers who want full control over their library.
+Easy Account Setup: Create a simple onboarding process that does not require any pre-existing cryptocurrency or wallet to get started.
+Credit Card: Accept Credit Cards for purchasing NFTs in order to remove any possible purchasing barriers for non-crypto consumers.
+Bulk Redemption Process: This allows anyone to distribute a DEA digital book with just a simple redemption code. This will allow books to easily be sold or given away and onboard new non-crypto consumers.
+Onboarding of Publisher Catalogues: Working with Publishers to onboard their books. Each Publisher enters into an agreement with Book.io for end consumer digital ownership of the asset instead of the current licensing model. This includes significant onboarding and client education processes as most Publishers are not versed in blockchain/crypto.
+Reader Editions: Launch non-rare editions of DEAs that are not collectibles that will work for Mass Trade implementation.
+Mint+Printâ¢ Prototypes: Working with Ingram Content to deliver single 1:1 Print Edition books based on DEA ownership. This will be a test of the system.
+Multi-Language and Localization support: Support other languages across the entire platform.
+6.5 Phase 5: Build, Build, Build
+Continue onboarding Publisher catalogues to scale up inventory
+Audiobooks Launch
+Author Portal: This will allow Indie Authors to use the system to create and launch DEA books
+Robust Marketplace and Secondary P2P Book Exchange: Launch an exchange so that consumers can directly trade with one another. This will reduce fees from trading on other third-party websites and have robust metadata structure support for digital books that do not exist on image-based NFT exchanges.
+$BOOK Utility Token Launch: An Initial Token Offering of $BOOK utility tokens.
+Verified Reading: Launch a system to accurately verify the amount of a book that has been consumed (text or audio)
+Read to Earnâ¢ Reward System Launch
+Mint+Printâ¢ Book Bundling: To combine the utility of Book DEAâs with a real-world application, introduce a solution to allow DEA owners to order printed copies of their books from print-on-demand printers. These custom books will have their unique cover artwork linked to the DEA book they own.
+Payment Options in multiple Fiat types for International expansion and other Cryptocurrency support for payment
+Digital Book Accessibility Support
+BookClubs Social Structure: This will create a social infrastructure so that friends can connect within Book.io and make it easier to share and lend books.
+Friend Structure: Will allow users to connect and communicate directly with friends
+Sending Books: Making it easier to send a book to a friend with zero wallet interaction for non-crypto users
+Gifting System: To make it easy to gift books to others
+Lending Books: A protocol for how book lending will work and how owners could be paid for lending if they desire
+Continued Mobile App Development
+Continued Promotional Bulk Redemption System
+Affiliate System
+6.6 Phase 6: Scaling, Analytics & Governance
+Expansion into other countries, territories and languages
+Reading Analytics Dashboard: This will allow Authors and Publishers insight into their books and relative consumption metrics
+Enterprise Marketing Platform: This system will allow Authors and Publishers the ability to send notifications, messages, and discounts to their audience
+Fully Decentralized eReader App Structure: While the DEA digital book portion of the platform is completely decentralized, making plans to make the reader itself completely decentralized
+Fully Decentralized Read to Earnâ¢ Program
+Autonomous Key Management dApp and Decentralized Storage Infrastructure: This will be the system by which content creators and any consumer can share in the storage effort and key decentralization
+SDKs for any external reader implementation: This will allow other reading apps the ability to let consumers read DEA books
+Launch or employ Voting Mechanism/Platform to allow creators and consumers the ability to manage the prioritization of future roadmap and system implementations
+Continue Multi-chain expansion to other relevant Blockchains
+Continued Mobile App Development
+Continued Promotional Bulk Redemption System Development
+Continued Marketplace Development
+Continued Book Club Development
+7. Team
+The founding team behind Book.io has previously worked together on other successful digital publishing projects. In 2007, the team first met and worked on a project that involved licensing materials from HarperCollins and eventually sold to a media conglomerate.
+Following that, the team developed and sold an eBook platform and distribution company that attracted more than 6 million registered users. Its rapid growth stemmed from being the first eReader that could be used on any device, including Android and iOS, and offering a fully HTML5 web interface, a pioneering feature in the reading platform space. Choosing to work with, instead of against Publishers, the catalog contained over 186,000 publishers and imprints worldwide, including major players like Penguin Random House, Hachette, HarperCollins, Simon & Schuster, and Macmillan. This extensive catalog encompassed millions of book titles.
+The team received notable recognition in technology publications and set the standard for innovative reading experiences, with many elements being adopted by large, centralized retailers. Through strategic partnerships with influential entities such as Wall Street Journal, Intel, T-Mobile, Apple, Microsoft, Google, AARP, CBS, General Mills, over 50 prestigious universities (including Stanford), and numerous other organizations, the company became the worldâs largest distributor of bulk eBooks. Their comprehensive digital publishing ecosystem created a unique position that would be exceedingly challenging for newcomers to compete with or replicate easily.
+Book.io approaches this world-changing endeavor with a founding team that is steeped in over 15 years of experience in digital publishing, combined with a cutting-edge distributed team around the globe.
+Joshua Stone, Co-Founder & CEO
+.
+With more than 25 years of involvement in the tech industry, Josh has traversed various stages from fledgling startups to established enterprises. In 1999, he contributed to the initial development of Fandango.com, later he led the interactive marketing teams for AT&T, and further led the Product/UX team for hotels.com/Expedia, Inc. Josh has had two startup exits, Big Jump Media (GodTube.com), and BookShout.com, where he was President and Chief Product Officer. Most recently he served as CEO of a NYT-Bestselling Authorâs digital training platform before starting Book.io.
+Ben Illian, Co-Founder & Chief Growth Officer.
+A natural entrepreneur, Ben has been drawn to tech and startups since 2004. He has led teams as a VP of Marketing & Sales, Product Owner, Social Media Manager, and Chief Growth Officer. Working with Josh, Ben was part of two startup exits and now works full-time as a Chief Growth Officer, coming up with innovative ways to maximize revenue, lower acquisition costs, and provide the best customer journey.
+RJ Regenold, Chief Technology Officer
+RJ has over 20 years of software engineering experience and has led teams at both startups and Fortune 10 companies. He has delivered a wide variety of production software written in over 15 different programming languages. RJ has contributed to mobile apps for Walmart and Samâs Club, pharmaceutical logistics software that manages the inventory at over 12,000 pharmacies, a social reading platform, a high-traffic social network, and many other projects. As a lifelong learner, he enjoys tackling difficult problems with innovative solutions.
+8. Investors
+Ingram Content Group
+www.ingramcontent.com
+The world is reading, and Ingram Content Group (âIngramâ) connects people with content in all forms. Providing comprehensive services for publishers, retailers, libraries, and educators, Ingram makes these services seamless and accessible through technology, innovation, and creativity. With an expansive global network of offices and facilities, Ingramâs services include digital and physical book distribution, print on demand, and other services for the publishing industry. Ingram Content Group is a part of Ingram Industries Inc. and includes Ingram Book Group LLC, Ingram Publisher Services LLC, Lightning Source LLC, Ingram Library Services LLC, Tennessee Book Company LLC, Ingram Content Group UK Ltd. and Ingram Content Group Australia Pty Ltd.
+Bertelsmann Digital Media Investments
+www.bdmifund.com
+BDMI is a wholly owned subsidiary of the global media, services and education company Bertelsmann. As a financially driven corporate venture investor, BDMI draws upon Bertelsmannâs global reach to provide not only capital, but also access to their network of businesses within Bertelsmann and across the media and tech industries. BDMI has invested in over 100 startups since 2007 and is currently focused on the categories of next gen media, web3, enterprise SaaS, and fintech. Bertelsmann is a media, services, and education company that operates in about 50 countries around the world. It includes the entertainment group RTL Group, the trade book publisher Penguin Random House, the music company BMG, the service provider Arvato, the Bertelsmann Printing Group, the Bertelsmann Education Group and Bertelsmann Investments, an international network of funds. The company has 145,000 employees and generated revenues of â¬18.7 billion in the 2021 financial year. Bertelsmann stands for creativity and entrepreneurship. This combination promotes first-class media content and innovative service solutions that inspire customers around the world. Bertelsmann aspires to achieve climate neutrality by 2030.
+Radical Investments, LP
+A Mark Cuban Company
+Mark Cuban is an American entrepreneur, investor, and TV personality. He made his fortune during the dot-com boom by co-founding Broadcast.com, which was later acquired by Yahoo!. Cuban is the owner of the Dallas Mavericks basketball team and has been involved in various technology startups and investments. He gained further fame as a âsharkâ investor on the TV show âShark Tank,â where he evaluates and invests in aspiring entrepreneursâ business ideas. Known for his outspokenness and philanthropic efforts, Mark Cuban is recognized as a prominent figure in the business world, sports industry, and the realm of popular culture.
+9. Conclusion
+Book.io uses Web3 technology to bring reading to the twenty-first century to allow the timeless legacy of literature to continue well into the future.
+It is necessary to right the wrongs that original digital publishing committed out of technological necessity. Centralized systems lead to monopolies and abuses of power, which is the antithesis of what books and education represent.
+Creators should control the books they want to create, and consumers should ultimately control the digital books they purchase. Literature should be preserved and indestructible for the benefit of all future generations.
+Thatâs where Book.io comes in.
+However, this cannot be done alone, but through a community of readers, authors, and publishers who share the Book.io values. To that end, the $BOOK token is designed to incentivize the creation of a circular economy that benefits and encourages the participation of everyone involved.
+Read to Earnâ¢ is a powerful model that aligns the incentives of present-day readers and the demands of the modern world. With this new paradigm, Book.io will turn the page to enter a new chapter that benefits everyone.
+Knowledge should be decentralized and its consumption incentivized. Book.io uses Web3 technology to make books unstoppable, unchangeable, unburnable, and unbannable â the future of books.
+10. Disclaimers
+Book.io (BVI) Inc., (the âCompanyâ) is providing this Whitepaper to the recipient, which also includes, without limitation, any principal, employee or agent of the recipient.
+This Whitepaper provides a summary of the main features of the Company. It contains general advice only and has been prepared without taking into account any participantâs objectives, financial situation or needs. Participants should read the Whitepaper carefully and assess whether the information is appropriate for them in respect of their objectives, financial situation and needs.
+This Whitepaper does not purport to contain all the information that a prospective participant may require. In all cases, interested parties should conduct their own investigation and analysis of the Company and the data contained in this Whitepaper.
+The Company does not make any representation or warranty as to the accuracy or completeness of the information contained in this Whitepaper. Furthermore, the Company shall not have any liability to the recipient or any person resulting from the reliance upon this Whitepaper in making determinations about the Company.
+The Company considers this document non-financial information and anything seeming to relate to any financial information contained in this Whitepaper has been prepared to the best of its reasonable knowledge and ability. However, recipients must rely on their own investigation of all financial information and no representations or warranties are or will be made by the Company as to the accuracy or completeness of such information.
+The Company makes no representation about the underlying value of the tokens. Prospective participants must make their own assessment about whether the price of the tokens being offered represents fair value.
+10.1. Participant Warning
+Participation in a token sale can carry high risks. Before participating in any project about which information is given, prospective participants are strongly advised to seek appropriate professional advice. The information contained in this Whitepaper has been prepared by or on behalf of the Company.
+10.2 Prominent Statements
+The information contained in this Whitepaper about the proposed business opportunity is not intended to be the only information on which a decision is to be made and is not a substitute for a disclosure document, or any other notice that may be required under law. Detailed information may be needed to make a token participation decision.
+Prospective participants should be aware that no established market exists for the trading of any tokens that may be offered.
+10.3 Future Statements
+Except for historical information, there may be matters in this Whitepaper that are forward-looking statements. Such statements are only predictions and are subject to inherent risks and uncertainty. Forward-looking statements, which are based on assumptions and estimates and describe the Companyâs future plans, strategies, and expectations are generally identifiable by the use of the words âanticipateâ, âbelieveâ, âestimateâ, âplanâ, âexpectâ, âintendâ, âseekâ, or similar expressions. Participants are cautioned not to place undue reliance on forward-looking statements. By its nature, forward-looking information involves assumptions, inherent risks and uncertainties both general and specific that contribute to the possibility those predictions, forecasts, projections and other forward-looking statements will not occur. Those risks and uncertainties include factors and risks specific to the industry in which the Company operates as well as general economic conditions. Actual performance or events may be materially different from those expressed or implied in those statements.
+All forward-looking statements attributable to the Company or persons acting on behalf of the Company are expressly qualified in their entirety by the cautionary statements in this section. Except as expressly required by law, the Company undertakes no obligation to publicly update or revise any forward-looking statements provided in this Whitepaper whether as a result of new information, future events or otherwise, or the risks affecting this information.
+None of the Company, its officers or any person named in this Whitepaper with their consent, or any person involved in the preparation of this Whitepaper, makes any representation or warranty (express or implied) as to the accuracy or likelihood of fulfillment of any forward-looking statement except to the extent required by law. The forward-looking statements reflect the views held only as at the date of this Whitepaper.
+10.4 Value Risks
+Tokens issued by the Company may drop substantially in value, or may remain illiquid for long periods of time or indefinitely. The Company cannot guarantee an active secondary market for the exchange of tokens purchased in the token sale. Not all disclosures or statements are being made in this disclaimer section. Participants should seek the professional advice of legal counsel and investment professionals.
+$BOOK tokens may change in value based on a number of factors that are outside Book.ioâs control. There is no guarantee or expectation that $BOOK tokens will increase in value, provide a return, or have sufficient adoption and liquidity on exchanges. Owning these tokens does not constitute a share of equity or ownership in the company. The token economy is new and exciting. Regulatory circumstances may require that token mechanics be changed or altered. $BOOK tokens may have no value. The company reserves the right to refuse or cancel token purchase requests at any time at its sole discretion.
+--
+--
+2
+Follow
+Written by 
+BOOK.io
+208 Followers
+BOOK.io
+ is a Web3 marketplace for buying, reading, selling & trading eBooks and Audiobooks.
+Follow
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

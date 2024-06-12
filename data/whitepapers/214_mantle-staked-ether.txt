@@ -74,6 +74,40 @@ Leverages Mantle core contributor engineering and growth capabilities.
 Adheres to Mantle Governance process.
 Access to Mantle Treasury resources.
 Product Information
+Item
+Description
+Official Front End
+Landing Page: 
+https://mantle.xyz/meth
+Staking App:  
+https://meth.mantle.xyz/stake
+Staking Contract (L1)
+0xe3cBd06D7dadB3F4e6557bAb7EdD924CD1489E8f
+mETH token address (L1)
+0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa
+
+Value accumulating, ERC-20
+mETH token address (L2)
+0xcDA86A272531e8640cD7F1a92c01839911B90bb0
+
+
+Value accumulating, ERC-20
+APY
+https://meth.mantle.xyz/stats/apy
+Mantle LSP Fee
+10% of rewards.
+A portion is shared with the Node Operators
+Node Operators
+Blockdaemon
+, 
+P2P
+, 
+A41
+, 
+Stake Fish
+Oracles
+Quorum required: 3 of 6
+Update frequency: 8 hours
 End Users
 Primary Market: Staking and Unstaking
 Stake ETH to instantly receive mETH.
@@ -123,40 +157,6 @@ Architecture
 Last updated 
 4 months ago
 On this page
-Item
-Description
-Official Front End
-Landing Page: 
-https://mantle.xyz/meth
-Staking App:  
-https://meth.mantle.xyz/stake
-Staking Contract (L1)
-0xe3cBd06D7dadB3F4e6557bAb7EdD924CD1489E8f
-mETH token address (L1)
-0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa
-
-Value accumulating, ERC-20
-mETH token address (L2)
-0xcDA86A272531e8640cD7F1a92c01839911B90bb0
-
-
-Value accumulating, ERC-20
-APY
-https://meth.mantle.xyz/stats/apy
-Mantle LSP Fee
-10% of rewards.
-A portion is shared with the Node Operators
-Node Operators
-Blockdaemon
-, 
-P2P
-, 
-A41
-, 
-Stake Fish
-Oracles
-Quorum required: 3 of 6
-Update frequency: 8 hours
 Description
 Features
 Product Information

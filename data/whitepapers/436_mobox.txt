@@ -54,6 +54,14 @@ Introduction
 MOBOX is the leading web3 gaming platform featuring the co-created and co-governed open world economy. As a community-driven platform, MOBOX revolutionizes gaming through user-generated content and decentralized governance. MOBOX was listed through Binance Launchpool in 2021.
 Mobox is committed to realizing the dream we've nurtured since day one, transforming the onchain gaming landscape and revolutionize how players interact within the world.
 Communities
+Official Links
+Contract Address   
+Next
+Abstract
+Last updated 
+2 months ago
+On this page
+Was this helpful?
 Community Region
 Link
 Mobox Official Discord
@@ -64,7 +72,6 @@ Mobox Russian Telegram
 https://t.me/Mobox_RUS
 Mobox Chinese / Singapore Telegram
 https://t.me/Mobox_CN
-Official Links
 Officials
 Links
 Official Website
@@ -91,7 +98,6 @@ MBOX Pool
 pancakeswap.info/pool/0x8FA59693458289914dB0097F5F366d771B7a7C3F
 MBOX Token
 bscscan.com/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377
-Contract Address   
 Contract
 Address
 MoboxMainPool
@@ -114,13 +120,7 @@ GemTrading
 0x819e97C7Da2C784403B790121304DB9E6a038dE9
 MEC
 0x98387108842a7CfC7bA23E080030351f6ea68ac0
-Next
-Abstract
-Last updated 
-2 months ago
-On this page
 Introduction
 Communities
 Official Links
 Contract Address   
-Was this helpful?

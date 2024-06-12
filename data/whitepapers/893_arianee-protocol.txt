@@ -1,0 +1,498 @@
+Introduction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Content
+Buy $ARIA20
+NMP Documentation
+Arianee Dashboard
+Home
+Documentation
+Recipes
+Q&A
+v1.0
+v2.0
+v2.1
+v2.2
+Buy $ARIA20
+NMP Documentation
+Arianee Dashboard
+Log In
+Log In
+v
+2.2
+Home
+Documentation
+Recipes
+Q&A
+Loadingâ¦
+Search
+ð§âð» Introduction
+Arianee Protocol
+ð Getting Started
+Build Wallet
+Display NFT
+ð¥ï¸ concepts & features
+Arianee Economy - $ARIA20
+Decentralized Platform
+Features Flexibility & Compliance
+Builders Features
+Identity Registration
+Staking Policy
+Mint NFT
+Mint Soulbound NFT
+Transfer NFT
+Update NFT
+Prove Ownership
+Send Message to NFT
+Link Event to NFT
+End-users Experience
+Read NFT History
+Arianee Access Token
+Arianee Privacy Gateway
+Full Privacy
+ð¦ Arianee SDK
+Introduction
+Wallet - Build Wallet
+Create Wallet
+Fetch Identity
+Manage NFT
+Manage Message
+Manage Arianee Events
+Events Listener
+Creator - Mint on Blockchain
+Economy
+Create & Manage NFT
+Create & Manage Message
+Create & Manage Arianee Events
+Declare as Missing or Stolen
+Toolbox
+Core Library
+ð§² Transfer Permit
+Introduction
+Token Provider
+Service Provider
+ð§¬ BLOCKCHAINs
+Blockchains list
+ð Standards
+Introduction
+Links
+Identity Schema
+NFT Schema
+Product Transparency
+Message Schema
+Event Schema
+ð OWNERSHIP ACCOUNT
+Ownership Account Web App
+ð External Ressources
+Arianee Master repo
+Arianee RPC Server repo
+Arianee RPC Server npm
+Arianee SDK repo
+Wallet API repo
+ð HELP
+FAQ
+Glossary
+Community
+Report Issue
+Powered byÂ 
+Introduction
+Suggest Edits
+What is the Transfer Permit?
+
+
+The Transfer Permit for the Arianee protocol is a solution designed as a token, a Smart Asset Sharing Token (
+SST
+), to facilitate connectivity between Arianee protocol features and third-party entities like resellers and marketplaces. In situations where a third party needs access to a digital product passport's content and the ability to transfer it without ownership, as seen in marketplaces, the Arianee protocol's transfer permit is a valuable tool.
+
+
+ð¡
+Arianee has developed the transfer permit, inspired by Uniswap's Permis2 & Universal Router technologies.
+
+
+For instance, when a product owner wishes to resell a watch and transfer the associated digital product passport on a given marketplace, the transfer permet ensures smooth asset transfer to the buyer post-sale. 
+
+
+To enhance interoperability, we present a standardized solution that minimizes development efforts for all stakeholders and prioritizes a straightforward user experience with minimal interaction. The Arianee protocol's transfer permit provides an efficient and user-friendly approach to smart asset sharing in diverse ecosystems.
+
+
+SST
+ Example:
+
+
+SST
+Decoded SST
+{
+  "sst": "eyJ0eXAiOiJKV1QiLCJhbGciOiJzZWNwMjU2azEifQ==.eyJpc3MiOiIweDRmZWJiYTMzNDE1YWI0MTI1NmNiYzk4MWMxNzgyOTdmOTI2YTY0OTAiLCJzdWIiOiJjZXJ0aWZpY2F0ZSIsImV4cCI6MTcwMzA5NDU0ODU5MywiaWF0IjoxNzAzMDk0MjQ4NTkzLCJzdWJJZCI6MzM0OTExNzQsIm5ldHdvcmsiOiJ0ZXN0bmV0IiwicGVybWl0Ijp7InBlcm1pdHRlZCI6eyJ0b2tlbiI6IjB4NTEyQzFGQ0Y0MDExMzM2ODBmMzczYTM4NkYzZjc1MmI5ODA3MEJDNSIsInRva2VuSWQiOjMzNDkxMTc0fSwic3BlbmRlciI6IjB4NGZlYmJhMzM0MTVhYjQxMjU2Y2JjOTgxYzE3ODI5N2Y5MjZhNjQ5MCIsIm5vbmNlIjoyMjYxOTAsImRlYWRsaW5lIjoxNzA1Njg2MjQ3fSwicGVybWl0U2lnIjoiMHg3MjQ5NTkwOGExYWE2NDU0MzkzMGNhMGZkNzI0Njk1YzFhNjJhNDQ5ZGQxM2RjYmNhYWFiMmQyN2I4OWI3ZjQ0NjY5NzhkYTg1MTY4MzY4OTJjY2YzOTg3MzAxMDljZDY1ODEzZWQyY2U2NTc3MTRjN2IzMmU2M2RmNGY1OGY2NTFiIn0=.0x8c548d82647d57a945be1f4d1c1a01e16420daa52576a550fdbf2933e59ce43f6283d2fca0ac1de2bd8f3716e15a6b55a20a1d2a4bf40820245a61eb8b8ce2..."
+}
+
+{
+"iss": "9ÃD75f916003D53ACf804949ead52661a28868bcCE",
+"sub": "certificate",
+"exp": 1704278408255,
+"lat": 1704278108255,
+"subId": 467440080,
+"network": "testnet",
+"permit": {
+	"permitted": {
+	"token":"0Ã512C1FCF401133680373a386F3752b98070BC5",
+	"tokenId": 467440080
+}, 
+"spender": "0x8Ce250a8D46E8f961C832908c9E604FE9Eb7952B",
+"nonce": 311462,
+"deadline": 1706870108
+},
+	"permitSig":"0x02ebe74718f4438ba289ec847644a3d48751689d9600d65271cfe181078bcacd2d3a86870b25208b1a2d15b21fd1d874e995ce18083911e814852375deaf7a041b"
+}
+
+
+
+
+How does the transfer permit work?
+
+
+
+
+
+
+The brand website generates on-chain a 
+SST
+. Subsequently, the website redirects the user to the service provider's website, conveying the SST as a URL parameter.
+
+
+Upon redirection, the service provider's website extracts the SST from the URL, conducts a validity verification and stores the SST as received. The SST verification checks if the third party has the right to fetch the digital passport and its associated content. 
+
+
+The service provider initiates the retrieval of the digital product passport's content using the SST.
+
+
+The user is then presented with the service interface, providing visibility into the digital product passport's content.
+
+
+Over time, the service provider gains the capability to transfer the digital product passport to a designated address.
+
+
+Additionally, the service provider performs periodic checks to validate the SST, taking necessary actions if the SST is no longer valid, and ensuring the integrity of the transfer permit process.
+
+
+
+
+ð
+To allow this process, Arianee has designed and integrated two packages to our Arianee SDK: 
+
+
+token-provider
+ - Digital passport issuer: Generate an SST. 
+
+
+service-provider
+ - Third-party entity: Operate a Digital Product Passport transfer.
+
+
+Updated
+ 
+4 months ago
+ 
+Table of Contents
+
+
+What is the Transfer Permit?
+
+
+How does the transfer permit work?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

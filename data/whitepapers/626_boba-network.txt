@@ -1,0 +1,218 @@
+Welcome to Boba | Boba Developer Docs
+Boba Developer Docs
+ 
+Telegram Support
+ 
+Discord Support
+ 
+GitHub
+ 
+Block Explorer
+Ask or Search
+Ctrl
+â+âK
+Welcome to Boba
+FAQ
+User Docs
+How To use Boba's services
+Fraud Detection
+Welcome to Hybrid Compute
+Hybrid Compute 101
+Implementation
+Wizard
+Examples
+Monster Minting
+KYC
+API Endpoints
+Developer Docs
+Development Stack
+Fees
+xDomain Transaction Status
+Exchange Integration
+Token Addresses
+Faucets
+Node Operators
+Overview
+Run a Node With Docker
+Run a Node From Source
+Snapshot downloads
+Software release
+Replica node (Legacy)
+Oracles
+Introduction to DIA Oracles
+Introduction to SupraOracles
+Indexer
+Subquery Indexer
+Boba Basics
+Testnet faucets for developers
+Basic Operations
+JSON-RPC API
+Token Bridging
+Using the Standard Token Bridge
+Using the LightBridge
+Using the BOBA Token Bridge Between L1s
+Verifying Contracts
+Adding a new ERC20 to Boba
+Contract Deployment Example
+Features
+Account Abstraction
+Bundler SDK
+Bundler API
+Bundler Config
+Contract Addresses
+Account Abstraction Paymasters
+Hybrid Compute
+ERC1155 NFT Bridging
+ERC721 NFT Bridging
+Debugging with Tenderly
+Using The Graph
+Price Oracles
+Dual fee system
+Transaction Builder
+Multichain
+Contract Addresses Boba/Ethereum
+Contract Addresses Boba/BNB
+Powered by GitBook
+Welcome to Boba
+This is the primary place where 
+Boba
+ works on the Boba L2, a compute-focused L2. Fundamentally, Ethereum is a distributed computer. We believe that L2s can play a unique role in augmenting the base 
+compute
+ capabilities of the Ethereum ecosystem. You can learn more about Turing hybrid compute 
+here
+.
+Boba is built on the Optimistic Rollup developed by 
+Optimism
+. In addition to the native features of Optimism like bridging ETH and other tokens (including NFTs), Boba extends Optimism with compatible extensions including 
+Hybrid Compute
+ and 
+Boba as a Fee Token
+. Boba is organized as a 
+DAO
+.
+User focused documentation is available 
+here on the Boba docs website
+. If you have questions or feel like something is missing check out our 
+Discord server
+ where we are actively responding, or 
+open an issue
+ in the GitHub repo for this site.
+Direct Support
+Telegram for Developers
+
+
+Project Telegram
+
+
+Discord
+The basic directory structure is laid out 
+in the repository README.md
+.
+Additionally, you will find specific Boba directories for:
+boba-bindings
+: Go Bindings for the rollup smart contracts, including additional Boba contracts (like the DAO and the Boba Token).
+boba-chain-ops
+: Tooling created to migrate the state of the original Boba network to Boba Anchorage.
+boba-community
+: Easy to use docker-compose environments to execute a Boba replica.
+Follow these instructions to set up your local development environment.
+Dependencies
+You'll need the following:
+Git
+NodeJS
+Make
+pnpm
+Docker
+Docker Compose
+Note: this is only relevant to developers who wish to work on Boba core services. For most test uses, e.g. deploying your contracts, it's simpler to use the RPC provider at https://sepolia.boba.network
+.
+Clone the repository, open it, and build with 
+make
+:
+Copy
+$
+ 
+git
+ 
+clone
+ 
+https://github.com/bobanetwork/boba.git
+
+
+$
+ 
+cd
+ 
+boba
+
+
+$
+ 
+make
+Then, make sure you have Docker installed 
+and make sure Docker is running
+. Finally, build and run the entire stack:
+Copy
+$
+ 
+make
+ 
+devnet-up
+Stack spinup can take 15 minutes or more. There are many interdependent services to bring up with multiple sets of contract deployment and initialization. More CPU cores and larger allocated RAM will help the process proceed more quickly.
+Once the stack is up, you can verify its functionality with:
+Copy
+make devnet-test
+Running out of space on your Docker, or having other having hard to debug issues
+? Try running 
+docker system prune -a --volumes
+ and then rebuild the images.
+To (re)build services
+: 
+make devnet-clean && make devnet-up
+To run unit tests for a specific package:
+Copy
+cd
+ 
+packages/package-to-test
+
+
+make
+ 
+test
+Make sure you are in the 
+op-e2e
+ folder and then run
+Copy
+make
+Even with parallelism enabled, these tests can take 10 or more minutes to execute, depending on the speed of your machine.
+By default, the 
+docker-compose up
+ command will show logs from all services, and that can be hard to filter through. In order to view the logs from a specific service, you can run:
+Copy
+docker-compose
+ 
+logs
+ 
+--follow
+ 
+<
+service
+ 
+nam
+e
+>
+Code in this repository is licensed under the 
+MIT License
+ unless stated otherwise. See specific licensing details for projects outside this repo including 
+op-geth
+ and 
+op-erigon
+ which both contain code under the 
+GNU GPLv3
+ and other licenses.
+Last updated 
+1 month ago
+On this page
+Direct Support
+Dependencies
+Was this helpful?

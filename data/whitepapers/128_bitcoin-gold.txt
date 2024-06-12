@@ -120,8 +120,6 @@
 
 
 
-
-
 Technical Spec Â· BTCGPU/BTCGPU Wiki Â· GitHub
 
 

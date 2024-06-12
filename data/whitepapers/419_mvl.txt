@@ -82,4 +82,4 @@ In the MVL ecosystem, various mobility data are generated in real time. MVL reco
 Next
 TADA Ride-Hailing
 Last updated 
-27 days ago
+29 days ago

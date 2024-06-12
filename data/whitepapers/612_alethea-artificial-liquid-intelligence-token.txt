@@ -1,0 +1,63 @@
+AI Protocol V3 | AI Protocol Whitepaper
+AI Protocol Whitepaper
+Search
+Ctrl
+â+âK
+AI Protocol V3
+Get Started
+Decentralized Applications
+Artificial Liquid Intelligence Agents (ALI Agents)
+The ALI Agent
+The Prime ALI Agent
+Collaborative Creativity
+How To Create An ALI Agent
+ALI Agent Bonding Curve Key Price Formula
+ALI Agent Use Cases
+Intelligence Layer
+How To Create A Hive
+How To Manage A Hive
+Decentralized Inference Clusters
+Decentralized Storage Clusters
+Specialized Functionalities Of A Hive
+Emote Engine
+Protocol Governance
+Asset Layer
+ALI Agent Tokens
+Hive-Native Utility Tokens
+Intelligence Pods
+ARKIVs
+NFTs
+iNFTs
+Smart Contracts Layer
+Documentation
+AI Protocol Smart Contracts
+Settlement Layer
+ALI Utility Token
+Transparency
+ALI Tokenomics
+AI Protocol History
+AI Protocol V0.1
+AI Protocol V1
+AI Protocol V2
+FAQ
+Powered by GitBook
+AI Protocol V3
+The Protocol for Decentralized AI.
+The AI Protocol Gets An Upgrade
+The AI Protocol enables the development of a community-driven, secure, and adaptive, decentralized physical infrastructure (DePIN) for tokenized AI Systems.
+The upgrade to Version 3 of the AI Protocol marks a significant advancement over its predecessors by introducing a range of innovative features including 
+ALI Agents
+, 
+Hives, distributed GPU and Storage Clusters
+, tokenized AI Models and Datasets, and tokens that incorporate non-custodial embedded liquidity. It empowers users with community-driven IPs and enables trustless creative collaboration. These enhancements, along with several other improvements, collectively establish the AI Protocol V3 as the most advanced decentralized AI tech stack in the world.
+This document offers a comprehensive exploration of each layer within the AI Protocolâs tech stack. It aims to provide a clear understanding of how the components and participants of each layer within the tech stack collectively function and collaborate to enhance the efficiency, security, and scalability of the protocol, thus paving the way for groundbreaking advancements in decentralized artificial intelligence.
+Learn more about the AI Protocol
+Next
+Get Started
+Last updated 
+2 months ago
+On this page
+The AI Protocol Gets An Upgrade
+Learn more about the AI Protocol
+aiprotocol.info
+The tech stack of the AI Protocol V3

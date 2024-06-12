@@ -1,0 +1,155 @@
+Introduction | RabbitX
+Search
+Ctrl
+â+âK
+ð
+Introduction
+Get Started
+Roadmap
+Referral Rewards
+Chart Trader
+Index Price
+Funding Rate
+Deposit / Withdrawal
+Fiat Deposits
+Trading Fees
+RabbitX Fusion AMM
+RBX and LP Staking
+Profit / Loss Calculation
+Margin Calculation
+Insurance Fund
+Liquidations
+Liquidity Bootstrapping Program
+RabbitX Quantower
+Frequently Asked Questions
+Token
+Explore $RBX
+Contract Details
+API Documentation
+Introduction
+Generate Your API Keys
+Signing with API Key
+Public Endpoints
+Market Info
+Trades
+Orderbook
+Funding Rate
+Candles
+Private Endpoints
+Account Operations
+Authentication
+Orders
+Fills
+Positions
+Profile
+Balance History
+Deadman Switch
+Websocket
+Trades
+Orderbook
+Market Info
+Account
+Responses Data Structure
+Twitter
+Discord
+Try Testnet
+Apply to become a market maker
+Audit
+Powered by GitBook
+ð
+Introduction
+Where the world comes to trade
+What is Rabbit
+X
+?
+RabbitX is a global permissionless perpetuals and derivatives exchange built for traders. Built with secure multichain aggregated liquidity, RabbitX offers the deepest liquidity for traders with a seamless user experience. Giving you 24/7 access to global crypto markets.
+Combining the most innovative ZK infrastructure with the most powerful risk engine, and beautiful user interface. With Rabbit
+X
+, you can trade 24/7 markets with 20x leverage with the security of Ethereum. Our derivatives DEX is built using state-of-the-art, low-latency 
+ZK-STARK
+ technology atop Ethereum, providing blazing fast speed, peak security, and zero gas fees. 
+Rabbit
+X
+ is rebuilding a better financial system by offering price transparency, instant settlements, and automated clearing for derivatives trading. Rabbit
+X
+ is where the world comes to trade.
+Rabbit
+X
+ provides:
+Milliseconds latency
+Zero gas trading
+20x leverage
+Orderbook liquidity
+24/7 customer support
+Global markets (Stocks, FX, Commodities, Interest Rates coming soon!)
+A trader focused user interface
+In addition to our signature perpetual futures, Rabbit
+X
+ has plans for exotic crypto-native derivatives, interest rates, FX trading, and more in our 
+roadmap
+.
+Our Purpose
+Our purpose is to accelerate the development of a global, open and transparent financial system by providing fair and open access to markets. Our vision is to use technology to create the most robust, secure and liquid global derivatives network.
+Today's financial infrastructure is archaic, expensive and inefficient. Rabbit
+X
+ is building a better way of trading global derivatives by offering price transparency, instant settlements, and automated clearing, secured by the best blockchain technology. 
+Tell your friends, and spread the word. It's time to go down the rabbit hole.
+Our History
+Founded in 2021, RabbitX brought together a seasoned team of skilled builders, accomplished derivatives traders, and billion-dollar portfolio managers. Originally launched as Strips Financeâa decentralized interest rate swaps exchange on Arbitrumâthe team soon expanded its mission and vision and rebranded as RabbitX. The focus shifted from creating solely decentralized interest rate derivatives to building a comprehensive suite of derivatives for every single global asset class. 
+From inception, the RabbitX team has remained dedicated to a first-principles approach in product development, emphasizing a robust risk engine, trader-centric design, and equipping traders with powerful, innovative tools.
+RabbitX is backed by the biggest and most successful investors in the world, including Sequoia Capital US, Peak XV Partners (previously Sequoia India), Multicoin Capital, Crypto.com, OKX Ventures and more.
+Features
+Unparalleled Speed â¡
+You like to live life fast, we do too. That's why we're one of the fastest decentralized exchanges in the world.
+Rabbit
+X
+ is based on a unique hybrid orderbook composition. Rabbit
+X
+ combines the speed and efficiency of an offchain orderbook, with the security of onchain settlements. We are able to achieve milliseconds latency that is up to 
+50x faster 
+than any other onchain derivatives platform. 
+Rabbit
+X
+ is built on Starknet, the highly scalable blockchain based on ZK-rollup technology. Starknet operates as a layer-2 network over Ethereum, enabling any dApp to achieve unlimited scale of computation. On Starknet, it is cryptographically impossible to have fraudulent transactions (not the case with Optimistic Rollups) and the chain inherits the full security of Ethereum layer 1.
+Security ð
+Rabbit
+X
+ is built on the most secure network in crypto, Ethereum. If Ethereum is secure, we are secure. Rabbit
+X
+ transactions are settled on the layer-2 Starknet before being securely broadcasted on layer-1 Ethereum. This enables scaling without any sacrifices to security. Read more about 
+Starknet
+ and 
+ZK-STARK
+ technology. 
+No Front Running ðââï¸
+Rabbit
+X
+ operates independently and is not owned by any market-making firms. Trade with the peace of mind knowing that Rabbit
+X
+ will never front run your orders. 
+Zero Gas Fees 0ï¸â£
+No more gas fees. Our game-changing hybrid exchange enables real-time trading without paying a single dollar in gas fees. Place limit, market and stop orders instantly. 
+Rabbit
+X
+ has one of the most powerful risk engines to protect traders and the exchange from insolvency.
+Notes:
+1. US residents are restricted from using Rabbit
+X
+.
+2. None of this is investment advice.
+Next
+Get Started
+Last updated 
+14 days ago
+On this page
+Risk Management 
+ð
+What is RabbitX?
+Our Purpose
+Our History
+Features
+Unparalleled Speed â¡
+Security ð
+No Front Running ðââï¸
+Zero Gas Fees 0ï¸â£
+Risk Management 

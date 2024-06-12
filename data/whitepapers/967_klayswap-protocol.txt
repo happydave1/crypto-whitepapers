@@ -1,0 +1,135 @@
+Introduction | English | KLAYswap
+KLAYswap
+English
+íêµ­ì´
+English
+ëëì¤ ê°ì´ë
+Search
+Ctrl
+â+âK
+Introduction
+Protocol Overview
+Core Concept
+KLAYswap Advantages
+Risk & Security
+Privacy Policy
+Audit
+TOKENOMICS
+KSP
+KSP TOKENOMICS
+Automation of KSP distribution rate
+Voting policy on passing governance
+KSP distribution ratio reflection policy
+KSP Allocation
+PRODUCT
+SWAP
+Single-side Deposit
+Detailed policy of Single Deposit
+Pair Deposit
+V3 Pair Deposit
+V2 to V3 Migration
+V2 to V3 Migration Guide
+V2 to V3 Migration Policy
+V3 Pair Deposit
+V3 Deposit Guide
+V3 pair Deposit Policy
+V3 to V3 Migration
+V3 to V3 Migration Guide
+V3 to V3 Migration Policy
+V3 Pair Withdraw
+V3 Withdraw Guide
+V3 Withdraw Policy
+Plus Deposit
+Detailed policy of Plus Deposit
+Long/Short Position Deposit
+Open and Close Long/Short Positions
+Open Short Positions
+Open Long Positions
+Remove Long Position
+Remove Short Position
+Position Deposit Details Policy
+KSP Staking & Voting
+Staking, Pool Voting Policy
+Governance
+Governance Voting Policy
+Drops
+Ecopot
+Pool Airdrop
+APR & APY
+TVL
+Pool
+Staking
+Interest rate
+DEVELOPERS
+Contract
+Factory
+Exchange
+PoolVoting
+VotingKSP
+Treasury
+Distribution
+Governor
+SinglePool
+SinglePool Factory
+PlusPool
+PlusPool Factory
+Store
+Utils
+Single/Plus Utils
+Helper
+EcoPotVoting
+EcoPot
+V3
+V3Factory
+V3Pool
+NonfungiblePositionManager
+NonfungibleTokenPositionDescriptor
+V3SwapRouter
+V3Migrator
+V3Estimator
+PositionMigrator
+V3Treasury
+V3AirdropOperator
+UniversalRouter
+Airdrop
+Set Airdrop Operator
+Start Airdrop
+EcoPot
+Set EcoPot
+Start EcoPot
+HOW-TO GUIDES
+KLAYswap Guide
+How to add liquidity on KLAYswap
+[Burrito Wallet] How to deposit assets using mobile devices?
+How to create a liquidity pool on KLAYswap
+How to stake and vote on KLAYswap
+How to deposit assets
+Deposit Klaytn-based assets
+Deposit Ethereum-based assets
+Deposit XRP
+FAQ
+KLAYswap
+Orbit Bridge
+KLAYswap git
+Orbit Bridge git
+KLAYswap audit report
+Powered by GitBook
+Introduction
+Welcome to the KLAYswap documentation! This book covers everything you need to know KLAYswap, from about how to use the AMM protocol, what makes it unique, its token economy, and functions.
+In this documentation, we introduce KLAYswap, the AMM protocol for the Klaytn Network, as well as KLAYswapâs capabilities and governance token, KSP (KLAYswap Protocol).
+The AMM (Automated Market Maker) protocol we are launching is a decisive DEX protocol that has now brought the Decentralized Finance (DeFi) market to the general public. Simply put, AMM is a protocol that supports immediate swapping between tokens by replacing the existing buy/sell orderbook structure with a Liquidity Pools created on- chain by liquidity providers.
+Looking at representative DEX examples like Uniswap, an Ethereum-based AMM protocol currently hosting around $2.7B USD in liquidity pools, it is clear that plentiful liquidity is needed to boost the Decentralized Finance ecosystem as a whole by allowing easy transactions. For this reason, ozys, the developers of KLAYswap, created a high liquidity environment in which assets not only of the Klaytn network but also of other networks, including Ethereum, can enter Klaytn. 
+We even take it a step further than Uniswap by ensuring significant trade volume by using a transparent IBC bridge, ozysâ Orbit Bridge, to offer yield farming with asset pairings previously unconnected in the decentralized world. Weâll touch upon more of that later. Today, we introduce KLAYswap, a DeFi solution that can take advantage of this high liquidity environment.
+KLAYswap awaits your participation
+In KLAYswap, a complete on-chain instant swap protocol, traders can not only experience immediate transactions via liquidity pools, but also develop services by deciding the policy and direction of KLAYswap with the KSP governance token.
+In addition, users can receive various forms of compensation, including transaction fee revenue, for contributing to the growth of the protocol. Various people can participate in the KLAYswap ecosystem, including long-term investors who want to hold cryptocurrency for a long time, investors who want to earn income through commission fees, and miners who want to participate in KLAYswap governance through KSP mining.
+
+For those of you who have wanted to experience DeFi but have had difficulty participating due to its low accessibility and being unfamiliar with how it works, we expect that you will be able to experience and enjoy DeFi easily with the launch of KLAYswap.
+For those of you who are familiar with DeFi, we expect that you will be able to experience a new avenue of growth opportunities, where returns and APY are set with full transparency with Orbit Bridge. With KLAYswap you have the chance to be an initial user, with the initial allocation volume being zero. Everyone has free opportunity to grow. You will be the first users that decide and make the system. 
+We look forward to your participation and look forward to the various DEFi protocols that will be created in the Klaytn network with the start of KLAYswap.
+Next
+Protocol Overview
+Last updated 
+10 months ago
+On this page
+Was this helpful?

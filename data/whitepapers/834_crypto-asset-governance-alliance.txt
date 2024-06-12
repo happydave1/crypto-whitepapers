@@ -1,0 +1,105 @@
+Home | CAGA Whitepaper
+Search
+Ctrl
+â+âK
+Home
+Introduction
+Technical Overview
+CAGA Architecture
+Proof of Authority (PoA) Consensus Mechanism
+Validator System
+Network Efficiency and High Throughput
+EVM Compatible Bridging
+Security and Stability
+Tokenomics and Utility
+Glossary
+Tokenomics
+Smart Contract Addresses
+Token Utility
+Incentivization and Rewards
+Financial Operations
+Payment Mechanism
+Governance
+Accessibility
+Governance and Participation
+Overview of Governance
+Participating in CAGA Governance
+Voting
+Proposals
+Staking and Rewards
+CAGA Staking Essentials
+Why Stake?
+How Staking Works
+Rewards System
+Unstaking
+Liquid Staking Assets
+Features of cgETH and cgCAGA
+Total Value Locked (TVL)
+Ecosystem Development
+Testnet
+Contract Addresses
+Network Switch
+Bitget
+Fearless
+Fox
+imToken
+MetaMask (Auto)
+MetaMask (Manual)
+Connect Wallet
+Faucet
+DEX
+Bridge
+NFT
+FAQs
+Integrations and Applications
+Multichain Wallet
+DEX
+CAGA DEX & The EVM
+Megapool (Coming Soon)
+CAGA Builders Program
+Application Process & Requirements
+Join and Progress
+Join Us
+Become a CAGA Ambassador
+Development Roadmap
+Legal and Compliance
+Disclaimer
+Powered by GitBook
+Welcome to the CAGA Technical Documentation hub! 
+Whether you're a blockchain enthusiast, a developer, or someone new to the world of blockchain, you'll find a treasure trove of resources here to get you started and keep you going.
+CAGA 
+is a high-performance blockchain network engineered for rapid, low-cost transactions, catering specifically to the Web3 ecosystem with advanced features for developers, validators, and end-users.
+Understanding CAGA
+: Unveil the capabilities and design philosophy of the CAGA network that sets the stage for a scalable and user-oriented blockchain experience.
+Technical Architecture
+: Dive into the backbone of CAGAâs innovative blockchain, highlighting our unique Proof of Authority (PoA) mechanism and EVM compatibility.
+CAGA Staking Guide
+: Learn about the staking process on CAGA, from starting your staking journey to understanding the rewards and liquid staking assets.
+CAGA Ecosystem Tools
+: Discover the suite of tools that make up the CAGA ecosystem, including our Multichain Wallet and decentralized exchange (DEX) platform.
+Community and Governance
+: Engage with the CAGA community and participate in governance to help steer the future of the network.
+CAGA Roadmap
+: Stay informed about the future developments and milestones that await on the CAGA network's horizon.
+We understand that building on a new platform can be complex, so while we're still compiling our comprehensive APIs and SDKs, we encourage you to:
+Connect with Our Community
+: Join lively discussions, get support, and share your ideas with fellow CAGA enthusiasts on 
+Telegram
+ or 
+Discord
+.
+Follow Developer Updates
+: Keep up with the latest development news, updates, and upcoming features through our Developer's Handbook.
+Need Further Assistance? We're Here to Help!
+CAGA
+ Â· 
+GitHub Repository
+ Â· 
+Terms of Use
+Last updated 
+1 month ago
+If you have questions that haven't been answered in our documentation, don't hesitate to reach out. You can use the search function at the top of the page for specific queries. Alternatively, you can email us at 
+ or connect with us on 
+Twitter 
+for a more immediate response. We're committed to providing you with all the information you need to make the most out of CAGA.
+technical@cagacrypto.com

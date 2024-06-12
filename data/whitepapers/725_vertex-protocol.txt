@@ -1,0 +1,265 @@
+Overview | Vertex Docs
+Vertex Docs
+Search
+Ctrl
+â+âK
+Getting Started
+ð
+Overview
+ð
+Table of Contents
+ð
+Mission
+âï¸
+Vertex Edge
+1ï¸â£
+Vertex on Arbitrum
+2ï¸â£
+Blitz on Blast
+Blitz Documentation
+3ï¸â£
+Vertex on Mantle
+ð
+Trading Rewards (VRTX & MNT)
+ð
+Perpetual & Spot Market Specifications
+ð¥ï¸
+Open-Source Contracts
+ð
+API
+Basics
+ð½ï¸
+Products
+â¡
+Hybrid Orderbook AMM Design
+ð§µ
+Universal Cross Margin
+â¹ï¸
+Subaccounts, Isolated Margin, and Health
+â°
+Liquidations & Insurance Fund
+ðµ
+PnL Settlements
+ð
+Pricing (Oracles)
+ð°
+Fees
+ð
+Funding Rates
+ð
+Perpetual & Spot Market Specifications
+â¡
+One-Click Trading
+ð«
+Trigger Orders
+Community & Tokenomics
+ð
+VRTX Token Supply Distribution
+ð
+VRTX Tokenomics
+ð°
+Trade & Earn -- Rewards Program
+â
+Trading Rewards - FAQs
+ð§âð¤âð§
+Referral Program (New)
+ðï¸
+The Vertex LBA
+How to Participate in the Vertex LBA
+The VRTX Token Launch
+Stake VRTX
+LBA FAQ
+âï¸
+Resources & Links
+ðª
+Addendum -- Original Tokenomics Draft Revisions
+More
+ð
+Glossary
+ð¬
+Open-Source Contracts & Code Audits
+ð¦
+Bug Bounties
+ð½
+Data Providers & Research Reports
+ðª
+Maintenance Windows & Status
+ð
+Terms of Use
+âï¸
+Statement of Risk
+ð
+Restricted Territory Updates
+ð¸
+Media Kit (Brand Assets)
+Tutorials
+ð
+Quick Start
+ð±ï¸
+One-Click Trading
+âï¸
+Trading Basics
+â¾ï¸
+Perps
+ð®
+Spot
+ð«
+TP/SL & Stop-Market
+ð°
+Deposit & Withdraw
+ð
+Cross-Chain Deposits
+ð
+Borrow & Repay
+â¤ï¸
+Margin Health
+ð§
+Pools
+â¨
+VRTX Staking
+Developer Resources
+API
+Endpoints
+Gateway
+Executes
+Place Order
+Cancel Orders
+Cancel Product Orders
+Cancel And Place
+Withdraw Collateral
+Liquidate Subaccount
+Mint LP
+Burn LP
+Link Signer
+Queries
+Status
+Contracts
+Nonces
+Order
+Orders
+Subaccount Info
+Market Liquidity
+Symbols
+All Products
+Market Prices
+Max Order Size
+Max Withdrawable
+Max LP Mintable
+Fee Rates
+Health Groups
+Linked Signer
+Insurance
+Signing
+Examples
+Q&A
+Subscriptions
+Authentication
+Streams
+Events
+Rate limits
+Archive (indexer)
+Orders
+Matches
+Events
+Summary
+Candlesticks
+Funding Rate
+Interest & funding payments
+Oracle Price
+Perp Prices
+Product Snapshots
+Market Snapshots
+Maker Statistics
+Merkle Proofs
+Rewards
+Referral Code
+Liquidation Feed
+Linked Signer Rate Limit
+Subaccounts
+Signatures
+USDC Price
+Trigger
+Executes
+Place Order
+Cancel Orders
+Cancel Product Orders
+Queries
+List Trigger Orders
+V2
+Assets
+Pairs
+Orderbook
+Tickers
+Contracts
+Trades
+VRTX Token
+Rate limits
+Errors
+Symbols
+Depositing
+Withdrawing (on-chain)
+Integrate via Smart Contracts
+Definitions / Formulas
+Vertex Typescript SDK
+Getting Started
+How To
+Create a Vertex client
+Useful Common Functions
+Query Markets & Products
+Deposit Funds
+Withdraw Funds
+Manage Orders
+User Guide
+Client
+Market
+Place Order
+Cancel Orders
+Cancel Product Orders
+Mint LP
+Burn LP
+Get All Markets
+Get Latest Market Price
+Get Market Liquidity
+Get Open Subaccount orders
+Get Historical Orders
+Get Max Order Size
+Get Max Mint LP
+Get Candlesticks
+Get Funding Rate
+Get Product Snapshots
+Spot
+Approve Allowance
+Deposit
+Withdraw
+Get Max Withdrawable
+Get Token Contract for Product
+Get Token Wallet Balance
+Get Token Allowance
+Perp
+Get prices
+Subaccount
+Link Signer
+Get Subaccount Linked Signer with Rate limits
+Get Subaccount Summary
+Get Subaccount Fee Rates
+Get Subaccount Token Rewards
+Engine Client
+Executes
+Queries
+Indexer Client
+Base Queries
+Paginated Queries
+Websocket
+Executes
+Queries
+Subscriptions
+Utilities
+Contracts
+Utils
+API Reference
+Vertex Python SDK
+Vertex Rust SDK
+Contracts
+API/SDK Terms of Use
+Powered by GitBook
+ 

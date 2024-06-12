@@ -21,6 +21,7 @@ Warp
 Policy
 Wallet
 MBX STATION
+ðgMBXL Token
 MBX STATION BETA
 Exchange
 DeFi
@@ -58,6 +59,7 @@ The King of Fighters ARENA
 Meta World: My City
 ðPOCKETGIRLS: IDLE RPG
 In-Game Tokenomics
+ð
 World Fighting Championship
 Stella Fantasy (Upcoming)
 Explorer Service
@@ -108,5 +110,5 @@ In order to help all ecosystem members participate in activities and utilize its
 Next
 Direction of MARBLEX Ecosystem
 Last updated 
-5 months ago
+6 months ago
 On this page

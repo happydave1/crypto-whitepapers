@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <base target="_blank" />
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="title"
+      description="Zano. Blockchain privacy for mass adoption"
+    />
+    <meta
+      name="description"
+      content=" Zano is an open-source cryptocurrency and ecosystem with enterprise-grade privacy, security, and scalability"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://zano.org/" />
+    <meta
+      property="og:title"
+      content="Zano. Blockchain privacy for mass adoption"
+    />
+    <meta
+      property="og:description"
+      content="Zano is an open-source cryptocurrency and ecosystem with enterprise-grade privacy, security, and scalability"
+    />
+    <meta property="og:image" content="zano-social.png" />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://zano.org/" />
+    <meta
+      property="twitter:title"
+      content="Zano. Blockchain privacy for mass adoption"
+    />
+    <meta
+      property="twitter:description"
+      content="Zano is an open-source cryptocurrency and ecosystem with enterprise-grade privacy, security, and scalability"
+    />
+    <meta property="twitter:image" content="zano-social.png" />
+    <title>Blockchain privacy for mass adoption</title>
+    <script type="module" crossorigin src="/assets/index-22b9b8a8.js"></script>
+    <link rel="stylesheet" href="/assets/index-22a58ed3.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+  </body>
+</html>

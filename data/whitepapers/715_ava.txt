@@ -1,0 +1,1444 @@
+
+
+
+
+
+
+
+
+
+
+
+
+AVA 2.0 Whitepaper – AVA Foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+Toggle Navigation
+HOME
+COMMUNITY VOTE
+TERMS OF USE
+PRIVACY POLICY
+NEWS
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVA 2.0 Whitepaper
+
+
+
+
+
+
+Home
+AVA 2.0 Whitepaper
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVA: The Loyalty Program Token
+Abstract
+
+
+The AVA utility token, developed by the AVA Foundation, embodies the concept of customer loyalty programs using blockchain technology to extend the applications of loyalty programs beyond that which can be achieved with traditional models.
+
+
+Primarily, AVA functions as the key to accessing the AVA Smart Program, a web3 loyalty program that provides use cases to end users, such as loyalty rewards, discounts, gated access benefits, AVA bonuses and more. The token is also used as a payment alternative for purchasing goods and services on partner platforms and as a governance tool for the AVA community.
+
+
+The overarching mission of the AVA Foundation is to create a decentralised, self-sufficient, and interconnected blockchain-based loyalty ecosystem with AVA at its core. The AVA Foundation aims to realise this mission by introducing the AVA Smart Program to partner projects in a cost-effective manner via a plug-and-play approach that provides participants with significantly greater utility, transparency, and autonomy over their rewards.
+
+
+This approach cultivates an accessible and more frictionless experience by enabling users to benefit from a range of partner projects via a single loyalty program ecosystem, thus generating more use cases, bringing communities together, and amplifying the reach of the AVA token.
+
+
+This whitepaper serves to detail the utility of AVA from a user perspective as well as the advantages of the AVA Smart Program for partners seeking to be part of an interconnected, blockchain-based loyalty ecosystem.
+
+
+Disclaimer
+
+
+This whitepaper sets out the current and future developments of the AVA utility token. The information contained in this whitepaper has not been approved by any regulatory authority and may be amended, updated, or otherwise modified at any time. Any part of this whitepaper may also be amended at any time with or without notice by AVA Foundation to be compliant with any changes to the regulatory landscape which affects the AVA utility token.
+ 
+In publishing this whitepaper, the AVA Foundation, its related bodies corporate, its directors, staff and any other contributors make no warranties or representations of any kind, including with respect to successfully achieving the development or implementation of the technologies, innovations, or any other activities noted in this whitepaper, and to the maximum extent permitted by law, any representation or warranties implied by law or otherwise are hereby disclaimed. Further, you acknowledge that circumstances may change and this whitepaper may become outdated as a result and AVA Foundation is under no obligation to update or correct this whitepaper in connection therewith.
+
+
+The functionality of the blockchain protocols on which AVA is issued falls under the control of third parties, and the parties operating these respective protocols are responsible for any malfunction or adverse changes to these protocols which may negatively affect AVA. Other risks, such as majority mining power attacks, double-spend attacks, or changes in protocol functions or computing may compromise the security and usability of these protocols and, by extension, the security and usability of AVA.
+
+
+This whitepaper and the AVA utility token is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any state, country or jurisdiction where such distribution, publication, availability or use would be contrary to corresponding laws or regulations. This whitepaper is intended for general informational purposes only and is not a prospectus or offer document of any kind, and is not intended to constitute an offer of securities or a solicitation for investment in securities in any jurisdiction. The content contained in this whitepaper should not be interpreted as professional financial, tax, legal, or business advice, nor as a provision for any type of advice. You agree to consult your own legal, financial, tax or other professional advisor/s before engaging in any activity in connection herewith.
+
+
+To the maximum extent permitted by law, AVA Foundation and AVA ecosystem partners, their affiliates, directors, employees, contractors, advisors and/or contributors who contribute in any manner shall not be liable for any direct, indirect, special, incidental, consequential and/or other damage or losses of any kind which you may suffer in connection with this whitepaper or your reliance on it.
+
+
+By participating in the AVA ecosystem (which includes but is not limited to buying, selling, owning, possessing, holding, and using the AVA token in any way), the participant acknowledges that they have read and understood this disclaimer and agree to be bound by the terms of this disclaimer.
+
+
+1. Introduction
+The AVA utility token is specifically designed to: (1) power the AVA Smart Program, (2) offer payment alternatives on partner platforms, and (3) provide governance options for the community.
+
+
+(1) AVA powers the AVA Smart Program via a combination of use cases, including using AVA to receive perksâsuch as discounts, memberships, exclusive benefits, and early accessâand as a rewards token to offer AVA through givebacks, bonuses, and more. Projects seeking to leverage the existing user base of over 6,000 AVA Smart Program members can collaborate with the AVA Foundation to introduce an engaged community to the partnerâs products and services by offering benefits to AVA Smart Program members.
+
+
+(2) In addition to the tokenâs loyalty reward capabilities, AVA is available as a payment option on various platforms, enabling loyalty program participants to seamlessly utilise AVA for partner goods and services, whether earned as rewards via the AVA Smart Program or acquired independently. This creates an open loyalty economy rather than a closed oneâas is the case for most traditional loyalty programsâby providing token holders with the freedom to use AVA on the same platform where the rewards were earned and on other platforms that utilise AVA.
+
+
+(3) Finally, AVA can be used as a governance tool for the AVA community, with the number of AVA held by a community member representing their voting weight. By enabling loyalty program participants to vote on (and eventually submit) proposals relating to the AVA ecosystem, this function can help determine community sentiment about topics requiring wider input.
+
+
+Each of these sections warrants further elaboration, which are expanded on throughout this whitepaper.
+
+
+2. Loyalty
+Traditional loyalty program models are restrictive, opaque, and at risk of devaluation over time. Blockchain technology is equipped to significantly improve the loyalty program experience by offering rewards with real market value that can be used across multiple platforms with enhanced transparency and without susceptibility to arbitrarily enforced devaluation.
+
+
+The AVA Smart Program establishes a blockchain-based loyalty program model that is underpinned by the AVA token. As part of its expansion, the AVA Smart Program will be accessible by both crypto native and non-crypto native projects as an open-source loyalty program, enabling members to benefit from use cases on partner platforms (see section 2.4: AVA Open Loyalty Protocol for more information).
+
+
+Within the AVA Smart Program, the AVA token functions (1) as a means of accessing the AVA Smart Program itself via a lock-up mechanism to progress through status tiers, and (2) as a reward incentive, including givebacks, status bonuses, special offers when paying in AVA, and more.
+
+
+Travel Tiger utility NFTs are an additional factor within the AVA Smart Program which unlock the highest membership tier when paired with the required AVA lock-up amount (which may change from time to time). The Travel Tiger NFT collection was originally released in February 2022 on the Ethereum blockchain.
+
+
+By offering a suite of loyalty functions that can be customised and refined beyond that which is available via traditional loyalty program models, AVA aims to extend the value proposition of projects, increase customer retention and loyalty, and create an interconnected rewards ecosystem between all partner platforms.
+
+
+2.1 AVA as Access
+AVA functions as a means to access the AVA Smart Program membership by requiring specific amounts of AVA to be locked up. It is important to note that locking up AVA does not result in a membership being purchased; rather, the tokens can subsequently be unlocked and used for other purposes should the user wish to deactivate their loyalty program membership.
+
+
+The amount of AVA required depends on the membership tier desired by the user. Members can advance through status tiers and increase the rewards they earn by locking up the amount of AVA required for the membership tier at the time of the membership activation.
+
+
+2.2 AVA as Rewards
+AVAâs primary use case is as a loyalty rewards token, which incentivises customer loyalty in various ways. Some use cases may be similar to traditional loyalty programs, while others are more novel in their design. Some of the ways in which AVA has been implemented in the AVA Smart Program include:
+
+
+
+
+Givebacks:
+ similar to the concept of cashbacks, AVA givebacks enable users to receive a percentage of their purchases on partner platforms back in the form of the AVA token. This percentage can increase with higher status tiers.
+
+
+Status bonuses:
+ status bonuses can provide a regular percentage bonus in the AVA token based on a userâs status tier calculated on their locked AVA amount.
+
+
+Payment offers:
+ discounts can be offered to users when they opt to make a purchase on a partner platform with AVA, encouraging users to utilise their rewards for more purchases.
+
+
+Exclusive deals:
+ partner platforms can provide AVA Smart Program members with access to exclusive member-only deals, which may be only purchasable with AVA or in conjunction with other payment methods.
+
+
+
+
+AVA incentives can also be offered to users who perform ancillary tasks that may not necessarily require an AVA Smart Program membership but serve to stimulate interest in AVA or assist partner platforms with marketing. These ancillary tasks can encourage new members to join the AVA Smart Program or provide existing loyalty program participants with more ways to accumulate AVA. This can be done by:
+
+
+
+
+Interacting with educational materials:
+ incentivising users to learn about projects (particularly web3 projects with novel mechanics) and build a loyal audience that actively engages with the brand and passes on their knowledge to new users through community channels.
+
+
+
+
+
+
+Network contributions:
+ partner projects, especially those that operate under a decentralised model, can reward users who interact with or contribute to the partner platform, whether it be by managing communities, reporting/resolving bugs or issues, or driving traffic to the platform.
+
+
+Contributor tasks:
+ leveraging a dedicated user base to build brand awareness across multiple channels, with potential angles including social media tasks, purchases, user acquisition, or affiliate marketing.
+
+
+
+
+2.3 Non-Fungible Tokens (NFTs)
+Integrating NFTs into loyalty programs offers a further way to enhance customer engagement and loyalty. NFTs can provide a dynamic element to loyalty programs, granting customers additional perks, privileged access, and a more personalised experience. There are two primary ways that NFTs can be incorporated into loyalty programs: as a means of access or as rewards.
+
+
+2.3.1 NFTs as Access
+The AVA Foundation launched the Travel Tiger NFTs, a collection of Ethereum-based utility NFTs, to function as access to the Smart Diamond tierâthe highest status tier of the AVA Smart Program. These NFTs are stored in a userâs self-custody wallet and can be connected to a userâs account on a participating partner platform to unlock benefits and perks unique to the Smart Diamond tier.
+
+
+The perks offered depend on each individual partner project. For example, the benefits may include upsized discounts and givebacks, entry into giveaways, early access to new products or services, limited edition merchandise, and other benefits that enhance the customer experience.
+
+
+One such unique example is the Ambassador Bonus, available exclusively to Smart Diamond members of the AVA Smart Program in conjunction with the Travala.com platform. This enables members to receive rewards in Travel Credits, which can be used on flights, hotels, and activities on the platform. These Travel Credit rewards can be earned by participating in Contributor Tasks that are announced at the beginning of every quarter, which typically involve completing social media tasks that raise the awareness of the AVA ecosystem, Travel Tigers, and/or partner platform ecosystem.
+
+
+This approach adds an element of gamification to loyalty programs, with users incentivised to collect and trade these loyalty NFTs to unlock better benefits, leading to a sense of community. Depending on the partner platform, users can acquire multiple Travel Tiger NFTs to increase the benefits they derive from ownership.
+
+
+The existence of a secondary market for these loyalty NFTs also enables them to be resold, allowing members to freely join and exit their loyalty membership as desired, effectively creating an ecosystem of transferable memberships.
+
+
+2.3.2 NFTs as Rewards
+In addition to offering AVA as loyalty rewards, partner projects can also integrate NFTs independent of the Travel Tiger NFT as part of their loyalty program strategy to represent redeemable perks, exclusive milestone achievements, and other project-specific rewards or recognitions.
+
+
+Rewarding users with NFTs can provide unique value to customers by employing gamification elements, such as competition (e.g. NFT giveaways or NFT rewards for completing tasks), commemoration (e.g. receiving NFTs for certain in-platform behaviours), and collectability (e.g. limited run of NFTs or one-off pieces for special occasions).
+
+
+These can be developed as either tradeable or untradeable NFTs (or a combination of both), depending on each projectâs objectives. Projects may elect to utilise tradeable NFTs as rewards to provide secondary market opportunities, attract the interest of users outside of the existing ecosystem, and to potentially expand the utility of their NFTs beyond the loyalty program.
+
+
+In contrast, projects may choose to implement untradeable NFTs to maintain greater control over how their NFTs can be used, improve customer loyalty by offering NFTs that can be used exclusively within that particular loyalty program, and more easily refine the customer experience for NFT holders.
+
+
+2.4 AVA Open Loyalty Protocol
+The AVA Open Loyalty Protocol will bring together the various loyalty features covered in this section to create an interconnected loyalty ecosystem, the core objective of the AVA Foundation. This model will enable a smart contract-based AVA Smart Program to function as the bridge between communities by seamlessly connecting partner projects with AVA Smart Program members using web3 wallets.
+
+
+Members will be able to access the smart contract-based AVA Smart Program on participating platforms via their self-custody wallets, such as MetaMask or WalletConnect, and their membership will be tied to their wallets (as opposed to an email-based membership account on web2 platforms).
+
+
+Since the smart contract-based AVA Smart Program will be equally accessible via partner platforms as well as the AVA Foundationâs website, AVA Smart Program members will be able to utilise a single membership across web3 platforms and receive unique perks and benefits offered by partner projects.
+
+
+The smart contract-based AVA Smart Program will function in parallel with the existing AVA Smart Program available on partner platforms, providing a decentralised alternative for users to engage with the AVA Smart Program. Users will be able to receive the same benefits on each partner platform regardless of which option they choose, with the difference being the custody type and the ability to seamlessly connect with other platforms in the ecosystem that utilise the AVA Smart Program.
+
+
+By integrating the smart contract-based AVA Smart Program, partner projects will be able to instantly amplify their services to an engaged set of web3 users by offering ongoing perks or limited-time incentives either in the AVA token, in another cryptocurrency, by way of exclusive access to certain in-platform benefits, or in other customisable manners that benefit members.
+
+
+This will create an open loyalty ecosystem, with users able to freely connect to web3 applications and use AVA tokens received as rewards on one platform to make purchases on another platform without requiring the tokens to be transferred between multiple wallets.
+
+
+The AVA Open Loyalty Protocol will therefore serve to improve the efficiency of the AVA Smart Program, optimise costs for members by reducing the need for cross-platform transactions, improve user security by virtue of a self-custody model, and increase versatility by creating more use cases via partner projects.
+
+
+2.5 Loyalty Program Case Study
+The AVA Smart Program is already available on 
+Travala.com
+, a crypto-native travel booking platform which is a participant in the AVA ecosystem. Members of the AVA Smart Program can receive discounts of up to 5%, up to 10% in AVA givebacks, and additional perks when booking travel, as well as up to an additional 3% discount when paying for their booking in full with AVA.
+
+
+AVA rewards can be used to make future travel bookings, upgrade membership tiers, or purchase travel credits or gift cards on Travala.com. By locking AVA into the AVA Smart Program tier of choice for a minimum of 30 days, members are eligible to receive the benefits corresponding to that membership tier.
+
+
+The AVA Smart Program currently has seven status tiers. The entry-level tier, Smart Basic, is free to access via the AVA Smart Program available on the platform directly (note: not via the smart contract-based AVA Smart Program) and provides users with up to a 2% AVA giveback on travel bookings and an AVA payment discount of up to 3%.
+
+
+To utilise the benefits of the highest reward tier, Smart Diamond, on Travala.com, AVA is required to be locked up and a Travel Tiger NFT must be present in a digital wallet owned by the account holder. This tier offers members several travel-specific benefits which are exclusive to that tier, including the ability to participate in the Ambassador Bonus by completing tasks to earn credits that can be used on travel, gain entry into travel giveaways, receive airport lounge access, and more.
+
+
+The current benefits of each status tier as they apply on Travala.com can be found on 
+this page
+.
+
+
+2.6 Loyalty Program Management
+All AVA-based loyalty programs are sponsored by the AVA Foundation and integrated into the online platforms and/or mobile applications of partner projects for the benefit of their customers.Â 
+
+
+The AVA Foundation is the developer of the AVA Smart Program, as well as the AVA token and the Travel Tiger NFTs. All other aspects of the partner projectâs platform or application remain the responsibility of the respective project or other relevant third parties, as the case may be.
+
+
+3. Payment Alternative
+AVA can be used as a medium of exchange to purchase goods and services in two core ways: via on-chain transactions and via the proposed AVA Burn utility.
+
+
+3.1 Onchain Transactions
+Global businesses manage payments in many different fiat currencies. Accepting foreign currencies involves foreign exchange fees on top of credit card processing fees, both of which are often passed on to the customer.
+
+
+Due to the borderless nature of cryptocurrencies like AVA, these fees can be avoided, providing a more efficient and cost-effective payment method. Businesses can also receive AVA payments quickly without having to wait several business days for banks or financial institutions to process payments.
+
+
+AVA can be used to make payments on a variety of platforms. The key benefits of paying with AVA include reduced transaction costs, faster settlement times, and special perks (such as discounts and rewards) when used on certain platforms.
+
+
+3.2 AVA Burn
+The AVA Burn utility is currently in the conceptual stage and intends to further promote payment transactions in AVA on partner platforms while also adding a deflationary aspect to AVA by burning a percentage of the transaction volume on partner platforms.
+
+
+4. Governance
+The AVA Foundation enables the AVA community to use the AVA token for platform governance activities that determine and fund key platform decisions. The infrastructure supporting this model is the Community Pool and Community Vote.
+
+
+4.1 Community Pool
+The AVA Foundation employs a Community Pool that receives periodic contributions in AVA to fund initiatives related to the AVA token and Travel Tiger NFTs as voted on by the community. Every three months, as per the token release schedule detailed in section 5 (Tokenomics) below, 20% of the newly minted AVA supply is contributed to the Community Pool. Additionally, 50% of the royalties from the secondary sale of Travel Tiger NFTs are also contributed.
+
+
+4.2 Community Vote
+The AVA in the Community Pool will not be transferred out until a Community Vote successfully reaches a simple majority in favour of a proposal. The Community Vote takes place on 
+vote.avafoundation.org
+, which is powered by Snapshot, a governance tool that enables fee-less voting for web3 communities.
+
+
+To vote on a proposal, community members can connect their self-custody wallet to the voting tool. The voting weight of each community member is determined by the amount of AVA held in the wallet at the time of the vote. Note that any AVA token holder may vote; an AVA Smart Program membership is not required to vote.
+
+
+Proposals are posted on the 
+AVA Foundation Announcements Telegram channel
+, and the proposals can be discussed within the community on the 
+AVA Foundation Chat Telegram channel
+.
+
+
+5. Tokenomics
+The AVA token was launched in 2018 and underwent an upgrade in August 2023, introducing a new maximum supply and token supply model to reach this new maximum supply over a period of ten years.
+
+
+5.1 AVA Token Details
+The AVA token is now deployed on the Ethereum network on the ERC20 token standard. The key token details are:
+
+
+
+
+Maximum Supply: 100,000,000 AVA
+
+
+Total Supply: 
+view current
+
+
+Circulating Supply: 
+view current
+
+
+ERC20 Contract Address: 
+0xa6c0c097741d55ecd9a3a7def3a8253fd022ceb9
+
+
+BEP20 Contract Address: 
+0xd9483EA7214FCfd89B4Fb8f513B544920E315A52
+
+
+
+
+Audit Report: 
+Erc20 
+PeckShield
+ &Â 
+Bep20 Peckshield
+
+
+5.2 Multichain Capability
+Implementing multichain capabilities can provide AVA token holders with greater flexibility, scalability, and interoperability that enhances the longevity of the ecosystem. By expanding to other AVA blockchains and allowing token holders to interact with dApps and platforms across multiple blockchains that are facilitated by third-party token bridging technology, a more complete experience can be created for token holders.
+
+
+The planned approach is for the AVA token to be available on the following blockchains:
+
+
+
+
+Ethereum (ERC20)
+
+
+BNB Smart Chain (BEP20)
+
+
+BASE L2
+
+
+Arbitrum L2
+
+
+
+
+As other blockchains gain prominence and more projects are built on these various networks, the suitability of these blockchains will be evaluated as further options to expand the AVA ecosystem emerge.
+
+
+5.3 AVA Token Distribution
+The table below details the distribution breakdown of the AVA token supply across the AVA ecosystem wallets. The functions of each wallet are described in section 5.5 below.
+
+
+
+
+
+
+
+
+
+
+
+
+Token Allocations
+
+
+Amount in AVA
+
+
+Percentage Amount
+
+
+
+
+
+
+
+
+
+
+Pre-upgrade AVA Supply
+
+
+61,011,389
+
+
+61.011%
+
+
+
+
+
+
+Ecosystem Incentives
+
+
+19,494,305
+
+
+19.494%
+
+
+
+
+
+
+Ecosystem Growth
+
+
+3,898,862
+
+
+3.899%
+
+
+
+
+
+
+Community Pool
+
+
+7,797,722
+
+
+7.798%
+
+
+
+
+
+
+Foundation Reserve
+
+
+7,797,722
+
+
+7.798%
+
+
+
+
+
+
+Total Amount
+
+
+100,000,000
+
+
+100%
+
+
+
+
+
+
+
+
+
+
+Table 1. AVA token distribution table.
+
+
+The token distribution is visually represented in the chart below.
+
+
+Figure 1. AVA token distribution pie chart.
+
+
+5.4 AVA Token Yearly Release Schedule
+The new supply of AVA tokens will be released every 3 months starting on 1st November 2023 until the final batch of tokens is released on 1st August 2033. The table below shows the yearly release schedule of the AVA token. For the full release schedule of AVA tokens, please see the 
+AVA Token Release Schedule
+.
+
+
+
+
+
+
+
+
+
+
+
+
+Year
+
+
+Yearly Inflation
+
+
+New AVA Supply
+
+
+Total AVA Supply
+
+
+
+
+
+
+
+
+
+
+0 (Pre-upgrade)
+
+
+–
+
+
+–
+
+
+61,011,389
+
+
+
+
+
+
+1
+
+
+7.3%
+
+
+4,469,096
+
+
+65,480,485
+
+
+
+
+
+
+2
+
+
+6.8%
+
+
+4,469,056
+
+
+69,949,541
+
+
+
+
+
+
+3
+
+
+6.3%
+
+
+4,424,322
+
+
+74,373,864
+
+
+
+
+
+
+4
+
+
+5.8%
+
+
+4,332,292
+
+
+78,706,156
+
+
+
+
+
+
+5
+
+
+5.3%
+
+
+4,191,118
+
+
+82,897,274
+
+
+
+
+
+
+6
+
+
+4.8%
+
+
+3,999,810
+
+
+86,897,084
+
+
+
+
+
+
+7
+
+
+4.3%
+
+
+3,758,316
+
+
+90,655,400
+
+
+
+
+
+
+8
+
+
+3.8%
+
+
+3,467,587
+
+
+94,122,987
+
+
+
+
+
+
+9
+
+
+3.3%
+
+
+3,129,608
+
+
+97,252,595
+
+
+
+
+
+
+10
+
+
+2.8%
+
+
+2,747,405
+
+
+100,000,000
+
+
+
+
+
+
+Average Per Year
+
+
+5.0%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2. AVA token yearly release schedule.
+
+
+5.5 AVA Wallet Addresses
+There are five primary AVA wallet addresses used within the AVA ecosystem, with each serving a different function. These five wallet addresses are:
+
+
+
+
+
+
+
+
+
+
+
+
+Wallet Name
+
+
+Wallet Address & Link
+
+
+
+
+
+
+
+
+
+
+Community Pool
+
+
+0xE234857A497deCf6239911C8190c195a0eaBB638
+
+
+
+
+
+
+Ecosystem Incentives
+
+
+0xeeAE71ecbD3F1DEc07C0835736ac6DEA4f9D722E
+
+
+
+
+
+
+Ecosystem Growth
+
+
+0x28BD58598CBcC89C177a6a8e35c74e8885C745Fa
+
+
+
+
+
+
+Foundation Reserve
+
+
+0x70C37410904dE2a53DF9c6DF725424D871E234d7
+
+
+
+
+
+
+AVA Smart Program Lockup
+
+
+0x259AfCF4bb259371b9461753dabE7175e92dE7D4
+
+
+
+
+
+
+
+
+
+
+Table 3. AVA wallet address list.
+
+
+5.5.1 Community Pool Wallet
+The Community Pool wallet holds AVA that is used to fund proposals voted on and successfully passed by the community.
+
+
+Every 3 months as per the token release schedule, 
+20% of the newly minted AVA supply
+ will be contributed to the Community Pool. 50% of the royalties from the secondary sales of NFTs developed by the AVA Foundation, such as the Travel Tiger NFTs, are also contributed to the Community Pool.
+
+
+AVA funds in this wallet will be used only if proposals are passed; AVA that is contributed to this wallet every 3 months but not spent will accrue for future use. Future web3 products will be purchasable in AVA with contributions to the Community Pool for long-term sustainability and growth.
+
+
+5.5.2 Ecosystem Incentives Wallet
+The AVA in the Ecosystem Incentives wallet is used to support partners that adopt the AVA token. For example, loyalty benefits offered as part of the AVA Smart Program include AVA givebacks and AVA Smart Bonuses that are distributed from the Ecosystem Incentives wallet.
+
+
+Every 3 months as per the token release schedule, 
+50% of the newly minted AVA supply
+ will contribute to funding ecosystem incentives, enabling the AVA ecosystem to expand via user growth and engagement.Â 
+
+
+AVA that is contributed to this wallet every 3 months but not spent will accrue for future use. Future web3 products and services may be purchasable in AVA with contributions to Ecosystem Incentives for long term sustainability and growth.
+
+
+5.5.3 Ecosystem Growth Wallet
+Ecosystem Growth funds will be used to undertake initiatives that provide growth opportunities for the AVA ecosystem, such as engaging in partnerships or expanding reach through paid marketing activities.Â 
+
+
+Every 3 months as per the token release schedule, 
+10% of the newly minted AVA supply
+ will be allocated to the Ecosystem Growth wallet.Â 
+
+
+AVA that is contributed to this wallet every 3 months but not spent will accrue for future use.
+
+
+5.5.4 Foundation Reserve Wallet
+The Foundation Reserve wallet holds AVA that is available for the AVA Foundation to use for the betterment of the AVA ecosystem with a long term vision. This will include operational expenses of the AVA Foundation such as legal and compliance, technical development and contributor payment as we move progressively towards decentralisation.
+
+
+Every 3 months as per the token release schedule, 
+20% of the newly minted AVA supply
+ will be allocated to the Foundation Reserve wallet.Â 
+
+
+AVA that is contributed to this wallet every 3 months but not spent will accrue for future use. 
+
+
+5.5.5 AVA Smart Program Lockup Wallet
+This specific wallet receives and contains the AVA locked in the 
+AVA Smart Program
+ by Smart members. Once the AVA Open Loyalty Protocol is launched, this wallet will also receive the AVA locked by Smart members in the decentralised version of the AVA Smart Program.
+
+
+6. AVA Use Cases
+There are several main use cases in the ecosystem for the AVA token that span the three principle areas of loyalty, payments, and governance. These use cases are key to explaining the core questions of âWhy should I use AVA?â andÂ  âWhat can I use AVA for?â.
+
+
+6.1 AVA Payments
+Users can purchase goods and services with AVA on certain sites that accept cryptocurrency as well as partner platforms, such as on the Travala.com platform, where users can purchase travel bookings, Travel Credits and gift cards with AVA. Paying with AVA on partner platforms may also include special perks, such as discounts or exclusive pricing only available to users who pay with AVA. Any future web3 products introduced by or partnered with the AVA Foundation will be purchasable in AVA, with sales revenues contributing to the AVA Community Pool, Ecosystem Incentives and Foundation Reserve for the ongoing long-term sustainability of the AVA ecosystem.
+
+
+6.2 Access
+Users require AVA tokens to access certain products and services within partner ecosystems. For example, the AVA Smart Program enables users to lock up AVA to access the AVA Smart Program tier of their choice and receive benefits as well as special access to exclusive perks such as 
+travel drop giveaways
+, 
+Ambassador Bonuses
+, and services like the 
+Open Passport
+. Governance activities within partner ecosystems can also be set up, enabling members to have their say on key platform decisions.
+
+
+6.3 AVA Earn Programs
+Earn programs for earning AVA are available on and provided by third-party platforms and exchanges. These are accessible by locking up AVA for short, flexible, and long-term periods of time. There could also be web3 earn programs if proposed and passed by the community via the AVA Community Governance feature.
+
+
+6.4 AVA Community Governance
+Decentralised governance features for the AVA ecosystem are accessible via 
+vote.avafoundation.org
+, which enable voting on use cases related to the AVA token, Travel Tiger NFTs, and wider AVA ecosystem as well as the future submission of community proposals as part of the progressive decentralisation of the AVA ecosystem. To vote on proposals, participants need to be AVA holders. Voting power is based on a holderâs AVA balance.
+
+
+6.5 AVA Givebacks
+The ability to receive AVA for completing purchases is a powerful supply tool that introduces new users to AVA and encourages user loyalty. As part of the AVA Smart Program, partner projects can implement AVA givebacks on purchases, with customers receiving a certain amount of the purchase cost back in the form of AVA based on their membership tier.
+
+
+6.6 AVA Smart Bonus
+The AVA Smart Bonus provides the opportunity for Smart members to receive rewards in the AVA token for participating in the AVA ecosystem each quarter. The amount of the AVA Smart Bonus is periodically determined by a Community Vote, with the ability to benefit from the AVA Smart Bonus Booster if voted on.
+
+
+With this mechanism currently in place, the AVA Smart Bonus is presently set at an annualised rate of 15% for all Smart members except Diamond members, who receive an annualised rate of 20%. Smart Basic members will only be able to participate in the first round of the AVA Smart Bonus claimable in January 2024 as an introductory offer, after which they will need to upgrade their tier in order to participate in subsequent rounds.
+
+
+The AVA Smart Bonus amount will be rewarded in AVA based on the amount of AVA locked up and, with the AVA Smart Bonus Booster in place, will initially be equal to the following for each Smart tier:
+
+
+
+
+
+
+
+
+
+
+
+
+AVA Smart Level
+
+
+Amount of AVA Lockup
+
+
+% Bonus Per Year
+
+
+AVA Bonus Per Year
+
+
+AVA Bonus Per Quarter
+
+
+
+
+
+
+
+
+
+
+Smart Diamond
+
+
+2,500 + Travel Tiger NFT
+
+
+20%
+
+
+500
+
+
+125
+
+
+
+
+
+
+Smart Platinum
+
+
+2,500
+
+
+15%
+
+
+375
+
+
+93.75
+
+
+
+
+
+
+Smart Gold
+
+
+2,000
+
+
+15%
+
+
+300
+
+
+75
+
+
+
+
+
+
+Smart Silver
+
+
+1,250
+
+
+15%
+
+
+187.50
+
+
+46.875
+
+
+
+
+
+
+Smart Bronze
+
+
+500
+
+
+15%
+
+
+75
+
+
+18.75
+
+
+
+
+
+
+Smart Steel
+
+
+250
+
+
+15%
+
+
+37.50
+
+
+9.375
+
+
+
+
+
+
+Smart Basic
+
+
+50
+
+
+15%
+
+
+7.50
+
+
+1.875
+
+
+
+
+
+
+
+
+
+
+Table 4. AVA Smart Bonus amounts per Smart tier.
+
+
+Smart members have the opportunity to receive the AVA Smart Bonus by completing one of the following activities:
+
+
+
+
+Complete the specified Contributor Tasks at the beginning of the following quarter; OR
+
+
+Spend a minimum of US$50 worth of AVA on Travala.com within the quarter.
+
+
+
+
+Both of these options are expanded on in sections 6.6.1 and 6.6.2 below.
+
+
+6.6.1 Option A: Contributor Tasks
+Contributor Tasks aim to increase the awareness of both the AVA ecosystem and the utility of the AVA token. Contributor Tasks may include performing actions, participating in community channels, creating social media posts, and a range of other online activities.
+
+
+Contributor Tasks go live at the beginning of each new quarter and are available to complete for 2 weeks, followed by a claim period of 2 weeks where users must manually claim their AVA Smart Bonus within the partner platform.
+
+
+6.6.2 Option B: AVA Minimum Spend
+Any product available to purchase with AVA on Travala.com will contribute to this requirement, including completed travel bookings (inclusive of flights, hotels and activities), Travel Credit purchases, or Travel Gift Card purchases.
+
+
+Any travel bookings that are refunded or not yet completed by the end of the applicable quarter will not count towards the AVA minimum spend requirement for that quarter.
+
+
+6.7 AVA Burn
+The AVA Burn utility is currently in the conceptual stage and intends to further promote payment transactions in AVA on partner platforms while also adding a deflationary aspect to AVA by burning a percentage of the transaction volume on partner platforms.
+
+
+7. Conclusion
+Blockchain technology enables loyalty rewards to be tokenised and have their value determined by the market, with significantly wider utility capabilities beyond a single platform.
+
+
+NFTs, when used as a means of access, have also enabled memberships to become transferable to anyone, anywhere in the world, and their use as rewards offers unique opportunities for increasing customer engagement and loyalty.
+
+
+As the blockchain and web3 landscape continues to mature, the AVA ecosystem endeavours to become a leading provider of membership value, fostering a network of projects utilising the AVA token and other associated developments to create a vast, interoperable, and rewarding ecosystem.
+
+
+Stay Connected
+
+
+Twitter
+
+
+Telegram Chat
+
+
+Telegram Announcements
+
+
+Discord
+
+
+CoinMarketCap Community
+
+
+Snapshot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVA Whitepaper Contents
+ Abstract & Disclaimer
+ 1. Introduction
+ 2. Loyalty
+ 3. Payment Alternative
+ 4. Governance
+ 5. Tokenomics
+ 6. AVA Use Cases
+ 7. Conclusion
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+Toggle Navigation
+Etherscan
+Terms of Use
+Privacy Policy
+Token Disclaimer
+News
+Â© Copyright 2020 - 2024 |   AVA Foundation. All rights reserved.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+Page load link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go to Top
+
+
+
+
+
+
+
+
+

@@ -35,8 +35,8 @@ Composition
 Spot Convert Feature
 Fees
 Options Fees
-Pepretuals Fees
-Pre-Lauch Fees
+Perpetuals Fees
+Pre-Launch Fees
 Liquidation Fees
 Deposit & Withdrawal Fees
 API Reference

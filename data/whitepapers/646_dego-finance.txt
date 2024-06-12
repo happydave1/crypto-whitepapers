@@ -1,0 +1,85 @@
+What is dego.finance | dego.finance
+dego.finance
+ 
+Telegram
+ 
+Medium
+Search
+Ctrl
+â+âK
+What is dego.finance
+Roadmap
+DEGO Token
+Token Migration
+How to claim the new DEGO tokens? (for users who have tokens in their address/DEX)
+How to claim the new DEGO tokens? (for users who held tokens on CEX)
+Audit Report
+Referral - CAMPAIGN ENDED
+Invite Referrals
+DEGO Glossary
+DEGO DAO
+Governance
+Community
+Ambassador Program
+Donation
+Feedback & Support
+FAQ
+Modules
+DeFusion
+Earn Credits
+Text to Image
+Image to Video
+Train a LoRA
+Picture to Anime
+AI Inpainting
+AI Anime Training
+AI Creation Training
+DeVote
+Delta
+Mining
+DEGO NFT
+Introduction
+Claim NFT
+Mining Pools
+Auction
+Market
+Cast NFT
+Decompose NFT
+NFT for Good
+Others
+DEGO Swap
+Hunter
+Dandy
+Rewards Pool
+DEGO Lending
+DEGO Insurance
+DEGO Chain
+DeFi Glossary
+Press Kit
+Powered by GitBook
+What is dego.finance
+DEGO Finance stands as a pioneering incubator in the realm of Web3 innovations. We are actively nurturing a diverse array of projects across the BTC ecosystem, including Depin, Desci, and GameFi. Additionally, we collaborate closely with our partners to forge new paths forward.
+
+Within our comprehensive product suite, we offer a variety of platforms designed to manage the lifecycle of NFTs. These platforms include:
+Delta:
+ BRC20
+ Launchpad
+Defusion:
+ 
+NFT 
+AIGC (Generative AI): 
+defusion.ai
+NFT Foundry:
+ Mint NFTs with unique attributes and rarity grades by depositing DEGO, ERC-20, or BEP-20 tokens. Dego Finance's NFTs are backed by the token deposits during the minting process and can be decomposed to release the deposited tokens.
+NFT Mining:
+ Stake NFTs and mine rewards.
+Auctions:
+ NFT auctions conducted in the form of FOMO3D auctions.
+ScanDrop:
+ A decentralized app (dApp) enabling users to participate in NFT airdrops by scanning QR codes.
+Next
+Roadmap
+Last updated 
+2 months ago
+On this page
+Was this helpful?

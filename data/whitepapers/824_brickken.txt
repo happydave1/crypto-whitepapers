@@ -1,0 +1,1288 @@
+Whitepaper - Brickken - Token Suite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+Token Suite Platform
+Benefits of Tokenization
+Whitelabel
+Marketplace of Services
+Use Cases
+What can be Tokenized
+Franchises
+Real Estate
+Startups
+Venture Capital
+Entertainment
+Utility Tokens to Equity
+SAFE, SAFT & OTC
+Cross-Border Transactions
+BKN Token
+About Us
+Team & Vision
+Our Community
+Resources
+Whitepaper
+Asset Tokenization
+Blog
+Tutorials
+BOOK A DEMO
+English
+PortuguÃªs
+EspaÃ±ol
+FranÃ§ais
+Actions
+Solutions
+Token Suite Platform
+Benefits of Tokenization
+Whitelabel
+Marketplace of Services
+BKN Token
+Use Cases
+What can be Tokenized
+Franchises
+Real Estate
+Startups
+Venture Capital
+Entertainment
+Utility Tokens to Equity
+About
+About Us
+Team & Vision
+Community
+Resources
+Whitepaper
+Asset Tokenization
+Blog
+Academy
+Talk to a Specialist
+Login
+Signup
+English
+English
+PortuguÃªs
+EspaÃ±ol
+FranÃ§ais
+How to Tokenize
+
+
+
+
+Buy BKN
+
+
+
+
+Access Demo Mode
+
+
+
+
+Free Consultation
+
+
+
+
+Become a Partner
+
+
+
+
+Tokenize Now
+
+
+
+
+CLOSE
+Our
+ 
+Whitepaper
+In our Whitepaper, you will find all the information about Brickken, its Decentralized Application, and its utility token BKN.
+Read Now
+Read Now
+
+
+
+
+Download in PDFÂ format
+BKN 
+Whitepaper
+
+
+
+
+Abstract
+
+
+
+
+Our Values
+
+
+
+
+Introduction
+
+
+
+
+The different tokens
+
+
+
+
+The Issuances
+
+
+
+
+Purpose
+
+
+
+
+Innovation
+
+
+
+
+The Ecosystem
+
+
+
+
+Token Suite
+
+
+
+
+Architecture
+
+
+
+
+The dApp and BKN
+
+
+
+
+The Tokenization Process
+
+
+
+
+Tokenomics
+
+
+
+
+Team
+Disclaimer:
+ This whitepaper was originally written in June 2021. It outlines our general vision at that time and serves as a foundational document. Please note that while the core ideas and objectives may remain, many specifics have evolved as a result of ongoing development and operational adjustments. Readers should use this document as a reference point rather than a definitive guide, as the outcomes and implementations detailed herein may differ significantly from current and future realities.
+â
+â
+Abstract
+â
+A cryptocurrency is a digital asset designed as an alternative medium-of-exchange and store-of-value that uses cryptography to secure transactions, to control Â the creation of additional units, and to verify the transfer of assets and value.
+â
+Cryptocurrencies are predominantly decentralized in nature. Transactions are validated by network nodes and recorded in a public data structure in the form of a distributed ledger commonly known as a Blockchain. 
+â
+The first and most common cryptocurrency created was Bitcoin. Bitcoin was created in 2008 in the aftermath of the global 
+subprime financial crisis of 200
+7 [1], by an anonymous person (or group) called 
+Satoshi Nakamoto [2]. 
+ The inevitable failure of subprime lending 
+markets caused the cataclysmic failure of global financial systems. This catalyst created the perfect storm where digital assets would thrive. 
+â
+The core purpose behind the technology was to create a censorship-resistant, decentralized process of transferring value which is recorded on an immutable, distributed ledger to take back custody of oneâs finances, removing the reliance on intermediaries such as depository and central banks (the same institutions that were ultimately responsible for the collapse of the global financial system, whose effects are still felt around the world today). 
+â
+Over the last 13 years, the Cryptoverse has grown exponentially. Mass adoption of Blockchain technology seems continually more inevitable with the aggressive pace of innovation, mammoth increase in real-world application, increased accessibility, and over a decade of battle-testing. 
+â
+Today there are thousands of cryptocurrencies in existence. The second most prominent is Ethereum. Ethereum Â pioneered the next stage in the evolution of the Cryptoverse, successfully implementing the â
+Smart Contract
+â on its native Blockchain. Smart contracts were first proposed in 1996 by computer scientist Nick Szabo, famous for inventing a virtual currency a full decade before the invention of Bitcoin. In his original essay published in 1996 named âSmart Contracts: Building Blocks for Digital Marketsâ [3] Szabo described a Smart Contract as â
+a set of promises, specified in digital form, including protocols within which the parties perform on these promises.
+â Since then, Smart Contracts became known as one of the most crucial computer systems innovations in existence. For his contributions to the field, Szabo is recognized as the Father of Smart Contracts.
+â
+Smart contracts reinvented what we perceived to be the theoretical limit of cryptography, subsequently revolutionizing Blockchain technology. 
+Brickken seeks to further improve smart-contract functionality and be part of the evolution, driven by its core principles such as solving the real-world issue of accessibility to illiquid markets for individuals and businesses from any walk of life.
+â
+Brickkenâs vision is twofold. Firstly, Brickken wants to create a decentralized management system that allows companies to self-sustain, self-governed, and self-fund themselves via Security Token Offerings (STOs). Second, Brickken aims to provide Decentralized Autonomous Organizations (DAOs) with the infrastructure necessary to Â operate. The goal is for any business to be able to tokenize its assets and run in a native Web3 environment. Brickken will be providing the infrastructure to allow new economic dynamics to exist: Business to DAO (B2D), DAO to Business (D2B), and DAO to DAO (D2D).
+â
+Brickken intends to issue its native utility token (âBKNâ) through an Initial Coin Offering (ICO) on a centralized exchange, and later launch a liquidity pool on Uniswap to boost its dApp capabilities. The aim is to provide decentralized tokenization services to our community. This paper is designed to experiment with new and innovative ideas, by combining features implemented in smart contracts and other configurations at the protocol level that will be designed by Brickkenâs engineering team to help us reach our objectives.
+â
+Brickkenâs decentralized application (dApp), will be the first of its kind, as the aim is to standardize the process by which asset tokenization and tokenization services across the globe are executed.
+â
+Disclaimer
+â
+This document is for educational and experimental purposes only. 
+â
+This document is provided by the Brickken team and does not in any way represent technical, legal, compliance, regulatory, financial or investment advice. 
+â
+Due to various risks and uncertainties, including but not limited to, technological developments and industry conditions, the actual performance and development of items described herein may differ materially from those reflected or contemplated herein. 
+â
+Brickken does not accept any obligation to provide recipients with any additional information, or to update, expand, revise and/or amend the information herein, or to correct any inaccuracies which may become apparent. Although all information and views expressed herein are provided in good faith, estimates and assumptions made by Brickkenâs team, make no representation or warranty (expressed or implied) as to the accuracy or completeness of the information herein, and no assurance is provided that actual results will be consistent with the descriptions and projections herein.
+â
+This document is not a prospectus and does not constitute or form any part of any offer or invitation to subscribe for, underwrite or purchase the âBKNâ utility token or, nor shall it form the basis of, or be relied upon, in any way, in connection with any decision relating to the utility token âBKNâ issued by Brickken.
+â
+The âBKNâ utility token is needed to be able to use the decentralized application (dApp) as this document explains. The sale and transfer of the âBKNâ utility tokens will be performed by Brickken. No person is bound to enter any contract or binding legal commitment in relation to the sale and purchase of the âBKNâ utility tokens. Any agreement between the token provider and an investor/s in relation to the sale and purchase of âBKNâ utility tokens is to be governed solely by a separate set of documents setting out the terms and conditions of such agreement. 
+â
+In the event of any inconsistencies between what is established in this whitepaper, and the terms and conditions of the purchase and sale of âBKNâ, the terms and conditions of the relevant purchase and sale agreement shall supersede the whitepaper. Brickken reserves the right to decline the sale of BKN during its private placement of utility tokens to any individual or business in the event of a breach of its core principles.
+â
+Regulatory authorities have not examined the information included in this paper; thus, no approval has been granted toward the information set out in this whitepaper in any jurisdiction.
+â
+Advances in innovation related to quantum computing and smart contract exploitation may present risks to Brickken.
+â
+There is no guarantee that Brickken will deliver on the content established in this document or achieve its objectives. Brickkenâs proposed decentralized application (dApp) running on the Ethereum Blockchain may fail, be abandoned, or be delayed for several reasons, including but not limited to lack of funding, lack of commercial success and other external factors.
+Our Values
+Our Values
+Autonomy
+Brickkenâs dApp provides the technical infrastructure for companies to operate in a Web3 environment and create their STOs as form of funding. It allows any business from any walk of life to move from ambition to action and succeed in realizing their projects.
+Simplicity
+Brickkenâs dApp is being built with emphasis on simplicity, to make the tokenization process as simple and accessible as possible.
+Compliance
+Brickkenâs dApp will help companies transform their assets such as shares into tokens, and issue their own STOs as per the applicable legislation in their host State, whilst complying with the local regulation regarding issuance of securities and asset management. The same infrastructure will provide DAOs with the needed tools to operate and be managed.
+Democracy
+Brickkenâs dApp paves the way to open illiquid markets to the world, creating a solution to democratize fundraising and bridge the gap between legacy finance, retail investing and the decentralized Cryptoverse resulting in new investment opportunities.
+Introduction
+â
+Brickken was founded in July 2020, and quickly became a leading voice in the world of tokenization for its avant-garde use of blockchain technology for the tokenization of real assets.
+â
+Asset tokenization is the process by which any asset, tangible or intangible, is Â divided into smaller pieces that take the form of tokens. Each token represents a proportional part of the Â asset, offering the owner of the token, the corresponding rights provided by the issuer.
+â
+The tokenization market is booming and has established itself as a real alternative for individuals and businesses looking to raise financing. Historically, investors are used to a traditional marketplace in which there is almost zero tolerance for small to medium sized investors when it comes to illiquid assets. This is a marketplace where institutional money rules with an iron fist. 
+â
+In addition to the tokenization market, there is a complementary market aimed at the development of circular economies, in Â which more and more companies, both public and private, want to use asset tokenization tools to contribute to their fight for sustainability, utilizing native tokens as a direct communication channel, enabling holders to engage in the governance of the protocol by voting, Â rewarding positivity and interacting as member of a community.
+â
+Brickkenâs legacy operating model was that of a service provider which utilized a centralized blockchain, where clients would use Brickkenâs platform and thus, Brickken was required to adhere to the host state legal, and regulatory framework for the provision of a security token issuance. A very difficult task given the geographical disparity of projects and differing regulatory frameworks across jurisdictions. 
+â
+This experience led Brickkenâs management to decide to change the operating model from a centralized blockchain, to a frictionless, decentralized model, where third parties could take advantage of Brickkenâs technology and know-how in a secure and legally compliant manner, whilst enjoying all the benefits associated with the use of security token offerings as a financing methodology. 
+â
+During this transition, we realized that this new paradigm was not just providing a tokenization solution. Brickken will be providing a fully decentralized management system that will allow businesses to operate on chain (Web3), through entities born natively in the blockchain (DAOs), or through a combination of both (Web2-Web3), as the user finds it fit. Businesses will be capable of total customization of their presence and decision making in the blockchain. Â 
+â
+This whitepaper explains what Brickken is and where it is going, as the sole reason for its pivoting from a centralized to a decentralized operating model is to create an ecosystem where different economic agents coexist, using tokenization as the foundation and its utility token, the âBKNâ the epicenter and fuel for boosting this new reality.
+â
+Let us begin by discussing the different types of tokens and forms of issuance.
+The different tokens
+Generally, there are three types of tokens, each with their own specific use case and legal framework. Depending on how liquid the technology is, a specific token can sometimes have additional utility, and in some cases, have hybrid characteristics where it performs two or more functions.
+UTILITY TOKEN
+SECURITY TOKEN
+PAYMENT TOKEN
+DESCRIPTION
+A token that can be exchanged for products and services.
+A security token is a digital representation of a traditional security. Such as an ownership position in a company, bonds, and/or other ownership rights.
+Used as an alternative medium of exchange.
+REGULATION
+In most countries, host state regulation is applied.
+AML and Securities Legislation binds from the country where the issuance of securities is applied/created.
+Dependent on whether the token is used as legal tender.
+KYC REQUIRED
+TO PURCHASE
+Currently not required, but it is foreseen to be changed.
+Imperative
+Not required
+SECONDARY MARKET
+Possibility of being exchanged in unregulated secondary markets, or in exchanges and markets with specific licenses.
+Security laws are applied, thus constraints as to how it can be exchanged in secondary markets.
+Possibility of being exchanged in a utility or security token secondary market.
+ISSUANCE FORM
+ICO/IEO/IDO.
+STO.
+Dependent on genesis. Whether issued, as a utility or security token.
+The Issuances
+Utility tokens
+â
+This section focuses on the issuance of utility and security tokens, which differ in how they are issued, due to underlying regulatory and legal requirements.
+A utility token provides access to a blockchain protocol, dApp, and/or can be exchanged for another type of product or service. 
+These methodologies can differ depending on the accessibility to the public.
+â
+Initial Coin Offering (ICO)
+â
+An initial coin offering (ICO) [4]
+ 
+is the cryptocurrency industryâs equivalent to an initial public offering (IPO). Where the purchase and sale of tokens is completed directly between issuer and buyer. A company looking to raise money to create a new coin, app, or service launches an ICO as a way to raise funds. Interested investors can buy into the offering and receive a new cryptocurrency token issued by the company. This token may have some utility in using the product or service the company is offering, or it may just represent a stake in the company or project.
+â
+ICOs also retain at least two important structural differences from IPOs. First, ICOs are largely unregulated, meaning that government organizations like the Securities and Exchange Commission (SEC)[5] Â do not oversee them. Secondly, due to their decentralization and lack of regulation, ICOs are much freer in terms of structure than IPOs.
+ICOs can be structured in a variety of ways. In some cases, a company sets a specific goal or limit for its funding, which means that each token sold in the ICO has a pre-set price and that the total token supply is static. In other cases, there is a static supply of ICO tokens but a dynamic funding goalâthis means that the distribution of tokens to investors will be dependent upon the funds received (i.e. the more total funds received in the ICO, the higher the overall token price).
+Still, others have a dynamic token supply which is determined according to the amount of funding received. In these cases, the price of a token is static, but there is no limit to the number of total tokens (save for parameters like ICO length).
+â
+Initial Exchange Offering (IEO)
+â
+When issued via a centralized exchange, which places the tokens for sale for buyers to acquire, this is known as an Initial Exchange Offering (IEO). IEOs are a recent development in the rapidly evolving digital asset space. IEOs are similar to ICOs in that they are initial offerings of digital assets (e.g., coins or tokens) to raise capital. However, IEOs are touted as an innovation on ICOs because they are offered directly by online trading platforms on behalf of companiesâusually for a feeâto provide immediate trading opportunities for digital assets.
+â
+Initial Dex Offering (IDO)
+â
+If the public issuance is created through a decentralized exchange, the issuer has no control on the result of the issuance, this is therefore classified as an Initial Dex (decentralized exchange) Offering (IDO).
+An IDO is a new type of decentralized and permissionless Initial Coin Offering, which opens up a new method of fundraising in the Cryptoverse.
+This type of decentralized asset depends on liquidity pools where traders and investors can swap tokens such as USDC/ETH and USDC/BKN.
+IDOs are generally referred to as the successor to other funding models (above). Offering better liquidity at all price levels due to its mechanics.
+Unlike other fundraising methods, IDOs are generally considered a fair way to launch a project by avoiding issues such as pre-mines, which is an issuance system that favors project founders and community members.
+â
+Security tokens
+â
+Before understanding what a security token is, we must first understand the characteristics of a traditional security. 
+A security token is a representation of a security, which is a fungible, negotiable financial instrument that holds characteristics such as monetary value
+.
+There are primarily three types of securities:
+An equity security represents ownership held by shareholders in a legal entity (a company, partnership, or trust), realized in the form of share capital, which includes shares of both common and preferred stock.
+A debt security represents borrowed money that must be repaid. Characteristics are size, yield (interest rate), maturity and renewal (redemption) date.
+Hybrid securities, combine characteristics of both debt and equity securities, e.g., equity warrants, convertible bonds, among others.
+â
+Securities have been in existence for hundreds of years, for example the first company ever incorporated was Kongo Gumi in Japan, in the year 578. Nonetheless, innovation and optimization in the last century has made it possible for the transfer of securities to evolve, going from a pure paper format, to a digital one, making it now even possible to issue securities on-chain.
+â
+A Security Token Offering is issued to the public, and since it is a form of representation of securities, it must be compliant with the regulatory and legal framework of securities in the jurisdiction in which they are issued
+.
+ For instance, this means that if a company is issuing security tokens in Germany, the issuance will have to comply with the same legislation as the issuance of traditional securities in Germany. This complicates matters as not all countries have a homogeneous regulatory framework.
+â
+Ultimately, Security Token Offerings (STOs) follow the same guidelines as the issuance of any security, and this makes the issuance of this type of tokens incredibly cumbersome, heavily regulated, with high barriers to entry due to the know-how needed to perform them from a regulatory, legislation and technological perspective. Nevertheless, STOs offer unique characteristics similar to traditional capital markets. 
+The added benefit of using blockchain technology for asset tokenization, is that it also retains the characteristics of the native blockchain. These include immutability, transparency, auditability, and traceability in a network which is live 24 hours a day, 7 days a week, 365 days a year. 
+â
+Generally speaking, a token is basically the representation of something else; every token represents a proportional part of a digitized asset. This also means that the owner of the token possesses the associated ownership rights and/or other types of economic rights established by the individual company performing the asset tokenization.
+â
+The procedure which determines whether an issuance meets the requirements of securities law generally refers to the SECâs (Securities & Exchange Commission) Howey Test [6]. Whilst the Howey analysis is specific to US legislation, it is a globally recognized standard for determining whether a transaction qualifies as an investment contract. A consequence of qualifying as a security, means that the underlying asset must to adhere to the Securities Act of 1933 [7] and the Securities Exchange Act of 1934 [8] (if you were an asset domiciled in the US). Under the Howey Test, an investment contract exists if there is an
+â
+investment of money in a common enterprise with a reasonable expectation of profits to be derived from the efforts of others
+â
+â
+In summary:
+An investment of money.
+In a common enterprise.
+With the expectation of profit.
+To be derived from the efforts of others.
+â
+Brickken intends to provide the platform that will allow individuals and businesses to facilitate Security Token Offerings (STOâs) whilst being able to comply with local laws and regulations in the jurisdiction where the underlying asset is domiciled
+. An individual or business will have to comply with said regulations in order to use the platform.
+Purpose
+Brickkenâs original mantra was that we would âtokenize the worldâ. We quickly realized we were approaching the accessibility of illiquid markets from the wrong perspective.
+â
+â
+Brickkenâs decentralized technology provides the platform and tools needed for the world to tokenize itself
+â
+â
+This whitepaper is Brickkenâs declaration to create an ecosystem full of opportunities, where endless investments are accessible to everyone with minimal capital expenditure and fractional ownership.
+â
+Our innovation is not limited to the robustness of blockchain technology, but also the underlying legal engineering which governs how the dApp performs. 
+â
+Brickken believes the world will be tokenized. Our mission is to supply the technology and know-how for it to gain adoption organically, bridge web2 companies into Web3, and provide DAOs with the required infrastructure to operate and foster tomorrowâs B2D, D2B and D2D economy.
+â
+The opportunity
+â
+The reason Brickken exists is to bridge the barriers to entry one must overcome when facing the real-world issue of tokenizing assets. We intend to remove the issues of friction, intermediaries, and general barriers to entry. We hope individuals and businesses can rely on STOs as an alternative financing scheme, and investors can engage in tokenization to obtain returns. Furthermore, we want to provide tokenized companies, and the ones managing tokenizing assets, a decentralized management platform which can help them operate in the reality which is Web3.
+â
+The problem
+â
+In addition to the incumbent regulation associated with Securities, as a retail investor/businesses perspective, several inefficiencies can be improved:
+â
+The average investor usually transfers his/her savings to an intermediary (asset manager, broker, etc.) who will advise and/or arrange investments. The investorâs portfolio is subject to bias and thus may invest in a portfolio which may not be appropriate.
+Investing in traditional equity markets is a complex process where a limited group of experts dominate the market, making it extremely risky for retail investors. Retail investors generally have access to markets provided you reside in a developed economy which allows market access.
+Other illiquid asset classes such as real estate, renewable energy, transportation & infrastructure, hospitality, fine wine and art, and early-stage technology investing are not easily accessible to retail investors and small businesses without having the nominal value of the underlying asset ready to deploy.
+These types of markets are rigid and illiquid: one buyer, one seller.
+Investors who keep their savings in bank accounts typically see the value of their savings diminished due to aggressive monetary policies and inflation, which results in large scale devaluation and debasement of currencies due to widespread, unhindered monetary stimulus. The combination of these factors equates to lower purchase power of the currencies over time. Furthermore, deposits stored in bank accounts currently provide close to 0% interest in most developed countries and in many, negative interest. In addition to this, banking fees and inflation erode bank deposits over time.
+Decision making, governance, and communication channels in non-digital entities generate inefficiencies that lead to losses due to higher costs derived from physical presence, storage, mail delivery, etc. All these expenses are avoided through digitalization.
+â
+â
+The token economy
+â
+According to Deloitte[9], tokenization could make the financial industry more accessible, cheaper, faster, and easier, thereby possibly unlocking trillions of euros in currently illiquid assets, and vastly increasing market liquidity and depth.
+â
+These assets are only available to specialized investors; a situation that leaves extraordinarily little room for retail investors to access these markets. In other words, investors are only left with the possibility of investing in equity and/or debt markets or cryptocurrency (which carries higher volatility and risks).
+â
+Real estate is one of the leading examples of a highly illiquid market, with high barriers of entry. A solution to this problem comes in the form of asset tokenization which provides diverse investing opportunities due to reducing barriers to entry and providing liquidity to asset owners. If we consider the European commercial real estate market alone has an estimated total valuation in the region of over 6,500bn and an estimated annual investment of 15bn.
+â
+In addition to this, globally, we are seeing the early stages of mass adoption of crypto assets and cryptocurrencies generally;
+â
+Central banks (Fed, ECB, BIS) are discussing the implementation of Central Banks of Digital Currencies (âCBDCsâ).
+Retail banks adopting blockchain based solutions.
+US Treasury to allow blockchain, stablecoins for bank payments.
+Online finance and investment platforms are thriving:
+Robinhood has experienced a growth in users from 1 million in 2016 to 14 million in 2020; did a succesful IPO with a market cap today of over $40B.
+Coinbase did a successful IPO with a market cap today of over $50 billion USD.
+The crypto exchange Binance has a daily trading volume of above $500 million per day.
+US crypto exchange Coinbase successfully IPOâd this year.
+â
+â
+Security Token Offerings and general asset tokenization is a disruptive technology since it provides a bilateral solution for retail investors and asset owners. Its adoption is well underway as a new form of financing, creating new alternative, untapped sources of return.
+â
+â
+The opportunity of Tokenization
+â
+The possibilities of asset tokenization are endless. Any asset can be digitized and divided into smaller parts, from physical assets such as real estate, to financial instruments such as debt, equity, bonds, securities, among others
+â
+â
+FINANCING
+PROFITABILITY
+LOYALTY
+CO-OWNERSHIP
+GOVERNANCE
+Obtaining financing from token holders by providing them capital gains in the form of interests or dividends.
+Token holders obtain the profitability associated with the exploitation of the tokenized asset they have invested in.
+Incentivizing user loyalty and possibility of adding a gamification layer (exchangeable tokens for products, discounts, etc.).
+Partial ownership of an asset that gives the right to use it, in coordination with the rest of the co-owners.
+New governancemodels can becreated to incentivizecommunity buildingbehind the tokenizedcompany or asset,which can triggerfurther investments bythe token holders, orreturns in case they usethe product or servicetokenized.
+SECONDARY MARKET
+Token holders can exchange their tokens for other tokens, and thus have freedom over when/how they want to transact: tokens can be exchanged on a peer-to-peer basis and on secondary markets.
+â
+â
+According to the World Economic Forum, by 2022 60% of global GDP will be digitized
+10
+, encompassing a total value of $10 trillion (we believe a conservative estimation). The asset tokenization market was valued at $1.25 billion in 2019, and is forecast to reach $5.70 billion in 2027, growing at a compound annual growth rate (âCAGRâ) of 22.54% from 2020 to 2027.
+â
+Asset tokenization is one of the main emerging trends in the financial industry and is expected to achieve sustainable growth in the near future. While traditional commodity and asset trading businesses have faced a downturn, asset tokenization, coupled with blockchain technology, is completely revolutionizing the financial industry. At Brickken, we believe that asset tokenization is an opportunity that is here to stay, and there is no better time to participate in this disruptive market.
+â
+One of the main factors driving the rise of the tokenization industry is the growing need to grant access to a growing audience of investors with new forms of investment. Both the technical progress in asset tokenization software, and the increasing demand in developing countries, are expected to result in higher growth opportunities for the industry in the coming years. For instance, an untapped area for development is to automate various asset management processes with the aim of improving liquidity and optimizing risk management through tokenization.
+Currently, North America contributes the most value to the asset tokenization market (35% in 2018), followed by Europe (24%; where the regions of Germany, France, United Kingdom, Russia, and Italy stand out, respectively) and the Asian-Pacific (20%).
+â
+The quintessence of tokenization
+â
+The applications of asset tokenization are endless and can be applied to a wide variety of assets, from real estate to valuable art collections, as well as intangible assets. The most important tokenization classes are explained in the following table.
+â
+REAL ESTATE
+COLLECTIBLE
+LITIGATION
+SECURITIES
+A tokenized property is divided into tokens. Each token represents a proportional part of the asset, which can be transferred at any time.
+By tokenizing works of art, a work of artâs unique identity is created, history recorded, and prominence authenticated. New value can be created, exploring fundraising models and distribution of ownership.
+Litigation can be tokenized. Token holders can invest in the outcome of a trial, and thus generate returns depending on the outcome. By diversifying the risk, the chances for pursuing litigation are increased, and the pursuit for justice becomes more accessible.
+Security tokens can take many different forms. This will include the scope of rights that are offered to token holders. Debt, equity, and bonds merely scratch the surface when it comes to what is, asset tokenization.
+GOODS
+INVESTMENT FUNDS
+COMPANIES
+NON-GOVERNMENT ORGANIZATION
+By tokenizing raw materials, you can provide access to a wider range of people from around the world, thereby generating greater wealth. If market activity increases, it means more liquidity and market depth. Plus, the ability to track and trace goods geographically and their fundamental properties such as grade, quality etc.
+The tokenization of hedge fund operations opens the door to investors and gives small and medium-sized businesses the potential to see the benefits of a well-balanced, diversified, and profitable portfolio, designed by professional fund managers.
+A company can have its share capital tokenized. Making the governance of the company more liquid and transparent, and the possibility of transferring. Â Decision making processes can now be performed in a fully digitized procedure, where token holders can vote on a pro-rata basis relative to their holding (governance).
+Users from anywhere in the world can buy tokens associated with an NGO or charitable organization. Tokens could provide the means to be included in the governance of the protocol voting on important decisions. Never before have donors had the ability to govern, track and trace funds.
+â
+â
+This wide range of tokenization possibilities provides investors with a extended selection of investment options at affordable costs, with variable investment returns that allow them the ability to evaluate the option that best suits their desired risk and returns profiles, without the availability of capital being an obstacle in the decision-making process. In other words, 
+tokenization enables maximum diversification across asset classes in a way that is currently not possible for retail investors and small businesses
+.
+â
+Retail investors can now decide how to build their portfolio of digital assets. This degree of diversification translates to a more robust portfolio and where capital can be allocated to as many projects as the investor wishes without capital constraints.
+â
+For instance, large funds can diversify their portfolios, allocating a certain amount of capital, typically millions, to art or real estate (it is well known that art is uncorrelated to traditional equity markets). However, a retail investor is currently unable to allocate minimal capital to art; with asset tokenization, a retail investor could invest as little as 100 Euros in art if desired.
+â
+The correct use of technology can improve the efficiency of investing, by focusing on the customerâs journey, providing real-time information, verifiable, immutable, and transparent transactions, such as profit and loss, marking-to-market, and transaction history.
+Another key advantage of digital assets that we wish to highlight is the simplicity with which they can be transferred from one portfolio to another, and from one user to another. This results in optimal liquidity, as you can buy and sell assets from user- to-user (peer-to-peer) simply by taking advantage of digital platforms that connect users and execute transference in seconds, at minimal/marginal costs and without the need for intermediaries.
+â
+â
+The DAO revolution
+â
+As the concept of Web3 continues to evolve, so do the structures that are created natively in the blockchain. The evolution of technology has brought parallelly the evolution of the psychological conception as to what decentralization entails, and what does autonomy as a right mean. In this sense, the Decentralized Autonomous Organizations or DAOs started becoming a reality, where its participants are considered as equals, combined under a similar vision and all connected via a token, and a digitized form of communication.
+â
+One of the main aspects of these new forms of organizations is their ability to exist away from a structurized company format as it is established that they have characteristics that go against their founding pillars, such as the ability to perform haste transactions, lean operations, providing a full digital governance participation to its stakeholders, among others, pillars which in fact come from a digital experience, not from the structure itself. While the essence of DAOs is to consider them shapeless or structureless, they do entail legal implications which are not always considered.
+â
+Companies have different shapes and names, which correspond to the jurisdiction in which they are incorporated. For the purpose of this explanation, letâs consider for the time being the companies which are incorporated under a limited liability structure. The main reason for incorporating a limited liability company is to provide funds to the new organism being created by its shareholders, who want to limit their liability and protect the rest of their personal assets. The concept behind it is very simple; once a limited liability company is incorporated, it is considered a new legal entity denominated legal person, which becomes unique and separated from all other legal or natural persons, even from the ones acting as its shareholders.
+â
+While the DAO movement seeks to empower its stakeholders by providing them leaner mechanisms of participation, it does so at the legal expense of making them participate in structures that in many cases do not comply with applicable legislations, or puts them at risk of having to answer with their personal assets as their liability is not limited. Furthermore, characteristics that enable the economic agents to operate and interact, such as having VAT numbers or be registered before a Social Security administration in order to hire employees, are not available to DAOs, limiting their ability of interaction and operation.
+â
+While the DAOs are destined to become a reality, and more assets become managed by this type of organizations, Brickken will be providing infrastructure to them via its dApp, in order to mix the ecosystem of tokenized companies operating in Web3, and organizations natively being created on-chain.
+â
+â
+Innovation
+Brickken is developing the first ever dApp to service and support STOs, together with a smart contract protocol.
+â
+In our opinion, 
+true democracy and decentralization can only be achieved with the use of blockchain technology
+. By being able to provide a product that combines these two instruments natively, Brickken will be able to fulfil its vision of providing the resources needed to allow the world to tokenize itself, since issuers of security tokens can create their own self-sustained and self-executed ecosystems, without the mediation of Brickken or third parties.
+â
+Furthermore, 
+to achieve the level of democracy that is fundamentally a core value for Brickken, this requires that Brickken is fully transparent
+. Therefore, the development code will be stored in a public, open-source repository in Github.
+â
+This will allow the code to be audited and verified by third parties and will also encourage the community of users behind Brickken to help improve the code itself.
+â
+Finally, creating a public repository for the source code will allow Brickken to offer an open API, so third parties can use our smart contracts and back end for integration in any application or website, without the need to be dependent on the dAppâs front end, and further allowing new workflows and business models to be created without Brickken acting as an intermediary.
+â
+In a broad sense, Brickkenâs dApp will facilitate the following:
+â
+Will allow users to register with emails, recover lost passwords and logg into the dashboards.
+Will allow users to buy BKN, Brickkenâs utility token.
+Will allow users to buy ETH, and USDC with a fiat onramp gateway.
+Will allow users to create their own STOs using BKN through Brickkenâs dApp.
+Will allow users to establish what kind of STO is being issued, debt or equity, its tokenomics, maturity, term, rights, yield to investors and/or any other source of income, among others.
+Will allow users to invest into existing STOs using any crypto as means of payment and allow them to create their own portfolio of STOs.
+Will allow users to customize a launchpad website for their STO.
+Will Â allow users to keep track of their STO Sales with analytics pages.
+Will allow users to manage their shareholders on-chain transferring company tokens to partners or employees
+Will allow users to easily send dividends/proceeds to shareholders
+Will allow users to create pools where their shareholders can make decisions regarding the company. .
+Will facilitate the necessary KYC submissions and processes for promoters and investors, approve and reject, and whitelist investors to transfer STOs related tokens. 
+KYC management and investor whitelisting are Â key for Â fully legal compliant STOs.
+â
+â
+The dApp aims to connect the dots between the legal requirements (off-chain services to handle KYC and personal data) and the decentralized application, while facilitating the smart contractâs usage through a user-friendly interface
+.
+â
+We will be providing the tools and mechanisms to convert the interactions between the dApp and the Security Token Offerings (STOs) into readable language. This fulfils the purposes of serving as auditable, legal evidence in any type of procedure or discovery.
+â
+Given the simultaneous presence of off-chain and on-chain services in the platform, we aim to make the user interface both functional (MetaMask wallet) and easy to use. For this, we will use cloud infrastructure, which is highly scalable, secured by best-in-class security services and that can operate with no downtime.
+The ecosystem
+Security token offerings
+â
+Utilizing a decentralized platform presents two prominent challenges:
+â
+Technological
+: it connects the dAppâs back end which runs completely on a public blockchain through smart contracts. The smart contracts must be flawless to ensure the protection of issuers of tokens and their investors.
+â
+Legal/regulatory
+: the objective is to issue STOs in a compliant manner. Investors must also pass a KYC process to comply with regulatory and anti-money laundering regulations.
+â
+When dealing with standard securities, the ownership information of the investment product is recorded in a certificate which can take the form of a simple PDF. With a security token, the information is stored into an immutable blockchain and instead of a certificate being issued, a token is.
+â
+All countries have very precise and extensive regulations in relation to what securities are, how they must be issued, who can participate, who can buy them, and what protection investors are afforded.
+â
+The complexity of creating Brickkenâs dApp lies in merging both the regulatory and legal issuance of securities and the technical aspect that allows the issuance of this type of financial instruments without Brickken acting as an intermediary
+. Furthermore, countries may have similar, but ultimately different legislation. This adds a layer of complexity as the regulatory compliance requirements in one country can greatly differ from another.
+â
+Brickken aims to create a decentralized uniform protocol of security token issuance.
+â
+The goal is for any issuer of security tokens to use Brickkenâs technology, and for this issuer to:
+â
+Comply with local regulations.
+â
+Comply with the specifications of the issuance itself (the what).
+â
+Comply with the process of how selling the security tokens may occur and by whom (the how).
+â
+Slow legally compliant transfer of security tokens to occur in secondary markets (the where).
+â
+Additionally, it is important to consider that while the biggest complexity lies in providing a solution that is compliant from a regulatory and technological point of view, the financial structure and tokenomics of the security token issuance must adhere to the end goal of the project.
+In this sense, the dApp must allow the issuer to establish what are the hard and the soft caps, what is the term or maturity of the loan in case of issuance of debt, or what is the shareholding allocation in the case of tokenized shares.
+â
+â
+Security token smart contracts
+â
+Smart contracts will be utilized to create two entities: the ERC20
+11
+ BKN utility token and an STO factory. The latter will deploy ERC20 dedicated STO tokens and escrow contracts for each STO that is issued through Brickkenâs dApp.
+â
+The BKN token will be the utility token associated with the dApp platform. With it, promoters can issue their own STOs.
+â
+The BKN utility token will be accessible via a Uniswap pool
+12
+. Promoters will need to acquire BKN to use the dApp. BKN is then used when performing STO activities.
+â
+Brickken aims to achieve the highest level of security, using audited libraries and smart contracts that follow the best practices to reduce attack vectors and possible exploits.
+â
+â
+The BKN utility token
+â
+The BKN utility token will have two fundamentally different and well-defined stages: the pre-issuance and the public sale.
+The objective of the pre-issuance stage is to allocate BKN utility tokens to future Security Token Offering (STO) issuers and different groups of people who trust in Brickkenâs vision.
+â
+The public sale will be conducted after the pre-issuance period has ended
+.
+â
+At this stage, the BKN utility token will be placed through an IEO and subsequently in a Uniswap pool, which will be pre-funded with USDC (a stablecoin) and BKN to enhance possibilities of the dApp.
+â
+Brickken will need to fund the pool to establish a fixed starting price, since automated market makers, and in particular Uniswap, use the Constant Product Formula to establish the price based on BKN/USDC pair funds deposited in the pool.
+â
+In essence, a Constant Product Formula is:
+â
+x -> amount of BKN present in the pool.
+â
+y -> amount of USDC present in the pool.
+â
+k = x*y -> where k is a constant (Constant Product Formula).
+â
+This means the price of y will be = k/x.
+â
+The price of x will be k/y at any time solely based on the funds present in the pool.
+â
+Naturally, both x and y amounts (BKN and USDC) must be funded. The amount to be supplied is determined by the target starting price.
+The utility tokens ERC20 contract will implement several functional advantages such as:
+â
+Representation of voting powers depending on the pro-rata holding of BKN.
+â
+STO issuers will hold BKN as collateral and there will be a system of rewards and penalties for issuers that fulfill the obligations established in their respective STO white papers. These rewards will come in the form of staking and slashing.
+â
+Compliance with many Ethereum improvement proposals such as EIP712 and EIP165.
+â
+Brickken will propose the creation of a DAO (Decentralized Autonomous Organization), which will govern decision making on matters such as protocol upgrades, allocation of social funds, and governance among others.
+â
+Serve as a payment token to third parties belonging to Brickkenâs Experts Ecosystem
+â
+â
+The STO factory
+â
+Bringing companies on-chain
+â
+Brickkenâs vision is to onboard companies into Web3, so its dApp was built under this premise. The dApp allows companies to tokenize their existing shareholding, and transform its equity into tokens.
+â
+In a very lean format, companies can establish what their current equity is, who their shareholders are, and perform their first token issuance. This would allow any business to begin its journey into Web3. In such token issuance, the shareholders will receive tokens in the same value as the shares they possess, and transform the tokens into the digital twin of the existing equity. This process allows the migration of companies from offline entities, to online organisms belonging to a decentralized ecosystem.
+â
+Furthermore, by creating this frictionless process, and providing them a management solution that can solve their needs now that they have been digitized, companies can now exist on-chain, interact and operate in this environment, and coexist with native structures such as the DAOs.
+â
+It is in this starting point that DAOs can also be onboarded into Brickkenâs dApp, since the tokenization process does not necessarily have to rely on the preexisting condition that shares or real world assets exist, as tokens can become the genesis for any project that is to be created natively in the blockchain.
+â
+The fundraising mechanism
+â
+One of the main functionalities of the dApp is to use technology as a fundraising mechanism, which is enabled thanks to the escrow contract linked to the Security Token Offering (STO).
+â
+STOs dedicated token will be generated within an STO factory that will deploy an ERC20 token contract for each new tokenization.
+This STO token will utilize whitelist access that will prohibit recipients from receiving tokens if they are not whitelisted, for example, if they did not pass the KYC process. These will only be tradable in secondary markets if the buyer has passed the KYC process and the issuer has accepted the request.
+â
+It is of utmost importance that the issuer of the security tokens controls the whole flow of security tokens from the primary to the secondary market, understanding and accepting which users can acquire security tokens.
+â
+This ensures compliance with the applicable legislation in relation to regulatory and anti money laundering (AML). Therefore, promoters or issuers of security tokens will always be responsible for the whitelisting of investors.
+â
+STO tokens will be acquired through an escrow contract specific to each tokenization. The escrow contract is a secure contract where investor capital is stored and protected by the smart contract. The smart contract is completely autonomous, independant and self-regulated. The escrow contract will only release the funds to the STO promoter when certain milestones have been reached:
+â
+Soft cap
+: the soft cap is the first milestone of any Security Token Offering (STO) and it is the minimum amount needed for the STO to proceed. This amount will be included in the STOâs white paper and investors will know it beforehand.
+When the soft cap is reached, the escrow account automatically releases the funds to the STO promoter and investors receive their tokens.
+Any economic benefit derived from the tokens will start accruing from the moment the soft cap is reached.
+If the soft cap is not reached within the time limits established by the white paper, the escrow account will automatically cancel the STO and return existing funds to the respective investors.
+Hard cap
+: the hard cap is the last milestone and it represents the total maximum amount of funds the STO promoter expects to raise. Once the hard cap is reached no additional tokens will be available in the primary issuance and the fundraising will be considered fully complete.
+The escrow account will release the remaining capital to the STO promoter and investors will receive their corresponding tokens.
+Intermediate stages
+: the STO promoter could include one or more intermediate stages between soft and hard cap for its fundraising. These stages would need to be defined in the STO white paper and would work as milestones.
+â
+Issuers will be able to call on the STO factory to deploy a new STO by using BKN utility tokens and ETH for the transaction. Investors, once whitelisted, will be able to purchase the corresponding STO tokens in any crypto asset for a fixed STO selling price.
+â
+Whenever an investor participates in an STO, the capital will be stored in an escrow account.
+â
+The first release of the security tokens will be made once the soft cap has been reached. The issuer of tokens will decide before the release the tranches of tokens between the soft and hard cap.
+â
+As a safety mechanism, it is important to establish that if the soft cap of a Security Token Offering is not met by the pre-established deadline, the capital already deposited into the escrow account will be reimbursed to investors
+.
+â
+As soon as the soft cap is reached, and the first tranche of tokens is released, these tokens will begin accruing income in the form of interests or dividends, and the issuer will be legally bound to meet obligations to investors.
+â
+The payments flowing from the issuer to investors will be deposited in the escrow contract by the issuer in any cryptocurrency and paid out to investors through the same escrow contract.
+â
+Regarding the security of the STO factory, clones will be deployed through a minimal proxy pattern and the entire protocol will be upgradeable through a UUPS pattern.
+â
+Building the Expertâs ecosystem
+â
+The biggest difference between utility tokens and security tokens, is the regulatory boundaries that govern them. Security tokens are highly regulated and monitored by national entities globally. However, the level of regulation and scrutiny differs from country to country.
+â
+In some of these there might be similarities on the legal level, mainly because most security related regulations rhyme, but regardless there always are differences. We can distinguish the position of countries regarding security token offerings into three main categories: i) countries that accept them and have regulated them, ii) countries that have not yet expressed an opinion on compliance and, iii) some other countries that have banned them. The first two categories are the most widespread and an increasing number of countries are recognizing the potential of security tokens, and are thus providing a regulatory path for their existence and adoption. In any case, due to the possible constraints that can exist at the local level, Brickken decided to introduce the figure of the experts.
+â
+In our experience over the past two years, we have seen that those who enter this world of security tokens are most often pioneers in applying this technology to their own field, and that is why they need anexpertâs guidance to be able to choose the best structure for their particular case. It always makes sense to tokenize a value-producing asset, but one needs to know how to do it in an efficient and legally compliant manner.
+â
+For this reason, we offer the possibility of contracting professional experts from different categories who can guide âthe issuerâ throughout the tokenization process, as support for our decentralized protocol, which allows anyone to use our technology to be able to issue their own security tokens. Brickkenâs goal is to offer the best and most complete experience to its protocol users and that requires assistance, especially in the legal field, on a local level. It is important that any project that wants to be tokenized respects the local laws at the jurisdiction of issuance, and for such compliance, the best experts in the market must be available. Experts go through the Brickkenâs Academy to have a chance of entering the selection process. Once their eligibility has been verified, they become part of the Brickken Expertsâ ecosystem and may start providing their services through the dApp, allowing them to generate a new unique selling point to distance themselves from possible competitors.
+â
+Usually, an STO is divided into five different phases: structure, legal, tokenization, distribution, and investor relations. For this reason, Brickkenâs experts will provide support in each of these phases in order to make each tokenization a success.
+â
+The Expertsâ Ecosystem economy works by the laws of supply and demand. Issuers will have full freedom in selecting their own experts. Due to Brickkenâs decentralized nature, and its complete commitment to transparency, each expert will be linked to all the projects for which they have been contracted for, in order to showcase their experience and quality. The more experience the expert obtains the higher they will rise in the ecosystem, and more favorable conditions they will get, as their experience is measured by the number of projects in which the expert has participated within the dApp.
+â
+Levels
+â
+LEVEL
+COMPLETED PROJECTS
+COMMISSION FEE
+Basic
+0-9
+20%
+Bronze
+10-49
+18%
+Silver
+50-99
+15%
+Gold
+100+
+12%
+Once an issuer decides to contract an expert, he will be required to make the payment, which will be withheld in the platform, until the client and the expert confirm the end of the collaboration. At this point, the protocol directly nets the fee from the expertâs payment (based on their level), transferring the rest of the sum to him. This reduces all risks of the experts not accomplishing the tasks they were hired for and for both actors to maintain at all times a legitimate behavior to achieve the common result.
+â
+In the future, another important dynamic inside the expert ecosystem will be staking. Staking BKN will help the expert get some added benefits such as appearing among the favorites in the platform, ranking higher in the search area, or being a suggested match when the issuer is contracting an expert from another category.
+â
+The experts ecosystem is a key point for Brickkenâs dApp, as it can help in achieving successful tokenizations by increasing the level of support. Furthermore, experts can also help DAOs in becoming legally compliant by wrapping their projects into a legal vehicle that can allow them operate, based on the jurisdiction from where they are created, and use Brickkenâs dApp to manage themselves. This ecosystem will establish protocol reliability and foster a network of professionals specialized in tokenization, which will amplify the voice of Brickken about the vision of letting the world tokenize itself.
+Token Suite
+Capitalization table management
+â
+The capitalization table, mostly called âcap tableâ, presents a breakdown of every companyâs ownership by stakeholder. It makes it simple to visualize who owns what, and it helps founders and investors in understanding the companyâs capital structure.
+â
+Traditionally, the cap table is a legal document describing the companyâs equity structure. Using blockchain technology, as the companyâs equity is represented by security tokens, all the transactions are stored on the network, which makes it even easier to visualize the capitalization table.
+â
+Brickken uses the blockchain networks APIs to access data automatically in real-time, and thus, provides its users with cap table visualizations, making it more simple and time-efficient for companies to documentate the capitalization table.
+â
+Manage your capitalization table on-chain
+â
+In a tokenized company, every token holder is a shareholder. Since secondary market transactions can occur, or further issuances of tokens, the cap table can be constantly changing. Brickken provides a real time visualization of the cap table, to provide issuers with the necessary metrics and information to manage a company on-chain, allowing them to know at any time who their token holders are, how many tokens they are holding, and what is the valuation of their stakeholding.
+â
+Monitor token holders profiles and transaction
+â
+Using Brickkenâs dApp, issuers can connect each wallet address with an investor profile and monitor all the information and transactions that the tokenholder has performed.
+â
+1-Click to send dividends to the Token Holders
+â
+Brickkenâs dApp allows issuers to send dividends to all the token holders in one-click from the company wallet connected.
+â
+Whitelabel dApp for tokenized companies
+â
+Brickkenâs decentralized protocol includes features to set up the branding and content of an optimized whitelabel dApp that provides Tokenizers with the tools needed to sell tokens, manage Token Offerings, and engage with their token holders.
+â
+Features applicable to DAOs
+â
+The features provided by Brickkenâs dApp are applicable for DAOs (Decentalized Autonomous Organizations), as the management solution embedded in the application itself is agnostic. As the vision of tokenization evolved, so did its approach on how to tackle the digital assets vertical, reason why it was understood since the inception that the dApp should cover different case scenarios and help bridge various realities now coexisting in an on-chain environment.
+â
+Tokenization
+Any asset or business can be broken down in fractional parts that retain the form of tokens, with equal rights and values, that can be purchased by anyone, anywhere, at any time.
+â
+Brickken offers a market leading, legally compliant, decentralized platform to perform Security Token Offerings (STOs) and investment management, making a secure, transparent, convenient solution in which to raise funds through tokenization.
+Architecture
+Brickkenâs dApp architecture is modular, based on microservices that connect to each other to facilitate the usage, upgradeability, and maintenance of the protocol.
+â
+â
+â
+â
+FRONT-END
+: 
+consists in micro front-ends that render components for a set of specific routes it is more performant than monoliths front-end.. the front-end will integrate MetaMask and an API service. The MetaMask integration is required to allow users to interact directly with the blockchain and protocol contracts, while the API service will handle KYC management, user logins, registrations, and general operations. The user has different views: he/she first has a smart contract wizard where the issuer user can deploy Security Tokens; once the company token is deployed and the smart contract is created, he/she will be able to access the dashboard where the company can be managed onchain, create pools, STOs, customize the launchpad for STOs, reviewanalytics around offerings, among others.
+â
+BACK-END
+: 
+The back-end will consist of a set of lambdas functions that serve the dashboard app, but also expose the tokenization service without the need for a dashboard. For this, the transactions that are sent through an API integration will use Infura instead of MetaMask to send the transactions to the blockchain.
+â
+KYC SERVICE
+: 
+The KYC service solution will connect to our existing Lambdas system. Acceptance and rejection of requests can be executed with the API or through the dashboard.
+â
+DATABASE
+: 
+The database will store useful information for the functionality that Brickken proposes to build (users that might register their emails, metadataâs, transactions, etc.).
+â
+SMART CONTRACTS
+: 
+The smart contracts will be made up of an ERC20 token contract (BKN), and a smart contract that serve as a factory for two other smart contracts;
+â
+The escrow contract is where investors deposit money until the STO is finalized.
+â
+The ERC20 token contract will represent STO specific tokens. The escrow contract will also be the one that issuers use to deposit the dividends/ interests that serves as revenue (yield) for the investors.
+â
+Additional challenges
+â
+Achieving scalability and low-cost bases in public blockchain networks
+â
+Existing solutions must deal with the lack of scalability and costs associated with public blockchain networks such as the Ethereum mainnet. For this reason, the solution adopted in many cases is to use a private blockchain, renouncing decentralization as an objective.
+Decentralization is a fundamental principle that governs Brickkenâs existence, given the advancement of scalability and cost solutions, we are comfortable building on Ethereumâs mainnet.
+To overcome this challenge, a solution is proposed based on the following flow:
+â
+â
+â
+The issuer will buy BKN from a Uniswap pool that Brickken will create during the public sale of the BKN utility token.
+â
+Once the issuer receives BKN utility tokens, the issuer can initiate a tokenization specifying the asset to be tokenized alongside the terms and conditions of the tokenization (purpose, place of issuance, financial terms, tokenomics, deadlines, etc.).
+â
+The result of this process will be two smart contracts: an STO token and an escrow contract. Used BKN will be stacked in the escrow contract while the STO is running.
+â
+The issuer must establish what is the hard cap and soft cap, but also when the STO starts and when it ends.
+â
+Investors will be able to invest in STOs with any cryptocurrency. Investorsâ money will be automatically converted to the stablecoin USDC. This is to avoid wide fluctuations of value in the short period of time that lasts between deposits being made to the finalization of the STO.
+â
+If the escrow reaches the soft or hard-cap the tokenization will be considered successful. The escrow will release the capital to the issuer and the security tokens to the investors. In a successful STO, the issuer will be able to withdraw the stake but if he decides to keep it staked it will be earning rewards over successful dividend payments. At the same time, bad issuers can have their stakes slashed if they donât meet dividend payments.
+â
+Investors will accrue interest and/or dividends on their acquired security tokens, thereafter, according to the terms and conditions of the STO, the issuer must deposit the accrued interests or dividends in the escrow contract. This objective will be achieved through the following flow:
+â
+â
+â
+â
+Technical approach to KYC implementation
+â
+The next technological challenge is related to legal aspects. For any user to be able to invest in an asset tokenization, it is a legal requirement to successfully pass a KYC process. Brickkenâs blockchain will comply with global data protection standards and applicable legislations, thus, cannot handle the personal data of users required for the on-chain KYC processes.
+Therefore, Brickken will offer a hybrid solution where the KYC processes will be completed off-chain (outside the blockchain network); users are manually registered in a whitelist in the protocolâs smart contracts. Therefore, no personal data of the user is stored in the blockchain, but its registration will trigger whitelisting, and will pass through the blockchain using smart contracts to accept users who have previously passed their KYC successfully.
+To overcome this challenge, a solution based on the following flow is proposed:
+â
+â
+â
+Issuers/Promoters send their KYC requests to Brickken. Brickken will have a white/blacklist to automatically resolve requests. Once resolved the issuer can now use the platform.
+The issuer is now validated and can start accepting or rejecting requests from investors.
+An unknown investor sends a KYC request to participate in an STO. Request is accepted/rejected by the issuer of that specific STO. A transaction is sent to the blockchain to whitelist the accepted investor in receiving STO tokens.
+The investor is now a validated user. The investor wants now to transfer the STOâs token to an unknown buyer.
+The unknown buyer submits a KYC request to the same issuer.
+The unknown buyer has the KYC request accepted and itâs now whitelisted to receive the STOâs token.
+The validated buyer receives the STO tokens.
+â
+Brickkenâs dApp architecture is modular, based on microservices that connect to each other to facilitate the usage, upgradeability, and maintenance of the protocol.
+The dApp and the BKN
+â
+The Fuel
+â
+BKN, Brickkenâs utility token, fuels all the transactions made using the Brickken decentralized protocol:
+â
+Payment of the protocolâs issuance fee
+â
+One of the payments methods for buying Token Offerings
+â
+The payment method for liquidating any service provided by an Expert from Brickkenâs ecosystem.
+â
+The Engine
+â
+A decentralized protocol capable of tokenizing equity providing companies that are migrating to web3 with easy-to-use tools to issue the security/equity token, launch and manage token offerings to raise funds, and manage the capitalization table and corporate relations. All compliant, transparent, and traceable on the Ethereum network. Moreover, the decentralized protocol provides to Decentralized Autonomous Organizations (DAO), and tokenized companies adopting the model, compliant governance features to run and manage voting proposals on-chain. 
+â
+The Ecosystem
+â
+Brickkenâs decentralized protocol creates an on-chain ecosystem of Tokenizers (companies tokenizing equity/asset), buyers (individual/institutional), Experts (individual/entity) who are trained and certified by the Brickken Academy to help the Tokenizers to succeed in their tokenizations.
+â
+The Vision
+â
+Brickkenâs vision is to become the infrastructure for companies to tokenize their equity and migrate into a Web3 environment, and create the ecosystem where different economic agents coexist around the BKN token.
+â
+Decentralized Application
+Features for Issuers
+Token Issuance
+Issue equity/security tokenâs smart contract in a matter of a few clicks.
+Token Offering Management
+Whitelabel Token Sales dApp with easy to use features to launch and manage Equity/Security Token Offerings.
+Capitalization Table and Corporate Management
+Manage the capitalization table of tokenized companies on-chain.
+Governance Features
+Launch and manage compliant voting proposals.
+KYC Management
+Receive and manage the KYC requests from potential buyers.
+Experts Ecosystem
+Hire individuals and/or entities in the different fields who are trained and certified by the Brickkenâs Tokenization Academy.
+Features for Investors
+Invest in tokenized companies
+Issue equity/security tokenâs smart contract in a matter of a few clicks.
+Fiat/Crypto Payments
+Brickkenâs decentralized protocol is integrated with partnersâ solutions to provide investors in tokenized companies with the freedom to choose their preferred investment method.
+Governance System
+Brickken has a governance system allowing the investors of tokenized companies to earn voting rights based on the amount of tokens held, and engage in the decision-making process.
+The Tokenization Process
+â
+In order for issuers to initiate a process, to access the STO factory, and to be able to use the dApp, the user will need to settle a fixed amount of BKN utility tokens into the protocol. To initiate an STO process, $5,000 on BKNs will need to be purchased and deposited in the escrow account. In addition, STO issuers will have to deposit a specific percentage of the funds raised as collateral to value the BKN in its ecosystem.
+â
+It is important to establish that investors in Security Tokens do not have to possess BKN to interact with the dApp or to be able to invest. Incentive mechanisms can be created to further link the BKN utility token with the STO being issued.
+â
+Monetization
+â
+Brickken will monetize the dApp through two paths: i) Business to Business (B2B) and ii) Business to Consumer (B2C).
+â
+B2B â Issuers
+â
+Brickkenâs monetization from issuers in a B2B model comes from:
+Tokenization fee: 
+Consist of a one-time payment made by the issuer that wishes to bring the company on chain, it would be a fixed amount of 5000$, this payment must be done on BKN at the current price of the market. This fee will automatically be transferred to a Brickken Ethereum address every time a tokenization is launched by the protocol.
+Success fee
+: consists of a one-off success fee of [3.00%] which is charged exclusively if the STOâs soft cap is reached, and calculated on the total amount raised after that. This fee will automatically be transferred to Brickkenâs Ethereum address every time the deposited funds in the escrow contract are distributed to the issuer.
+Experts fee: 
+consist of a one time match fee that the escrow run by the smart contract would deduce from the expert honoraries for providing the services required by the issuer, this amount would be changing depending on the number of services provided by the expert.
+â
+B2C â Investors
+â
+Brickkenâs monetization from investors in a B2C model arises from transactions investors engage in secondary markets. It is important to state that investors buying security tokens at their issuance do not have to pay any fees to Brickken.
+â
+Transaction fee: 
+every time an investor in an STO sells their security tokens to a third party, inside Brickkenâs platform, in a peer-to-peer manner, or in third party centralized or decentralized application, Brickken will obtain a fixed transaction fee of [0.2%] per trade. In the future Brickken may add incentives such as discount fees and volume-based tiering; Brickken will not charge more than [0.2%] for secondary transactions.
+Fiat gateway Fee
+: every time an investor buys cryptocurrency using our fiat gateway inside the platform, Brickken will earn a fee of 1.5% of the amount per transaction.
+Token Economy
+Initial Coin Distribution
+ 
+â
+The issuance will have an initial limit of BKN [150,000,000].Â 
+Of this amount, the liquidity pool which will be created will be made by depositing 12,000,000 (8%) in tranches of 3.000.000 (2%),Â  into the Uniswap pool to ensure the stability of the token; the pool will be funded with USDC. USDC is a stablecoin and it will come from a liquidity vault created from the value generated by the protocol from its business model.
+The initial open price will be set by the relation between the BKN coming from tokenization fee and the amount of money raised by all the companies brought on chain by the protocol. This implies that the price ratio is going to be determined by the added value that the protocol brings to the ecosystem at the time of depositing each 3.000.000 BKN until closing the 12.000.000 BKN.
+Uniswap is an automated liquidity protocol powered by a Constant Product Formula and implemented in a system of non-upgradeable smart contracts on the Ethereum blockchain. This removes the need for trusted intermediaries, prioritizing decentralization, censorship-resistance, and security. Uniswap is open-source software licensed under the GPL.
+After the funding of the liquidity pool a percentage of the liquidity vault would be used to fund proposals on the Brickken DAO adding more stakeholders to the equation and allowing the protocol to grow in a decentralized way.
+â
+Social and DAO
+â
+â
+Tokenization will change the world as we know it. One of the main considerations of STOs is to allow smaller, less fortunate individuals and businesses, to access capital markets in a less restricted approach. For instance, certain undeveloped countries may lack the appropriate financial infrastructure to gain access to funding, or countries with questionable governments may suffer from corruption or other nation state related risks that may result in investors rejecting investment propositions from these countries.
+To enable individuals and businesses to have the same access to capital markets as other more developed countries, Brickken is considering allocating a share of its profits to allow smaller individuals and businesses to obtain a discount onÂ the cost of tokenization.
+As mentioned, Brickken intends to develop a DAO. The purpose of the DAO will be to provide community members with decisional powers on protocol upgrades. For example, to incentivise the allocation of social funds to fund STOs which are governed by ESG parameters, general governance, and protocol upgrades.The goal is to be as decentralized as possible with a major emphasis on involving the community, whichÂ  will be crucial to the success of the project.
+â
+Incentivising the self-sustainability of the ecosystem by the use of BKN as the vehicle of investment
+â
+It is Brickkenâs purpose to design and develop a self-regulated STO ecosystem. We acknowledge that certain limitations arise from full decentralization. Among others, it is possible that certain STO issuers intentionally try to misuse the ecosystem itself. Such decentralization makes it difficult to actually control who can and cannot access the ecosystem. As a result, Brickken will develop an embedded system that will carry out certain actions automatically and autonomously to safeguard investorsâ interests. STOs will have a collateral mechanism by which the BKN received by issuers carrying a tokenization from investors will be deposited in the escrow account taking the shape of stake. The escrow account will mint or slash the rewards which will be added or withdrawn to the balance of BKN Depending on the amount of BKN received and the behavior of the issuer
+â
+The STO factory will incorporate a reward/penalty system by which Good Actors will receive staking in the form of BKN that could be sold or used to deploy additional STOs or services payable in BKN. On the other hand, Bad Actors will be penalized seeing their BKN deposits slashed and will be included on a Blacklist.Â 
+â
+Allocation %
+Allocation BKN
+Community Sale
+16,67
+25.000.000
+TREASURY
+28,33
+42.500.000
+Team
+16,67
+25.000.000
+Liquidity Pool
+8,00
+12.000.000
+Advisors
+1,67
+2.500.000
+Airdrop
+1,50
+1.500.000
+Strategic Sale
+16,67
+26.500.000
+Public Sale 1
+4,00
+6.000.000
+Public Sale 2
+4,00
+6.000.000
+Community Incentives
+2,00
+3.000.000
+Total
+100
+150.000.000
+â
+Community Sale
+â
+The Community Sale of tokens will be sold at a discount. We will apply a discount of 50% on the pre-established price of the BKN utility token ($0.16 USD). The Community Sale will begin on September 1st, 2021, at 12:00 (UTC +0) and end on March 31th, 2022, at 12:00 (UTC +0) subject to market conditions. The initial distribution of BKN tokens issued for the community sale period is 25.000.000 BKN tokens.Â 
+â
+The Community sale and the warchest will be used to fund the operations of Brickken, its development and upgrades of the dApp. This also includes talent acquisition, contract development, business expansion, training, and development budget. In addition, the funds will also be dedicated to expand the Brickkenâs brandâs awareness, becoming the worldâs most popular decentralized STO dApp for tokenization services. This involves all related marketing activities including PR, media buying, language coverage, promotion and education. Finally, a percentage of the funds will be kept as cash reserves to cover unexpected contingencies.
+â
+Buyers can subscribe their interest by sending an email to 
+[email protected]
+. Allocation of tokens will be done on a first come, first serve basis, and once the corresponding SAFT has been signed.Â 
+â
+Community sale token buyers will receive wrapped BKN (wBKN), in a parity with the purchased tokens (1 wBKN : 1 BKN). The buyers can begin exchanging their wrapped tokens for BKN in the platform provided by Brickken one year after listing in an exchange has happened. Brickken will be providing extra incentives to purchasers of this sale, that are going to be distributed from the Community Incentives Allocation to promote holding and evade a cliff when the swap can occur.
+â
+Once the community sale token buyers have exchanged their wBKN for BKN, they can begin liquidating their positions.
+â
+Brickken aims to demonstrate its commitment to the success of the project and requests community investors to do so as well.
+â
+Community staking
+â
+WBKN holders will have only one opportunity to stake their tokens, once deposited they will be converted to BKN to start the stake process and the wBKN will be burned.Â  
+â
+Time
+â
+The benefit of stacking the wBKNÂ  will be offered under the condition of vault or lock down, it will have three closed periods of time:
+First option âAâ of 12 months (released JanÂ  2024).
+Second option âBâ of 18 months (released June 2024).
+Third option âCâ of 24 months (released Jan 2025).
+â
+Staking amount
+â
+For the first term available (12 Month), the amount to be distributed will be 600.000 BKN, split between the amount of wBKN invested, with a max stackable amount of 6MM.
+â
+For the second option (18 month) the amount to be distributed will be 1.000.000 BKN split between the amount of wBKN invested, with a max stackable amount of 8MM
+â
+For the third option (24 month) the amount to be distributed will be 1.400.000 BKN split between the amount of wBKN invested, with a max stackable amount of 11MM
+â
+Smart contracts will be available from January 2023. The performance of each of the options will split between participants that have deposited wBKN, so the amount obtained will be the result of wBKN deposit/total amount of BKN on the option of staking selected, and will progressively decrease as more wBKN join such option until it has reached the maximum amount of wBKN allowed in the staking pool.Â 
+â
+Strategic Allocation
+â
+There will be an allocation of 26.500.000 BKN offered to institutional buyers only, focused on bringing the best corporate know-how possible and for expanding Brickkenâs network with Centralized Exchanges (CEX), Market Makers (MM), Key Opinion Leaders (KOL), among others. Brickken will be looking for strategic partners who can help position the company in a prime position. Every BKN will be sold at $0.10 USD.
+â
+Public Sale 1 and 2
+â
+The first public sale (â1st Public Saleâ) will start in March 2023 and will allocate a total of 6.000.000 BKN at a price of $0.11 USD representing a discount of 31,25% for those buyers who want to participate in it.
+â
+The 1st Public Saleâs vesting period will last 18 months after BKNâs listing date. The distributionâs structure will consist of a linear dripping by which 0.185% of the tokens purchased are released per day until the tokens acquired have been fully released (c.540 days).Â 
+â
+The second public sale (the â2nd Public Saleâ) will start after it. It will have an allocation of 6.000.000 BKN at a price of $0.13 USD representing a discount of 18,75% for those buyers who want to participate in it.
+â
+The 2nd Public Saleâs vesting period will last 11 months after BKNâs listing date. The distributionâs structure will consist of a 20% on TGE and a linear drippingÂ  starting at the first month, but claimable from month 2, by which 0.242% of the tokens purchased are released per day until the tokens acquired have been fully released (c.330 days).Â 
+â
+Vesting programme of the Brickken team
+â
+In line with the above, the Brickken team will vest its tokens in stages.Â 
+â
+The vesting schedule will be linear in time and will last 5 years and 10 months starting from September 1st 2021 for shareholders (equal to 90% of the 16,67% of tokens allocated to the team) and 1 year starting from September 1st 2021 for employees (equal to the remaining 10% of the 16.17%).
+â
+Community allocation
+â
+This pool has been created to generate rewards and incentives for all buyers to use Brickkenâs protocol, to participate in the decision making process, and to generate a healthy investment ecosystem.
+All these incentives would be continuously adjusted to nurse the growth of Brickkenâs ecosystem.
+â
+Treasury
+â
+Brickken has allocated 28.33% Â of the initial supply as a war chest, which will be used to fund;
+Bounties.
+Hackathons.
+Protocol upgrade rewards.
+DAO creation and funding.
+Ecosystem incentives.Â 
+These tokens can be sold through a private or public sale in the Uniswap pool only after the BKN has been launched.
+â
+Advisors
+â
+All Brickken Advisors are subject to the same agreement.Â 
+â
+Advisors will receive wBKN starting September 1st, 2021, until launch day and prior.
+â
+Advisors can begin using their wBKN to invest in STO issuances on the Dapp or wait until their locked up mechanism has finished. The vesting lockup period for advisors will be 12 months after the BKN is listed. The distribution will be linear during the next 6 months, releasing 0,550% of the tokens purchased per day until all provided tokens have been supplied.
+Team
+The Brickkeneers
+Edwin Mata
+CEO 
+&
+ Co
+-
+Founder
+Chief Executive Officer
+Yassir Haouati
+COO 
+&
+ Co
+-
+Founder
+Chief Operating Officer
+Bram Duindam
+CMO 
+&
+ Co
+-
+Founder
+Chief Marketing Officer
+Ludovico Rossi
+CRO
+Chief Revenue Officer
+Felipe D'Onofrio
+CTO
+Chief Technology Officer
+Pedro Sandoval
+CFO
+Chief Financial Officer
+Dario Lo Buglio
+Co
+-
+Founder
+Head of Blockchain
+Elisenda Fabrega
+Manager
+Head of Legal & DPO
+Roberto RodrÃ­guez
+Team Member
+Senior Frontend Developer
+SebastiÃ¡n Marichal
+Team Member
+Full-Stack Developer
+Nabil El Alami Khalifi
+Team Member
+Blockchain Developer
+NÃºria Ciscar
+Team Member
+UX & Frontend Developer
+JosÃ© MuÃ±oz
+Team Member
+DevOps Architect
+Jose Agreda
+Team Member
+Full-Stack Developer
+Cruz Ortiz
+Team Member
+Full-Stack Developer
+Felix Tejland
+Team Member
+Marketing Manager
+Rodrigo Palacios
+Team Member
+Business Development
+Ludovica Turconi
+Team Member
+Channel Manager
+NicolÃ¡s GonzÃ¡lez
+Team Member
+Sales Development Rep
+Joselyne Heymann
+Team Member
+Financial Analyst
+Samantha Anguiano
+Team Member
+Legal Counsel
+References
+â
+Subprime Financial Crisis:
+https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008
+â
+Satoshi Nakamoto: 
+https://en.wikipedia.org/wiki/Satoshi_Nakamoto
+â
+Smart Contracts: 
+https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
+ICO: 
+https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-16
+â
+SEC: 
+https://www.investopedia.com/terms/s/sec.asp
+â
+Howey Analysis: 
+https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets
+â
+Securities Act 33â: 
+https://www.investopedia.com/terms/s/securitiesact1933.asp
+â
+Securities Exchange Act 34â: 
+https://www.investopedia.com/terms/s/seact1934.asp
+â
+Abridged Deloitte Article: 
+https://www.wyoleg.gov/InterimCommittee/2019/S3-20190506TokenizationArticle.pdf
+â
+WEF: 
+https://www3.weforum.org/docs/WEF_Responsible_Digital_Transformation.pdf
+â
+ERC20: 
+https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
+â
+Uniswap Pool: 
+https://uniswap.org/docs/v2/core-concepts/pools/
+â
+USC Stablecoin: 
+https://www.coinbase.com/usdc/
+â
+Constant Product Formula: 
+https://uniswap.org/docs/v2/protocol-overview/how-uniswap-works/
+â
+DAO: 
+https://en.wikipedia.org/wiki/Decentralized_autonomous_organization
+â
+Uniswap: 
+https://uniswap.org
+â
+SAFT: 
+https://www.investopedia.com/terms/s/simple-a
+
+
+
+
+SOLUTIONS
+Token Suite Platform
+Benefits of Tokenization
+What can be Tokenized
+Marketplace of Services
+BKN Token
+Talk to a Specialist
+How to Tokenize
+Tutorials
+
+
+
+
+USE CASES
+Franchise Tokenization
+Real Estate Tokenization
+Startups Tokenization
+Entertainment Tokenization
+Institutional Tokenization
+Utility Tokens To Equity
+SAFE, SAFT & OTC
+Cross-Border Transactions
+
+
+
+
+COMPANY
+About Us
+Blog
+BKN Whitepaper
+Our Community
+Asset Tokenization
+Become a Partner
+Become an Affiliate
+Become an Ambassador
+
+
+
+
+LEGAL
+Legal Disclaimer
+Terms & Conditions
+Privacy Policy
+Cookies Policy
+Sign up to receive 
+Brickken updates 
+and participate in 
+Raffles & Giveaways
+
+
+
+
+
+
+
+
+Â© 2020-2024 BRICKKEN SOLUTIONS S.L.. 
+ALL RIGHTS RESERVED
+
+
+
+
+BACK TO TOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

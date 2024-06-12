@@ -1,0 +1,194 @@
+Overview | Persistence One
+Search
+Ctrl
+â+âK
+ð
+Overview
+ð
+Learn
+Introduction
+Ecosystem Overview
+Persistence Foundation
+Persistence Labs
+Fundamentals
+What is Proof-of-Stake
+What is Cosmos
+What is DeFi
+What is Liquid Staking
+ð
+Persistence DEX
+Introduction
+Pools
+Fees
+Rewards
+Tradooor Rebate Program
+Instant LP Unbonding
+Contracts
+Technical Architecture
+Security
+Guides
+Managing Assets
+Trading Assets
+Providing Liquidity
+Bonding/Unbonding Tokens
+Claiming Rewards
+Creating New Pool
+Metastable Pool
+Weighted Pool
+Stable Swap Pool
+ð
+Participate & Explore
+$XPRT Token
+Token Contract Metadata
+Acquire
+Stake
+Governance
+Alternative Frontends
+Hosting IPFS Versions with Pinata
+IPFS Automation
+Wallets
+Explorers
+Bridges
+Persistence Bridge
+Satellite Bridge (by Axelar)
+Useful Tools
+âï¸
+Build, Integrate, Validate
+Running Nodes
+Run a Local Node
+Run a Testnet Node
+Run a Mainnet Node
+Node operations
+State Sync
+Run in the background
+Cosmovisor upgrades
+Manual upgrades
+Seed & Peers
+Public Infrastructure
+Persistence Testnet
+Endpoints
+Snapshots & Archival Nodes
+Faucets
+Chain Registry
+Validators
+Validate on Testnet
+Validate on Mainnet
+Validator Communication
+Foundation Delegations
+â¡ï¸
+Round 1 - Closed
+â¡ï¸
+Round 2 - Closed
+â­
+Bonus Delegation
+â¡ï¸
+Round 3 - Applications closed!
+Relayers
+IBC Channels
+IBC Relayers
+Relay on Mainnet
+Relay on Testnet
+Indexers
+Graph
+Connect to a Subgraph
+Run a Subgraph
+Run a Graph Firehose
+SubQuery
+Overview
+Smart Contracts
+Overview
+Uploading a Contract
+CosmWasm
+Modules
+pSTAKE module
+Epochs module
+Liquid Staking Module
+For Validators
+Developer Tools
+Persistence JS
+Persistence SDK
+Persistence CLI
+Contribute
+Grants
+â­
+Coin-type Migration from 750 to 118
+Persistence Wallet
+Keplr Wallet
+Ledger Hardware Wallet
+Cosmostation Wallet
+Coin98 Super Wallet
+Math Wallet
+Leap Wallet
+Citadel Wallet
+ð
+Geofencing on Persistence
+ð
+Connect & Follow
+Powered by GitBook
+ð
+Overview
+Welcome to Persistence Docs! Here you can find anything and everything related to the Persistence Liquid Staking Hub. We invite you to Learn, Participate, Explore, Build, Integrate, Validate and Connect with us on this journey. 
+Note: This new Persistence Docs is still in a draft stage. We apologise if the information you're looking for is not yet available. Feel free to contribute to make it better, or please reach out to the team directly with any questions you might have. 
+Learn ð
+The perfect place to build context in case you're just getting started
+Introduction
+About Persistence, the why, the problem statement and the offered solutions
+Ecosystem Overview
+Explore the various parts of the Liquid Staking Hub
+Foundation
+To foster a flourishing Liquid Staking Ecosystem by driving utility to $XPRT
+Labs
+Driving product innovation, applications and tools for the Persistence Network. 
+Fundamentals
+Some basic concepts to get you started
+Participate & Explore ð
+Your participation matters! Read all about how you can participate in the Persistence ecosystem, and explore all the tools available to help you do so.  
+$XPRT
+Find out how to acquire and stake the native ecosystem token and use it in Governance and DeFi.
+Wallets
+Find out which wallets to use to interact with the Persistence chain
+Explorers
+Your options to find the on-chain data you need
+Bridges
+Your options for bridging assets into or out of Persistence
+Other Tools
+Useful other tools for users, developers and validators
+Build, Integrate, Validate âï¸
+Technical Documentation for builders & validators
+Running Nodes
+How to run a node locally, on testnet or on mainnet
+Validators
+How to become a validator on testnet or mainnet
+Relayers
+Which relayers are maintained, and how to run one yourself
+Indexers
+How to connect to and even run Graph Nodes
+Smart Contracts
+How to build Dapps on top of the Persistence Chain via CosmWasm
+Modules
+Understand the current modules and how to leverage them
+Tools
+Find all tools that have been built for the ecosystem
+Contribute
+How to contribute to the persistence ecosystem
+Grants
+How to get support & funding from the Foundation
+Connect & Follow ð
+Find all links to the Persistence official pages and channels 
+on this page
+.
+Disclaimer:
+ 
+While this docs page is provided and maintained as a collaborative effort between Persistence Labs & the Persistence Foundation, there is no guarantee that all presented information is up-to-date at all times. We invite the community to flag any errors or inaccuracies and contribute to keeping the docs up-to-date. 
+Next
+Introduction
+Last updated 
+1 month ago
+On this page
+Learn ð
+Participate & Explore ð
+Build, Integrate, Validate âï¸
+Connect & Follow ð
+Was this helpful?
+Edit on GitHub
+ 

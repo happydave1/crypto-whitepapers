@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+IoTeX - DePINâs Modular Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Build
+Participate
+Discover
+About 
+Awards, Certifications 
+& Research
+Awards, Certifications 
+& Research
+Awards, Certifications 
+& Research
+Awards, Certifications 
+& Research
+Industry Awards
+Co-chair
+IIC Blockchain Working Group
+Co-chair
+IIC Blockchain Working Group
+Co-chair
+IIC Blockchain Working Group
+Vice Chair
+IEEE P2418.1 Standard
+Vice Chair
+IEEE P2418.1 Standard
+Vice Chair
+IEEE P2418.1 Standard
+Member
+Confidential Computing Consortium
+Member
+Confidential Computing Consortium
+Member
+Confidential Computing Consortium
+CES Innovation Award
+for Ucam
+CES Innovation Award
+for Ucam
+CES Innovation Award
+for Ucam
+In the News
+PSA Certified Crypto API
+PSA Certified Crypto API
+PSA Certified Crypto API
+Research Paper
+Decentralized Physical Infrastructure Networks - A Modular Infrastructure Thesis
+Decentralized physical infrastructure network (DePIN) is currently one of the hottest narratives in Web3. In this report, we present a new thesis of DePIN, namely the modular DePIN infrastructure. By retrospecting the evolution of software development platforms for building physical infrastructure networks, we describe the new technology trend of building DePIN applications on top of a community-owned modular DePIN infrastructure and highlight the characteristics of this new DePIN thesis from both technical and economic perspectives.
+Read Now
+Decentralized Physical Infrastructure Networks - A Modular Infrastructure Thesis
+Decentralized physical infrastructure network (DePIN) is currently one of the hottest narratives in Web3. In this report, we present a new thesis of DePIN, namely the modular DePIN infrastructure. By retrospecting the evolution of software development platforms for building physical infrastructure networks, we describe the new technology trend of building DePIN applications on top of a community-owned modular DePIN infrastructure and highlight the characteristics of this new DePIN thesis from both technical and economic perspectives.
+Read Now
+Decentralized Physical Infrastructure Networks - A Modular Infrastructure Thesis
+Decentralized physical infrastructure network (DePIN) is currently one of the hottest narratives in Web3. In this report, we present a new thesis of DePIN, namely the modular DePIN infrastructure. By retrospecting the evolution of software development platforms for building physical infrastructure networks, we describe the new technology trend of building DePIN applications on top of a community-owned modular DePIN infrastructure and highlight the characteristics of this new DePIN thesis from both technical and economic perspectives.
+Read Now
+Decentralized Physical Infrastructure Networks - A Modular Infrastructure Thesis
+Decentralized physical infrastructure network (DePIN) is currently one of the hottest narratives in Web3. In this report, we present a new thesis of DePIN, namely the modular DePIN infrastructure. By retrospecting the evolution of software development platforms for building physical infrastructure networks, we describe the new technology trend of building DePIN applications on top of a community-owned modular DePIN infrastructure and highlight the characteristics of this new DePIN thesis from both technical and economic perspectives.
+Read Now
+White Paper
+IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT), which brings autonomous device coordination to the masses by âconnecting the physical world, block by blockâ. This paper introduces its several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques.
+Read Now
+RU
+ZH
+KO
+IT
+ PT
+White Paper
+IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT), which brings autonomous device coordination to the masses by âconnecting the physical world, block by blockâ. This paper introduces its several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques.
+Read Now
+RU
+ZH
+KO
+IT
+ PT
+White Paper
+IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT), which brings autonomous device coordination to the masses by âconnecting the physical world, block by blockâ. This paper introduces its several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques.
+Read Now
+RU
+ZH
+KO
+IT
+ PT
+White Paper
+IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT), which brings autonomous device coordination to the masses by âconnecting the physical world, block by blockâ. This paper introduces its several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques.
+Read Now
+RU
+ZH
+KO
+IT
+ PT
+Yellow Paper â Roll-DPoS
+Roll-DPoS inherits all the advantages of the original DPoS consensus framework and further enhances its capability in terms of decentralization as well as extensibility to complex blockchain architectures.
+A number of modern cryptographic techniques have been utilized to optimize the consensus process with respect to the computational and communication overhead.
+Read Now
+Yellow Paper â Roll-DPoS
+Roll-DPoS inherits all the advantages of the original DPoS consensus framework and further enhances its capability in terms of decentralization as well as extensibility to complex blockchain architectures.
+A number of modern cryptographic techniques have been utilized to optimize the consensus process with respect to the computational and communication overhead.
+Read Now
+Yellow Paper â Roll-DPoS
+Roll-DPoS inherits all the advantages of the original DPoS consensus framework and further enhances its capability in terms of decentralization as well as extensibility to complex blockchain architectures.
+A number of modern cryptographic techniques have been utilized to optimize the consensus process with respect to the computational and communication overhead.
+Read Now
+Yellow Paper â Roll-DPoS
+Roll-DPoS inherits all the advantages of the original DPoS consensus framework and further enhances its capability in terms of decentralization as well as extensibility to complex blockchain architectures.
+A number of modern cryptographic techniques have been utilized to optimize the consensus process with respect to the computational and communication overhead.
+Read Now
+Decentralized Framework for Data Authenticity Protection in IoT Systems
+This paper proposes DIoTA, a novel decentralized ledger-based authentication framework for IoT devices. DIoTA uses a two-layer decentralized ledger architecture together with a lightweight data authentication mechanism to facilitate IoT devices and data management.
+We also analyze the performance and security of DIoTA, and explicitly give the major parameters an administrator can choose to achieve a desirable balance between different metrics.
+Read Now
+Decentralized Framework for Data Authenticity Protection in IoT Systems
+This paper proposes DIoTA, a novel decentralized ledger-based authentication framework for IoT devices. DIoTA uses a two-layer decentralized ledger architecture together with a lightweight data authentication mechanism to facilitate IoT devices and data management.
+We also analyze the performance and security of DIoTA, and explicitly give the major parameters an administrator can choose to achieve a desirable balance between different metrics.
+Read Now
+Decentralized Framework for Data Authenticity Protection in IoT Systems
+This paper proposes DIoTA, a novel decentralized ledger-based authentication framework for IoT devices. DIoTA uses a two-layer decentralized ledger architecture together with a lightweight data authentication mechanism to facilitate IoT devices and data management.
+We also analyze the performance and security of DIoTA, and explicitly give the major parameters an administrator can choose to achieve a desirable balance between different metrics.
+Read Now
+Decentralized Framework for Data Authenticity Protection in IoT Systems
+This paper proposes DIoTA, a novel decentralized ledger-based authentication framework for IoT devices. DIoTA uses a two-layer decentralized ledger architecture together with a lightweight data authentication mechanism to facilitate IoT devices and data management.
+We also analyze the performance and security of DIoTA, and explicitly give the major parameters an administrator can choose to achieve a desirable balance between different metrics.
+Read Now
+DKSAP-IoT
+âFaster Dual-key Stealth Address for Blockchain-based Internet of Things Systems (icbc2018â9009)â has been accepted and published by one of the worldâs most reputable academic blockchain conferences, the 2018 International Conference on Blockchain (ICBC 2018).
+IoTeXâs new protocol (named âDKSAP-IoTâ) is an IoT-friendly adaptation of DKSAP, which reduces computational overhead by 50% compared to DKSAP, thereby paving the way for its application to blockchain-based IoT systems.
+Read Now
+DKSAP-IoT
+âFaster Dual-key Stealth Address for Blockchain-based Internet of Things Systems (icbc2018â9009)â has been accepted and published by one of the worldâs most reputable academic blockchain conferences, the 2018 International Conference on Blockchain (ICBC 2018).
+IoTeXâs new protocol (named âDKSAP-IoTâ) is an IoT-friendly adaptation of DKSAP, which reduces computational overhead by 50% compared to DKSAP, thereby paving the way for its application to blockchain-based IoT systems.
+Read Now
+DKSAP-IoT
+âFaster Dual-key Stealth Address for Blockchain-based Internet of Things Systems (icbc2018â9009)â has been accepted and published by one of the worldâs most reputable academic blockchain conferences, the 2018 International Conference on Blockchain (ICBC 2018).
+IoTeXâs new protocol (named âDKSAP-IoTâ) is an IoT-friendly adaptation of DKSAP, which reduces computational overhead by 50% compared to DKSAP, thereby paving the way for its application to blockchain-based IoT systems.
+Read Now
+DKSAP-IoT
+âFaster Dual-key Stealth Address for Blockchain-based Internet of Things Systems (icbc2018â9009)â has been accepted and published by one of the worldâs most reputable academic blockchain conferences, the 2018 International Conference on Blockchain (ICBC 2018).
+IoTeXâs new protocol (named âDKSAP-IoTâ) is an IoT-friendly adaptation of DKSAP, which reduces computational overhead by 50% compared to DKSAP, thereby paving the way for its application to blockchain-based IoT systems.
+Read Now
+Scalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemes
+âScalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemesâ has been accepted by CASCON 2018. CASCON is a premier industrial and academic conference for advanced studies in computer science and software engineering sponsored by the IBM Canada Laboratory.
+This paper presents IoTeXâs extensive experiments with three elliptic curves and two signature schemes which demonstrate the efficacy of using short-lived signature schemes for improving the scalability of PBFT significantly
+Read Now
+Scalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemes
+âScalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemesâ has been accepted by CASCON 2018. CASCON is a premier industrial and academic conference for advanced studies in computer science and software engineering sponsored by the IBM Canada Laboratory.
+This paper presents IoTeXâs extensive experiments with three elliptic curves and two signature schemes which demonstrate the efficacy of using short-lived signature schemes for improving the scalability of PBFT significantly
+Read Now
+Scalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemes
+âScalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemesâ has been accepted by CASCON 2018. CASCON is a premier industrial and academic conference for advanced studies in computer science and software engineering sponsored by the IBM Canada Laboratory.
+This paper presents IoTeXâs extensive experiments with three elliptic curves and two signature schemes which demonstrate the efficacy of using short-lived signature schemes for improving the scalability of PBFT significantly
+Read Now
+Scalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemes
+âScalable Practical Byzantine Fault Tolerance with Short-lived Signature Schemesâ has been accepted by CASCON 2018. CASCON is a premier industrial and academic conference for advanced studies in computer science and software engineering sponsored by the IBM Canada Laboratory.
+This paper presents IoTeXâs extensive experiments with three elliptic curves and two signature schemes which demonstrate the efficacy of using short-lived signature schemes for improving the scalability of PBFT significantly
+Read Now
+Supporting Blockchain-Based Cryptocurrency Mobile Payment With Smart Devices
+There is a natural demand to support cryptocurrency payments on smart devices. Considering the poor infrastructure and low penetration of financial services in developing countries, this combination has high potential impact. This paper proposed two different schemes for cryptocurrency mobile payments, one involving a centralized bank and the other not requiring any centralized party.
+This paper also provides a solution to meet KYC (know your customer) and AML (anti-money laundering) compliance requirements in the context of cryptocurrency mobile payment processing. This work has been published in IEEE Consumer Electronics Magazine.
+Read Now
+Supporting Blockchain-Based Cryptocurrency Mobile Payment With Smart Devices
+There is a natural demand to support cryptocurrency payments on smart devices. Considering the poor infrastructure and low penetration of financial services in developing countries, this combination has high potential impact. This paper proposed two different schemes for cryptocurrency mobile payments, one involving a centralized bank and the other not requiring any centralized party.
+This paper also provides a solution to meet KYC (know your customer) and AML (anti-money laundering) compliance requirements in the context of cryptocurrency mobile payment processing. This work has been published in IEEE Consumer Electronics Magazine.
+Read Now
+Supporting Blockchain-Based Cryptocurrency Mobile Payment With Smart Devices
+There is a natural demand to support cryptocurrency payments on smart devices. Considering the poor infrastructure and low penetration of financial services in developing countries, this combination has high potential impact. This paper proposed two different schemes for cryptocurrency mobile payments, one involving a centralized bank and the other not requiring any centralized party.
+This paper also provides a solution to meet KYC (know your customer) and AML (anti-money laundering) compliance requirements in the context of cryptocurrency mobile payment processing. This work has been published in IEEE Consumer Electronics Magazine.
+Read Now
+Supporting Blockchain-Based Cryptocurrency Mobile Payment With Smart Devices
+There is a natural demand to support cryptocurrency payments on smart devices. Considering the poor infrastructure and low penetration of financial services in developing countries, this combination has high potential impact. This paper proposed two different schemes for cryptocurrency mobile payments, one involving a centralized bank and the other not requiring any centralized party.
+This paper also provides a solution to meet KYC (know your customer) and AML (anti-money laundering) compliance requirements in the context of cryptocurrency mobile payment processing. This work has been published in IEEE Consumer Electronics Magazine.
+Read Now
+Ucam: A User-Centric, Blockchain-Based and End-to-End Secure Home IP Camera System
+Home IP cameras are consistently among the most popular smart home devices thanks to their key security and safety related features. However, recent news stories about home IP cameras getting hacked frequently have posed serious security and privacy concerns for consumers.
+Ucam is a user-centric, blockchain-based and end-to-end secure home IP camera system. Ucam leverages advanced technologies such as blockchain, end-to-end encryption and trusted computing to address a number of vulnerabilities in the existing solutions.
+Read Now
+Ucam: A User-Centric, Blockchain-Based and End-to-End Secure Home IP Camera System
+Home IP cameras are consistently among the most popular smart home devices thanks to their key security and safety related features. However, recent news stories about home IP cameras getting hacked frequently have posed serious security and privacy concerns for consumers.
+Ucam is a user-centric, blockchain-based and end-to-end secure home IP camera system. Ucam leverages advanced technologies such as blockchain, end-to-end encryption and trusted computing to address a number of vulnerabilities in the existing solutions.
+Read Now
+Ucam: A User-Centric, Blockchain-Based and End-to-End Secure Home IP Camera System
+Home IP cameras are consistently among the most popular smart home devices thanks to their key security and safety related features. However, recent news stories about home IP cameras getting hacked frequently have posed serious security and privacy concerns for consumers.
+Ucam is a user-centric, blockchain-based and end-to-end secure home IP camera system. Ucam leverages advanced technologies such as blockchain, end-to-end encryption and trusted computing to address a number of vulnerabilities in the existing solutions.
+Read Now
+Ucam: A User-Centric, Blockchain-Based and End-to-End Secure Home IP Camera System
+Home IP cameras are consistently among the most popular smart home devices thanks to their key security and safety related features. However, recent news stories about home IP cameras getting hacked frequently have posed serious security and privacy concerns for consumers.
+Ucam is a user-centric, blockchain-based and end-to-end secure home IP camera system. Ucam leverages advanced technologies such as blockchain, end-to-end encryption and trusted computing to address a number of vulnerabilities in the existing solutions.
+Read Now
+Decentralized IoT Data Authorization with Pebble Tracker
+Decentralized identifiers (DIDs) and verifiable cre- dentials (VCs) are emerging concepts for creating verifiable self- sovereign digital identities for people, organizations and Internet of things (IoT).
+In this demo, we share the implementation details and experiences for realizing a decentralized IoT data authorization framework with a Pebble tracker, an in-house built trusted GPS tracking device with 4G connectivity and sensor technologies.
+Our implementation demonstrates great flexibility and tremendous advantages towards building decentralized and global-scale IoT applications. To the best of our knowledge, this is the first real-world demo for enabling decentralized IoT data authorization with DIDs and VCs.
+Read Now
+Decentralized IoT Data Authorization with Pebble Tracker
+Decentralized identifiers (DIDs) and verifiable cre- dentials (VCs) are emerging concepts for creating verifiable self- sovereign digital identities for people, organizations and Internet of things (IoT).
+In this demo, we share the implementation details and experiences for realizing a decentralized IoT data authorization framework with a Pebble tracker, an in-house built trusted GPS tracking device with 4G connectivity and sensor technologies.
+Our implementation demonstrates great flexibility and tremendous advantages towards building decentralized and global-scale IoT applications. To the best of our knowledge, this is the first real-world demo for enabling decentralized IoT data authorization with DIDs and VCs.
+Read Now
+Decentralized IoT Data Authorization with Pebble Tracker
+Decentralized identifiers (DIDs) and verifiable cre- dentials (VCs) are emerging concepts for creating verifiable self- sovereign digital identities for people, organizations and Internet of things (IoT).
+In this demo, we share the implementation details and experiences for realizing a decentralized IoT data authorization framework with a Pebble tracker, an in-house built trusted GPS tracking device with 4G connectivity and sensor technologies.
+Our implementation demonstrates great flexibility and tremendous advantages towards building decentralized and global-scale IoT applications. To the best of our knowledge, this is the first real-world demo for enabling decentralized IoT data authorization with DIDs and VCs.
+Read Now
+Decentralized IoT Data Authorization with Pebble Tracker
+Decentralized identifiers (DIDs) and verifiable cre- dentials (VCs) are emerging concepts for creating verifiable self- sovereign digital identities for people, organizations and Internet of things (IoT).
+In this demo, we share the implementation details and experiences for realizing a decentralized IoT data authorization framework with a Pebble tracker, an in-house built trusted GPS tracking device with 4G connectivity and sensor technologies.
+Our implementation demonstrates great flexibility and tremendous advantages towards building decentralized and global-scale IoT applications. To the best of our knowledge, this is the first real-world demo for enabling decentralized IoT data authorization with DIDs and VCs.
+Read Now
+Â©
+2024
+IoTeX
+|
+Terms of Use
+|
+Privacy Policy
+Â©
+2024
+IoTeX
+|
+Terms of Use
+|
+Privacy Policy
+
+
+
+
+
+
+

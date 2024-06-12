@@ -1,0 +1,95 @@
+Welcome to Ellipsis Finance | Ellipsis Finance
+Ellipsis Finance
+Search
+Ctrl
+â+âK
+Welcome to Ellipsis Finance
+Understanding Crypto Pools
+The EPX Token
+Understanding $EPX
+$EPX Tokenomics
+Locking
+Incentive Voting
+Pool Votes
+Migrating EPS to EPX
+Liquidity Providers
+Understanding Ellipsis Pools
+Base, Meta and Factory Pools
+Depositing into a Base Pool
+Depositing into a Metapool
+Staking for EPX rewards
+Projects and Protocols
+Why Would a Project Use Ellipsis?
+List your token on Ellipsis
+Guides
+What is APR and vAPR?
+Using the Multichain Permissionless Bridge
+More Information
+Deployment Links
+Code Audits
+Admin Multisig
+Ellipsis Registry
+List a Token with the Pool Factory
+Deploying a Stable Pool
+Seeding a Stable Pool
+Deploying a Crypto Pool
+Seeding a Crypto Pool
+Pool Incentives and Rewards
+Pool Assets
+Links
+ellipsis.finance
+Twitter
+Medium
+GitHub
+Telegram CN
+Telegram EN
+Powered by GitBook
+Welcome to Ellipsis Finance
+The most flexible and capital-efficient DEX on BNB Chain
+Ellipsis is a decentralized exchange, and an authorized fork of 
+Curve Finance
+ on BNB chain that generally solves 3 problems:
+It offers efficient, well priced swaps.
+It offers yield to token holders in a safe, well tested environment.
+It offers a solution for protocols to build deep liquidity for their tokens.
+Who should use Ellipsis?
+People who need to swap tokens.
+People with tokens looking for yield.
+Protocols looking for liquidity for their pools.
+More about Ellipsis
+Ellipsis is an Automated Market Maker (AMM) or exchange that lets users and other decentralised protocols exchange tokens (BUSD to USDC, for example) with low fees and low slippage.
+Unlike exchanges that match a buyer and a seller, Ellipsis uses liquidity pools. To achieve successful exchange volume and low slippage, Ellipsis needs a high amount of liquidity (tokens) in the pools. To incentivize liquidity to deposit in Ellipsis pools, Ellipsis offers rewards in EPX tokens to liquidity providers.
+What are liquidity pools?
+Liquidity pools are pools of tokens that sit in smart contracts and can be exchanged or withdrawn at rates set by the parameters of the smart contract.  Adding liquidity to a liquidity pool gives you the opportunity to earn trading fees and possibly rewards.
+What are liquidity providers and LP tokens?
+Liquidity providers (LPs) refers to the people who provide liquidity in Ellipsis' pools. For example, if you deposit USDC + BUSD into the 3EPS pool, you are a liquidity provider in the 3EPS pool. 
+When you deposit, in return you receive LP tokens representing your deposit in the pool.
+What does it mean to 
+stake LP tokens
+?
+Staking LP tokens refers to staking your LP tokens in Ellipsis to receive the EPX rewards from a pool. 
+What is the EPX token?
+Ellipsis (EPX) is the native token for Ellipsis. It has four main uses: 
+As a reward for Liquidity Providers.
+For voting on pool incentives.
+Locking for platform fees.
+Locking to boost Liquidity Provider rewards.
+Trading Fees
+Ellipsis trading fees are 0.04% for stable or like-kind pools, and range from 0.04% to 0.4% for crypto pools like BUSD <> BNB. 
+50% of the trading fees are distributed to liquidity providers in the pools where the trades happen. The other 50% is distributed to EPX lockers.
+What is a Week or Epoch on Ellipsis
+A week on Ellipsis refers to the 7-day period between Thursdays, 00:00:00 UTC and Wednesdays, 23:59:59 UTC. 
+Locks expire at the end of the weeks, and voting periods run from the start to the end of a week.
+Next
+Understanding Crypto Pools
+Last updated 
+1 year ago
+On this page
+Was this helpful?
+More about Ellipsis
+What are liquidity pools?
+What are liquidity providers and LP tokens?
+What does it mean to stake LP tokens?
+What is the EPX token?
+Trading Fees
+What is a Week or Epoch on Ellipsis

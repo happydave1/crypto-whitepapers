@@ -177,32 +177,6 @@ Quick Start Guide
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Jump to Content
 Testnet Tools
 Mainnet Tools
@@ -1595,24 +1569,6 @@ Mint, send, and receive tokens and NFTs between managed wallets
 
 
 Summary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

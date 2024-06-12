@@ -1,0 +1,385 @@
+FIO Protocol Developer Hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Content
+Home
+Guides
+Recipes
+API Reference
+Changelog
+Discussions
+v1.8
+v1.9
+FIO Protocol Main Site
+FIO Protocol Main Site
+Moon (Dark Mode)
+Sun (Light Mode)
+FIO Protocol Developer Hub
+Welcome! You'll find comprehensive guides and documentation to help you start working with FIO Protocol as quickly as possible. Let's jump right in!
+Get Started
+API Reference
+v
+1.9
+Home
+Guides
+Recipes
+API Reference
+Changelog
+Discussions
+Search
+Integrating FIO
+Getting Started
+Benefits of Integration
+Integration Options
+View Moreâ¦
+ 
+FIO Chain
+Overview
+FIO Chain Details
+Protocol Guides
+View Moreâ¦
+ 
+Contributing to FIO
+Getting Started
+FIO Improvement Proposals
+Bug Bounty Program
+View Moreâ¦
+ 
+FIO Protocol APIs
+FIO Protocol APIs
+FIO Chain Getters API
+Getting Started
+FIO Handle
+FIO Token
+View Moreâ¦
+ 
+FIO Chain V1 History API
+Getting Started
+History
+FIO Chain Action API
+Getting Started
+Actions: Block Producers
+Actions: FIO Chain
+View Moreâ¦
+ 
+FIO Handle Registration API
+Getting Started
+/buy-address
+/renew-address
+View Moreâ¦
+ 
+FIO Service API
+Getting Started
+/staking
+/supply?json=true
+View Moreâ¦
+ 
+Try FIO Protocol TypeScript SDK!
+
+
+TypeScript SDK is maintained by paid Workers of the FIO Foundation DAO and is the most up-to-date. Check out this SDK Sandbox:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

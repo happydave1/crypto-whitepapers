@@ -1,0 +1,371 @@
+Navigation | English | Alpaca Finance
+English
+English
+ç®ä½ä¸­æ
+æ¥æ¬èª
+à¹à¸à¸¢
+Tiáº¿ng Viá»t
+FranÃ§ais
+PortuguÃªs
+íêµ­ì´
+Ð ÑÑÑÐºÐ¸Ð¹
+ÙØ§Ø±Ø³Û
+TÃ¼rkÃ§e
+Filipino
+Malay
+Bahasa Indonesia
+Search
+Ctrl
+â+âK
+ð§­
+Navigation
+ð¦
+Alpaca Finance
+Our Protocol
+ð
+Our Products
+ð
+How to Participate
+Introduction to Six Simple Strategies to Earn
+Strategy 1: Hold a Token While Earning High Yields at Low Risk; aka Lend & Stake
+Strategy 2: Hold a Token Pair to Earn Auto-Compounded Yields Without Leverage
+Strategy 3: Supercharge Your Stablecoin Yields
+Strategy 4: Multiply Crypto Gains in a Bull Market
+Strategy 5: Yield Farm Profitably in a Bear Market
+Strategy 6: Multiply Crypto Gains in Any Market by Hedging
+ðºï¸
+Roadmap
+ð
+Security
+ð
+Transparency (Audits & Contracts)
+ð
+Links
+ð°
+Media Coverage
+â¤ï¸
+Charity
+ð
+Global Protocol Parameters
+â«
+Leveraged Yield Farming Parameters
+ð
+AF1.0 Interest Rate Model
+ð
+Automated Vault Parameters
+ð
+Perpetual Futures Exchange Parameters
+ð
+AF2.0 Parameters
+Tokenomics
+ð
+ALPACA Token
+ð°
+ibTokens
+âï¸
+Pool Allocations
+ð¥
+Proof of Burn
+Burn Sources Details
+Lending
+ð¦
+Introduction to Lending
+â
+Risks
+â­ï¸
+Step-by-Step Guide
+Lend & Stake
+Withdraw
+Leveraged Yield Farming
+ð
+Introduction to Leveraged Yield Farming
+ð
+Pool-Specific Parameters
+PancakeSwap Pools
+Mdex Pools
+Biswap Pools
+SpookySwap Pools (Deprecated)
+WaultSwap Pools (Deprecated)
+ð§®
+Leveraged Yield Farming Mechanics
+PancakeSwap Farms
+Mdex Farms
+Biswap Farms
+SpookySwap Farms (Deprecated)
+WaultSwap Farms (Deprecated)
+ð
+AF1.0 Liquidation
+â
+Risks
+â­ï¸
+Step-by-Step Guide
+Open a Leveraged Yield Farming Position
+Adjust a Leveraged Yield Farming Position
+Close/Partially Close a Leveraged Yield Farming Position
+Claim Rewards
+Liquidate Positions
+Automated Vaults
+âï¸
+Introduction to Automated Vaults
+Market-Neutral Strategy
+Savings Vault Strategy
+ð§®
+Hedging Mechanics
+â¬
+Lowering Vault Leverage Mechanics
+ð
+Private Automated Vault
+ð
+Backtest Results
+â
+Risks
+â­ï¸
+Step-by-Step Guide
+Invest in an Automated Vault
+View Your Automated Vault Position
+Withdraw from the Automated Vault
+Perpetual Futures Exchange
+ð®
+Introduction to Perpetual Futures Exchange
+Traders
+Liquidity Providers
+ð
+Launch Plan
+ð²
+Trading Fee Discount Program
+ð
+Referral Program
+â
+Risks
+â­ï¸
+Step-by-Step Guide
+Open a Leveraged Position
+Manage a Leveraged Position
+Close a Leveraged Position
+Swap Asset
+Invest in & Stake ALP token
+Unstake & Withdraw ALP token
+Alpaca Finance 2.0
+ð
+Introduction to Alpaca Finance 2.0
+Money Market
+Leveraged Yield Farming
+ð
+Launch Plan
+â­
+Incentive Rewards
+ð
+AF2.0 Liquidation
+â
+Risks
+â­ï¸
+Step-by-Step Guide
+Deposit
+Borrow
+Repay
+Withdraw
+Transfer between Accounts
+Looping Strategies
+Governance
+ð³ï¸
+Governance Vault
+ð
+Grazing Range (New)
+â¡
+Early Withdrawal
+ð
+Governance Sources Details
+ð
+Governance Discussion and Voting
+ðï¸
+AIP Details
+AIP-1: Handling of ITAM Rewards
+AIP-2: Governance Vault on Fantom
+AIP-3: Handling of Governance Vaultâs Early Withdrawal Penalty
+AIP-4.1: Handling of a recent bad debt on WaultSwapâs position
+AIP-4.2: Solution to eliminate bad debt risks from remaining Waultswap positions
+AIP-5: Interest Model Adjustment
+AIP-6.1: Limiting Access to Automated Vault
+AIP-6.2 Limiting Access to Automated Vault
+AIP-7: Handling of a recent bad debt on Fantom Network
+AIP-8.1: Increase AUSD utility by providing access to high-leveraged AVs
+AIP-8.2: Increase AUSD utility by providing access to high-leveraged AVs
+AIP-9: Deposit Liquidation Treasury Funds into Lending Pools while waiting to be used for buyback
+AIP-10: Further optimizing the borrowing interest rate slope
+AIP-11: Adjust Stability Fee for AUSD to help restore peg
+AIP-12: Handling of bad debt from the recent stkBNB's depeg
+AIP-13: Removing xALPACA requirement for accessing high-leveraged Automated Vaults
+AIP-14: Close remaining LYF positions on stkBNB-BNB pool to avoid any potential future bad debt
+AIP-15.1: Incentives for New Upcoming Products (Perp, AF2.0)
+AIP-15.2: Distribution Method - Incentives for New Upcoming Products (Perp, AF2.0)
+AIP-15.3: Incentives Amount for Perp - Incentives for New Upcoming Products (Perp)
+AIP-15.4: Incentives Amount for AF2.0 - Incentives for New Upcoming Products (AF2.0)
+AIP-15.5: Sources for Incentives - Incentives for New Upcoming Products (Perp, AF2.0)
+AIP-16: Adjusting Slope3 max interest rate
+AIP-17: Handling of extra ALPACA tokens from the AIP-15 incentives
+AIP-18: Sunsetting Leveraged Yield Farming Support for MDEX pools
+AIP-19: Implement Shielded Voting
+AIP-20: Aligning AF1.0 lending performance fee structure with AF2.0
+AIP-21.1: Adjusting bad debt repayment scheme from the stkBNB de-peg event
+AIP-21.2: Adjusting bad debt repayment scheme from the stkBNB de-peg event
+AIP-22: Paid Marketing Budget for Alperp and AF2.0
+AIP-23: Sunsetting Leveraged Yield Farming Support for TUSD
+AIP-24.1: New Governance Vault Implementation
+AIP-24.2: New Governance Vault Implementation - Unlocking Period
+AIP-24.3: New Governance Vault Implementation - Transferability
+AIP-24.4: New Governance Vault Implementation - Early Withdrawal
+AIP-24.5: New Governance Vault Implementation - Early Withdrawal Penalty Model
+AIP-25: Migration from AF1.0 -> AF2.0
+AIP-26: Transitioning the Governance Vault
+AIP-27: Alpaca Insurance Plan Update
+AIP-28: Updating Governance Voting Structure
+AIP-29.1: Converting Remaining BUSD in AF1.0 lending into USDT
+AIP-29.2: Charging conversion fees to the remaining BUSD depositors
+AIP-29.3: Determining the conversion fees
+AIP-30: New Product Proposal - Stablecoin
+AIP-31.1 Handling of remaining assets in the AUSDâs stable swap module
+AIP-31.2 Handling of remaining assets in the AUSDâs stable swap module
+â­ï¸
+Step-by-Step Guide
+Lock ALPACA in Governance Vault
+Lock more ALPACA/Extend Lock Time
+Claim Rewards from Governance Vault
+Add Custom tokens to your MetaMask
+Vote on Alpaca Improvement Proposal (AIP)
+Early Withdraw ALPACA from Governance Vault
+Withdraw ALPACA from FANTOM Governance Vault on BNB Chain
+Withdraw xALPACA from old Governance Vault
+ALPIES
+ð
+Introduction to Alpies
+ð
+Bridging your Alpies
+Bridging Alpies from ETH to BNB Chain
+Bridging Alpies from BNB Chain to ETH
+â¡
+Boosted Leverage
+Join the Herd (AlpaCareers)
+ð
+Hiring Section
+Help center
+ð©âð«
+Alpaca Academy
+Lesson 0 - How to Buy Alpaca and Start Earning Yields for Beginners(Lending+Staking)
+Lesson 1 - Alpaca Financeâs Unique Use-Case â Shorting at a Profit
+Lesson 2 - Introduction to Hedging with Double-Sided Borrowing
+Lesson 3 - Liquidation Risk in Leveraged Yield Farming
+Lesson 4 - Open/Close Positions With 0 Swap Fees
+Lesson 5 - The Truth About Impermanent Loss and Common Misunderstandings
+Proficiency Exams (earn NFTs)
+ð
+General Knowledge Articles
+Navigating the Economic and Safety Landscape of DeFi
+Yield Farming and Liquidity Mining: The Engines of DeFi Growth
+Leveraging Advanced DeFi Instruments for Secured Funds Compounding with Alpaca Finance
+Get Stablecoin Yields and Build Crypto Savings with Alpaca Finance's Lending Platform
+Understanding the Basics of Decentralized Finance (DeFi)
+Advanced Ways of  Decentralized Trading with Alpaca Financeâs Perpetual Futures Exchange
+Maximize Your Returns with Automated Vaults and Leveraged Yield Farming on Alpaca Finance
+What does 'buy and hold' or HODL mean in investing?
+What is DeFi Governance and why is it important?
+What exactly are DeFi Money Markets?
+What is yield farming and how does it differ from traditional investing?
+What exactly does 'unlocking liquidity from long-term holdings' mean?
+â
+FAQ
+ð§°
+Useful Tools
+ð
+Terminologies & Calculation Methodology
+ð§®
+APY Calculation
+ð
+Profit/Loss Calculation
+â ï¸
+Common Error Messages
+ð¸
+Third-Party Earning Opportunities with ALPACA
+Developers
+ð
+Bug Bounty Program
+ðï¸
+Protocol Configurations
+ð»
+Integrating With Alpaca Finance
+ðï¸
+AF2.0 Repurchasing Guide
+â¡
+AF2.0 Flashloan Guide
+Past Products
+ðµ
+AUSD (Old)
+ðµ
+Introduction to AUSD
+ð¹
+How to Participate
+ð¦
+AUSD Liquidation
+ã°ï¸
+AUSD Price Stability Module
+â
+Risks
+â­ï¸
+Step-by-Step Guide
+Open an AUSD Position
+Adjust an AUSD Position
+Close/Partially Close an AUSD Position
+Add/remove AUSD-3EPS LP tokens
+ð
+AUSD Parameters
+ð³ï¸
+Governance Vault (Old)
+â¡
+Early Withdrawal (Old)
+ð¿
+Grazing Range (Old)
+ðª
+Stronk Vault
+Powered by GitBook
+ð§­
+Navigation
+Welcome to Alpaca Finance
+Our Products
+Our Protocol
+Other Useful Pages
+Next
+Alpaca Finance
+Last updated 
+1 month ago
+On this page
+Welcome to Alpaca Finance
+Our Products
+Our Protocol
+Other Useful Pages
+Was this helpful?
+Alpaca Finance 2.0 (Money Market)
+Lending
+Leveraged Yield Farming
+Automated Vault
+Perpetual Futures Exchange (ALPERP)
+Governance Vault
+Alpies
+How to Participate
+Roadmap
+Security
+Transparency (Audits & Contracts)
+Links
+Media Coverage
+Charity
+Global Protocol Parameters
+ALPACA Token
+Alpaca Academy
+FAQ
+Useful Tools
+Terminologies & Calculation Methods
+Common Error Messages
+Third-Party Earning Opportunities with ALPACA
+Bug Bounty Program
+Protocol Configuration
+Integrating With Alpaca Finance
+AF2.0 Repurchasing Guide
+AF2.0 Flashloan Guide

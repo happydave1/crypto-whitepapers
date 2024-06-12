@@ -1,0 +1,231 @@
+Gelato, The Web3 Cloud Platform | Gelato Network
+Gelato Network
+Ask or Search
+Ctrl
+â+âK
+Introduction
+Gelato, The Web3 Cloud Platform
+Rollup As A Service
+Introduction
+Deploy your L2 Chain
+Execution Frameworks
+Polygon CDK
+OP Stack
+Arbitrum Orbit
+Data Availability
+Celestia
+Avail
+Reliability & Security
+Scaling Solutions Wiki
+Marketplace
+Gelato Services
+Data Indexers
+Block Explorers
+Oracles
+Bridges
+Account Abstraction
+On & Off-ramp
+Community
+Identity & KYC
+Others
+Rollup Public Testnet
+Introduction
+OP Celestia Raspberry
+Arbitrum Blueberry
+Polygon Blackberry
+Faucets & Bridging
+Development
+Write A Contract
+Deploy using Hardhat
+Verify Contracts
+Services
+Web3 Services
+Web3 Functions
+ð
+Understanding Web3 Functions
+1ï¸â£
+Trigger Types
+2ï¸â£
+Typescript Function
+3ï¸â£
+Solidity Function
+4ï¸â£
+Automated Transactions
+5ï¸â£
+Create a Web3 Function Task
+â©
+Using the UI
+â©
+Using a Smart Contract
+â©
+Using the Automate SDK
+ð
+Security Considerations
+ð
+Template & Use Cases
+ð
+Quick Start
+â¡ï¸
+Writing Typescript Functions
+â©
+Event Trigger
+â©
+Private Typescript Functions
+â©
+Callbacks
+â¡ï¸
+Test, Deploy & Run Typescript functions
+â¡ï¸
+Writing Solidity Functions
+â¡ï¸
+Test, Deploy & Run Solidity Functions
+â¡ï¸
+Initiate an Automated Transaction
+ð
+Analytics & Monitoring
+â
+Supported Networks
+ð
+Contract Addresses
+ð
+Blast Addresses
+ð°
+Subscription & Payments
+Account Abstraction
+Supported Networks
+Advantages & Highlights
+Templates & Examples
+Bundler API Endpoints
+eth_sendUserOperation
+eth_estimateUserOperationGas
+eth_getUserOperationByHash
+eth_getUserOperationReceipt
+eth_supportedEntryPoints
+eth_maxPriorityFeePerGas
+eth_chainId
+Relay
+ð¨
+What is Relaying?
+ð
+Security Considerations
+â ï¸
+ERC-2771 Delegatecall Vulnerability
+ð
+Installation
+ð
+Templates
+ð 
+Quick Start
+ð
+ERC-2771 (recommended)
+1ï¸â£
+sponsoredCallERC2771
+2ï¸â£
+callWithSyncFeeERC2771
+ð§
+Relay Context Contracts ERC2771
+ð§
+Non-ERC-2771
+3ï¸â£
+sponsoredCall
+2ï¸â£
+callWithSyncFee
+ð§
+Relay Context Contracts
+ð°
+Gelato's Fee Oracle
+â
+Optional Parameters
+ðµï¸
+Tracking your Relay Request
+â
+Supported Networks
+ð¸
+Subscriptions and Payments
+1ï¸â£
+1Balance & Relay
+2ï¸â£
+SyncFee Payment Tokens
+ð¨
+API
+â©
+Relay SDK with Viem
+â©
+Migration Guide ethers.js v5 to v6
+â©
+ERC2771 Migration Guide
+âï¸
+Join our Discord
+1Balance
+1Balance Alerts
+Subscription Plans
+Subscription Notifications
+USDC Addresses
+VRF
+ð
+Understanding VRF
+â
+How does Gelato VRF Work?
+ð
+Security Considerations
+ð
+Template
+ð
+Quick Start
+ð¢
+Deploying your VRF Instance
+ð¡
+Migrating from Chainlink VRF
+ð°
+Pricing & Rate Limits
+â
+Supported Networks
+Automate (Legacy)
+Supported Networks
+Paying for your transactions
+Execution & Balance Alerts
+Methods for submitting your task
+Gelato Automate UI
+Gelato Automate SDK
+Smart Contract
+Guides
+Tutorials
+What tasks can be automated?
+Defining function inputs
+Custom logic triggers
+Smart Contract Resolvers
+Web3 Functions
+Dedicated msg.sender
+Single Execution Task
+Multi contract execution
+Monitoring Automate Tasks
+Template real-world examples
+Yield vault harvesting
+Rewards Payout
+Petting Aavegotchis
+Code Repositories
+Contract Addresses
+Legacy Automate Migration Guide
+Gelato Network Contracts
+Teams
+Integrations
+Safe
+How-tos-videos
+How-To Playlist
+GELATO DAO
+DAO & Token (GEL)
+GEL Token Contracts
+Governance Process
+Social Media
+Powered by GitBook
+Gelato, The Web3 Cloud Platform
+View Layer-2 Rollup-as-a-Service deployment guides, and implementation tutorials for Gelato's suite of Web3 Services, such as Functions, Account Abstraction Infrastructure, VRF, and more.
+page
+Introduction
+page
+Web3 Functions
+Next
+Introduction
+Last updated 
+2 months ago
+On this page

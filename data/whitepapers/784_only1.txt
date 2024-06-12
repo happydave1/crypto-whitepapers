@@ -1,0 +1,93 @@
+Overview | ONLY1 WHITEPAPER
+ONLY1 WHITEPAPER
+Ask or Search
+Ctrl
+â+âK
+â¡
+Overview
+ð
+Product
+Memberships
+Messenger
+Explore
+Marketplace
+CRM Tools
+ð
+Benefits
+Social Login
+Pay with Card
+Gasless Transaction
+ð
+Crypto
+LIKE Token Utility
+LIKE Tokenomics
+Basic Information
+Release Schedule
+Wallets
+Token Allocation
+Investors
+â¹ï¸
+About
+Roadmap
+ð
+Help Center
+ð
+Links
+Powered by GitBook
+â¡
+Overview
+Updated April 2024
+What is Only1?
+Only1 is a next-generation membership-based social platform that redefines the way creators and fans connect. It ensures non-custodial, instant payments while providing a suite of tools for creators to optimize workflow and enhance revenue.
+Only1 has two membership types. Alongside subscriptions as traditional, monthly memberships, we implemented Passes, a new form of permanent premium membership.
+LIKE - Only1's utility token
+Be part of the innovative creator platform that strives to redefine the creator economy. We provide creators and fans alike with a one-of-a-kind platform experience while harnessing the power of decentralisation and Web3. Thus, LIKE is the creator platform utility token on Solana, shaping the future of the creator economy.
+
+
+LIKE Utilities:
+Buyback
+: 20% of the company profit will be used to buy LIKE quarterly
+Creator Staking
+: Fans stake their LIKE on favourite creators for APY
+Community Reward
+: Seasonal airdrops and more based on platform activities
+For Creators
+Creators can earn by launching two membership types to share exclusive content and receive tips from direct messages. Additionally, Only1's native CRM tools such as multi-account management and analytics help creators simplify and optimize workflow and revenue.
+Passes
+: First-ever permanent, premium membership, limited by number & resell-able by holders
+Subscription
+: P2P Monthly renewable membership
+Self-Custodial
+: Funds move almost instantly from fans to creator and no platform or payment processor will hold custodial of them
+CRM
+: Creators access tools for workflow boost, like multi-account management & fan analytics
+For Fans
+Fans can join different memberships to access exclusive content and direct message their favorite creators. Fans can also leverage our AI explore engine to discover content and creators. 
+Social Login
+: Log-in with social account. Upon log-in, a web3 wallet is created and linked
+Explore 
+: Discover content. Find interesting photos, videos and accounts. Powered by OpenAI CLIP
+Messenger
+: Send tips, gifts, private messages, photos, videos and gifs to creators through the messenger
+Pay with Card/Phone
+: 
+Top-up USDC through Credit Card, Apple/Google Pay & more
+Marketplace
+: Pass holders can re-sell Passes and users can purchase Passes on the marketplace
+Gasless transaction
+:
+ Network fees are paid natively in USDC
+How is Only1 better than Patreon or OnlyFans?
+Next
+Memberships
+Last updated 
+21 days ago
+On this page
+Was this helpful?
+Export as PDF
+ 
+What is Only1?
+LIKE - Only1's utility token
+For Creators
+For Fans
+How is Only1 better than Patreon or OnlyFans?

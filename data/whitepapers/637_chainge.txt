@@ -1,0 +1,87 @@
+The most liquid web 3 trading venue | Chainge Finance
+Chainge Finance
+Search
+Ctrl
+â+âK
+The most liquid web 3 trading venue
+Discover Chainge
+About CHAINGE
+Tokenomics
+Chainge Features
+The cross-chain aggregated DEX
+Cross-Chain Roaming
+EARN trough Time Framing
+The DEX trilogy
+The Spot DEX
+The Futures DEX
+The Options DEX
+Liquidity Pools
+Decentralized Escrow Service
+Decentralized Perpetuals
+Technology
+Time-Framing
+Quantum Swaps
+Get started
+The Chainge Wallet
+Earn trough Time Framing
+Easy onboarding
+Classic onboarding
+Account type: Begginer
+Account type: Expert
+GAS in Chainge Finance
+Payments
+Send assets to a contact
+Send assets to an address
+Request assets - from a contact
+The Magic Button & your QR Code
+List of supported assets
+List of supported chains
+API & SDK
+Introduction
+Third-Party Account System
+Supported Chains & Tokens
+Cross Chain Service
+Cross Chain Liquidity Aggregator Service
+Other helpful APIs
+Signature verification
+Fee Structure
+SDK Integration
+Set up the SDK
+Set up the service
+Usage
+SDK API
+Examples
+API Errors
+FAQ
+Examples
+CHAINGE SDK V1.0
+SDK Integration
+Set up the SDK
+Usage
+CHAINGE SDK API V1.0
+Chainge 2.0 API
+Quote
+Aggregate Swap
+Submit order
+Submit Ticket
+CHAINGE PLUGIN
+Plugin Integration
+Plugin Usage
+Official resources
+Github repositories
+Useful links
+Social networks
+CHGN Markets and Wallets
+More
+FAQ
+Fusion
+API ENDPOINTS
+API Endpoint for CMC
+Powered by GitBook
+The most liquid web 3 trading venue
+Next
+About CHAINGE
+Last updated 
+3 months ago
+On this page
+Was this helpful?

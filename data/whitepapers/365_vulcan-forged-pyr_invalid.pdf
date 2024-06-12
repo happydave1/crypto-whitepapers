@@ -446,7 +446,7 @@ The page you are requesting is not found            </h2>
                 });
 
         function GetAntiForgeyToken() {
-            var token = '<input name="__RequestVerificationToken" type="hidden" value="CfDJ8EHEgPN0OlZCiF51sV4WvVXszJWRuUUH4i_wU1mQd4q0YUgBieRGU-OXZfg5xXM4-oacurZwO5Q0NPvKvYvQ76lMYPhNZdHdWgUaUMHtWVgSDyUUAWh2bFs-OT8EdXJ7t8gvAvsArqFYLnz_W2-Ozbw" />';
+            var token = '<input name="__RequestVerificationToken" type="hidden" value="CfDJ8EHEgPN0OlZCiF51sV4WvVX0XbYXeLjqMKZ5pf1wz-Ntdunoj7ESlC_1gI7hwmPhmyzsrI_reu14Ncq89gsNNSuox3GTrNPai1KYDjbWWVYAGXicjJs0Mw3Is8zuXD_H3hSX29PVDAYY9chqbN7_KYs" />';
             token = $(token).val();
             return token;
         }

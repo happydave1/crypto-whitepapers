@@ -1,0 +1,37 @@
+White Paper V2 | BytomDAO
+BytomDAO
+Search
+Ctrl
+â+âK
+White Paper V2
+New Organzation
+New Economy
+New Architecture
+Model Tokenization
+CryptoGPT
+DAgent
+White Paper V1
+Our Vision
+The New Tokenomics
+The New Roadmap
+The Decentralized Future
+Governance
+Prerequisite conditions
+Obtaining voting rights
+Vote
+Submit Proposal
+Queuing and Executing Proposals
+Powered by GitBook
+White Paper V2
+The Next Generation of DAO
+BytomDAO is building an innovative DAO system based on the GenAI technology. If successful, it could considerably change the operating model of current entities and organizations. 
+The new system could transform the basic governance process from "Vote - Execute" to âCreate AGI - Decided By AGIâ. Our vision is to find a different and better way to AGI and make builders wisdom eternal.
+AGI (AGI) is the holy grail for explorers in the field of deep learning.  When AGI succeeds, machines will give everyone incredible new abilities to create new things or solve current problems. When people's abilities are infinitely magnified after using tools, professional skills and physical differences become increasingly insignificant, and the outcomes of personal actions are determined primarily by cognition and methods of thinking.
+However, everything always has two sides, the greater the ability, the greater the risk it brings. How to maintain a balance between privacy, interests, and values becomes a test.  OpenAI CEO Sam Altman predicts that there will be "one-person unicorn" in the future, but we believe that it will definitely not be a traditional organizational structure, because there are too many lessons in reality that make us realize the limitations (even OpenAI is also a lesson).So when the AGI comes, we believe that it is necessary to reshape the cooperative relationship between people and between organizations. 
+Below we will discuss the implementation from the aspects of organization, economy, and related technology.
+Next
+New Organzation
+Last updated 
+21 days ago
+On this page
+ 

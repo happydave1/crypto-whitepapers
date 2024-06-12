@@ -1,0 +1,73 @@
+JPool Stake Pool Manager | JPool SOL
+JPool SOL
+Search
+Ctrl
+â+âK
+JPool Stake Pool Manager
+About Jpool
+What's the point?
+How does it work?
+What's to come?
+guides and FAQ
+FAQ
+How to stake
+How to unstake
+For validator operators
+How to join JPool Delegation Program
+Technical Stuff
+General architecture
+Staking strategy
+Validator scoring
+Community Good scoring
+Monitoring and restrictions
+Roadmap
+Legal Information
+Terms of Service
+JPool App
+Powered by GitBook
+JPool Stake Pool Manager
+Stake with Joogh: A secure and efficient Solana Pool Manager.
+Hey there!
+If you are reading this, you are probably interested in staking your SOL with the best possible rewards. You've come to the right place.
+So why JPool?
+It's simple
+You don't need to analyze and compare validators, then keep monitoring those you've picked: We use a sophisticated scoring strategy in order to achieve smart, optimal distribution of SOL stake between all validator nodes participating in the pool.
+Constant monitoring of all nodes enables the algorithm to proactively identify possible node performance gaps and redistribute the stake to other validators, ensuring top overall returns in every epoch.
+It's transparent
+We maintain full visibility of all processes, strategic decisions made by the JPool engine, and validator ranking/scoring.
+You can be sure â and check for yourself â that the smart strategy works exactly the way it should.
+All our fees are also absolutely transparent and listed on the 
+information page
+.
+As of now, the epoch fee is
+ 5%
+ of the rewards, which means the effective commission is less than 
+0.3% p.a.
+In case of any fee changes, we will inform you about the changes in advance, using all available channels.
+It's profitable
+Staking with most reliable, best-performing validators directly maximizes your returns.
+It's good for the Solana network
+Higher decentralization and censorship resistance makes Solana stronger â which in turn makes your SOL rise in value!
+Great, sign me up!
+Sure thing.
+Get an SPL wallet (we recommend 
+Phantom
+), and 
+start staking
+.
+Next
+What's the point?
+Last updated 
+4 months ago
+On this page
+ 
+Not sure what Staking, Validator, or Stake Pool are? Check out our 
+.
+Hey there!
+So why JPool?
+It's simple
+It's transparent
+It's profitable
+It's good for the Solana network
+Great, sign me up!
+FAQ

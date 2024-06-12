@@ -1,0 +1,62 @@
+Overview | zkRace (ex DeRace) Whitepaper
+zkRace (ex DeRace) Whitepaper
+Search
+Ctrl
+â+âK
+Overview
+Introduction
+Problems targeted
+Solutions
+Summary
+Market overview
+Video gaming market
+Horse racing market
+Conclusion
+zkRace Game
+zkRace Core Game Features
+How does it work?
+NFT Horses
+NFT horse breeding
+NFT marketplace
+Horse racing
+Hippodromes
+Full automatization
+ZKRACE INFRASTRUCTURE
+Layer 2 zk-rollup solution
+Overcoming blockchain shortcomings
+Advantages of zkRace tech
+Technical summary
+NFT Tokens
+Genetic Algorithm
+Controled RNG technology
+zk-Rollups
+The extra layer of security
+Token Economy
+zkRace Coin
+zkRace Coin utility
+Player earnings
+Token holder benefits
+Business model
+Monetization
+Growth model
+Scaling
+Further expansion
+Final words
+Disclaimer
+Powered by GitBook
+Overview
+zkRace (ex DeRace) is both the front-running Web3 horse racing game & the world's 1st cutting-edge zk-rollup-based infrastructure tailored for GameFi and powered by ZERC
+zkRace as a game is a combination of 2 significantly growing multi-billion-dollar markets: video gaming, and horse racing, all merged by blockchain and NFT technologies.
+zkRace infrastructure based on zk-rollup technology is crafted for all Web3 gaming needs,
+ enabling scalability, transparency and seamlessness within GameFi projects.
+This innovative technology is gearing up to welcome other GameFi projects seeking to bypass traditional blockchain constraints. 
+Utilizing ZERC for transaction fees, this system significantly boosts the utility and demand for ZERC, derived directly from its practical application.
+zkRace's powerhouse token ZERC is set to bring forward the GamiFi revolution, 
+offering unparalleled utility by fuelling both the game and the underlying infrastructure.
+Pioneered by zkRace. Powered by ZERC. Tailored for GameFi and beyond.
+Next
+Problems targeted
+Last updated 
+1 month ago
+On this page
+Was this helpful?

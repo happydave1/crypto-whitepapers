@@ -1,0 +1,65 @@
+ResearchHub Docs | ResearchHub Docs
+ResearchHub Docs
+Search
+Ctrl
+â+âK
+ResearchHub Docs
+Welcome
+What is ResearchHub?
+The Problem
+Research grants incentivize waste
+Lack of accurate metrics
+Unintended consequences of modern grant funding
+The business model of for-profit academic publishers
+Infrastructural Deficiencies
+Limitations of physical laboratories
+Outdated Format of Research Outputs
+Barriers to participation
+Contact and Support
+Important Links
+ResearchHUb
+Mission, Vision, Values
+Hubs
+Product Features
+Posts
+Notebook
+Peer review
+Bounties
+Reputation (REP)
+Content Guidelines
+Editors
+ResearchHub Team
+ResearchCoin
+What is ResearchCoin
+Earning RSC
+RSC Tokenomics
+RSC Distribution Chart
+RSC Emission Schedule
+ResearchHub Foundation
+What is the ResearchHub Foundation?
+Partners, Programs, and Contributors
+Community Contributors
+Dework (Open Tasks)
+Example Dework Workflow
+Editors
+Editor Program Guidelines
+Peer Reviewer
+Peer Review Program Guidelines
+Journal Partners
+Incentives, Terms, and Conditions
+Our Journal Partners
+Ambassadors
+Our Ambassadors
+How can our programs improve?
+ResearchHub Foundation Team
+Contracts and Addresses
+Powered by GitBook
+ResearchHub Docs
+Accelerating scientific research
+The scientific record is too important to be hidden behind paywalls and in ivory towers. Science should be open: not only for reading, but also for reusing. 
+ResearchHub, and by extension ResearchCoin, are designed to accelerate the pace of scientific research by encouraging academics to interact in a fully open and collaborative manner. 
+These docs will describe the ResearchHub network, ResearchCoin, the impetus for the creation of both, and the intended impact on the scientific community.
+Last updated 
+4 months ago
+On this page
+ 

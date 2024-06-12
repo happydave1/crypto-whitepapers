@@ -1,0 +1,37 @@
+Welcome to Solchat | Solchat (v2)
+Solchat (v2)
+Search
+Ctrl
+â+âK
+ð
+Welcome to Solchat
+Overview
+â¨
+Our Features
+ð
+Tokenomics
+âï¸
+Web3 vs Web2
+â½
+Gas fee
+Product Guides
+ðª
+Roadmap
+âï¸
+Solchat Stake
+ð¤©
+Premium Features
+ð¤
+Revenue Sharing
+ð§
+Solchat V2
+Powered by GitBook
+ð
+Welcome to Solchat
+Solchat - Solana Communication Protocol
+Solana is currently a leading blockchain with lower gas fees. Therefore, we have introduced a communication protocol on Solana called Solchat. Users can text, voice call, video call, and do many other things similar to Web2, but in a Web3 environment. Solchat (beta v1) leverages the power of Solana, ensuring all messages and group chats are stored on-chain. Audio and video calls are facilitated peer-to-peer via WebRTC, eliminating the need for a database and preventing leaks. Privacy is our top priority, with every interaction encrypted.
+Next
+Our Features
+Last updated 
+17 days ago
+On this page

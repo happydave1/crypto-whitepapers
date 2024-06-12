@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lido on Solana was sunset | Lido on Solana
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+â  Lido on Solana was sunset on February 4th and is no longer supported by Lido DAO
+Lido on Solana
+Blog
+GitHub
+Sunset
+Manual withdrawal
+Outdated
+Sunset
+Lido on Solana was sunset
+4th of February, 2024 
+Lido on Solana
+ was sunset and is no longer supported by Lido DAO.
+If you haven't unstaked your funds, please check these manuals:
+Manual withdrawal with CLI
+Manual withdrawal with self-hosted widget
+If you need support with unstake and withdraw your funds contact our partner
+
+letsgo@p2p.org
+Next
+with CLI
+
+
+
+
+
+
+

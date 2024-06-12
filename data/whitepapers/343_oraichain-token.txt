@@ -81,7 +81,7 @@ This whitepaper describes the Oraichain's terminology, system overview, use case
 Next
 Introduction
 Last updated 
-6 months ago
+7 months ago
 On this page
 Was this helpful?
 Edit on GitHub

@@ -1,6 +1,6 @@
 Get Started | Docs | The Graph
 Upgrade Your Hosted Service Subgraphs
-Upgrade within 4 days
+Upgrade within 18 hours
 Show
  details
 â 
@@ -164,6 +164,7 @@ Scroll Mainnet
 Blast Mainnet
 Astar zkEvm Mainnet
 X Layer Mainnet
+Sei Mainnet Pacific-1
 NEAR
 Cosmos
 Osmosis

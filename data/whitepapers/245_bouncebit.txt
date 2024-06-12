@@ -23,6 +23,11 @@ Shared Security Clients
 BTC Bridge
 ð®
 Oracle
+Price Feed On-chain
+Price Feed Off-chain
+Data Feed Addresses
+ð½
+Ecosytem Integrations
 CeDeFi
 ð¦
 BounceBit CeFi + DeFi
@@ -121,5 +126,5 @@ Securely maximize yield with BounceBit CeDeFi.
 Next
 BounceBit's Philosophy
 Last updated 
-19 days ago
+21 days ago
 On this page

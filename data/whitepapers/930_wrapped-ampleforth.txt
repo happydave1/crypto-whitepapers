@@ -1,0 +1,162 @@
+Wrapped AMPL | FAQ
+FAQ
+Search
+Ctrl
+â+âK
+Introduction to Ampleforth
+Ampleforth Network Durability
+Lending & Borrowing
+Wrapped AMPL
+Liquidity Mining
+Links
+Document Hub
+Developer Docs
+Powered by GitBook
+Wrapped AMPL
+This document expands on the details of Wrapped-AMPL. Working draft 12/8/21.
+AMPL is a durable, fully-algorithmic unit of account. For more information about AMPL please see the 
+Introduction to Ampleforth
+ entry. 
+
+Although 
+AMPL
+ is an ERC-20 token that works natively with on-chain wallets and many decentralized finance applications, the nature of automatically changing balances sometimes calls for special technical considerations.
+Wrapped-AMPL is a token that wraps 
+AMPL
+ similar to wrapped ETH. It facilitates ecosystem integrations on both centralized and decentralized platforms. In some cases wrapped-AMPL (
+WAMPL
+) will be used almost invisibly in the background for bridging, routing, custody, etc. In other cases 
+WAMPL
+ will be a direct access point for end users who want to take a position in the 
+AMPL
+ network, but don't immediately need to use it as a unit-of-account.
+Key Benefits
+Fully Redeemable On-Chain
+ â Wrapped-AMPL is fully redeemable for AMPL on-chain. A user interface for wrapping and unwrapping 
+AMPL
+ can be found at 
+https://wrap.ampleforth.org
+
+
+Zero Technical Integration
+ âÂ If your platform supports ERC-20 tokens, it will support WAMPL by default without any technical considerations. 
+
+Easy to Understand 
+â
+Â 
+Users have come to expect that asset prices go up when thereâs more demand and down when thereâs less demand for it. 
+WAMPL
+ has this easy to understand property as well, which means thereâs less initial education required. Users can gradually develop an understanding of 
+AMPL
+ through 
+WAMPL
+
+
+Non Rebasing 
+â 
+AMPL
+ automatically adjusts the quantity tokens in user wallets based on demand. This key feature allows 
+AMPL
+ to act as a decentralized unit of account and DeFi building-block. However, the nature of changing balances breaks traditional assumptions for matching engines, custodians, etc. Wrapped-AMPL has a simple floating price. Although 
+WAMPL
+ cannot be used as a unit-of-account as 
+AMPL
+ can, it can be held by users and network and unwrapped on-the-fly as needed. 
+
+Fixed Supply 
+â The maximum total supply of 
+WAMPL
+ is 10 million tokens. Holding 100,000 
+WAMPL
+ is equivalent to holding 1% of the 
+AMPL
+ network. 
+
+Network Effects Transfer 
+â Because 
+AMPL
+ and 
+WAMPL
+ are fully redeemable for one another, the growth of the Ampleforth community and demand for 
+AMPL
+ translates directly to demand for 
+WAMPL
+and vice-versa.
+Overview 
+Wrapped-AMPL is the output of a simple contract that allows users to deposit 
+AMPL
+ and receive a non-rebasing ERC-20 token and vice-versa. Since both 
+WAMPL
+ and 
+AMPL
+ are on the Ethereum platform, there are no bridges or third-party custodians that stand between redeeming one token for another. 
+Contract Address 
+â
+Â 
+ The 
+WAMPL
+ mainnet contract address is: 
+0xEDB171C18cE90B633DB442f2A6F72874093b49Ef
+, view it on 
+Etherscan
+. 
+Github Repo
+ âÂ The contract code can be found on github at: 
+https://github.com/ampleforth/ampleforth-contracts/blob/master/contracts/WAMPL.sol
+. 
+Frequently Asked Questions
+Below we capture some of the most common questions asked about Wrapped-AMPL. Please join the 
+Ampleforth community Discord server
+; our team and members of the community look forward to helping you understand and use 
+WAMPL
+.
+1. Is holding WAMPL as good as holding AMPL?
+Holding 
+WAMPL
+ provides exposure to 
+AMPL
+. Although 
+WAMPL
+ has a floating price and cannot be used as a unit-of-account, from a portfolio's perspective buying and holding 
+WAMPL
+ is equivalent to buying and holding 
+AMPL
+.
+2. How many WAMPL are there?
+The supply of 
+WAMPL
+ depends on how much of the 
+AMPL
+ network has been wrapped by users. The maximum total supply of 
+WAMPL
+ is 10 million tokensâthat is to say, if 100% of the world's 
+AMPL
+ were to be wrapped, the total supply of 
+WAMPL
+ would be 10 million. 
+3. Does demand for WAMPL impact market cap growth of AMPL?
+Yes. If the demand for 
+WAMPL
+ suddenly changes, redemption arbitrage will propagate this change in demand to 
+AMPL
+and vice-versa. 
+Previous
+Lending & Borrowing
+Next
+Liquidity Mining
+Last updated 
+2 years ago
+On this page
+Was this helpful?
+Logo
+ âÂ Below is the official 
+WAMPL
+ logo to be used in integrations. 
+
+ 
+Key Benefits
+Overview 
+Frequently Asked Questions
+1. Is holding WAMPL as good as holding AMPL?
+2. How many WAMPL are there?
+3. Does demand for WAMPL impact market cap growth of AMPL?

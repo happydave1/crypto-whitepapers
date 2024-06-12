@@ -1,0 +1,119 @@
+Guide | Shido Docs
+Shido Docs
+Search
+Ctrl
+â+âK
+Guide
+Introduction
+Shido Network
+Introduction
+Overview
+About
+Compatibility & Scalability
+Proof-of-Stake (PoS)
+Scalability
+Token Standard
+Decentralized Governance
+Deflation & Burns
+Gasfree Function
+Validator & Delegator App
+Security
+Shido Bridge
+Decentralized Cloud Computation
+Shido CDK
+Tokenomics
+Shido Testnet
+Validator Guide
+Becoming a Validator
+How to Stake SHIDO
+Validator or Delegator
+Nodes
+Technical Documentation
+Shido Stablecoin
+Shido Grant Program
+Shido Institutional Program
+Introduction
+About
+What we offer
+Get in Touch
+Ecosystem
+Zero Carbon Footprint
+Wallets
+Shido CDK
+More Resources
+Shido App
+Introduction
+Cross-Chain Dex
+Fiat Support
+NFT Support
+Web3 dApps
+Fees & Rates
+Download Now
+Shido DEX
+Introduction
+Aggregation Protocol
+Liquidity Protocol
+Limit Protocol
+Perpetual DEX
+Fees & Rates
+Shido Staking
+Shido Perpetual
+Perpetual DEX
+Fees & Rates
+Shido DeFi Card
+Introduction
+DeFi Crypto Card
+Non-KYC & KYC
+Get Started
+Fees & Rates
+Card Types
+Fiat Currencies
+24hr Support Service
+Availability
+Shido Launchpad
+Introduction
+Features
+Shido Market NFT
+Fees & Rates
+SHIDO Token
+Shido
+About
+Story
+Team
+More
+Whitepaper V5
+Resources
+Partners
+Contribute
+GitHub
+Audits & Security
+Website
+Official Site
+Legal
+Privacy Policy
+Terms of Use
+Contact
+Get in touch
+Powered by GitBook
+Guide
+Welcome to Shido Global Official Documents.
+Here you will find all relevant Documents, How-To-Guides, SDKs, Rates and much more.
+You can find more information on our 
+official website (opens new window)
+.
+For help, visit our 
+User Support Group (opens new window)
+.
+For the latest news, follow our 
+X (opens new window)
+.
+To learn how to contribute to the Shido project itself, please contact us by 
+Email (opens new window)
+.
+Next
+Introduction
+Last updated 
+4 months ago
+On this page
+Was this helpful?
+ 

@@ -1,0 +1,34 @@
+Introduction to IDEX | IDEX Perpetuals
+Search
+Ctrl
+â+âK
+Introduction to IDEX
+Design Components
+High-performance Exchange
+Smart Contracts
+XCHAIN - Arbitrum Orbit L2
+User Benefits
+Order Types
+Market, Limit and Conditional Order
+Time In Force Selections (GTC, GTX, IOC, FOK)
+Post-Only Order
+Reduce-Only Order
+Markets and Market Details
+Index Price Oracle and Weights
+Fees
+IDEX Staking
+Liquidity Incentives
+Market Maker Rewards Program
+Delegated Keys
+IDEX Connect
+Liquidation Partner Program (LPP)
+Powered by GitBook
+Introduction to IDEX
+IDEX is a high-performance decentralized perpetual swaps exchange. IDEX's hybrid design combines an off-chain order book, matching and liquidation engine with on-chain custody and settlement. This approach combines the speed and efficiency of traditional trading systems with the transparency and security of blockchain technology to create an unparalleled trading experience.
+IDEX operates on XCHAIN, an IDEX specific Arbitrum Orbit layer 2. XCHAIN's performance support gas free and nearly instant settlement of all IDEX transactions. Positions on IDEX are collateralized by USDC bridged into XCHAIN via Stargate's Hydra protocol.
+IDEX is built for all traders, providing instant execution, millisecond latency, and gas-free settlement, while allowing users to maintain full control and custody of funds.
+Next
+Design Components
+Last updated 
+14 days ago
+On this page

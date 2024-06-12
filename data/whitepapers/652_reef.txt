@@ -1,0 +1,41 @@
+Reef - Reef Chain Documentation
+
+
+Reef
+
+
+
+
+Twitter
+GitHub
+Docs
+Blog
+Reef Documentation
+Reef is a modular layer 1 blockchain for DeFi, NFTs and gaming. It is built with Substrate, has EVM support and uses Nominated Proof of Stake consensus.
+Get started
+Open-source GPL3 Licensed. 
+GitHub
+Solidity support
+Port your existing DeFi applications from Ethereum to Reef without modifying the
+Solidity code.
+Scalability
+Reef has higher transaction throughput than legacy Ethereum, and is more efficient
+with blockchain storage.
+Upgradability
+Reef's WASM runtime is self-upgradable. New features, security updates and performance
+optimizations are applied with fork-less scheduled updates.
+EVM extensions
+Reef extends EVM with native token bridge, scheduled calls (ie.
+recurring payments), and smart contract in-place code upgrades.
+Reef staking
+Participate in Reef chain validation, upgrades and governance and earn rewards on your staked Reef tokens.
+Fee burn
+All activity on Reef chain, such as minting or selling NFTs, trading tokens and
+transacting on chain has associated fees. REEF from the transaction fees is burned.
+Reefscan
+ - 
+Remix
+ - 
+Console
+About Reef
+Github

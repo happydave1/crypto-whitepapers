@@ -105,12 +105,6 @@ Tutorial  (Legacy, not up-to date)
 FAQ
 Powered by GitBook
 EXPLORE
-Next
-About Aleph Zero
-Last updated 
-1 month ago
-On this page
-Was this helpful?
 About Aleph Zero
 AlephBFT Consensus
 The Economy of Aleph Zero
@@ -121,3 +115,9 @@ Aleph Zero Foundation Treasury Management
 Community
 Glossary
 Audit & Research Papers
+Next
+About Aleph Zero
+Last updated 
+1 month ago
+On this page
+Was this helpful?

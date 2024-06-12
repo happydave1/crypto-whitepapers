@@ -41,7 +41,7 @@ Governance
 Welcome
 Constitution
 Foundation
-Airdrop
+Governance Token & Airdrop
 Extra
 Naming Smart-Contracts
 Name Wrapper

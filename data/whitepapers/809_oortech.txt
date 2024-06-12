@@ -1,0 +1,117 @@
+What is OORT? | OORT
+ 
+OORT AI
+ 
+OORT Storage
+ 
+OORT Edge
+ 
+Github
+Search
+Ctrl
+â+âK
+About Oort
+What is OORT?
+Tokenomics
+OORT Roadmap
+Infrastructure
+Testnet III: Ascraeus
+Mining on Ascraeus
+Ascraeus Mining Guide
+Testnet II: Huygens
+Testnet I: Dome-A
+Community
+Ale Wallet
+Download Ale Wallet
+User Guide: Chrome Extension
+Chrome Extension Update
+Google Play Store Update
+Ale FAQ
+What is your Identity Walletï¼
+How to Create an Identity?
+How to Import with a Private key or Through a Keystore?
+How to recover your Identity?
+How do I transfer and receive?
+Developers
+Blockchain Developers
+Overview
+RPC nodes
+RPC Interfaces
+mcp
+web3
+Smart Contract Developers
+Truffle
+Hardhat
+Ale Wallet Developers
+List Your DApp on Ale Wallet
+Powered by GitBook
+What is OORT?
+Cloud for Decentralized AI
+OORT 101
+What is OORT?
+OORT is a decentralized verifiable cloud computing platform for AI applications. 
+Our network leverages global resources from data centers to local edge devices with a proprietary blockchain-based verification layer to secure all transactions and computations, from data crowdsourcing and labeling, to model training and local inference. 
+By harnessing the power of decentralized networks, OORT aims to return value to users while creating a more scalable and equitable future for AGI (Artificial General Intelligence).
+Highlights
+ OORT technologies are backed by US patents and academic publications. OORT has built strong partnerships/Clients with 40+ projects/companies, such as DELL Technologies, Tencent Cloud and Emurgo, as well as with 20+ elite universities in the U.S., such as Harvard, MIT, and the University of Chicago.
+The core team members in New York come from world-recognized organizations, such as Columbia University, Qualcomm, AT&T, JP Morgan, and more.
+Why are we building OORT?
+Problem
+OORT is tackling the key issues plaguing centralized AI systems: lack of trust, privacy, and security concerns, biased responses, and the opacity of data collection and processing.
+Solution 
+OORT is a decentralized, verifiable cloud computing platform that harnesses global resources, from data centers to smartphones, to enable trustworthy AI applications. By leveraging blockchain technology, OORT ensures transparency and accountability at every stage of the AI lifecycle, addressing privacy and security concerns while promoting unbiased and reliable AI development.
+OORT Architecture
+Products
+OORT DataHub
+A community-driven, blockchain-powered data generation platform that encourages users to contribute and pre-process data for AI applications.
+ð 
+Learn More
+OORT Storage
+A decentralized object storage service offering secure data storage and retrieval anytime, anywhere.
+ð 
+Learn More
+
+ð 
+Documentation
+OORT Compute
+A decentralized computing service that integrates global resources to provide compute services for AI model training and fine-tuning.
+
+
+(Launching in 2024)
+Solutions
+OORT AI
+OORT AI (previously known as OORT TDS) is a platform designed for crafting generative AI agents, allowing businesses to seamlessly incorporate factually accurate, versatile, and secure AI into their operations in mere minutes, not months. No coding or AI specialists needed.
+
+ð 
+Learn More
+ð 
+Documentation
+Layer-1 Blockchain
+Olympus Protocol
+ is OORTâs in-house developed open-source layer-1 blockchain. 
+Olympus Protocol connects devices worldwide within the OORT network, including public and private clouds, smartphones, and computers. Its patented 
+Proof of Honesty (PoH)
+ consensus algorithm ensures all nodes operate honestly and optimizes resource allocation in a decentralized manner.
+Learn more about the technical details and performance proofs in the 
+Yellow Paper
+.
+OORT Edge
+Custom-designed edge nodes dedicated to AI data computation and storage. By purchasing the edge node device â Deimos, individuals can easily become part of the OORT network as contributing nodes.
+ð 
+Learn More
+ð 
+Documentation
+Next
+Tokenomics
+Last updated 
+16 days ago
+On this page
+OORT 101
+What is OORT?
+Highlights
+Why are we building OORT?
+OORT Architecture
+Products
+Solutions
+Layer-1 Blockchain
+OORT Edge

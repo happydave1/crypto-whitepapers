@@ -34,14 +34,13 @@
         enableRequestSigning: "true",
         enablePublicKeys: "true",
         enableSentryWallet: "true",
-        version: "v0.15.15388",
+        version: "v0.15.15475",
         envName: "prod",
         disableNonUSIntermediary: "true",
         enableTradingEligible: "true",
         disableTotpEnrollment: "false",
         enableSettlementPage: "true",
         enableYBS: "true",
-        enablePyusdOnSol: "true",
         usdgAssetLabel: "",
         enablePasswordReset: "true",
         enabledTransferV2APIFeatures: "",
@@ -336,7 +335,7 @@
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-W4GTR68');</script>
     <!-- End Google Tag Manager (new tag) -->
-    <script type="module" crossorigin src="/assets/index-da4a29b8.js"></script>
+    <script type="module" crossorigin src="/assets/index-2008fa99.js"></script>
     <link rel="stylesheet" href="/assets/index-d6eb24e3.css">
   </head>
   <body>

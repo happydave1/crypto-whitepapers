@@ -1,0 +1,183 @@
+Introduction | Wing Docs
+Wing Docs
+Search
+Ctrl
+â+âK
+Introduction
+Wing Pools
+Flash Pool (Ontology)
+Flash Pool (Ethereum)
+Flash Pool (OKC)
+Flash Pool (BNB Chain)
+Flash Pool (Ontology EVM)
+NFT Pool
+Peer-to-Peer Pool
+Inclusive Pool
+Parameters
+Flash Pools
+NFT Pool
+Peer-to-Peer Pool
+Pool Mechanisms
+Flash Pool
+NFT Pool
+Peer-to-Peer Pool
+Inclusive Pool
+Glossary
+GUIDES
+Flash Pool (Ontology)
+with ONTO on Mobile
+with Cyano on PC
+Flash Pool (Ethereum)
+Flash Pool (OKC)
+with ONTO Wallet
+with Huobi Wallet
+Flash Pool (BNB Chain)
+Flash Pool (Ontology EVM)
+NFT Pool
+Buy or Sell NFTs
+Buy NFTs by Down Payment
+Sell NFTs in Protocol
+Sell NFTs in Wallet
+Inclusive Pool
+with ONTO
+with ONTO & PC
+PolyNetwork Cross-Chain Transfer
+with ONTO on Mobile
+With Cyano on PC
+Ontology Bridge Transfer
+Governance Proposal
+Buyback Auction Tutorial
+ApeSwap Liquidity Mining Tutorial
+pWING Liquidity Mining Tutorial
+BabySwap Liquidity Mining Tutorial
+Flamingo Liquidity Mining Tutorial
+REFERENCE
+API
+Changelog
+Flash Pool (Ontology)
+Flash Pool (Ethereum)
+Flash Pool (OKC)
+Flash Pool (BNB Chain)
+Flash Pool (Ontology EVM)
+NFT Pool
+Peer-to-Peer Pool
+Inclusive Pool
+Buyback
+Expenditure
+Governance
+White Paper
+FAQ
+Powered by GitBook
+Introduction
+What is Wing?
+Wing has built a decentralized finance (
+DeFi
+) platform to support cross-chain collaborative interactions between various DeFi products. Combining the platform's decentralized governance model, the risk control mechanism introduced by Wing promotes a healthy, benign relationship between borrowers, creditors and guarantors, allowing the implementation of a wider range of DeFi plans on the platform and thus providing users with more DeFi products of premium quality. 
+Wing has showcased an innovative credit valuation module as a strong support for DeFi credit products on the Wing platform.
+Wing Pools
+There are currently two types of pools: Flash Pool, NFT Pool, Peer-to-Peer Pool and Inclusive Pool. Please refer to this 
+section 
+for more details. 
+Governance Accounts
+The addresses for the governance and governance related accounts are:
+Account
+Address
+WING Governance
+AVXVMofKoLWKvwawgGG1HTzT9ww4F6jUxp
+Flash Pool (Ontology)
+AQ3bR6F3domW8ognK6oJs56xYbbYbcPj1y
+Flash Pool (Ethereum)
+0x2F9fa63066cfA2d727F57ddf1991557bA86F12c9
+Flash Pool (OKC)
+0x66e212d287e547c2c93cfe50795543c025ca9ee3
+Flash Pool (BNB Chain)
+0x49620e9bfd117c7b05b4732980b05b7afee60a69
+Flash Pool (Ontology EVM)
+0x000A4d6b9E553a7f4bc1B8F94bB7Dd37BfF6d79b
+NFT Pool
+0x750B9848b8f4956A41F6822F53aC1f80B4486bDE
+Peer-to-Peer Pool
+0x0855524fac05ddA9E35e7cB9047CC6Fd1cf21989
+Inclusive Pool
+AYHB9SynxjS625SUswyaUgQCHfiLGef1rF
+Escrow for Community Fund
+AUKZ3KL1FRRhgcijH6DBdBtswUdtmqL8Wo
+Unlocked Community Fund
+AMuSADFog3CPWAMdUJ4cZ5X1UoCGjuhM
+ Marketing Fund
+AQBSFwXBQDqekCAG5qyUCjXpVJAiu232r9
+Liquidity Fund
+AadgadUoJMmuppFWzrjgE5mdBXgeoBRMBB
+Partnership Fund
+AefdStYkzurSdhKZvMjtvubXrTCmCHNaCP
+Pool Mechanisms
+Users can participate in various activities in Wing Pools. Please read 
+here
+ for details on how these activities are running on the Wing platform.
+Wing Token (WING)
+WING is the governance token of Wing Finance. WING is used to vote on and determine the outcome of WING Improvement Proposals (WIPs). WING can also be staked in Wingâs Insurance pool to provide security/insurance to the protocol/suppliers. Stakers can earn staking rewards from the protocol.
+
+Information regarding tokenomics and governance can be found in Wingâs 
+White Paper
+ and 
+Governance Reference
+. You can join the discussion in our 
+governance forum
+. 
+
+Users can buy WING tokens on exchanges like Binance, OKX, MXC and Gate.io. Users can also buy pWING (ERC-20) on 
+SushiSwap
+, WING (BEP-20) on 
+BabySwap
+, WING (OEP-4) on 
+OpenOcean
+ and WING (KIP-20) on 
+JSwap
+.
+
+Contract address:
+WING (OEP-4): 00c59fcd27a562d6397883eab1f2fff56e58ef80
+pWING (ERC-20): 0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a
+WING (KIP-20):  0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4
+WING (BEP-20): 0x3cb7378565718c64ab86970802140cc48ef1f969
+WING (ORC-20): 0x6ea9f7B81bdEB047d63A023b1F28Bea481a5785a
+Audits
+The WING protocol has been reviewed & audited by 
+BEOSIN
+.
+The Wing Flash Pool (EVM) has been reviewed & audited by 
+PeckShield
+.
+The WING token (OKX) has been reviewed & audited by 
+CERTIK
+.
+The Wing NFT Pool has been reviewed & audited by 
+BEOSIN
+.
+Next
+Wing Pools
+Last updated 
+2 months ago
+On this page
+What is Wing?
+Wing Pools
+Governance Accounts
+Pool Mechanisms
+Wing Token (WING)
+Audits
+Was this helpful?
+2MB
+Smart contract security audit reportâWING.pdf
+pdf
+2MB
+Smart contract security audit reportâoETH.pdf
+pdf
+425KB
+Wing Flash Pool (EVM) Audit Report.pdf
+pdf
+509KB
+WING token (OKX) Audit Report.pdf
+pdf
+1MB
+Wing NFT Pool Audit.pdf
+pdf

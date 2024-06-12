@@ -1,0 +1,177 @@
+Getting Started with Symbiosis | Symbiosis Documentation
+Symbiosis Documentation
+ 
+Symbiosis Nest
+ 
+Developer Tools
+ 
+Go to Bridge & Swap
+Ask or Search
+Ctrl
+â+âK
+ðª
+Getting Started with Symbiosis
+â
+Frequently Asked Questions | Symbiosis
+ðª
+Symbiosis Roadmap
+Main concepts
+ð
+Glossary | Symbiosis
+ðª
+SIS Token of Symbiosis
+âï¸
+sTokens in Symbiosis
+âï¸
+Cross-chain Swaps with Symbiosis
+âï¸
+Cross-chain Zaps and Withdrawal to/from Symbiosis Pools
+ð
+Symbiosis as Interchain Communication Protocol
+âï¸
+Gas Fees for Cross-chain Operations via Symbiosis
+âï¸
+Security Audits of Symbiosis
+âï¸
+Symbiosis Bug Bounty Program
+Governance
+ð©
+Governing Symbiosis
+User Guide (WebApp)
+ð©
+Symbiosis WebApp
+ð©
+Bridge with Symbiosis: sUSDC, sBUSD, sWETH
+ð©
+Swap & Bridge with Symbiosis
+ð©
+Swap & Bridge to zkSync Era
+ð©
+Swap & Bridge to and from Tron
+ð©
+Stuck Transactions
+ð©
+Bridging SIS Token
+ð©
+Symbiosis Liquidity Pools
+ð©
+Withdrawing from Symbiosis Octopool
+ð©
+Cross-chain Zaps
+ð©
+Common Issues and Solutions
+ð©
+Where are my Tokens?
+ð©
+Symbiosis Explorer
+ð©
+More about Slippage Tolerance
+Liquidity Providers
+ð¨
+Symbiosis Reward Programs
+ð¨
+Farming on Octopools
+ð¨
+SIS LP Farming
+ð¨
+veSIS
+Cross-chain liquidity engine
+ð§
+Symbiosis Core Smart Contracts
+ð¥
+Symbiosis Mint-Burn Process
+ð§
+Symbiosis BridgeV2 Contract
+ð§
+Symbiosis Routing Contracts
+ð§
+Symbiosis & Emergencies
+ð§
+Symbiosis Octopool
+Relayers network
+ð¦
+Symbiosis Relayers Network
+ð¦
+Symbiosis Relayer
+ð¦
+Symbiosis Relayers Network: Emergencies
+Developer Tools
+ð ï¸
+Symbiosis Developer Tools
+ð ï¸
+Symbiosis API
+ð ï¸
+Symbiosis JS SDK
+ð§
+JS SDK Types
+ð§
+JS SDK Configuration
+Miscellaneous
+â»ï¸
+Symbiosis v1 vs. v2
+â»ï¸
+Gasless Crypto Exchanges: How to Swap Tokens Without Transaction Fees?
+Testnet
+âª
+Testnet
+Symbiosis | Twitter
+Symbiosis | Telegram
+Symbiosis | Blog
+Symbiosis | Publish0x
+Symbiosis | Discord
+Symbiosis | Linkedin
+Symbiosis | Github
+Powered by GitBook
+ðª
+Getting Started with Symbiosis
+Welcome to the Symbiosis Documentation Center! Dive into comprehensive explanations of the principles that drive the Symbiosis protocol. Access user guides, developer tools, and much more.
+Introducing Symbiosis 
+Symbiosis is a decentralized exchange that pools together liquidity from different blockchains, whether they use EVM technology or not. With Symbiosis, users can effortlessly trade any token and transfer their assets across blockchains. No need to worry about which network a token is on or how to move funds between different blockchains. All cross-chain operations are done in a single click (one transaction) at competitive exchange rates and transaction costs.
+The Symbiosis protocol is designed to provide a seamless cross-chain trading experience for users, while adhering to the following key principles:
+Complete Decentralization
+The Symbiosis protocol operates without a central authority, ensuring that no single party can halt its functionality or censor user access.
+Interoperability
+Symbiosis aims to connect every blockchain that attracts sufficient market interest, ultimately striving to create a unified bridge between all blockchains.
+Non-custodial
+User funds remain secure, as no one â not even the Symbiosis team â has access to them.
+Boundless Cross-chain Liquidity
+The Symbiosis protocol targets the full range of token pairs across supported blockchain networks, providing the best prices to exchange any arbitrary token pair.
+What is under the Hood
+Let's have a look at the parts of the Symbiosis protocol (Scheme 1).
+The Symbiosis protocol consists of two main parts: 
+On-chain Part: Smart Contracts
+Symbiosis core smart contracts implement the on-chain logic of cross-chain operations (cross-chain swaps, cross-chain zaps, interchain communication, bridging). The smart contracts are deployed and tuned by Symbiosis administrators while adding a blockchain to the Symbiosis protocol.
+Off-chain Part: Relayers Network
+The Symbiosis Relayers Network is a peer-to-peer (P2P) network designed to enable fast, accurate, and secure transmission of information for cross-chain operations. As the off-chain component of the Symbiosis protocol, the network plays a crucial role in ensuring smooth and secure communication across blockchains.
+Services Provided
+The Symbiosis protocol provides the following services:
+Cross-chain Swaps
+The Symbiosis protocol was born to enable cross-chain exchange. Any token to any token cross-chain exchange is possible across supported blockchain networks.
+Interchain Communicating Messenger
+With Symbiosis, users can supply liquidity to other DeFi protocols. Yes, it's cross-chain and done in one transaction.
+Cross-chain Zaps
+Cross-chain zapping facilitates liquidity supplying to Symbiosis Octopools. Liquidity providers can supply assets via cross-chain zapping in one transaction.
+Farming
+Symbiosis offers several reward programs for users who provide liquidity to the Symbiosis protocol.
+Symbiosis Explorer
+Symbiosis Explorer collects and stores data related to cross-chain operations performed via the Symbiosis protocol.
+veSIS
+By staking SIS tokens, users can receive rewards, reduce cross-chain fees, increase APR for providing liquidity, and most importantly, gain voting power to shape the Symbiosis DAO.
+More Information
+Why not give it a try?
+Take a tour around with Symbiosis WebApp.
+Questions?
+Check our Frequently Asked Questions or contact our support on Discord.
+Looking for SDK or API?
+Refer to the documentation section dedicated to software engineers.
+Next
+Frequently Asked Questions | Symbiosis
+Last updated 
+1 month ago
+On this page
+Introducing Symbiosis 
+What is under the Hood
+Services Provided
+More Information
+Was this helpful?
+Scheme 1. Main components of the Symbiosis protocol.

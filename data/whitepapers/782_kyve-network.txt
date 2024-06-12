@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+KYVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+KYVE Network
+Learn
+Community
+Validators
+Developers
+Search
+KYVE
+ Handles The Data,
+You Build The Future
+Transform your data experience with KYVE's Data Rollups-as-a-Service (DRaaS), ensuring unmatched scalability and seamless support for validators, builders, blockchains, and apps alike.
+Top pages
+KSYNC
+Delegation
+Data Pipeline
+Architecture
+Getting started
+New to KYVE?
+Discover how KYVE is enabling validators, applications, and builders alike to bring their data experiences to the next level.
+Token Holders
+With $KYVE, stake to further decentralize and secure the network's two unique layers, and participate in governance to give your say in driving the future of KYVE.
+Validators
+Run a node on KYVE's chain, or a validator on it's protocol, or simply benefit from KYVE's node optimization tooling to enhance your overall experience running on other chains.
+DApp Builders
+Take your scalability to the next level by creating your own custom data rollup powered by KYVE. We handle the data, you build the future.
+Validate These Blockchains
+Cosmos Hub
+Serving as the economic center of the Interchain, the Cosmos Hub is a blockchain that provides vital ecosystem services. The primary token of the Cosmos Hub is the ATOM, but the Hub will support many tokens in the future.
+Block-Sync
+Osmosis
+Osmosis, dubbed the Interchain Liquidity Lab, is a decentralized exchange (DEX) for Cosmos, an ecosystem of sovereign, interoperable blockchains all connected trustlessly over IBC, the Inter-Blockchain Communication Protocol.
+Block-Sync
+Archway
+Archway is a Cosmos-native incentivized smart contract chain that enables developers to deploy high-performance dapps that earn rewards based on the traffic they bring to the network. As developers build and launch impactful dapps, they receive a proportional share of network fees, inflation, and premiums. At its core, Archway is designed to enable developers to capture the value they create through sustainable economic models built into the blockchain.
+State-Sync
++
+2
+Axelar
+Axelar is the programmable Web3 interoperability platform, connecting over 50 blockchains via a secure, scalable network â internet infrastructure for the worldâs next super app. For partners ranging from Uniswap to Circle, Axelar enables scalable cross-chain solutions. Users interact with any asset in one click. Developers span multiple blockchains as though building on one, supported by a simple API and a permissionless ecosystem of tools and service providers. Backers include Binance, Coinbase, Dragonfly, Galaxy and Polychain. See what full-stack interoperability can do for your dApp. Learn more at https://axelar.network.
+Block-Sync
+Cronos
+Cronos (cronos.org) is the leading Ethereum-compatible layer 1 blockchain network built on the Cosmos SDK, supported by Crypto.com, Crypto.org, and more than 500 app developers and partners. Today, the #CROfam ecosystem represents an addressable user base of more than 80 million people worldwide. Our mission is to make it easy and safe for the next billion crypto users to adopt Web3, with a focus on decentralized applications in the DeFi, NFTs and GameFi verticals.
+State-Sync
++
+2
+Noble
+Noble is a Cosmos application-specific blockchain purpose-built for native asset issuance. Noble brings the efficiency and interoperability of native assets to the wider Cosmos ecosystem, starting with USDC. Nobleâs vision is to be the worldâs premier issuance hub for digital assets that connect to other blockchains seamlessly. Noble leverages the Cosmos-SDK â a flexible toolkit that allows developers to incorporate existing modules and to seamlessly integrate custom modules that add virtually unlimited functionality for asset issuers on the Noble blockchain.
+State-Sync
++
+2
+Celestia
+Celestia is a modular data availability network that securely scales with the number of users, making it easy for anyone to launch their own blockchain.
+State-Sync
++
+2
+Ethereum // Blobs
+Data blobs are a fresh approach to optimizing transaction data storage on L2 networks within Ethereum. They are inexpensive and temporary memory carrying data about transactions, called blob-carrying transactions. These blobs are designed to make the verification of these transactions more efficient.
+Community
+Discord
+Telegram
+Twitter
+Reddit
+Resources
+Medium
+YouTube
+More
+KYVE Network
+App
+GitHub
+Copyright Â© 2024 KYVE Foundation. Built with Docusaurus.
+
+
+

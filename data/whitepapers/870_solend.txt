@@ -1,0 +1,80 @@
+Introduction to Solend | Solend
+Solend
+ 
+App
+ 
+Twitter
+ 
+Discord
+Search
+Ctrl
+â+âK
+Introduction to Solend
+Getting Started
+Start Here (Desktop)
+Start Here (Mobile)
+Supply & Borrow APY
+Liquidations
+Risks
+FAQ
+Debugging FAQ
+DAO & Token
+DAO
+Token
+IDO
+Protocol
+Solend Pools
+Parameters
+Fees
+Liquidity Mining
+Limits
+Media
+Audit
+Bug Bounty
+Oracles
+Permissionless Pools
+Introduction
+Risks
+Pre-Listing Checklist
+Listing a Pool
+Post-Listing
+Managing a Pool
+Switchboard v2 Guide
+Pool Ideas
+Architecture 
+Building Blocks
+Software Flowchart
+Access Controls
+User Instructions
+Computing Supply & Borrows
+cTokens
+cToken Addresses
+Addresses
+Mainnet
+Main Pools
+Isolated Pools
+Devnet
+Integrations
+Introduction
+Integration Guide
+Solend LITE
+Liquidators
+Flash Loans
+Developer Referral Fee
+Resources and FAQ
+Powered by GitBook
+Introduction to Solend
+The autonomous interest rate machine for Solana
+Solend is an algorithmic, decentralized protocol for lending and borrowing on Solana.
+Lending and borrowing has proven itself as key in a DeFi ecosystem. However, current products are slow and expensive. On Solana, Solend can scale to being 100x faster and 100x cheaper. Solend aims to be the easiest to use and most secure solution on Solana.
+With Solend, you can do the following:
+Earn interest
+Borrow
+Leverage long
+Short
+Next
+Start Here (Desktop)
+Last updated 
+1 year ago
+On this page
+Was this helpful?

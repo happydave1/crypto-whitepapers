@@ -1,0 +1,44 @@
+Introduction | WHITEPAPER | Assemble AI
+Assemble AI
+WHITEPAPER
+DOCS
+WHITEPAPER
+WHITEPAPER (KR)
+ 
+Home
+Search
+Ctrl
+â+âK
+Introduction
+Problem definition
+Solutions & Key Features
+Market Analysis
+User Analysis
+How it work
+Use Cases
+Tokenomics
+Roadmap
+Risk response strategy
+Vision
+Conclusion
+Disclaimer
+Powered by GitBook
+Introduction
+Project Overview
+Assemble AI is an artificial intelligence-based news agent and the first journalism innovation project. 
+The goal of this project is to provide market trends quickly and in an easily understandable way, analyze these trends using artificial intelligence inference capabilities, and help market participants globally make data-driven decisions.
+Purpose of the White Paper
+This white paper clarifies the background and goals of Assemble AI, details the problem definition and approaches to solving it, introduces the technical composition, working principles, and key features of Assemble AI, and emphasizes the competitiveness of Assemble AI through market analysis.
+The cryptocurrency market is rapidly growing, and due to information asymmetry and high volatility, it is difficult for general investors to make quick and accurate decisions. To solve this, Assemble AI provides market trends quickly and easily using artificial intelligence technology, and supports investors to make better decisions through insights from trained artificial intelligence.
+The main user groups of Assemble AI consist of general investors, professional investors, crypto-related companies, media, and journalists. It analyzes the needs of each user group and suggests ways to provide tailored solutions. Additionally, it explains the token economy and revenue model of Assemble AI and presents the direction of growth through the development roadmap and vision of the project.
+This white paper demonstrates Assemble AI's ability to occupy a leading position in the cryptocurrency journalism market and provide practical value to users by solving market problems. By understanding Assemble AI's innovative approach, successful investment and participation in the cryptocurrency market can be expected.
+As we embark on the journey with Assemble AI, we thank you for your interest and participation. We hope this white paper helps to build a deep understanding and trust in the Assemble AI project.
+Authors: Gyudo Park, 02/21/2024
+Next
+Problem definition
+Last updated 
+17 days ago
+On this page
+ 
+Project Overview
+Purpose of the White Paper

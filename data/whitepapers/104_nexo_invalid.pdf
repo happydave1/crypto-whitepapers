@@ -244,7 +244,7 @@
 	<link rel="preload" href="https://nexo.com/assets/build/fonts/tt-norms-demibold.ttf" as="font" type="font/ttf" crossorigin>
 	<link rel="preload" href="https://nexo.com/assets/build/fonts/tt-norms-medium.ttf" as="font" type="font/ttf" crossorigin>
 	<link rel="preload" href="https://nexo.com/assets/build/fonts/tt-norms-regular.ttf" as="font" type="font/ttf" crossorigin>
-	<link href="https://nexo.com/assets/build/main.a723d26141535b80.css" rel="stylesheet">
+	<link href="https://nexo.com/assets/build/main.45a9acf8d3b9e37d.css" rel="stylesheet">
 			<script type="text/javascript">
 	window.dataLayer = window.dataLayer || [];
 </script>
@@ -559,7 +559,11 @@ body:not(.lang-en) #investment-thesis h3 {
 					
 					<p class="mt-8 text-14 leading-120 font-medium text-center text-gray-800 nav-dark:text-white">
 						Scan QR to Download the&nbsp;Nexo&nbsp;App					</p>
-				</div>
+											<a class="flex justify-center mt-12 text-24 hover:opacity-75 transition-opacity ease-1 duration-1" href="https://static.nexo.com/app/Nexo.apk" data-track="apk-download-navbar" download>
+															<img class="nav-dark:hidden" alt="" height="42" loading="lazy" src="https://nexo.com/media/site/0a5185cd0d-1718030246/google-download-apk-black-qr.svg" width="164" sizes="220px">
+																						<img class="hidden nav-dark:block" alt="" height="42" loading="lazy" src="https://nexo.com/media/site/c7c46efdc3-1718030246/google-download-apk-white-qr.svg" width="164" sizes="220px">
+													</a>
+									</div>
 			</div>
 			</div>
 
@@ -586,13 +590,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											BTC										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$69,708.00									</div>
+										$67,451.00									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.52%
+																				1.00%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -610,13 +614,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											ETH										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$3,700.45									</div>
+										$3,513.83									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.76%
+																				1.82%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -634,13 +638,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											NEXO										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$1.44									</div>
+										$1.39									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.91%
+																				2.54%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -660,11 +664,11 @@ body:not(.lang-en) #investment-thesis h3 {
 									<div class="mt-8 text-14 leading-100 text-color-400">
 										$0.9997									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
+												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
 											</svg>
-																				0.01%
+																				0.02%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -682,13 +686,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											BNB										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$672.36									</div>
+										$607.12									</div>
 								</div>
 																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
 												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				1.88%
+																				2.51%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -706,13 +710,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											SOL										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$161.75									</div>
+										$149.88									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				1.75%
+																				3.58%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -736,7 +740,7 @@ body:not(.lang-en) #investment-thesis h3 {
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
 												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
 											</svg>
-																				0.01%
+																				0.25%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -754,13 +758,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											XRP										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$0.4978									</div>
+										$0.4817									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.88%
+																				1.15%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -778,13 +782,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											DOGE										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$0.1469									</div>
+										$0.1389									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.71%
+																				2.02%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -802,13 +806,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											TON										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$7.08									</div>
+										$7.06									</div>
 								</div>
 																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
 												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
 											</svg>
-																				0.71%
+																				1.51%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -826,13 +830,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											ADA										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$0.4447									</div>
+										$0.4239									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				2.26%
+																				2.21%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -850,13 +854,13 @@ body:not(.lang-en) #investment-thesis h3 {
 											SHIB										</span>
 																			</span>
 									<div class="mt-8 text-14 leading-100 text-color-400">
-										$0.00002351									</div>
+										$0.00002190									</div>
 								</div>
-																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="group-hover:hidden flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				1.34%
+																				3.12%
 									</span>
 																									<div class="d-rounded-xs hidden group-hover:block d-button-primary d-button-primary--s">
 										Buy
@@ -867,11 +871,11 @@ body:not(.lang-en) #investment-thesis h3 {
 	<div class="flex items-center justify-between gap-32 my-16 py-16 px-32">
 		<div>
 							<div class="text-20 font-medium leading-115 nav-dark:text-gray-200">
-					Market is up					<span class="text-mint-400">
-						<svg class="ml-2 inline" width="0.643em" height="0.358em" viewBox="0 0 9 5">
+										Market is down					<span class="text-red-500">
+						<svg class="ml-2 inline" width="0.643em" height="0.358em" viewBox="0 0 9 5" style="transform: rotate(180deg);">
 							<path d="M8.125 4.875C8.61719 4.875 8.86328 4.30078 8.50781 3.94531L5.00781 0.445312C4.78906 0.226562 4.43359 0.226562 4.21484 0.445312L0.714844 3.94531C0.359375 4.30078 0.605469 4.875 1.09766 4.875H8.125Z" fill="currentColor"></path>
 						</svg>
-						0.56%					</span>
+						1.84%					</span>
 					in the last 24 hours				</div>
 				<div class="mt-8 text-14 leading-100 text-color-500 nav-dark:text-gray-200">
 											Buy 80+ digital assets with card or instant bank transfer and get up to 0.5% back in crypto rewards									</div>
@@ -1463,11 +1467,11 @@ body:not(.lang-en) #investment-thesis h3 {
 
 	<div class="py-8">
 		<div class="px-24 py-16 text-16 leading-115 text-color-800 nav-dark:text-gray-100 font-medium">
-							Market is up				<span class="text-mint-400">
-					<svg class="ml-2 inline" width="0.643em" height="0.358em" viewBox="0 0 9 5">
+											Market is down				<span class="text-red-500">
+					<svg class="ml-2 inline" width="0.643em" height="0.358em" viewBox="0 0 9 5" style="transform: rotate(180deg);">
 						<path d="M8.125 4.875C8.61719 4.875 8.86328 4.30078 8.50781 3.94531L5.00781 0.445312C4.78906 0.226562 4.43359 0.226562 4.21484 0.445312L0.714844 3.94531C0.359375 4.30078 0.605469 4.875 1.09766 4.875H8.125Z" fill="currentColor"></path>
 					</svg>
-					0.56%				</span>
+					1.84%				</span>
 				in the last 24 hours					</div>
 
 		<div class="px-24">
@@ -1483,11 +1487,11 @@ body:not(.lang-en) #investment-thesis h3 {
 											BTC										</span>
 																			</span>
 								</div>
-																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.52%
+																				1.00%
 									</span>
 															</div>
 													</a>
@@ -1502,11 +1506,11 @@ body:not(.lang-en) #investment-thesis h3 {
 											ETH										</span>
 																			</span>
 								</div>
-																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.76%
+																				1.82%
 									</span>
 															</div>
 													</a>
@@ -1521,11 +1525,11 @@ body:not(.lang-en) #investment-thesis h3 {
 											NEXO										</span>
 																			</span>
 								</div>
-																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				0.91%
+																				2.54%
 									</span>
 															</div>
 													</a>
@@ -1540,11 +1544,11 @@ body:not(.lang-en) #investment-thesis h3 {
 											USDT										</span>
 																			</span>
 								</div>
-																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
+																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
+												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
 											</svg>
-																				0.01%
+																				0.02%
 									</span>
 															</div>
 													</a>
@@ -1563,7 +1567,7 @@ body:not(.lang-en) #investment-thesis h3 {
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
 												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				1.88%
+																				2.51%
 									</span>
 															</div>
 													</a>
@@ -1578,11 +1582,11 @@ body:not(.lang-en) #investment-thesis h3 {
 											SOL										</span>
 																			</span>
 								</div>
-																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-mint-500">
+																	<span class="flex items-start gap-4 text-14 leading-120 font-medium text-red-500">
 																					<svg class="inline" xmlns="http://www.w3.org/2000/svg" width="9" height="14" viewBox="0 0 320 512">
-												<path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z" fill="currentColor" />
+												<path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" fill="currentColor" />
 											</svg>
-																				1.75%
+																				3.58%
 									</span>
 															</div>
 													</a>
@@ -1837,7 +1841,6 @@ body:not(.lang-en) #investment-thesis h3 {
 	</div>
 </div>
 
-
 <style>
 	#story {
 		min-height: 80vh;
@@ -1918,7 +1921,7 @@ worldwide					</span>
 				</h2>
 							<h2 class="col-span-6 sm:col-span-3 text-center sm:text-left sm:border-r-2 sm:border-gray-50">
 					<span id="stats-title-2" class="d-heading-2 d-heading-2--stats-weight block">
-						60+					</span>
+						70+					</span>
 
 					<span class="d-body-text-2 block pr-16 sm:pr-0">
 						Supported<br />
@@ -2712,7 +2715,12 @@ community					</span>
 																			<img class="nav-dark:hidden" alt="" height="43" loading="lazy" src="https://nexo.com/media/site/48069f05ef-1690531736/google-store-black.svg" width="144" sizes="220px">
 																												<img class="hidden nav-dark:block" alt="" height="43" loading="lazy" src="https://nexo.com/media/site/394a59ec68-1690531736/google-store-white.svg" width="145" sizes="220px">
 																	</a>
-																		</div>
+													
+													<a class="text-24 hover:opacity-75 transition-opacity ease-1 duration-1" href="https://static.nexo.com/app/Nexo.apk" data-track="apk-download-footer" download>
+																	<img class="nav-dark:hidden" alt="" height="42" loading="lazy" src="https://nexo.com/media/site/035b488f59-1718030246/google-download-apk-black.svg" width="144" sizes="220px">
+																									<img class="hidden nav-dark:block" alt="" height="42" loading="lazy" src="https://nexo.com/media/site/30ffc4b1d5-1718030246/google-download-apk-white.svg" width="144" sizes="220px">
+															</a>
+											</div>
 				</div>
 
 			</div>
@@ -2795,7 +2803,7 @@ community					</span>
 	
 	<script>
 			</script>
-<script src="https://nexo.com/assets/build/main.334c83e139f766d2.js"></script>
+<script src="https://nexo.com/assets/build/main.578586ad012a1a29.js"></script>
 	
 
 <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" async type="text/javascript" charset="UTF-8" data-domain-script="ed428b2a-8f7c-4e2d-b639-49918198ccca"></script>

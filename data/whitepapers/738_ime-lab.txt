@@ -1,0 +1,99 @@
+iMe Messenger & Crypto Wallet | iMe FAQ
+iMe FAQ
+ 
+iMe
+ 
+Android
+ 
+iOS
+ 
+Desktop
+Search
+Ctrl
+â+âK
+iMe Messenger & Crypto Wallet
+ð
+General
+Open Source
+User Data
+Interactions With Servers
+Supported Platforms
+ð±
+iMe Capabilities
+Advanced Functionality
+Tools
+Cloud
+Translator
+Voice Messages Transcription
+Music
+Topics
+Management
+Folders
+Photos and Images
+Neurobots
+Data and Storage
+ð
+LIME for beginners
+ð°
+iMe Crypto Wallet
+iMe Wallet
+Blockchains
+CEX
+DEX
+Services
+Lime Tokens
+Roadmap
+Pitchdek and Tokenomics
+LIME Online-Metrics
+ð½ï¸
+Videos About Us
+Videos
+ð¤
+Collaborations
+Integrations
+Partners
+âï¸
+Apps
+Android
+Google Play
+APK-file
+iOS
+Desktop
+ð
+DOCS & TERMS
+Privacy Policy
+User Agreement
+Legal Opinion LIME
+LIME Audit
+ð¥
+Brand-Centre
+Logo & Style
+âï¸
+Our Contacts
+News Channel
+App Group
+LIME Group
+Tech Support
+Web-site
+Twitter
+Powered by GitBook
+iMe Messenger & Crypto Wallet
+iMe
+ - is an alternative client developed on
+ the Telegram open source
+ and working on 
+Telegram API
+.
+The main functionality is developed by the Telegram team, creating the most progressive and technologically advanced messenger in the world.
+Telegram provides an opportunity for third-party developers to use their open source code and API to improve the current functionality of the messenger and for new discoveries.
+The iMe team, taking advantage of these benefits from Telegram, is improving the current functionality for greater user-friendliness, and also develops and adds its own features.
+iMe includes all Telegram functionality with addition of its own developments and technologies. Such as integrated Artificial Intelligence in the form of Neurobots and Crypto Wallet, as well as various conveniences in the form of Topics, as an alternative to Telegram folders, the built-in Google Translator in chats, functional Cloud with Albums, advanced Folder capabilities and many other tools and settings.
+User authorization, data transmission and storage occurs via Telegram servers.
+Privacy and security are fully ensured by Telegram platform.
+The overall functionality of Telegram and iMe is fully synchronized, since it has the same server part, so all your contacts, chats with correspondence, groups, channels and bots are displayed in the same way both in Telegram and in iMe.
+With iMe, just like with Telegram, you can send messages, photos, videos and files of any type (doc, zip, mp3, etc.), as well as create groups or channels to broadcast to unlimited audience. You can save contacts on your phone and find people by their names. As a result, iMe is similar to SMS and email, and can take care of all your personal or business messaging needs. In addition to this, we support end-to-end encrypted voice calls and video calls.
+Next
+Open Source
+Last updated 
+2 years ago
+On this page

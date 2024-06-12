@@ -1,0 +1,124 @@
+Welcome to KlimaDAO | KlimaDAO
+KlimaDAO
+Search
+Ctrl
+â+âK
+Welcome to KlimaDAO
+What is KlimaDAO?
+Why KlimaDAO Exists
+ð
+Ecosystem
+Digital Carbon
+Carbon Pools
+The Role of KlimaDAO
+âï¸
+Economics
+Overview
+Operational Mechanics
+Intrinsic Value
+Protocol Owned Liquidity (POL)
+Fungible Carbon Credits
+Dynamics
+Supply Expansion
+Supply Contraction
+Green Ratio
+Purpose
+Means of Exchange
+Store of Value
+Unit of Account
+ð ï¸
+Developers
+Overview
+Retirement Aggregator
+Automation
+Bug Bounty
+Contracts
+DAO Wallet
+Policy
+Retirement
+V2 - Diamond
+Generalized Retirement
+Bridge-Specific Tooling
+Staking
+Tokens
+Treasury
+Data Sources
+Deployment Addresses
+Guides
+Stake KLIMA
+Wrap sKLIMA
+Retire Carbon
+Retirement Aggregator V1 Contract Guide
+Retirement UI Integration Guide
+Integration Examples
+Testing
+ðï¸
+DAO
+Governance Framework
+Organizational Structure
+ð
+References
+FAQ
+History
+Glossary
+Links
+Translations
+FAQ Carbon Markets
+About Verified Carbon Credits
+Estimating Carbon Emissions
+ðââï¸
+Get Involved
+Community Discord
+Governance Forum
+Contact Us
+Powered by GitBook
+Welcome to KlimaDAO
+Developer guides, protocol mechanics, FAQ, and everything else you need to know to be an expert on KlimaDAO.
+KlimaDAO is a public good for the planet which addresses the coordination failure that has held back the global scale-up of climate finance.
+KlimaDAO and its partners in the Klima ecosystem continue to foster the adoption of a new category of real world assets (RWA) on the blockchain: environmental assets like carbon credits. 
+KlimaDAO provides public goods and common-pool resources to drive an equitable, sustainable, and digitally-enabled economy.
+KlimaDAO is the entry point to the environmental asset markets hosted on the blockchain.
+ð» 
+Website
+
+ð² 
+App
+
+ðµ 
+Carbonmark
+ - carbon marketplace
+ð 
+Carbon Data Dashboard
+
+ðï¸ 
+Governance Forum
+
+ð³ï¸ 
+Snapshot Voting
+
+ð¦ 
+Twitter
+ 
+ð¬ 
+Discord
+ 
+ðº 
+YouTube
+page
+FAQ
+page
+Governance Framework
+Developer Links
+Primary GitHub monorepo: 
+https://github.com/KlimaDAO/klimadao
+page
+Overview
+page
+Bug Bounty
+Next
+What is KlimaDAO?
+Last updated 
+2 months ago
+On this page
+Was this helpful?
+Export as PDF

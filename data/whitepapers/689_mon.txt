@@ -1,0 +1,199 @@
+Tokenomics (New)
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+
+<
+noscript
+>
+<
+iframe
+ 
+src
+=
+"https://www.googletagmanager.com/ns.html?id=GTM-TD6KGFH8"
+
+
+height
+=
+"0"
+ 
+width
+=
+"0"
+ 
+style
+=
+"display:none;visibility:hidden"
+>
+</
+iframe
+>
+</
+noscript
+>
+
+
+<!-- End Google Tag Manager (noscript) -->
+pre-sale
+missions
+tokenomics
+Tokenomics
+Community Pre-Sale
+Contact us
+claims
+stake
+claims
+stake
+mon protocol
+tokenomics
+introduction
+MON will be issued as an ERC-20 token. At the token genesis event (TGE), 1 billion MON tokens will be created, establishing this as the final token supply.
+Token
+**: Players will be able to use MON tokens as preferred in-game payment method (i.e. purchasing in-game currencies at a discount) in all Pixelmon games, including Pixelpals.
+tokenomics
+*: Percentage per category is rounded for better readability, refer to the table below for a more precise number.
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+Token Unlock
+MON will be distributed and unlocked as follows:
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+â
+**: Percentage allocations rounded to the first decimal number. The exact MON tokens Community Pre-sale allocation is calculated as the MON tokens per lot times the total number of lots available for the Community Pre-sale.
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+â
+*: After the 5% TGE release the Community Claim pool will be subject to a cliff and vesting curve established by the Mon Protocol Team. The smart contract vesting curve visualized above represents the upper limit of the tokens the Mon Protocol Team can release at any point in time.
+community
+As the first partner of MON Protocol, the Pixelmon Community becomes the de facto launchpad Community for MON.
+Community Distribution
+36%
+of total MON supply will be directly dedicated to the Pixelmon Community
+community claim
+30%
+of total token supply
+community pre-sale
+6%
+of total token supply
+ecosystem fund
+29%
+of total MON supply will be indirectly dedicated to the Pixelmon & MON Protocol Communities, through the Ecosystem Fund, aimed at
+growing the pixelmon ip
+and maximizing licensing flows to holders
+growing the mon ecosystem
+and maximizing MON utility for holders
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+community claim
+The Community Claim allocation will be split and distributed across two mechanisms.
+tge claim
+5% of total MON token supply will be claimable at TGE by Pixelmon Community members: allocation distribution mechanics will be calculated based on NFT rarity, badges held, and relics.
+time-based claim
+25% of total MON token supply will vest over a 30 months period, with an initial cliff of the MON Protocol Team's choosing. The vesting curve will be non linear and established and adjusted by MON Protocol over time.
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+*: TGE claim allocations that remain unclaimed for more than 60 days will be transferred to the Ecosystem Fund and will not be recoverable by the holders.
+community pre-sale
+6% of total MON supply will be offered for sale to the Pixelmon Community, establishing the launch Fully Diluted Valuation (FDV) of MON Protocol:
+20%
+of the Pre-sale tokens will vest at TGE
+80%
+of the Pre-sale tokens will start vesting after a 6 month cliff, with a daily vesting schedule over 2 years
+Learn more
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+ecosystem fund
+The Ecosystem Fund will have the objective of growing the MON Protocol Ecosystem and maximizing licensing flows for Pixelmon IP holders. The Ecosystem Fund allocation will be split across two verticals:
+19%
+Ecosystem Growth Fund
+10%
+MON Foundation treasury
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+*: The Growth Fund was created for Ecosystem Fund decisions requiring nimbler and centralized decision making, respecting the fund objectives.
+other allocations
+5%
+Market makers, launchpads and other launch liquidity needs
+15%
+Vesting grants for the MON Protocol Team
+2%
+Strategic, operational and legal advisors
+13%
+Strategic Round participants. Subject to either of the following cliffs:
+A 6 month cliff from TGE after which they will begin vesting their allocation on a daily basis over a 2 year period.
+A 12 month cliff from TGE after which they will vest 25% of their assigned allocation, with the remaining 75% vesting on a daily basis over an 18 month period.
+*: The Mon Protocol Team reserves the right to make changes to Tokenomics figures pre TGE should market conditions change or new launch opportunities arise.
+*: The Growth Fund was created for Ecosystem Fund decisions requiring nimbler and centralized decision making, respecting the fund objectives.
+Decentralized IP Governance
+pixelmon IP Governance
+One of MON Protocolâs functions is to enable on-chain IP governance. The first use case of MONâs governance model will be that of governing the fractionalized IP of Pixelmonâs 200+ monster characters.
+MON DAO will enable a series of features:
+These features constitute a decentralized incentive system aimed at growing any MON Protocol partner IP across multiple projects and verticals.
+The governance system will transition from the MON Foundation into a DAO structure only at a later stage in the future, and it will not be available at or immediately after the token launch.
+Transparency and security
+smart contracts
+name
+contract address
+MON Token
+0xc555D625828c4527d477e595fF1Dd5801B4a600e
+Community Claim (NFT and Relics)
+0xC82f6e8226317893EB55c7ceb1f66Ee4Aab0E286
+Community Claim (Badges and Gears)
+0x57136E05e6b1F502bd56B5439fCC1039A8250ED2
+Community Claim (Time vesting)
+0xE15Fd3Af2bC316a90C821506CD50e6d5A75c5b7f
+PixelPals Claim
+0xa305A8C63a5305Cc2D4d58c41F1d7C662C95475b
+Community Pre-sale
+0xd0c40b774ecfBc7B0632d23F871Cc0E523aad8F3
+Ecosystem Fund / Team / Launch Contributors
+0x6094739E6333EFFaA62E13860EB0Cd6269846cf0
+Staking and Claims Registry
+0x65A8b32bc4dE5E0156DBa85Ce615d9ef8ea59780
+Security Audit Reports
+Certik Audit Report
+Token Contract - MON ERC20
+Claim Contracts
+Halborn Audit Report
+Token Contract - MON ERC20
+Community Presale - Deposit contract
+Multisig Safe Wallets
+Specific measures are in place to ensure the security of all aspects of our operations. Multisig wallets have enabled multi-level approval policy to ensure any action - from transactions approvals to smart contract functions - is approved by a majority - 2 out of 3 or 3 out of 5 - of authorised members.
+Our multisig wallets:
+0x9DC0cfe8cf191e0d9a2e03d08ce067c235026BB8
+0xf3decd8880528A55D9F279F19a4626DE77b1E245
+0xa3f1f1BCFdD592641D3C1c5096d0aD3a5D0CC84b
+This website and all information contained herein (collectively, this âWebsiteâ) is solely for information purposes to provide users with information about the MON token. This Website is provided âas is,â does not purport to be all inclusive and none of MON Studios (BVI) Limited (the âCompanyâ), its affiliates or any of their respective directors, officers, managers, members, employees, agents, or other representatives makes any representation, warranty, declaration, guarantee, certification or promise, in each case whether express, implied or otherwise, as to the accuracy, completeness or reliability of this Website.
+This Website does not constitute any offer to sell, a solicitation of an offer to buy, or a recommendation to purchase or offer to purchase the MON token. You are not permitted to construe this Website, including the contents herein, as legal, tax accounting or investment analysis, recommendations or advice. You should consult your own counsel and tax and financial advisors as to all matters concerning the MON token.
+BY ACCESSING THIS WEBSITE, EACH USER REPRESENTS AND WARRANTS TO THE COMPANY THAT IT IS NOT REYLING UPON THE INFORMATION COTAINED HEREIN TO MAKE ANY DECISION, INCLUDING ANY INVESTMENT DECISION.
+â
+â
+FORWARD-LOOKING STATEMENTS
+Certain statements on this Website may be considered forward-looking statements. Forward-looking statements generally relate to future events. All forward-looking statements in this Whitepaper, whether expressly or implicitly, are based upon estimates, assumptions, analysis and interpretations that, while considered reasonable by the Company and its management, are inherently uncertain. This Website contains preliminary information that is subject to change, and which may be superseded, in whole or in part, by information contained in materials that may be distributed at a later date; provided the Company does not have any obligation to update this Website.
+We reserve the right to restrict access to this site and its associated pages, including future token claim portals, for users in certain regions as required by local laws. Please consult our Terms and Conditions for more details on geographical restrictions.
+Links and resources
+mon protocol
+X
+mon questing
+Pixelmon IP
+X
+discord
+website
+ip strategy whitepaper
+fractionalized ip nft t&c
+zoology
+Lore
+pixelmon nft collections
+pixelmon
+trainers
+evolution serums
+stay in touch with
+latest updates
+general inquiries
+info@monprotocol.ai
+PR & marketing opportunities
+marketing@monprotocol.ai
+Subscribe
+Thank you for subscribing to MON Protocol!
+Oops! Something went wrong while submitting the form.
+Â© 2024 mon protocol
+terms of service
+privacy policy
+media
+press

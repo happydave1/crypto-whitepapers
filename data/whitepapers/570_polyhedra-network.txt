@@ -363,17 +363,17 @@ Publication History
 
 14
 citation
-4,596
+4,612
 Downloads
 Metrics
 Total Citations
 14
 Total Downloads
-4,596
+4,612
 Last 12 Months
-3,976
+3,992
 Last 6 weeks
-420
+440
 
 
 Get Citation Alerts
@@ -886,12 +886,12 @@ Article Metrics
 14
 Total Citations
 View Citations
-4,596
+4,612
 Total Downloads
 Downloads (Last 12 months)
-3,976
+3,992
 Downloads (Last 6 weeks)
-420
+440
 Other Metrics
 View Author Metrics
 Cited By

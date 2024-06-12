@@ -1,0 +1,164 @@
+About CLV ð | CLV Documentations
+CLV Documentations
+ 
+CLV Website
+ 
+Use CLV Chain
+ 
+Download CLV Wallet
+ 
+Join CLV Community
+Search
+Ctrl
+â+âK
+Intro to CLV
+About CLV ð
+Clover Finance Rebrands to CLV
+What is CLV Chain?
+What is CLV Wallet?
+What is $CLV Token?
+ð£  CLV Official Channels
+ð  CLV Community Channels
+Use CLV Chain
+ð  Beginnerâs Guide
+Setup CLV Wallet
+Setup Metamask Wallet
+How to Get $CLV
+Bridge Other Assets to CLV P-Chain (Parachain)
+ð  Network Details
+ð¦  Economics
+Tokenomics
+Inflation Design
+ðð»  CLV Chain FAQ
+CLV P-Chain EVM Explorer
+$CLV Cross-Chain Explorer
+$CLV Cross-Chain Transfer
+CLV Validator & Staking
+What are Nominator & Validator?
+Stake as a Nominator
+Running a Validator or RPC Node
+Staking FAQ
+Use CLV Wallet
+ð°  Download CLV Wallet
+Browser Extension (Google Chrome & Brave)
+Apple iOS (Mobile)
+Android (Mobile)
+Web Wallet (Universal)
+ð±  CLV Mobile Wallet
+ð¥  CLV Extension Wallet
+ð¸ï¸  CLV Web Wallet
+CLV Chain Developer Guide
+Getting Started
+Using Local Node
+Using MetaMask
+Using Remix
+Using Web3.js
+Using Testnet
+Create an account
+Faucet
+Run a Testnet Node
+Connect to Testnet
+dApp Example
+Setup dApp project
+Setup truffle
+The Counter Contract
+Deploy Contract
+Counter Webapp
+Test Cases
+Technical Documentations
+CLV EVM
+Developers Incentive
+CLV Accounts Binding
+Virtual Ethereum Address Binding
+Query Balance
+Transaction Finality
+Web3 Compatibility
+eth_protocolVersion
+eth_syncing
+eth_hashrate
+eth_coinbase
+eth_mining
+eth_chainId
+eth_gasPrice
+eth_accounts
+eth_blockNumber
+eth_getBalance
+eth_getStorageAt
+eth_getBlock
+eth_getTransactionCount
+eth_getBlockTransactionCount
+eth_getBlockUncleCount
+eth_getCode
+eth_sendTransaction
+eth_sendSignedTransaction
+eth_call
+eth_estimateGas
+eth_getTransaction
+eth_getTransactionByBlockHashAndIndex
+eth_getTransactionByBlockNumberAndIndex
+eth_getTransactionReceipt
+eth_getUncle
+eth_getLogs
+eth_getWork
+eth_submitWork
+eth_submitHashrate
+eth_subscribe
+eth_unsubscribe
+net_version
+net_peerCount
+net_listening
+web3_clientVersion
+web3_sha3
+CLV P-Chain Integration
+CLV Wallet Developer Guide
+EVM dApp Integration
+Substrate dApp Integration
+Solana dApp Integration
+Kadena dApp Integration
+Aptos dApp Integration
+Web Wallet dApp Integration
+dApp Interaction Protocol
+Wallet Integration QA
+CLV Ecosystem
+ðï¸  Ecosystem Partners
+CLV Chain
+CLV Wallet
+ð± Incentive Programs
+CLV Ecosystem Grant
+CLV Wallet Integration Grant
+CLV Bug Bounty Program
+Whitelist Assets on Clover P-Chain
+Bridge assets into CLV P-Chain
+Assets
+ð¤  Glossary
+Blockchain (in General)
+Polkadot
+Wallet
+ðï¸  CLV - Polkadot Parachain Auction 2021
+Parachain Auction Rule Announcement
+Parachain Winning Reward Announcement
+ðï¸  Brand Pack
+ð  Whitepaper
+Powered by GitBook
+About CLV ð
+This site provides documentation for CLV, an Operating System parachain on the Polkadot network. Here, you'll find both high-level and technical information for developers, collators, end users, and other CLV network participants.
+This site will be updated from as CLV evolves. We welcome everyone joins the CLV community and contribute to this site and the project.
+CLV - Passport to the Omniverse
+CLV is a one-stop infrastructure platform for cross-chain and decentralized applications. The CLV chain is a Substrate-based specialized Layer-1 chain that is EVM compatible, cross-chain interoperable, and also functions as a Parachain in the Polkadot ecosystem. Infrastructure made ready for scaling dApp in the multi-chain universe. CLV wallet is a cross-chain all-in-one wallet, for Day-to-Day, DeFi, Metaverse and Gaming purposes. With multi-dimensional products lineup, including CLV Multi-Chain Wallets, CLV dApp Interaction Protocol, CLV Chain EVM and Universal Cross-Chain Support, CLV uniquely positioned itself as âPassport to the Omniverse.â
+Built on Substrate
+Substrate is technically fit for CLV. By building on top of Substrate, CLV is able to leverage the extensive functionalities that Substrate provides out-of-the-box, rather than needing to build them from scratch. These functionalities include peer-to-peer networking, consensus mechanisms, governance functionality, EVM implementation, and more. Overall, using Substrate will dramatically reduce the time and work needed to implement CLV. Substrate allows a great degree of customization, which is compulsory when achieving compatibility with Ethereum. Meanwhile, by adopting Rust, CLV will gain both safety guarantee and performance enhancement.
+CLV History 
+CLV's journey started in May 2020, where it saw the emerging need for blockchains' interoperability and compatibility. 
+In Feb of 2021, after months of development, CLV was listed as one of the CoinList Seed Winter 2021 alumni, and later successfully held the initial token offering event on CoinList in April 2021. 
+Since the token generation event, CLV's native token $CLV has quickly been made available to trade on all major exchanges, including Binance, Coinbase, FTX, Huobi, OKX, KuCoin, Bithumb Global, Gate.io, MEXC and so on by July 2021. 
+In addition to the existing wallet platforms line-up that was introduced back in May, CLV launched an all-new Web Wallet in October 2021. This enables social login and brings easy-of-use for crypto wallet to a new level.
+By November 2021, CLV wallet apps have achieved 350k cumulative downloads from all platforms.
+Winning the 5th Parachain slot on Polkadot in December 2021 enables CLV to be one of the first to bring full-suite decentralized applications to the Polkadot ecosystem.
+Next
+Clover Finance Rebrands to CLV
+Last updated 
+25 days ago
+On this page
+CLV - Passport to the Omniverse
+Built on Substrate
+CLV History 

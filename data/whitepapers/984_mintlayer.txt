@@ -1,0 +1,311 @@
+
+
+
+
+
+
+Mintlayer Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mintlayer Documentation
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+
+
+
+
+
+
+Whitepaper
+
+
+
+
+
+
+
+                                
+                                    1. Blockchain architecture
+                                
+                            
+
+
+
+
+
+
+
+                                
+                                    2. Mintlayer wallet
+                                
+                            
+
+
+
+
+
+
+
+                                
+                                    3. Tokenization standard
+                                
+                            
+
+
+
+
+
+
+
+                                
+                                    4. Decentralized finance (DeFi)
+                                
+                            
+
+
+
+
+
+
+
+                                
+                                    5. Decentralized exchange (Dex)
+                                
+                            
+
+
+
+
+
+
+
+                                
+                                    6. ML Token
+                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+Legal Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                
+                                    Mintlayer website
+                                
+                            
+
+
+
+
+
+
+
+                                
+                                    Roadmap
+                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mintlayer Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mintlayer Documentation
+
+
+
+  
+  
+    Introduction 
+#
+
+
+
+
+Mintlayer is a long-term, secure solution for scaling and accelerating the future of decentralized finance.
+
+
+Today, 
+sustainability
+ is rarely considered when designing blockchain technology. Consequently, we are presented with a problem where many existing and dominating networks face a cluster of issues. 
+Blockchains get clogged
+, causing a spike in transaction 
+fees
+, and their users face high 
+barriers of running a node
+. This 
+sacrifices
+ the core feature of the blockchain technology: 
+decentralization
+.
+
+
+Currently, the DeFi ecosystem runs on the Ethereum (ETH) blockchain, where nodes can only be managed by 
+specialized servers rather than average users
+. This policy achieves nothing in terms of the chainâs usability: fees are skyrocketing and most users are left outside of the blockchainâs governing decisions. These conditions pose 
+security threats for daily users
+ that mostly rely on light nodes or custodians, and lead to more 
+centralized project choices
+. Several examples, such as rollbacks and fork upgrades, end up being discussed within a very tiny niche of users, primarily miners or the most influential public figures.
+
+
+The 
+lack
+ of future-proof sustainability and 
+long-term plans for scalability
+, combined with a complex technical architecture, make Ethereum an unsuitable long-term solution for truly decentralized finance. The clogged network cannot guarantee 
+proper functionality of DEXs
+ without off-chain layer solutions such as the Lightning Network, while gigantic nodes have increasingly slow syncing time. Moreover, the built-in Turing-completeness, which is part of the protocol, causes users and investors to encounter risks while interacting with 
+smart contracts
+.
+
+
+Mintlayer is creating the very first sustainable architecture for decentralized finance, inheriting its security model from Bitcoin.
+
+
+Next: Blockchain architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

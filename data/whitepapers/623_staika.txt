@@ -1,0 +1,96 @@
+Staika Project Overview | V.1.03 English | Staika Whitepaper v1.03
+Staika Whitepaper v1.03
+V1.0.3 English
+V1.0.3 íê¸
+V1.0.3 English
+ 
+Staika Project Official Link
+Staika
+gazaGO
+ 
+Discord
+Telegram
+Medium
+X(Twitter)
+Search
+Ctrl
+â+âK
+CH00. INTRO
+Staika Project Overview
+Staika Project Official Link
+CH01. MARKET ANALYSIS
+Blockchain Market Analysis
+Problems in the Blockchain Market
+Staika Project Solutions
+CH02. STAIKA PROJECT
+Project Goal
+Project Business Model
+Project Governance
+CH03. STAIKA SERVICE
+Staika Service Structure
+defenGO(GameFi - P2E)
+Unique Universe
+Various Characters
+New service (in progress)
+gazaGO(M2E)
+Staika Wallet
+NFT Marketplace (planned)
+CH04. TOKEN STRUCTURE
+Tokennomics Overview
+Token Burning
+Staika (STIK)
+Token distribution plan
+Vesting schedule
+Usage of the foundation fund
+Taika (TIK)
+Mileage units configuration
+X2E Service-specific Rewards Pool
+Aika (Planned)
+CH05. RPROJECT ROADMAP
+Roadmap
+CH06. PROJECT TEAM
+Staika Team
+Partners
+CH07. EXTERNAL CERTIFICATION
+Certifications
+CH08. DISCLAIMER
+Disclaimer
+Powered by GitBook
+Staika Project Overview
+We provide an activity lifestyle service platform where you can make social contributions through various activities.
+The Staika Project aims to build an activity-based lifestyle service platform that allows alliances with various service companies in lifestyle industries such as travel, leisure, and culture. To achieve this goal, they simplify and exclude blockchain-specific terminology to enhance user-friendliness. They have introduced the X2E (Experience to Earning) service policy, which allows users to start without purchasing NFT items. Additionally, they focus on Game-Fi design to enhance immersion and provide users with a blockchain service that has no entry barriers.
+
+Ultimately, the Staika Project aims to create a service platform that anyone can easily and enjoyably tailor to their individual lifestyle.
+The STAIKA platform has a virtuous service structure that allows users to earn rewards as a result of various activities, consumption activities in market services using wallet services, and environmental conservation donation activities in social services, and this service structure is divided into four service groups that are organically linked to each other.
+Wallet Services
+Services that directs tokens and payment management for all services within the platform as the core service of the project.
+Earnings Service
+A service that pays reward points based on the user's actions as an X2E service.
+Market Services
+Responsible for e-commerce within the platform, including physical goods, NFT products, NFT P2P trading, etc.
+Social services
+Services that users use their earned rewards to support social change activities such as NGO donations, upcycling services, etc.
+The STAIKA platform is designed to provide individuals with opportunities for apptech (mobile app + financial earnings) through X2E services and create new economic values such as revitalizing the local economy socially to promote sustainable growth. STAIKA consists of a
+ "five-step circular structure"
+ with an organic user journey as shown below.
+Creating activity content
+
+Providing external content such as business/service alliances, challenge marketing, and content created through our own programs.
+Participation in the challenge
+
+Naturally induce users to visit the area through local event/event linkage challenges, local tour challenges, etc.
+Earn activity rewards
+
+Receive cash-as-usable mileage points rewards within the platform after completing the Challenge Program challenge.
+Promote spendings in regional commercial areas
+
+The local visit induction challenge program takes more than a day to promote natural local consumption by outsiders.
+Obtain additional rewards
+
+Additional rewards for discount coupons for food and beverages/accommodation in local commercial areas, goods/souvenir exchange vouchers linked to local events, etc.
+The "Staika Ecosystem", which consists of four service groups and a five-stage circular structure, is creating a Stika project where users and the local economy can coexist together based on the various activities of the participants. Additionally, as a "win-win virtual asset project" that connects virtual assets and the real economy, we would like to suggest the correct business direction based on Web3.0.
+In the future, we will continue to launch and upgrade various and trendy GO series based on the catchphrase of GO2B (Go to Benefits). In addition, we will make it a more expanded and continuous ecosystem through alliances with various industries.
+Last updated 
+20 days ago
+On this page
+ 

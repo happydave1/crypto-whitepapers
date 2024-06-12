@@ -1,0 +1,69 @@
+Introduction | Moon Tropica
+Moon Tropica
+Search
+Ctrl
+â+âK
+ðï¸
+Introduction
+âï¸
+Disclaimer
+GAME
+â
+Executive Summary
+Overview
+NFT
+DeFi
+ð¨âð«
+Market Abstract
+ð¾
+Gameplay
+ð¤
+PvP
+ðµ
+Native Token
+Currency
+Staking
+Governance
+ð§âð»
+Technology
+ð
+Composability
+ð
+Token Economics
+ð¹ï¸
+Revenue Generation
+ð£ï¸
+Roadmap
+ð
+Change Log
+Powered by GitBook
+ðï¸
+Introduction
+A nostalgic experience infused with crypto current events.
+What is Moon Tropica?
+Moon Tropica is an expansive open world experience targeted towards the nostalgic feel of the classic games of your childhood while incorporating community, crypto culture and current events. Travel the islands, unlock quests, solve puzzles and conquer dungeons on your way to ever growing glory!
+Players will be able to acquire digital real estate, craft valuable items/armor, obtain/upgrade weaponry and create a business storefront for monetization purposes. 
+The native currency 
+$CAH
+ will be used to buy and sell assets in the Moon Tropica metaverse.
+Come build with us.
+Note:
+ This paper will continually evolve.
+Official Contract Addresses
+Chain
+Contract Address
+ETH
+0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A
+BNB
+TBD
+SOL
+CCJryZeAAx6tD9t4p9w3PGWwPX88bnrKJJBKHd9gjnRS
+ARB
+0x1DC687Bf46c3B8faa1c1fAF075bE5d5055c5C136
+Next
+Disclaimer
+Last updated 
+6 months ago
+On this page
+What is Moon Tropica?
+Come build with us.

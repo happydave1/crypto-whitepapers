@@ -78,6 +78,6 @@ Governance: DYDX empowers DYDX holders to propose and vote on proposals, directl
 Next
 dYdX Chain Architecture
 Last updated 
-5 months ago
+6 months ago
 On this page
 Was this helpful?

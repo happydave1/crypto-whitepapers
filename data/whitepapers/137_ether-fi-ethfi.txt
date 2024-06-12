@@ -47,6 +47,7 @@ The Final Countdown
 Mega Week
 ð§
 Liquid
+Upgrade of ETH Yield Vault
 ETH Yield Vault
 Market-Neutral USD Vault
 Coverage for Liquid

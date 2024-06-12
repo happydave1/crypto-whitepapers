@@ -1,0 +1,92 @@
+Welcome to Meter! | Meter Docs
+Meter Docs
+ 
+Learn
+Search
+Ctrl
+â+âK
+Welcome to Meter!
+ä¸­æçææ¡£
+Overview of Meter
+Introduction to Meter
+Hybrid PoV Consensus Mechanism
+MTR - The Metastable Coin
+MTRG - Meter Governance Coin
+On-Chain Auctions
+The Meter Reserve
+Meter's Ethereum Emulation Mode
+Wallet Setup
+Interacting with Meter Mainnet Using MetaMask
+Interacting with Meter Mainnet Using Ledger
+Adding Custom Tokens to MetaMask
+Getting MTR for Gas
+Revoking Contract Spend Limits
+Specifying gas (GWEI) for transactions
+Speeding Up/ Canceling Transactions
+Meter Passport V2.0
+Meter Passport Architecture
+Salient Features
+Bridge Fee
+Programming Meter Passport
+Tutorials for Using Meter Passport
+MTRG Crosschain Info
+Onboarding Passport for Your Project
+Technical Guideline for Meter Passport
+Security Audit for Meter Passport V2.0
+Staking and Validation
+Staking MTRG
+How to Stake MTRG
+Choosing Candidates
+Factors affecting Staking Rewards
+How to Stake Incremental MTRG
+How to Undelegate MTRG
+How to Unbound MTRG
+Frequently Asked Questions
+Running a Full Node on Meter Mainnet
+Configure the Full Node to Validator Node
+Meter Incentive Programs to promote decentralization
+Mining
+Meter Mining Guide
+NFT Collections
+Meter Community NFTs
+Developer Documentation
+Meter Developer Incentives
+Meter Developer Grant Program
+Meter TVL Incentive Program
+Meter Gas Monetization Program
+Meter Co-marketing Program
+Meter DAPP Referral Program
+Introduction to Developer Documentation
+Developing with Remix, Ethers.js and Web3.js
+Index Data with SubQuery
+Meter Native TX RESTful APIs
+Meterify API Documentation
+meterify.eth
+meterify.eth.Contract
+meterify.eth.accounts
+meterify.utils
+meterify.module.options
+Callbacks Promises Events
+json interface
+Meterify DApp Tutorials
+Meterify Code Examples
+Contributing to Meter and Our Documentation
+Documentation Guidelines
+API Documentation Guidelines
+Tutorial Creation Guidelines
+Code Example Guidelines
+Article Writing Guidelines
+Powered by GitBook
+Welcome to Meter!
+Meter is DeFi infrastructure with a built-in, crypto-native, metastable currency, MTR.  It uses HotStuff based PoS consensus with MTRG (Meter Governance Token) to manage the blockchain ledger.  Meter functions as a highly-decentralized, high-performance side chain for Ethereum and other public chains.
+We are working to achieve three things with Meterâs DeFi infrastructure: 
+Complete Bitcoinâs original vision and create a metastable sound money independent of the fiat system. 
+Address performance issues that current chains are facing with our Hybrid PoW/PoS + HotStuff consensus that is backward compatible with Ethereum. 
+Interconnect with other public chains like ETH and run as a side chain to enable scaling and value interaction.
+Please read on to learn more!
+Next
+Introduction to Meter
+Last updated 
+3 years ago
+On this page
+Was this helpful?

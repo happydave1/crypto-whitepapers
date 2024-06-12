@@ -1,0 +1,252 @@
+Introduction â StaFi LSD Docs
+StaFi Protocol
+Website â
+Website â
+ (opens in a new tab)
+Launch App â
+Launch App â
+ (opens in a new tab)
+LSaaS Doc â
+LSaaS Doc â
+ (opens in a new tab)
+GitHub
+GitHub
+ (opens in a new tab)
+Discord
+Discord
+ (opens in a new tab)
+Introduction
+Tokenomics
+rToken
+FIS Token
+Product
+Multi Chain
+Overview
+StaFi Chain
+Whitepaper
+Tokenomics V1
+Polka JS Library
+Account
+Nomination
+StaFi Hub
+Concepts
+Cli Client
+Endpoints
+EVM Network
+User Staking Guides
+Overview
+Bridge
+Staking ETH with StaFi
+How to Stake with StaFi
+How to Unstake
+Liquidity Mining
+Staking MATIC with StaFi
+Staking BNB with StaFi
+Staking SEI with StaFi
+Staking ATOM with StaFi
+Staking IRIS with StaFi
+Staking SWTH with StaFi
+Staking HUAHUA with StaFi
+Staking DOT with StaFi
+Staking FIS with StaFi
+Staking KSM with StaFi
+Staking SOL with StaFi
+Validator Guides
+Distributed Validator
+ETH Staking Validator
+StaFi Chain Validator
+StaFi Chain Nominator
+StaFi Hub Validator
+Developer Guides
+EVM LSD Integration
+Cosmos LSD Integration
+rDEX Guides
+Introduction
+Liquidity
+Governance
+Proposal
+Treasury
+Security
+Contract
+Audit
+Insurance
+Protocol Updates
+Roadmap
+Changelog
+Terms and Conditions
+Light
+On This Page
+What is StaFi
+Liquid Staking
+Multi Chain
+Security
+StaFi Protocol vs. Other LSD Protocols
+FAQ
+Question? Give us feedback â
+ (opens in a new tab)
+Edit this page
+Introduction
+Introduction
+
+
+Welcome to the StaFi Protocol documentation.
+
+
+
+
+StaFi Websiteâ
+rToken Appâ
+Governance â
+Discord â
+Dune Dashboard â
+Audit â
+StaFi Analytics â
+
+
+What is StaFi
+
+
+StaFi is the first multi-chain liquid staking protocol that unlocks the liquidity of staked assets. StaFi aims to solve the contradiction between mainnet security and token liquidity in PoS consensus. StaFi allows users to stake their tokens without locking their assets or maintaining infrastructure, while still participating in on-chain activities.
+
+
+
+
+Staking pool
+: Protocol to manage user deposits, staking rewards, and withdrawals.
+
+
+rToken
+: The token holders are staking through staking contracts built in StaFi protocol, and then get alternative tokens(rToken ,such as rETH, rMATIC, rATOM, rBNB, rSOL etc.), rTokens are tradable and it can get staking rewards from original chain at the same time.
+
+
+Goverance
+: StaFi protocol is a decentralized autonomous organization (DAO) that manages the liquid staking protocol. The DAO is governed by the community and core team, who make decisions on key parameters, such as setting fees and selecting node operators. The DAO also accumulates service fees, which are used to fund research, development, liquidity mining incentives, and protocol upgrades.
+
+
+Operator
+: Staking entities manage a secure and stable infrastructure for running validator clients. This infrastructure includes high-availability servers, redundant networks, and robust security measures. By managing this infrastructure, staking entities can help to ensure the safety and reliability of validator nodes.
+
+
+
+
+Liquid Staking
+
+
+Traditionally, staking in Proof-of-Stake (PoS) protocol-based projects has involved locking up tokens for a long period of time in exchange for a fixed, predetermined staking reward. While this guarantees a return on investment, it also limits the opportunity to generate higher returns on those tokens from the DeFi ecosystem. For example, if you have staked all of your crypto holdings, you cannot invest or trade in more profitable crypto pairs on exchanges.
+
+
+Liquid staking is a new technology that allows you to earn staking rewards on your tokens without having to lock them up. With liquid staking, you can still use your tokens in DeFi protocols, such as lending and borrowing, while still earning staking rewards. This gives you the best of both worlds: you can earn a guaranteed return on your investment while also having the flexibility to use your tokens in other ways.
+
+
+Multi Chain
+
+
+StaFi was originally built on the Polkadot ecosystem using Substrate to construct the StaFi Chain, which provides staking through an appchain. Subsequently, StaFi Hub was developed to support staking in the COSMOS ecosystem. With the development of the EVM ecosystem, StaFi has launched a solution for EVM Compatible Chain. Currently, the StaFi Protocol supports multi-chain ecosystems such as Ethereum, Polygon, BSC, COSMOS, Solana, Polkadot, Kusama, etc.
+
+
+Security
+
+
+Ensuring security is always our top priority. StaFi is working on bringing on board more reputable security auditors to minimize any potential risks. Here are some improvements:
+
+
+
+
+Conduct regular security audits
+: StaFi works with reputable security auditors to conduct regular security audits.
+
+
+Have a security incident response plan
+: StaFi has a security incident response plan in place to quickly and effectively respond to security incidents.
+
+
+Governance
+: Governance decision are made by the community and core team.
+
+
+
+
+
+
+StaFi Protocol vs. Other LSD Protocols
+
+
+StaFi Protocol, along with other Liquid Staking Derivative (LSD) protocols such as Lido and Rocket Pool, strives to address the disparity between staked assets and their liquid counterparts. Although these protocols share a common objective, they exhibit notable distinctions in their approaches.
+
+
+StaFi
+Lido
+Rocket Pool
+Open Source
+â
+â
+â
+Multi Chain
+â
+â
+â
+Support Ecosystem
+Ethereum, Polygon, BSC, Cosmos, Polkdot, Solana
+Ethereum, Polygon, Polkdot, Solana
+Ethereum
+Support LST
+rETH, rMATIC, rBNB, rATOM, rSOL, rHUAHUA, rSWTH, rDOT, rKSM, rIRIS
+stETH, stMATIC, stSOL
+rETH
+Validator
+Permissionless
+Permission
+Permissionless
+Goverance
+FIS token on StaFi Chain
+LDO token and stToken on Ethereum
+RPL token on Ethereum
+
+
+FAQ
+
+
+How does StaFi work
+StaFi is a multi-chain protocol that liquid staking protocol that unlocks the liquidity of staked assets.Its offering includes:
+
+
+For EVM LSD: rETH issued on Ethereum, rBNB issued on BSC, rMATIC issued on Polygon
+
+
+For Polkadot LSD: rDOT,rKusama,rFIS issued on StaFi Chain
+
+
+For Cosmos LSD: rATOM, rHUAHUA, rSWTH, rIRIS issued on StaFi Hub
+
+
+For Solana LSD: rSOL issued on Solana
+
+
+Users can stake their tokens with StaFi and receive rTokens in return. To stake these tokens, StaFi batches them and routes the staking packages to chain staking contracts through validators. When users choose to unstake, the rTokens will be burned, and the user will receive their original stake tokens and rewards in return. This process ensures that users can stake and unstake their tokens seamlessly without the need for extensive technical knowledge or infrastructure.
+
+
+What fee is applied by protocol
+The protocol applies a 10% commission fee on staking rewards.
+
+
+Is it safe to work with StaFi
+To enhance the security of the StaFi, the following measures have been implemented:
+
+
+All code is open-source, making it transparent and subject to community scrutiny.
+
+
+Decisions related to governance and risk management are made through a DAO (decentralized autonomous organization).
+
+
+The platform has been audited by reputable firms such as Certik, PeacShield, Block Sec, and Zellic. For more detailed information, please visit 
+here
+.
+
+
+A committee of elected, best-in-class validators has been established to minimize staking risks and ensure the integrity of the network.
+
+
+Tokenomics
+Light
+StaFi Protocol Â©

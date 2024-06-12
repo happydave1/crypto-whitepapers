@@ -1,0 +1,215 @@
+Product Docs
+Product Docs
+ 
+Product Docs
+Product Docs
+Credential Service
+Creds.xyz
+ 
+Technical Docs
+Node Docs
+GitHub
+ 
+Learning & Governance
+Learning Docs
+Governance Framework
+Governance Forum
+Governance Explorer
+ 
+Useful Links
+Mainnet Explorer
+System Status
+Testnet Faucet
+Testnet Explorer
+Ask or Search
+Ctrl
+â+âK
+â¹ï¸
+Getting Started
+Product Overview
+ð¢
+Start using cheqd
+Get started with cheqd Studio
+ð
+Advanced configuration options
+ð
+Set up your account
+ð
+Create DIDs and Identity keys
+Create Issuer DID
+Create Identity Keys and Subject DIDs
+Resolve a DID
+Update or Deactivate DID
+â
+Issue Credentials and Presentations
+Issue Credential
+Setup Verida Wallet
+Verify Credential
+Verify Presentation
+Revoke Credential
+Suspend or Unsuspend Credential
+â»ï¸
+Charge for Verifiable Credentials
+Charge for Status List
+Issue Credential with Encrypted Status List
+Verifier pays Issuer
+Bulk Update or Rotate Encryption Keys
+ð
+Create Status Lists
+Create Status List
+Update Status List
+Check Status List
+Search Status List
+âï¸
+Create DID-Linked Resources
+Create DID-Linked Resource
+Search DID-Linked Resource
+Understanding DID-Linked Resources
+Context for developing DID-Linked Resources
+Technical composition of DID-Linked Resources
+Referencing DID-Linked Resources in VCs
+ð ï¸
+Integrate an SDK
+Choosing the right SDK
+ð
+Veramo
+Set up Veramo CLI for cheqd
+Troubleshooting Veramo CLI setup
+Verifiable Credentials and Presentations
+Issue a Verifiable Credential
+Verify a Verifiable Credential
+Create a Verifiable Presentation
+Verify a Verifiable Presentation
+Credential Payments
+Understanding Credential Payments
+Access Control Conditions
+Privacy Considerations
+Charge for Status List
+Issue Credential with Encrypted Status List
+Verifier pays Issuer
+Decentralised Identifiers (DIDs)
+Create a DID
+Querying a DID
+Update an existing DID
+Deactivate a DID
+Create an off-ledger holder DID
+Managing identity keys
+Troubleshooting
+Status List v2021
+Create Status List
+Issuing a Verifiable Credential referencing Status List
+DID-Linked Resources
+Create a DID-Linked Resource
+Create a new Resource version within existing Collection
+ð
+Credo
+ð«
+Walt.id SSI Kit
+ðï¸
+Architecture
+Architecture Decision Record (ADR) Process
+List of ADRs
+ðµ
+ADR 001: cheqd DID Method
+ð¢
+ADR 002: DID-Linked Resources
+ð¡
+ADR 003: DID Resolver
+ð 
+ADR 004: DID Registrar
+ð£
+ADR 005: DID Resolution & DID URL Dereferencing
+ð«
+Advanced features and alternatives
+â¡ï¸
+DID Registrar
+Setup DID Registrar
+Create a DID
+Create a DID-Linked Resource
+â¬ï¸
+DID Resolver
+Setup DID Resolver
+â¡
+AnonCreds Object Method
+Schemas
+Credential Definitions
+Revocation Registry Definitions
+Revocation Status Lists
+âï¸
+Trust Infrastructure
+Verifiable Accreditations
+Root of Trust
+Data model
+ð 
+Advanced Tooling
+cheqd Cosmos CLI for identity
+Creating a DID with cheqd Cosmos CLI
+Updating existing DIDs with cheqd Cosmos CLI
+Deactivating existing DIDs with cheqd Cosmos CLI
+Querying DIDs with cheqd Cosmos CLI
+Creating a DID-Linked Resource using cheqd Cosmos CLI
+Adding a new Resource version
+Direct interaction with ledger code
+VDR Tools CLI with cheqd (deprecated)
+Demo Wallet for identity setup
+âï¸
+Network
+Get started with cheqd Network
+Identity Write Pricing
+Comparison to Hyperledger Indy
+â©
+Setup your Wallet
+Setup Leap Wallet
+Setup Keplr wallet
+âªï¸
+Useful Tools and APIs
+Block Explorer
+Testnet Faucet
+Validator Status API
+Cheqd x Cosmos Data APIs
+Cosmos Airdrop Helpers
+Cosmos Address Convertor
+Ethereum Bridge
+â¬ï¸
+Network Upgrades
+2021
+0.1.x
+0.2.x
+0.3.x
+2022
+0.4.x
+0.5.x
+0.6.x
+2023
+1.x
+Root Cause Analysis of outages
+v1.x upgrade RCA
+âï¸
+Legal
+License
+Code of Conduct
+Security Policy
+ð
+Support
+System Status
+Slack Channel
+Discord
+Powered by GitBook
+ 
+General
+Website
+Blog
+Get $CHEQ
+Product Docs
+Product Docs
+Credential Service
+Creds.xyz
+Technical Docs
+Node Docs
+GitHub
+Block Explorer
+Learning Docs
+Learning Docs
+Governance Docs
+Governance Forum
+Governance Explorer

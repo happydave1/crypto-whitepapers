@@ -1,0 +1,31 @@
+Parcl v3 | Parcl Docs
+Search
+Ctrl
+â+âK
+Parcl v3
+Protocol Overview
+Risk Management & Trading
+Account Model
+Addresses
+Security
+Links
+v2 (archive)
+ð
+Lite Paper
+ð
+Trade
+ð¦
+Provide Liquidity
+âï¸
+Smart Contracts + Accounts
+ð¬
+Security
+Powered by GitBook
+Parcl v3
+Parcl v3 is a perpetuals exchange designed for real estate synthetics. It supports cross margined perps trading on various real estate markets. LPs add liquidity to a single LP pool per exchange where they take on trader PnL as well as earn trading fees.
+Market index prices are price feeds created by 
+Parcl Labs
+. The Parcl dev team operates Pyth oracles to stream the Parcl Labs price feeds on-chain.
+Last updated 
+7 months ago
+On this page

@@ -226,9 +226,17 @@ over IPFS
 .
 Checkout the Filecoin blog for more information â
 Choose your own adventure
+ð¡
+ Learn the basics
 Want to understand the fundamental concepts of Filecoin, but aren't sure where to start? The Basics section is the perfect place to begin your journey!
+ð§
+ Build with Filecoin
 Eager to build on top of the Filecoin network but aren't sure how to begin? Head over to the Developers section to find examples and guides to help build your project!
+ðï¸
+ Become a provider
 Starting up a provider node on the Filecoin network can be a daunting task. Head over to the Provider section to find out everything you need to know.
+ð
+ Store data
 Want to store large amount of data on the Filecoin network? There are plenty of storage options that you can choose from! Check out the Store section for more information!
 Next
 What is Filecoin
@@ -238,14 +246,6 @@ On this page
 Was this helpful?
 Edit on GitHub
 Export as PDF
- Learn the basics
- Build with Filecoin
- Become a provider
- Store data
-ð¡
-ð§
-ðï¸
-ð
 Filecoin Virtual Machine
 The Filecoin Virtual Machine is here, allowing developers to build applications and smart-contracts that utilize the Filecoin storage network! Find out how you can leverage the worlds fastest growing storage network
 Looking For Lotus?
