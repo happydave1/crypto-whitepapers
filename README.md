@@ -10,4 +10,4 @@ Next, install dependencies with
 pip install -r requirements.txt
 ```
 
-Should be good! In order to run the script, type `python main.py` in the terminal.
+Use the file `src/whitepaper-io.ipynb` to run the script which downloads the whitepapers!
